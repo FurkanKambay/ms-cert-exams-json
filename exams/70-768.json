@@ -1,0 +1,114 @@
+[
+  {
+    "label": "Design a multidimensional business intelligence (BI) semantic model (25–30%)",
+    "skills": [
+      {
+        "label": "Create a multidimensional database by using Microsoft SQL Server Analysis Services (SSAS)",
+        "items": [
+          "Design, develop, and create multidimensional databases",
+          "Select a storage model"
+        ]
+      },
+      {
+        "label": "Design and implement dimensions in a cube",
+        "items": [
+          "Select an appropriate dimension model, such as fact, parent-child, roleplaying, reference, data mining, many-to-many, and slowly changing dimension",
+          "Implement a dimension type",
+          "Define attribute relationships"
+        ]
+      },
+      {
+        "label": "Implement measures and measure groups in a cube",
+        "items": [
+          "Design and implement measures, measure groups, granularity, calculated measures, and aggregate functions",
+          "Define semi-additive behavior"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design a tabular BI semantic model (20–25%)",
+    "skills": [
+      {
+        "label": "Design and publish a tabular data model",
+        "items": [
+          "Design measures, relationships, hierarchies, partitions, perspectives, and calculated columns",
+          "Create a time table",
+          "Publish from microsoft visual studio",
+          "Import from microsoft powerpivot",
+          "Select a deployment option, including processing option, transactional deployment, and query mode"
+        ]
+      },
+      {
+        "label": "Configure, manage, and secure a tabular model",
+        "items": [
+          "Configure tabular model storage and data refresh, configure refresh interval settings, configure user security and permissions, configure row-level security"
+        ]
+      },
+      {
+        "label": "Develop a tabular model to access data in near real time",
+        "items": [
+          "Use directquery with oracle, teradata, excel, and pivottables",
+          "Convert in-memory queries to directquery"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop queries using Multidimensional Expressions (MDX) and Data Analysis Expressions (DAX) (15–20%)",
+    "skills": [
+      {
+        "label": "Create basic MDX queries",
+        "items": [
+          "Implement basic mdx structures and functions, including tuples, sets, and topcount"
+        ]
+      },
+      {
+        "label": "Implement custom MDX solutions",
+        "items": [
+          "Create custom mdx or logical solutions for pre-prepared case tasks or business rules, define a scope statement"
+        ]
+      },
+      {
+        "label": "Create formulas by using the DAX language",
+        "items": [
+          "Use the evaluate and calculate functions, filter dax queries, create calculated measures, perform data analysis by using dax"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and maintain SQL Server Analysis Services (SSAS) (30–35%)",
+    "skills": [
+      {
+        "label": "Plan and deploy SSAS",
+        "items": [
+          "Configure memory limits, configure non-union memory architecture (numa), configure disk layout, determine ssas instance placement"
+        ]
+      },
+      {
+        "label": "Monitor and optimize performance",
+        "items": [
+          "Monitor performance and analyze query plans by using extended events and profiler, identify bottlenecks in ssas queries, monitor processing and query performance, resolve performance issues, configure usability limits, optimize and manage model design"
+        ]
+      },
+      {
+        "label": "Configure and manage processing",
+        "items": [
+          "Configure partition processing",
+          "Configure dimension processing",
+          "Use process default, process full, process clear, process data, process add, process update, process index, process structure, and process clear structure processing methods",
+          "Configure parallel, sequential, and writeback processing settings"
+        ]
+      },
+      {
+        "label": "Create Key Performance Indicators (KPIs) and translations",
+        "items": [
+          "Configure kpi options, including associated measure group, value expression, goal expression, status, status expression, trend, trend expression, and weight",
+          "Create kpis in multidimensional models and tabular models",
+          "Create and develop translations"
+        ]
+      }
+    ]
+  }
+]

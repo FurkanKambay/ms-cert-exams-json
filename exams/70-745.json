@@ -1,0 +1,322 @@
+[
+  {
+    "label": "Plan and Implement System Center Virtual Machine Manager (VMM) Core Infrastructure",
+    "skills": [
+      {
+        "label": "Install and Configure Virtual Machine Manager (VMM)",
+        "items": [
+          "Determine requirements for installation of system center virtual machine manager",
+          "Install vmm server, vmm administrative console, and vmm local agents",
+          "Configure sql database requirements for the vmm database",
+          "Add hosts",
+          "Upgrade vmm from previous versions of vmm including performing a rolling upgrade from windows server 2012 r2 host clusters",
+          "Create service accounts for vmm",
+          "Uninstall vmm",
+          "Reinstall from a retained database."
+        ]
+      },
+      {
+        "label": "Install and Configure VMM Host Servers",
+        "items": [
+          "Determine requirements for bare metal installation of host servers",
+          "Perform hyper-v host deployment to bare-metal machine",
+          "Integrate windows deployment services (wds) with vmm to provide pxe services for bare metal deployments."
+        ]
+      },
+      {
+        "label": "Manage VMM Infrastructure",
+        "items": [
+          "Integrate windows server update services (wsus) with vmm infrastructure",
+          "Plan and orchestrate updates and patches on vmm servers, sql database host agents, and management consoles",
+          "Create update baselines",
+          "Run compliance scans",
+          "Remediate host servers and clusters",
+          "Manage host groups",
+          "Backup and restore vmm servers."
+        ]
+      },
+      {
+        "label": "Manage VMM Libraries",
+        "items": [
+          "Install and configure library servers",
+          "Add library servers and library shares to vmm",
+          "Enable data deduplication on library server",
+          "Synchronize libraries",
+          "Manage library association",
+          "Manage object equivalence."
+        ]
+      },
+      {
+        "label": "Implement Highly Available VMM Infrastructure",
+        "items": [
+          ", determine component requirements for highly available vmm infrastructure",
+          "Create a highly available vmm management server",
+          "Create a hyper-v host cluster by using failover cluster manager",
+          "Determine requirements and options for sql server high availability",
+          "Determine single site and multi-site high availability options",
+          "Create highly available library servers",
+          "Implement scale-out file server",
+          "Perform scale-out file server cluster deployment to a bare-metal machine",
+          "Implement distributed key management solution",
+          "Determine upgrade scenarios and options for a highly available vmm deployment",
+          "Perform cluster-aware updating",
+          "Implement rolling cluster upgrades",
+          "Implement stretch clusters",
+          "Manage mixed-mode clusters."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Software-Defined Networking (SDN)",
+    "skills": [
+      {
+        "label": "Implement Core Network Fabric",
+        "items": [
+          "Create logical networks",
+          "Create logical network sites",
+          "Create ip pool",
+          "Configure uplink port profiles",
+          "Configure virtual port profiles",
+          "Configure port classifications",
+          "Create and configure logical switches",
+          "Configure hyper-v extensible virtual switches",
+          "Integrate vmm switches with top-of-rack (tor) switches",
+          "Implement max bandwidth policies",
+          "Enable nic teaming",
+          "Enable switch embedded teaming (set)",
+          "Create and configure mac pools",
+          "Configure domain name system (dns)",
+          "Configure and enable nic offload technologies such as virtual receive side scaling (vrss) and virtual machine multi-queue (vmmq), and configure single-root i/o virtualization (sr-iov) on capable nics."
+        ]
+      },
+      {
+        "label": "Plan for and Implement SDN solution",
+        "items": [
+          "Plan for software-defined network infrastructure",
+          "Define and document fabric resource endpoints such as host servers, logical networks, software load balancer (slb) multiplexers (mux), vlans and service credentials",
+          "Implement sdn using vmm service templates",
+          "Configure for single tenant and multi-tenant scenarios",
+          "Define front end virtual ips (vips) in multi-tier scenarios",
+          "Define back end dynamic ips (dips) in multi-tier application scenarios",
+          "Install and configure the sdn host agent",
+          "Configure dns integration with sdn",
+          "Configure dns integration with internal dns service (idns)",
+          "Create and configure access control lists (acl) for use in multi-tenant environments",
+          "Configure virtual subnets."
+        ]
+      },
+      {
+        "label": "Configure Network Controller (NC)",
+        "items": [
+          "Determine usage scenarios and requirements for the network controller",
+          "Implement network controller in domain and non-domain environments",
+          "Test successful network controller deployment",
+          "Query network controller resources and provisioning state",
+          "Define resource objects by using scripts",
+          "Implement multi-node network controller deployments",
+          "Implement highly available network controller resources",
+          "Set up an internet protocol address management (ipam) server."
+        ]
+      },
+      {
+        "label": "Configure and Manage Software Load Balancer (SLB)",
+        "items": [
+          "Determine infrastructure and tenant usage scenarios and requirements for load balancer deployment",
+          "Configure slb host agent",
+          "Configure border gateway protocol (bgp)",
+          "Configure slb multiplexer (mux) to advertise virtual ip address (vip)",
+          "Configure slb rules to map virtual ip (vip) and ports to back end dynamic ips (dip) and ports in multi-tier application scenarios",
+          "Configure nat for inbound and outbound traffic",
+          "Configure north-south and east-west load balancing",
+          "Scale slb multiplexers",
+          "Configure health probes."
+        ]
+      },
+      {
+        "label": "Configure Windows Server Gateway",
+        "items": [
+          "Determine usage scenarios and requirements for windows server gateway (wsg) deployment",
+          "Deploy wsg using scvmm service templates",
+          "Implement a layer 3 gateway",
+          "Implement generic routing encapsulation (gre) tunnelling",
+          "Implement multi-tenant gateways by using powershell",
+          "Implement ipsec site-to-site (s2s) tunnel",
+          "Create m+n redundancy gateway pools",
+          "Scale gateway pools",
+          "Manage gateway by using network controller",
+          "Integrate gateways with slb",
+          "Integrate vlan networks with sdn gateway for azure hybrid networking",
+          "Configure bgp routing for gateway",
+          "Assign gateway pools for tenant usage",
+          "Configure windows server gateway as a forwarding proxy",
+          "Implement highly available windows server gateway."
+        ]
+      },
+      {
+        "label": "Manage SDN Infrastructure",
+        "items": [
+          "Install updates on network controllers, software load balancer components, and gateway components",
+          "Configure health probes",
+          "Query configuration state health information in load balancer mux object",
+          "Configure nc/slb and gw logs",
+          "Manage sdn components for service branching and patching considerations",
+          "Troubleshoot sdn stack by using network controller diagnostics."
+        ]
+      },
+      {
+        "label": "Manage Tenant Virtual Networks",
+        "items": [
+          "Use network virtual appliances on virtual networks",
+          "Configure network quality of service (qos) for tenant vm network adapter",
+          "Connect container endpoints to a tenant virtual network."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Software-Defined Storage",
+    "skills": [
+      {
+        "label": "Implement Software-Defined Storage Solutions",
+        "items": [
+          "Implement storage spaces direct in hyper-converged scenario by using vmm",
+          "Implement storage spaces direct in a disaggregated scenario by using vmm",
+          "Implement storage tiering",
+          "Implement iscsi storage",
+          "Implement storage spaces fault tolerance",
+          "Implement cluster shared volumes (csvs)",
+          "Determine usage scenarios and requirements for smb 3 storage",
+          "Configure and enable nic offload technologies such as smb direct on remote direct memory access (rdma) and smb multichannel on capable nics for use as part of storage infrastructure",
+          "Implement smb file storage",
+          "Encrypt cluster volumes",
+          "Implement storage qos policies for min/max iops and max bandwidth",
+          "Implement aggregated and dedicated qos policies",
+          "Provision thin and thick storage solutions",
+          "Allocate storage array to a host group",
+          "Create a lun for a hyper-v cluster from allocated storage",
+          "Allocate file share to a hyper-v cluster",
+          "Implement storage classifications for storage pools."
+        ]
+      },
+      {
+        "label": "Manage Software-Defined Storage",
+        "items": [
+          "Implement storage replica solutions",
+          "Implement hyper-v replica solutions",
+          "Integrate hyper-v replica with azure site recovery (asr) for secondary on-premises site",
+          "Implement offloaded data transfer (odx)",
+          "Determine lun usage",
+          "Decommission storage from hyper-v host",
+          "Optimize storage spaces direct storage pools",
+          "Implement network qos policies to control rdma and smb storage connections",
+          "Implement san copy to rapidly provision vms."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Datacenter Compute Solutions with Virtual Machine Manager (VMM)",
+    "skills": [
+      {
+        "label": "Implement Compute solutions",
+        "items": [
+          "Determine requirements and usage scenarios for virtualized deployments",
+          "Determine requirements for application deployments in virtualized infrastructure",
+          "Create and configure virtual machine templates",
+          "Configure hardware profiles",
+          "Configure guest operating system profiles",
+          "Configure application profiles",
+          "Manage custom properties and placement rules",
+          "Deploy and manage nano server containers",
+          "Perform operating system deployments using unattend.xml options",
+          "Integrate sysprep with unattend.xml answer file",
+          "Migrate existing virtual machine deployments to vmm",
+          "Create and manage checkpoints",
+          "Clone virtual machines",
+          "Perform virtual-to-virtual (v2v) virtual machine conversions",
+          "Implement and manage linux virtual machines",
+          "Deploy virtual machines from an existing vhd, template, p2v conversion, or vmm library",
+          "Deploy containers by using vmm templates",
+          "Manage guarded hosts."
+        ]
+      },
+      {
+        "label": "Implement Service Templates",
+        "items": [
+          "Create and configure service templates",
+          "Implement availability sets within a template",
+          "Add tiers to a service template",
+          "Add network components to a service template",
+          "Implement active directory service template",
+          "Configure sharepoint server service template",
+          "Deploy service templates",
+          "Update and modify service templates",
+          "Import and export service templates",
+          "Implement guest clustering."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Secure your Software-Defined Datacenter",
+    "skills": [
+      {
+        "label": "Secure the Compute Environment",
+        "items": [
+          "Determine the requirements for host guardian service, implement host guardian service",
+          "Implement shielded vms for new vms by using templates",
+          "Implement shielded vms for existing virtual machines",
+          "Implement guarded fabric solutions",
+          "Implement dhcp guard",
+          "Configure run as accounts and user roles",
+          "Implement role based access control (rbac)",
+          "Implement code integrity solution",
+          "Implement secure boot for windows and linux guests",
+          "Implement credential guard",
+          "Implement self-service."
+        ]
+      },
+      {
+        "label": "Secure the Network Environment",
+        "items": [
+          "Create and use port acls with vm networks, vm subnets and virtual nics",
+          "Create and use global settings for all vms",
+          "Implement datacenter firewall solutions using vmm",
+          "Create acl rules using datacenter firewall",
+          "Configure and apply network controller network policies",
+          "Secure tenant networks",
+          "Plan for integration of security appliances into tenant network infrastructure."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Monitor and Maintain the Software-Defined Datacenter",
+    "skills": [
+      {
+        "label": "Install and Configure System Center Operations Manager (SCOM)",
+        "items": [
+          "Determine requirements and usage scenarios for implementing operations manager",
+          "Perform single and distributed deployment options for operations manager",
+          "Install operations manager agents by using discovery wizard or the command line",
+          "Secure user access",
+          "Create, install, and manage sealed and unsealed management packs."
+        ]
+      },
+      {
+        "label": "Monitor and Manage Infrastructure and Virtual Machine Workloads using System Center Operations Manager (SCOM)",
+        "items": [
+          "Tune monitoring using targeting and overrides",
+          "Configure maintenance schedules",
+          "Suspend monitoring temporarily",
+          "Configure notifications",
+          "Configure reporting",
+          "Integrate operations manager and vmm",
+          "Enable performance and resource optimization (pro) tips in vmm",
+          "Determine requirements and usage scenarios for backing up and restoring software-defined datacenter workloads and virtual machine manager with tools such as data protection manager (dpm) and microsoft azure."
+        ]
+      }
+    ]
+  }
+]

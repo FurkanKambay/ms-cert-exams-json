@@ -1,0 +1,289 @@
+[
+  {
+    "label": "Design SharePoint infrastructure (15–20%)",
+    "skills": [
+      {
+        "label": "Design information architecture",
+        "items": [
+          "Design an inter-site navigational taxonomy",
+          "Design site columns and content types",
+          "Design keywords, synonyms, promoted results, managed properties, durable links, and document library accessibility",
+          "Plan information management policies",
+          "Plan compliance features, such as document fingerprinting and item-level encryption",
+          "Plan search for sensitive and non-sensitive content",
+          "Plan managed site structures",
+          "Plan term sets",
+          "Plan for support of open document format (odf)",
+          "Plan mobile navigation"
+        ]
+      },
+      {
+        "label": "Design a logical architecture",
+        "items": [
+          "Plan application pools",
+          "Plan web applications",
+          "Plan for software boundaries",
+          "Plan content databases",
+          "Plan host-header site collections",
+          "Plan fast site collection creation",
+          "Plan zones and alternate access mapping"
+        ]
+      },
+      {
+        "label": "Design a physical architecture",
+        "items": [
+          "Design a server farm topology (traditional, streamlined, hybrid) by using minrole (user roles, robot services roles, cache services roles)",
+          "Design central administration deployment",
+          "Design a storage architecture, including refs",
+          "Configure basic request management",
+          "Define individual server requirements",
+          "Define service topologies",
+          "Plan server load balancing",
+          "Plan a network infrastructure",
+          "Plan for large file support",
+          "Plan an app hosting model"
+        ]
+      },
+      {
+        "label": "Plan an installation",
+        "items": [
+          "Identify and configure installation prerequisites, implement scripted deployment, plan access services deployment, plan project server installation, implement patch slipstreaming, plan and install language packs, plan and configure service connection points, plan installation tracking and auditing, plan and install office online server, implement managed paths for office 365 migrations, configure sharepoint hybrid cloud settings"
+        ]
+      },
+      {
+        "label": "Plan a hybrid cloud environment",
+        "items": [
+          "Plan for deployment of office online",
+          "Configure server-to-server authentication",
+          "Configure oauth",
+          "Configure audiences and hybrid features, to include search, onedrive for business, team sites, extensible app launcher, and hybrid picker tools"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan authentication and security (15–20%)",
+    "skills": [
+      {
+        "label": "Plan and configure authentication",
+        "items": [
+          "Plan and configure windows authentication, plan and configure anonymous authentication, plan connection encryption (tls, smtp), plan and configure identity federation, configure claims providers, configure site-to-site (s2s) intra-server and oauth authentication, configure connections to access control service, configure authentication for hybrid cloud deployment"
+        ]
+      },
+      {
+        "label": "Plan and configure authorization",
+        "items": [
+          "Plan and configure sharepoint users and groups, plan and configure people picker, plan and configure sharing (hints, one-click, create and share), plan and configure permission inheritance, plan and configure anonymous access, plan web application policies"
+        ]
+      },
+      {
+        "label": "Plan and configure platform and farm security",
+        "items": [
+          "Plan and configure security isolation, services lockdown, and antivirus settings",
+          "Plan and configure certificate management",
+          "Plan for kerberos support for service applications",
+          "Plan and configure information rights management (irm), delegated farm administration, and delegated service application administration",
+          "Plan and configure managed accounts",
+          "Plan and configure blocked file types",
+          "Plan and configure web part security, including wopi support"
+        ]
+      },
+      {
+        "label": "Create and configure a User Profile Service (UPA) application",
+        "items": [
+          "Configure a upa application, configure social permissions, plan and configure sync connections of mim 2016 synchronization, configure profile properties, configure claims integration with upa"
+        ]
+      },
+      {
+        "label": "Manage site and site collection security",
+        "items": [
+          "Manage site access requests, manage app permissions, manage anonymous access, manage permission inheritance, configure permission levels, configure html field security"
+        ]
+      },
+      {
+        "label": "Provision and configure web applications",
+        "items": [
+          "Create managed paths, configure alternate access mappings (aam), configure sharepoint designer settings"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan workload optimization (15–20%)",
+    "skills": [
+      {
+        "label": "Create and maintain site collections",
+        "items": [
+          "Provision fast site collection creation, configure host header site collections, configure self-service site creation, maintain site owners, maintain site quotas, configure site policies, configure a team mailbox, plan sites page pinning"
+        ]
+      },
+      {
+        "label": "Plan SharePoint high availability and disaster recovery solutions",
+        "items": [
+          "Plan for service distribution, plan for service instance configuration, plan for physical server distribution, plan for network redundancy, plan for server load balancing, plan for sql server aliases, plan for sql server clustering, plan for sql server alwayson availability groups, plan for sql server log shipping, plan for storage redundancy, plan for login replication"
+        ]
+      },
+      {
+        "label": "Plan backup and restore",
+        "items": [
+          "Establish a sharepoint backup schedule, establish a sql server backup schedule, plan a non-production environment content refresh, plan for farm configuration recovery, plan for service application recovery, plan for content recovery, configure a recovery solution using sql database running in azure and other azure backup solutions"
+        ]
+      },
+      {
+        "label": "Plan and configure social workloads",
+        "items": [
+          "Plan communities, plan my sites, plan onedrive redirection, plan social permissions, plan user profiles, plan activity feeds, plan connections, configure yammer settings"
+        ]
+      },
+      {
+        "label": "Plan and configure a Web Content Management (WCM) workload",
+        "items": [
+          "Plan and configure channels, plan and configure product catalog and topic pages, plan and configure design manager, plan and configure content deployment, plan and configure display templates, plan and configure variations"
+        ]
+      },
+      {
+        "label": "Plan and configure an Enterprise Content Management (ECM) workload",
+        "items": [
+          "Plan and configure e-discovery",
+          "Plan and configure document routing",
+          "Plan and configure co-authoring",
+          "Plan and configure durable links",
+          "Plan and configure record disposition and retention",
+          "Plan large document repositories",
+          "Plan and configure software boundaries",
+          "Plan and configure data loss prevention, in-place holds, and document deletion features"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan productivity solutions (15–20%)",
+    "skills": [
+      {
+        "label": "Evaluate content and customizations",
+        "items": [
+          "Perform migration pre-check tasks, analyze content database test results, configure web application authentication for upgrade, resolve orphan objects, resolve missing file system components, resolve configuration conflict issues"
+        ]
+      },
+      {
+        "label": "Plan an upgrade process",
+        "items": [
+          "Plan removal of servers in rotation, configure a parallel upgrade, configure read-only access for content, configure upgrade farms, measure upgrade performance, plan an installation sequence, plan and migrate sharepoint on-premises to sharepoint online or a hybrid topology"
+        ]
+      },
+      {
+        "label": "Create and configure app management",
+        "items": [
+          "Create and configure the app store, create and configure subscriptions, configure marketplace connections, configure dns entries, configure wildcard certificates"
+        ]
+      },
+      {
+        "label": "Create and configure productivity services",
+        "items": [
+          "Create and configure office online server, microsoft access services, microsoft visio services, microsoft word automation services, microsoft powerpoint conversion services, and translation services",
+          "Configure hybrid onedrive for business with profile redirection and extensible app launcher",
+          "Plan and install office online server, sharepoint insights, and sharepoint server telemetry features"
+        ]
+      },
+      {
+        "label": "Create and configure a Business Connectivity Service (BCS) and Secure Store application",
+        "items": [
+          "Import and configure bcs models, configure bcs model security, configure bcs for search, generate a secure store master key, manage secure store target application permissions, create secure store target applications, configure hybrid bcs"
+        ]
+      },
+      {
+        "label": "Manage SharePoint solutions and applications",
+        "items": [
+          "Manage sandbox solution quotas, configure sandbox solution management, deploy farm solutions, upgrade farm solutions, deploy apps, upgrade apps"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage search capabilities (10–15%)",
+    "skills": [
+      {
+        "label": "Create and configure Enterprise search",
+        "items": [
+          "Plan and configure a search topology, plan and configure content sources, plan and configure crawl schedules, plan and configure crawl rules, plan and configure crawl performance, plan and configure security trimming, choose and configure hybrid search"
+        ]
+      },
+      {
+        "label": "Create and configure a Managed Metadata Service (MMS) application",
+        "items": [
+          "Configure proxy settings for managed service applications, configure content type hub settings, configure sharing term sets, plan and configure content type propagation schedules, configure custom properties, configure term store permissions, configure managed metadata service (mms) imports"
+        ]
+      },
+      {
+        "label": "Manage search",
+        "items": [
+          "Manage result sources",
+          "Manage query rules",
+          "Manage display templates",
+          "Manage search engine optimization (seo) settings",
+          "Manage result types",
+          "Manage a search schema",
+          "Manage federated search, including integration with delve and office graph"
+        ]
+      },
+      {
+        "label": "Manage taxonomy",
+        "items": [
+          "Manage site collection term set access, manage term set navigation, manage topic catalog pages, configure custom properties, configure search refinement, configure list refinement"
+        ]
+      },
+      {
+        "label": "Plan and configure a search workload",
+        "items": [
+          "Plan and configure search result relevancy, plan and configure index freshness, plan and configure result sources, plan and configure the end-user experience, plan and configure a search schema, analyze search analytics reports"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan and configure cloud services (5–10%)",
+    "skills": [
+      {
+        "label": "Plan and configure a BI infrastructure",
+        "items": [
+          "Plan and configure performance point, plan and configure reporting services, plan and configure powerpivot, plan and configure excel services (office online only), plan and configure powerview, plan and configure bi security"
+        ]
+      },
+      {
+        "label": "Create and configure work management",
+        "items": [
+          "Configure a connection to exchange, activate and configure a connection to microsoft project server 2016, manage trusts, plan exchange configuration for e-discovery"
+        ]
+      },
+      {
+        "label": "Plan and configure cloud and federated hybrid search",
+        "items": [
+          "Plan and configure on-premises and office 365 search and encrypted metadata when content is transferred to the search index in office 365, configure user specific queries and inbound/outbound or bi-directional hybrid topologies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Monitor and optimize a SharePoint environment (10–15%)",
+    "skills": [
+      {
+        "label": "Monitor a SharePoint environment",
+        "items": [
+          "Define monitoring requirements, configure performance counter capture, configure page performance monitoring, configure usage and health providers, monitor and forecast storage needs, monitor sharepoint hybrid cloud deployments"
+        ]
+      },
+      {
+        "label": "Tune and optimize a SharePoint environment",
+        "items": [
+          "Plan and configure sql optimization, execute database maintenance rules, plan for capacity software boundaries, estimate storage requirements, plan and configure caching and a caching strategy, tune network performance, plan and configure zero downtime patching"
+        ]
+      },
+      {
+        "label": "Troubleshoot a SharePoint environment",
+        "items": [
+          "Establish baseline performance, perform client-side tracing, perform server-side tracing, analyze usage data, enable a developer dashboard, analyze diagnostic logs, troubleshoot sharepoint hybrid cloud issues"
+        ]
+      }
+    ]
+  }
+]

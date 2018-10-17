@@ -1,0 +1,195 @@
+[
+  {
+    "label": "Create database objects (20–25%)",
+    "skills": [
+      {
+        "label": "Create and alter tables using T-SQL syntax (simple statements)",
+        "items": [
+          "Create tables without using the built in tools",
+          "Alter",
+          "Drop",
+          "Alter column",
+          "Create"
+        ]
+      },
+      {
+        "label": "Create and alter views (simple statements)",
+        "items": [
+          "Create indexed views",
+          "Create views without using the built in tools",
+          "Create, alter, drop"
+        ]
+      },
+      {
+        "label": "Design views",
+        "items": [
+          "Ensure code non regression by keeping consistent signature for procedure, views and function (interfaces)",
+          "Security implications"
+        ]
+      },
+      {
+        "label": "Create and modify constraints (simple statements)",
+        "items": [
+          "Create constraints on tables",
+          "Define constraints",
+          "Unique constraints",
+          "Default constraints",
+          "Primary and foreign key constraints"
+        ]
+      },
+      {
+        "label": "Create and alter DML triggers",
+        "items": [
+          "Inserted and deleted tables",
+          "Nested triggers",
+          "Types of triggers",
+          "Update functions",
+          "Handle multiple rows in a session",
+          "Performance implications of triggers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Work with data (25–30%)",
+    "skills": [
+      {
+        "label": "Query data by using SELECT statements",
+        "items": [
+          "Use the ranking function to select top(x) rows for multiple categories in a single query",
+          "Write and perform queries efficiently using the new (sql 2005/8->) code items such as synonyms, and joins (except, intersect)",
+          "Implement logic which uses dynamic sql and system metadata",
+          "Write efficient, technically complex sql queries, including all types of joins versus the use of derived tables",
+          "Determine what code may or may not execute based on the tables provided",
+          "Given a table with constraints, determine which statement set would load a table",
+          "Use and understand different data access technologies",
+          "Case versus isnull versus coalesce"
+        ]
+      },
+      {
+        "label": "Implement sub-queries",
+        "items": [
+          "Identify problematic elements in query plans",
+          "Pivot and unpivot",
+          "Apply operator",
+          "Cte statement",
+          "With statement"
+        ]
+      },
+      {
+        "label": "Implement data types",
+        "items": [
+          "Use appropriate data",
+          "Understand the uses and limitations of each data type",
+          "Impact of guid (newid, newsequentialid) on database performance, when to use what data type for columns"
+        ]
+      },
+      {
+        "label": "Implement aggregate queries",
+        "items": [
+          "New analytic functions",
+          "Grouping sets",
+          "Spatial aggregates",
+          "Apply ranking functions"
+        ]
+      },
+      {
+        "label": "Query and manage XML data",
+        "items": [
+          "Understand xml datatypes and their schemas and interop w/, limitations and restrictions",
+          "Implement xml schemas and handling of xml data",
+          "Xml data: how to handle it in sql server and when and when not to use it, including xml namespaces",
+          "Import and export xml",
+          "Xml indexing"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Modify data (20–25%)",
+    "skills": [
+      {
+        "label": "Create and alter stored procedures (simple statements)",
+        "items": [
+          "Write a stored procedure to meet a given set of requirements",
+          "Branching logic",
+          "Create stored procedures and other programmatic objects",
+          "Techniques for developing stored procedures",
+          "Different types of storeproc result",
+          "Create stored procedure for data access layer",
+          "Program stored procedures, triggers, functions with t-sql"
+        ]
+      },
+      {
+        "label": "Modify data by using INSERT, UPDATE, and DELETE statements",
+        "items": [
+          "Given a set of code with defaults, constraints, and triggers, determine the output of a set of ddl",
+          "Know which sql statements are best to solve common requirements",
+          "Use output statement"
+        ]
+      },
+      {
+        "label": "Combine datasets",
+        "items": [
+          "Difference between union and union all",
+          "Case versus isnull versus coalesce",
+          "Modify data by using merge statements"
+        ]
+      },
+      {
+        "label": "Work with functions",
+        "items": [
+          "Understand deterministic, non-deterministic functions",
+          "Scalar and table values",
+          "Apply built-in scalar functions",
+          "Create and alter user-defined functions (udfs)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Troubleshoot and optimize (25–30%)",
+    "skills": [
+      {
+        "label": "Optimize queries",
+        "items": [
+          "Understand statistics",
+          "Read query plans",
+          "Plan guides",
+          "Dmvs",
+          "Hints",
+          "Statistics io",
+          "Dynamic vs. parameterized queries",
+          "Describe the different join types (hash, merge, loop) and describe the scenarios they would be used in"
+        ]
+      },
+      {
+        "label": "Manage transactions",
+        "items": [
+          "Mark a transaction",
+          "Understand begin tran, commit, and rollback",
+          "Implicit vs explicit transactions",
+          "Isolation levels",
+          "Scope and type of locks",
+          "Trancount"
+        ]
+      },
+      {
+        "label": "Evaluate the use of row-based operations vs. set-based operations",
+        "items": [
+          "When to use cursors",
+          "Impact of scalar udfs",
+          "Combine multiple dml operations"
+        ]
+      },
+      {
+        "label": "Implement error handling",
+        "items": [
+          "Implement try/catch/throw",
+          "Use set based rather than row based logic",
+          "Transaction management"
+        ]
+      }
+    ]
+  }
+]

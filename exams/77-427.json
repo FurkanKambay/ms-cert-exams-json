@@ -1,0 +1,64 @@
+[
+  {
+    "label": "Manage and share workbooks",
+    "skills": [
+      {
+        "label": "Manage workbook changes",
+        "items": [
+          "Track changes, manage comments, identify errors, troubleshoot with tracing, display all changes, retain all changes"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Apply custom formats and layouts",
+    "skills": [
+      {
+        "label": "Apply advanced conditional formatting and filtering",
+        "items": [
+          "Write custom conditional formats, use functions to format cells, create advanced filters, manage conditional formatting rules"
+        ]
+      },
+      {
+        "label": "Prepare a workbook for internationalization and accessibility",
+        "items": [
+          "Modify tab order among workbook elements and objects, display data in multiple international formats, modify worksheets for use with accessibility tools, utilize international symbols, manage multiple options for +body and +heading fonts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create advanced formulas",
+    "skills": [
+      {
+        "label": "Look up data with functions",
+        "items": [
+          "Utilize the lookup function, utilize the vlookup function, utilize the hlookup function, utilize the transpose function"
+        ]
+      },
+      {
+        "label": "Apply advanced date and time functions",
+        "items": [
+          "Utilize the now and today functions, use functions to serialize dates and times"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create advanced charts and tables",
+    "skills": [
+      {
+        "label": "Create advanced chart elements",
+        "items": [
+          "Add trendlines to charts, create dual axis charts, create custom chart templates, view chart animations"
+        ]
+      },
+      {
+        "label": "Create and manage PivotTables",
+        "items": [
+          "Create new pivottables, modify field selections and options, create a slicer, group records, utilize calculated fields, format data, utilize powerpivot, manage relationships"
+        ]
+      }
+    ]
+  }
+]

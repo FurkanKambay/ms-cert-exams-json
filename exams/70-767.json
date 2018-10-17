@@ -1,0 +1,131 @@
+[
+  {
+    "label": "Design, implement, and maintain a data warehouse (35–40%)",
+    "skills": [
+      {
+        "label": "Design and implement dimension tables",
+        "items": [
+          "Design shared and conformed dimensions, determine support requirements for slowly changing dimensions, determine attributes, design hierarchies, determine star or snowflake schema requirements, determine the granularity of relationship by using fact tables, determine auditing or lineage requirements, determine keys and key relationships for a data warehouse, implement dimensions, implement data lineage of a dimension table"
+        ]
+      },
+      {
+        "label": "Design and implement fact tables",
+        "items": [
+          "Identify measures, identify dimension table relationships, create composite keys, design a data warehouse that supports many-to-many relationships, implement semi-additive measures, implement non-additive measures"
+        ]
+      },
+      {
+        "label": "Design and implement indexes for a data warehouse workload",
+        "items": [
+          "Design an indexing solution",
+          "Select appropriate indexes",
+          "Implement clustered, non-clustered, filtered, and columnstore indexes"
+        ]
+      },
+      {
+        "label": "Design storage for a data warehouse",
+        "items": [
+          "Design an appropriate storage solution, including hardware, disk, and file layout"
+        ]
+      },
+      {
+        "label": "Design and implement partitioned tables and views",
+        "items": [
+          "Design a partition structure to support a data warehouse, implement sliding windows, implement partition elimination, design a partition structure that supports the quick loading and scale-out of data"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Extract, transform, and load data (40–45%)",
+    "skills": [
+      {
+        "label": "Design and implement an extract, transform, and load (ETL) control flow by using a SQL Server Integration Services (SSIS)\r\n\t\t\t\t\t\t\tpackage",
+        "items": [
+          "Design and implement etl control flow elements, including containers, tasks, and precedence constraints",
+          "Create variables and parameters",
+          "Create checkpoints, sequence and loop containers, and variables in ssis",
+          "Implement data profiling, parallelism, transactions, logging, and security"
+        ]
+      },
+      {
+        "label": "Design and implement an ETL data flow by using an SSIS package",
+        "items": [
+          "Implement slowly changing dimension, fuzzy grouping, fuzzy lookup, audit, blocking, non-blocking, and term lookup transformations",
+          "Map columns",
+          "Determine the appropriate transform object for a given task",
+          "Determine appropriate scenarios for transact-sql joins versus ssis lookup",
+          "Design table loading by using bulk loading or standard loading",
+          "Remove extra rows or bad rows by using deduplication"
+        ]
+      },
+      {
+        "label": "Implement an ETL solution that supports incremental data extraction",
+        "items": [
+          "Design fact table patterns, enable change data capture, create a sql merge statement"
+        ]
+      },
+      {
+        "label": "Implement an ETL solution that supports incremental data loading",
+        "items": [
+          "Design a control flow to load change data, load data by using transact-sql change data capture functions, load data by using change data capture in ssis"
+        ]
+      },
+      {
+        "label": "Debug SSIS packages",
+        "items": [
+          "Fix performance, connectivity, execution, and failed logic issues by using the debugger",
+          "Enable logging for package execution",
+          "Implement error handling for data types",
+          "Implement breakpoints",
+          "Add data viewers",
+          "Profile data with different tools",
+          "Perform batch clean-up"
+        ]
+      },
+      {
+        "label": "Deploy and configure SSIS packages and projects",
+        "items": [
+          "Create an ssis catalog",
+          "Deploy packages by using the deployment utility, sql server, and file systems",
+          "Run and customize packages by using dtutil"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build data quality solutions (15–20%)",
+    "skills": [
+      {
+        "label": "Create a knowledge base",
+        "items": [
+          "Create a data quality services (dqs) knowledge base, determine appropriate use cases for a dqs knowledge base, perform knowledge discovery, perform domain management"
+        ]
+      },
+      {
+        "label": "Maintain data quality by using DQS",
+        "items": [
+          "Add matching knowledge to a knowledge base, prepare a dqs for data deduplication, create a matching policy, clean data by using dqs knowledge clean data by using the ssis dqs task, install dqs"
+        ]
+      },
+      {
+        "label": "Implement a Master Data Services (MDS) model",
+        "items": [
+          "Install mds",
+          "Implement mds",
+          "Create models, entities, hierarchies, collections, and attributes",
+          "Define security roles",
+          "Import and export data",
+          "Create and edit a subscription",
+          "Implement entities, attributes, hierarchies, and business rules"
+        ]
+      },
+      {
+        "label": "Manage data by using MDS",
+        "items": [
+          "Use mds tools, use the master data services configuration manager, create a master data manager database and web application, deploy a sample model using mdsmodeldeploy.exe, use the master data services web application, use the master data services add-in for excel, create a master data management hub, stage and load data, create subscription views"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "label": "Create projects and programs",
+    "skills": [
+      {
+        "label": "Define strategy",
+        "items": [
+          "Define business drivers, create multiple driver prioritizations, analyze consistency ratio"
+        ]
+      },
+      {
+        "label": "Optimize portfolios",
+        "items": [
+          "Capture project requests and ideas, rate projects against business drivers, determine primary cost constraints, determine resource constraints, set project dependencies, create a portfolio analysis, review and modify prioritizations in an analysis, force projects in and out of analysis, determine hired resources, compare and run simulations for project portfolio selection, add additional constraints"
+        ]
+      },
+      {
+        "label": "Create a new enterprise project",
+        "items": [
+          "Create a project and manage workflow, use workflow approvals, import projects through project professional, create and manage project schedules using project web app, save and check in projects, import projects from excel"
+        ]
+      },
+      {
+        "label": "Create programs",
+        "items": [
+          "Insert sub-projects, create cross-project task dependencies, calculate sub-project summary fields, associate programs to portfolios, associate projects to programs"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan projects and programs",
+    "skills": [
+      {
+        "label": "Define deliverables",
+        "items": [
+          "Add deliverables, set dependencies on deliverables, synchronize deliverables with project, link related items"
+        ]
+      },
+      {
+        "label": "Create tasks and a Work Breakdown Structure (WBS)",
+        "items": [
+          "Create and modify summary tasks and subtasks, rearrange tasks, create milestones, create manually scheduled tasks, set tasks as active or inactive"
+        ]
+      },
+      {
+        "label": "Schedule the project",
+        "items": [
+          "Set date constraints, deadlines, dependencies, links, duration equations, effort-driven tasks, and formulas",
+          "Choose task types",
+          "Enter duration",
+          "Set or change the task mode (manual or auto)",
+          "Display warnings and suggestions",
+          "Use estimated durations and user-controlled summary tasks"
+        ]
+      },
+      {
+        "label": "Manage resources and teams",
+        "items": [
+          "Edit resources with project web app, edit resources with project pro for office 365, create team resources, create team assignments, add a team task to a task page or timesheet, map resource roles (portfolio analysis)"
+        ]
+      },
+      {
+        "label": "Perform resource engagement",
+        "items": [
+          "Submit, accept, modify, and reject a resource engagement request",
+          "Build a team for a resource plan",
+          "Build a resource plan for a project",
+          "Set resource utilization",
+          "Use committed versus proposed assignments"
+        ]
+      },
+      {
+        "label": "Build a project team",
+        "items": [
+          "Build a project team through project pro for office 365 or project web app, build a project team through project web app, replace generic resources, work with proposed assignments"
+        ]
+      },
+      {
+        "label": "Resolve resource over allocations across projects",
+        "items": [
+          "Level resources using leveling methods",
+          "Plan resource allocations using team planner, task usage, resource requests page, and resource utilization"
+        ]
+      },
+      {
+        "label": "Build a financial plan",
+        "items": [
+          "Plan program financial requirements using the resource rate table, cost per use, cost resources"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Track projects and programs",
+    "skills": [
+      {
+        "label": "Baseline enterprise projects",
+        "items": [
+          "Set a protected baseline, set a baseline from project web app and project pro for office 365, clear and copy a baseline"
+        ]
+      },
+      {
+        "label": "Select tracking method",
+        "items": [
+          "Use percent complete, hours per period, actual work remaining, freeform, done, and not done fields"
+        ]
+      },
+      {
+        "label": "Manage task assignments",
+        "items": [
+          "Publish assignments, select a status manager, select an assignment owner, set the published values for individual tasks"
+        ]
+      },
+      {
+        "label": "Update tasks and timesheets",
+        "items": [
+          "Submit and recall timesheets, insert and remove tasks, reassign tasks, submit updates from my tasks, submit updates from a mobile app"
+        ]
+      },
+      {
+        "label": "Approve tasks and timesheets",
+        "items": [
+          "Accept task updates from tasks or timesheets, view impact of updates on a project, reject updates, approve and reject timesheets, manage delegations"
+        ]
+      },
+      {
+        "label": "Update the project plan",
+        "items": [
+          "Reschedule uncompleted work, update cost resources, publish schedule changes, utilize task update history, update schedules with protected user updates, close tasks for updates"
+        ]
+      },
+      {
+        "label": "Collaborate and communicate projects and programs",
+        "items": [
+          "Create a project site",
+          "Add document library",
+          "Add lists, calendar, and folders",
+          "Modify site layout",
+          "Create program (master-sub) structure using subsites",
+          "Add risks and issues"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Control, report, manage, and extend the PPM solution",
+    "skills": [
+      {
+        "label": "Customize Project Web App views and reports",
+        "items": [
+          "Create a portfolio report using excel",
+          "Create dashboards",
+          "Copy and edit views",
+          "Set default views",
+          "Rename field names",
+          "Group, filter, and sort views"
+        ]
+      },
+      {
+        "label": "Advanced Reporting",
+        "items": [
+          "Load the content pack with power bi, create reports and dashboards, ask natural language questions, leverage filters, pin results to the dashboard, create views with tiles from multiple datasets and reports, create reports using the out-of-the-box reporting capability"
+        ]
+      },
+      {
+        "label": "Manage configurable enterprise objects",
+        "items": [
+          "Create and manage enterprise project templates, define enterprise custom fields, define project workflows, define enterprise global objects, extend with office store apps, add social elements"
+        ]
+      },
+      {
+        "label": "Implement a security model",
+        "items": [
+          "Change between sharepoint security mode and project security mode, create users, create and modify security groups and categories, set up project site permissions"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "label": "Understanding network infrastructures (30–35%)",
+    "skills": [
+      {
+        "label": "Understand the concepts of Internet, intranet, and extranet",
+        "items": [
+          "Virtual private network (vpn), security zones, firewalls"
+        ]
+      },
+      {
+        "label": "Understand local area networks (LANs)",
+        "items": [
+          "Perimeter networks",
+          "Addressing",
+          "Reserved address ranges for local use (including local loopback ip), vlans",
+          "Wired lan and wireless lan"
+        ]
+      },
+      {
+        "label": "Understand wide area networks (WANs)",
+        "items": [
+          "Leased lines, dial-up, isdn, vpn, t1, t3, e1, e3, dsl, cable modem, and more, and their characteristics (speed, availability)"
+        ]
+      },
+      {
+        "label": "Understand wireless networking",
+        "items": [
+          "Types of wireless networking standards and their characteristics (802.11a,b,g,n,ac including different ghz ranges), types of network security (wpa, wep, 802.1x, and others), point-to-point (p2p) wireless, ad hoc networks, wireless bridging"
+        ]
+      },
+      {
+        "label": "Understand network topologies and access methods",
+        "items": [
+          "Star, mesh, ring, bus, logical and physical topologies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding network hardware (20–25%)",
+    "skills": [
+      {
+        "label": "Understand switches",
+        "items": [
+          "Transmission speed, number and type of ports, number of uplinks, speed of uplinks, managed or unmanaged switches, vlan capabilities, layer 2 and layer 3 switches and security options, hardware redundancy, support, backplane speed, switching types and mac table, understand capabilities of hubs versus switches, virtual switches"
+        ]
+      },
+      {
+        "label": "Understand routers",
+        "items": [
+          "Transmission speed considerations, directly connected routes, static routing, dynamic routing (routing protocols), rip vs. ospf, default routes",
+          "Routing table and how it selects best route(s)",
+          "Routing table memory, network address translation (nat), software routing in windows server, installing and configuring routing",
+          "Quality of service (qos)"
+        ]
+      },
+      {
+        "label": "Understand media types",
+        "items": [
+          "Cable types and their characteristics, including media segment length and speed",
+          "Fiber optic",
+          "Twisted pair shielded or unshielded",
+          "Catxx cabling, wireless",
+          "Susceptibility to external interference (machinery and power cables)",
+          "Susceptibility to electricity (lightning), susceptibility to interception"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding protocols and services (45-50%)",
+    "skills": [
+      {
+        "label": "Understand the Open Systems Interconnection (OSI) model",
+        "items": [
+          "Osi model",
+          "Transmission control protocol (tcp) model",
+          "Examples of devices, protocols, applications, and which osi/tcp layer they belong to",
+          "Tcp and user datagram protocol (udp)",
+          "Well-known ports for most used purposes (not necessarily internet)",
+          "Packets and frames"
+        ]
+      },
+      {
+        "label": "Understand IPv4",
+        "items": [
+          "Subnetting, ipconfig, why use internet protocol version 4 (ipv4), addressing, ipv4toipv6 tunneling protocols to ensure backward compatibility, dual ip stack, subnetmask, gateway, ports, packets, reserved address ranges for local use (including local loopback ip)"
+        ]
+      },
+      {
+        "label": "Understand IPv6",
+        "items": [
+          "Subnetting, ipconfig, why use ipv6, addressing, ipv4toipv6 tunneling protocols to ensure backward compatibility, dual ip stack, subnetmask, gateway, ports, packets, reserved address ranges for local use (including local loopback ip)"
+        ]
+      },
+      {
+        "label": "Understand names resolution",
+        "items": [
+          "Dns, resource records, windows internet name service (wins), steps in the name resolution process, hosts file, lmhosts file"
+        ]
+      },
+      {
+        "label": "Understand networking services",
+        "items": [
+          "Dynamic host configuration protocol (dhcp), network address translation (nat), firewalls, remote access, vpn"
+        ]
+      },
+      {
+        "label": "Understand TCP/IP",
+        "items": [
+          "Tools (such as ping), tracert, pathping, telnet, ipconfig, netstat, reserved address ranges for local use (including local loopback ip), protocols"
+        ]
+      }
+    ]
+  }
+]

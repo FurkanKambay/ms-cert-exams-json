@@ -1,0 +1,276 @@
+[
+  {
+    "label": "Managing the worksheet environment",
+    "skills": [
+      {
+        "label": "Navigate through a worksheet",
+        "items": [
+          "Hot keys, name box"
+        ]
+      },
+      {
+        "label": "Print a worksheet or workbook",
+        "items": [
+          "Printing only selected worksheets",
+          "Printing an entire workbook",
+          "Constructing headers and footers",
+          "Applying printing options (scale, print titles, page setup, print area, gridlines)"
+        ]
+      },
+      {
+        "label": "Personalize environment by using Backstage",
+        "items": [
+          "Manipulating the quick access toolbar",
+          "Manipulating the ribbon tabs and groups",
+          "Manipulating excel default settings",
+          "Importing data to excel",
+          "Importing data from excel",
+          "Demonstrating how to manipulate workbook properties",
+          "Manipulating workbook files and folders",
+          "Applying different name and file formats for different uses by using save and save as features"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Creating cell data",
+    "skills": [
+      {
+        "label": "Construct cell data",
+        "items": [
+          "Using paste special (formats, formulas, values, preview icons, transpose rows and columns, operations, comments, validation, paste as a link)",
+          "Cutting, moving, and selecting cell data"
+        ]
+      },
+      {
+        "label": "Apply AutoFill",
+        "items": [
+          "Copying data using autofill",
+          "Filling series using autofill",
+          "Copying or preserving cell format with autofill",
+          "Selecting from drop-down list"
+        ]
+      },
+      {
+        "label": "Apply and manipulate hyperlinks",
+        "items": [
+          "Creating a hyperlink in a cell",
+          "Modifying hyperlinks",
+          "Modifying hyperlinked-cell attributes",
+          "Removing a hyperlink"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Formatting cells and worksheets",
+    "skills": [
+      {
+        "label": "Apply and modify cell formats",
+        "items": [
+          "Aligning cell content",
+          "Applying a number format",
+          "Wrapping text in a cell",
+          "Using format painter"
+        ]
+      },
+      {
+        "label": "Merge or split cells",
+        "items": [
+          "Using merge & center, merge across, merge cells, and unmerge cells"
+        ]
+      },
+      {
+        "label": "Create row and column titles",
+        "items": [
+          "Printing row and column headings",
+          "Printing rows to repeat with titles",
+          "Printing columns to repeat with titles",
+          "Configuring titles to print only on odd or even pages",
+          "Configuring titles to skip the first worksheet page"
+        ]
+      },
+      {
+        "label": "Hide and unhide rows and columns",
+        "items": [
+          "Hiding a column",
+          "Unhiding a column",
+          "Hiding a series of columns",
+          "Hiding a row",
+          "Unhiding a row",
+          "Hiding a series of rows"
+        ]
+      },
+      {
+        "label": "Manipulate page setup options for worksheets",
+        "items": [
+          "Configuring page orientation",
+          "Managing page scaling",
+          "Configuring page margins",
+          "Changing header and footer size"
+        ]
+      },
+      {
+        "label": "Create and apply cell styles",
+        "items": [
+          "Applying cell styles",
+          "Constructing new cell styles"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Managing worksheets and workbooks",
+    "skills": [
+      {
+        "label": "Create and format worksheets",
+        "items": [
+          "Inserting worksheets",
+          "Deleting worksheets",
+          "Copying, repositioning, copying and moving, renaming, grouping",
+          "Applying coloring to worksheet tabs",
+          "Hiding worksheet tabs",
+          "Unhiding worksheet tabs"
+        ]
+      },
+      {
+        "label": "Manipulate window views",
+        "items": [
+          "Splitting window views",
+          "Arranging window views",
+          "Opening a new window with contents from the current worksheet"
+        ]
+      },
+      {
+        "label": "Manipulate workbook views",
+        "items": [
+          "Using normal, page layout, and page break workbook views",
+          "Creating custom views"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Applying formulas and functions",
+    "skills": [
+      {
+        "label": "Create formulas",
+        "items": [
+          "Using basic operators",
+          "Revising formulas"
+        ]
+      },
+      {
+        "label": "Enforce precedence",
+        "items": [
+          "Order of evaluation, precedence using parentheses, precedence of operators for percent vs. exponentiation"
+        ]
+      },
+      {
+        "label": "Apply cell references in formulas",
+        "items": [
+          "Relative, absolute"
+        ]
+      },
+      {
+        "label": "Apply conditional logic in a formula",
+        "items": [
+          "Creating a formula with values that match your conditions",
+          "Editing defined conditions in a formula",
+          "Using a series of conditional logic values in a formula"
+        ]
+      },
+      {
+        "label": "Apply named ranges in formulas",
+        "items": [
+          "Defining, editing, and renaming a named range"
+        ]
+      },
+      {
+        "label": "Apply cell ranges in formulas",
+        "items": [
+          "Entering a cell range definition in the formula bar",
+          "Defining a cell range using the mouse",
+          "Defining a cell range using a keyboard shortcut"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Presenting data visually",
+    "skills": [
+      {
+        "label": "Create charts based on worksheet data",
+        "items": []
+      },
+      {
+        "label": "Apply and manipulate illustrations",
+        "items": [
+          "Clip art, smartart, shapes, screenshots"
+        ]
+      },
+      {
+        "label": "Create and modify images by using the Image Editor",
+        "items": [
+          "Making corrections to an image (sharpening or softening an image, changing brightness and contrast)",
+          "Using picture color tools",
+          "Changing artistic effects on an image"
+        ]
+      },
+      {
+        "label": "Apply Sparklines",
+        "items": [
+          "Using line, column, and win/loss chart types",
+          "Creating a sparkline chart",
+          "Customizing a sparkline",
+          "Formatting a sparkline",
+          "Showing or hiding data markers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Sharing worksheet data with other users",
+    "skills": [
+      {
+        "label": "Share spreadsheets by using Backstage",
+        "items": [
+          "Sending a worksheet via email or onedrive",
+          "Changing the file type to a different version of excel",
+          "Saving as pdf or xps"
+        ]
+      },
+      {
+        "label": "Manage comments",
+        "items": [
+          "Inserting, viewing, editing, and deleting comments"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Analyzing and organizing data",
+    "skills": [
+      {
+        "label": "Filter data",
+        "items": [
+          "Defining, applying, removing, searching, filtering lists using autofilter"
+        ]
+      },
+      {
+        "label": "Sort data",
+        "items": [
+          "Using sort options (values, font color, cell color)"
+        ]
+      },
+      {
+        "label": "Apply conditional formatting",
+        "items": [
+          "Applying conditional formatting to cells",
+          "Using the rule manager to apply conditional formats",
+          "Using the if function and apply conditional formatting, icon sets, data bars, clear rules"
+        ]
+      }
+    ]
+  }
+]

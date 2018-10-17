@@ -1,0 +1,137 @@
+[
+  {
+    "label": "Create and manage worksheets and workbooks (30-35%)",
+    "skills": [
+      {
+        "label": "Create worksheets and workbooks",
+        "items": [
+          "Create a workbook, import data from a delimited text file, add a worksheet to an existing workbook, copy and move a worksheet"
+        ]
+      },
+      {
+        "label": "Navigate in worksheets and workbooks",
+        "items": [
+          "Search for data within a workbook",
+          "Navigate to a named cell, range, or workbook element",
+          "Insert and remove hyperlinks"
+        ]
+      },
+      {
+        "label": "Format worksheets and workbooks",
+        "items": [
+          "Change worksheet tab color, rename a worksheet, change worksheet order, modify page setup, insert and delete columns or rows, change workbook themes, adjust row height and column width, insert headers and footers"
+        ]
+      },
+      {
+        "label": "Customize options and views for worksheets and workbooks",
+        "items": [
+          "Hide or unhide worksheets, hide or unhide columns and rows, customize the quick access toolbar, change workbook views, change window views, modify document properties, change magnification by using zoom tools, display formulas"
+        ]
+      },
+      {
+        "label": "Configure worksheets and workbooks for distribution",
+        "items": [
+          "Set a print area, save workbooks in alternative file formats, print all or part of a workbook, set print scaling, display repeating row and column titles on multipage worksheets, inspect a workbook for hidden properties or personal information, inspect a workbook for accessibility issues, inspect a workbook for compatibility issues"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage data cells and ranges (15-20%)",
+    "skills": [
+      {
+        "label": "Insert data in cells and ranges",
+        "items": [
+          "Replace data",
+          "Cut, copy, or paste data",
+          "Paste data by using special paste options",
+          "Fill cells by using auto fill",
+          "Insert and delete cells"
+        ]
+      },
+      {
+        "label": "Format cells and ranges",
+        "items": [
+          "Merge cells, modify cell alignment and indentation, format cells by using format painter, wrap text within cells, apply number formats, apply cell formats, apply cell styles"
+        ]
+      },
+      {
+        "label": "Summarize and organize data",
+        "items": [
+          "Insert sparklines, outline data, insert subtotals, apply conditional formatting"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create tables (15-20%)",
+    "skills": [
+      {
+        "label": "Create and manage tables",
+        "items": [
+          "Create an excel table from a cell range, convert a table to a cell range, add or remove table rows and columns"
+        ]
+      },
+      {
+        "label": "Manage table styles and options",
+        "items": [
+          "Apply styles to tables, configure table style options, insert total rows"
+        ]
+      },
+      {
+        "label": "Filter and sort a table",
+        "items": [
+          "Filter records, sort data by multiple columns, change sort order, remove duplicate records"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Perform operations with formulas and functions (10-15%)",
+    "skills": [
+      {
+        "label": "Summarize data by using functions",
+        "items": [
+          "Insert references, perform calculations by using the sum function, perform calculations by using min and max functions, perform calculations by using the count function, perform calculations by using the average function"
+        ]
+      },
+      {
+        "label": "Perform conditional operations by using functions",
+        "items": [
+          "Perform logical operations by using the if function, perform logical operations by using the sumif function, perform logical operations by using the averageif function, perform statistical operations by using the countif function"
+        ]
+      },
+      {
+        "label": "Format and modify text by using functions",
+        "items": [
+          "Format text by using right, left, and mid functions",
+          "Format text by using upper, lower, and proper functions",
+          "Format text by using the concatenate function"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create charts and objects (15-20%)",
+    "skills": [
+      {
+        "label": "Create charts",
+        "items": [
+          "Create a new chart, add additional data series, switch between rows and columns in source data, analyze data by using quick analysis"
+        ]
+      },
+      {
+        "label": "Format graphic elements",
+        "items": [
+          "Resize charts, add and modify chart elements, apply chart layouts and styles, move charts to a chart sheet"
+        ]
+      },
+      {
+        "label": "Insert and format objects",
+        "items": [
+          "Insert text boxes and shapes, insert images, modify object properties, add alternative text to objects for accessibility"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "label": "Create and manage documents (25-30%)",
+    "skills": [
+      {
+        "label": "Create a document",
+        "items": [
+          "Create a blank document, create a blank document using a template, open a pdf in word for editing, insert text from a file or external source"
+        ]
+      },
+      {
+        "label": "Navigate through a document",
+        "items": [
+          "Search for text, insert hyperlinks, create bookmarks, move to a specific location or object in a document"
+        ]
+      },
+      {
+        "label": "Format a document",
+        "items": [
+          "Modify page setup, apply document themes, apply document style sets, insert headers and footers, insert page numbers, format page background elements"
+        ]
+      },
+      {
+        "label": "Customize options and views for documents",
+        "items": [
+          "Change document views, customize views by using zoom settings, customize the quick access toolbar, split the window, add document properties, show or hide formatting symbols"
+        ]
+      },
+      {
+        "label": "Print and save documents",
+        "items": [
+          "Modify print settings, save documents in alternative file formats, print all or part of a document, inspect a document for hidden properties or personal information, inspect a document for accessibility issues, inspect a document for compatibility issues"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Format text, paragraphs, and sections (25-30%)",
+    "skills": [
+      {
+        "label": "Insert text and paragraphs",
+        "items": [
+          "Find and replace text",
+          "Cut, copy, and paste text",
+          "Replace text by using autocorrect",
+          "Insert special characters"
+        ]
+      },
+      {
+        "label": "Format text and paragraphs",
+        "items": [
+          "Apply font formatting, apply formatting by using format painter, set line and paragraph spacing and indentation, clear formatting, apply a text highlight color to text selections, apply built-in styles to text, change text to wordart"
+        ]
+      },
+      {
+        "label": "Order and group text and paragraphs",
+        "items": [
+          "Format text in multiple columns",
+          "Insert page, section, or column breaks",
+          "Change page setup options for a section"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create tables and lists (20-25%)",
+    "skills": [
+      {
+        "label": "Create a table",
+        "items": [
+          "Convert text to tables, convert tables to text, create a table by specifying rows and columns, apply table styles"
+        ]
+      },
+      {
+        "label": "Modify a table",
+        "items": [
+          "Sort table data",
+          "Configure cell margins and spacing",
+          "Merge and split cells",
+          "Resize tables, rows, and columns",
+          "Split tables",
+          "Configure a repeating row header"
+        ]
+      },
+      {
+        "label": "Create and modify a list",
+        "items": [
+          "Create a numbered or bulleted list, change bullet characters or number formats for a list level, define a custom bullet character or number format, increase or decrease list levels, restart or continue list numbering, set starting number value"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and manage references (5-10%)",
+    "skills": [
+      {
+        "label": "Create and manage reference markers",
+        "items": [
+          "Insert footnotes and endnotes, modify footnote and endnote properties, create bibliography citation sources, modify bibliography citation sources, insert citations for bibliographies, insert figure and table captions, modify caption properties"
+        ]
+      },
+      {
+        "label": "Create and manage simple references",
+        "items": [
+          "Insert a standard table of contents, update a table of contents, insert a cover page"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Insert and format graphic elements (20-25%)",
+    "skills": [
+      {
+        "label": "Insert graphic elements",
+        "items": [
+          "Insert shapes, insert pictures, insert a screen shot or screen clipping, insert text boxes"
+        ]
+      },
+      {
+        "label": "Format graphic elements",
+        "items": [
+          "Apply artistic effects, apply picture effects, remove picture backgrounds, format objects, apply a picture style, wrap text around objects, position objects, add alternative text to objects for accessibility"
+        ]
+      },
+      {
+        "label": "Insert and format SmartArt graphics",
+        "items": [
+          "Create a smartart graphic, format a smartart graphic, modify smartart graphic content"
+        ]
+      }
+    ]
+  }
+]

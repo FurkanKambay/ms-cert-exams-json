@@ -1,0 +1,195 @@
+[
+  {
+    "label": "Understand HTML Fundamentals (10-15%)",
+    "skills": [
+      {
+        "label": "Construct markup that uses metadata elements",
+        "items": [
+          "Script",
+          "Noscript",
+          "Style",
+          "Link",
+          "Meta tags, including encoding, keywords, viewport, and translate"
+        ]
+      },
+      {
+        "label": "Construct well-formed markup that conforms to industry best practices",
+        "items": [
+          "Doctype declaration",
+          "Html",
+          "Head",
+          "Body",
+          "Proper syntax, including closing tags and commonly used symbols",
+          "Comments"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand CSS Fundamentals (15-20%)",
+    "skills": [
+      {
+        "label": "Analyze the impact of using inline styles, internal style sheets, and external style sheets",
+        "items": [
+          "When to use inline styles",
+          "When to use internal style sheets",
+          "When to use external style sheets",
+          "Precedence when using a combination of inline styles and style sheets"
+        ]
+      },
+      {
+        "label": "Construct and analyze rule sets",
+        "items": [
+          "Valid syntax for the css rule set",
+          "Selectors, including class, id, elements and pseudo-class"
+        ]
+      },
+      {
+        "label": "Construct well-formed style sheets that conform to industry best practices",
+        "items": [
+          "Reusing rules and rule sets",
+          "Commenting",
+          "Testing on multiple browsers",
+          "Web safe fonts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Structure Documents Using HTML (30-35%)",
+    "skills": [
+      {
+        "label": "Construct and analyze markup to structure content and organize data",
+        "items": [
+          "Table tags",
+          "H1-h6",
+          "P",
+          "Br",
+          "Hr",
+          "Div",
+          "Span",
+          "Ul",
+          "Ol",
+          "Li"
+        ]
+      },
+      {
+        "label": "Construct and analyze markup that uses HTML5 semantic elements",
+        "items": [
+          "Semantic tags",
+          "Header",
+          "Nav",
+          "Section",
+          "Article",
+          "Aside",
+          "Footer",
+          "Details",
+          "Summary",
+          "Figure",
+          "Caption"
+        ]
+      },
+      {
+        "label": "Construct and analyze markup that implements navigation",
+        "items": [
+          "Image links",
+          "A",
+          "Target",
+          "Bookmark",
+          "Relative versus absolute links",
+          "Navigating simple folder hierarchies"
+        ]
+      },
+      {
+        "label": "Construct and analyze markup that uses form elements",
+        "items": [
+          "Form attributes",
+          "Action",
+          "Method",
+          "Submission methods",
+          "Accessibility",
+          "Input types and restrictions",
+          "Select",
+          "Textarea",
+          "Button",
+          "Output",
+          "Option",
+          "Datalist",
+          "Fieldset"
+        ]
+      }
+    ]
+  },
+  {
+    "label": " Present Multimedia Using HTML (10-15%)",
+    "skills": [
+      {
+        "label": "Construct and analyze markup that displays images",
+        "items": [
+          "Img and picture elements and their attributes"
+        ]
+      },
+      {
+        "label": "Describe the appropriate use of the img, svg, and canvas elements",
+        "items": []
+      },
+      {
+        "label": "Construct and analyze markup that plays video and audio",
+        "items": [
+          "Video",
+          "Audio",
+          "Track",
+          "Source",
+          "Simple iframe implementations"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Style Web Pages Using CSS (20-25%)",
+    "skills": [
+      {
+        "label": "Construct and analyze styles that position content",
+        "items": [
+          "Positioning, including float, relative, absolute, max-width, overflow, height, width, and align",
+          "Inline versus block",
+          "Visibility",
+          "Box model, including margins and padding"
+        ]
+      },
+      {
+        "label": "Construct and analyze styles that format text",
+        "items": [
+          "Font-family",
+          "Color",
+          "Font-style",
+          "Font-size",
+          "Font-weight",
+          "Link colors",
+          "Text formatting, including text alignment, text decoration, and indentation"
+        ]
+      },
+      {
+        "label": "Construct and analyze styles that format backgrounds and borders",
+        "items": [
+          "Border-color",
+          "Border-style",
+          "Border-width",
+          "Backgrounds",
+          "Divs",
+          "Colors"
+        ]
+      },
+      {
+        "label": "Analyze styles that implement a simple responsive layout",
+        "items": [
+          "Units of measure",
+          "Responsive effects with css, including viewport and media query",
+          "Percentages versus pixels",
+          "Frameworks and templates",
+          "Max width"
+        ]
+      }
+    ]
+  }
+]

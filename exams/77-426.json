@@ -1,0 +1,58 @@
+[
+  {
+    "label": "Manage and share documents (25–30%)",
+    "skills": [
+      {
+        "label": "Manage multiple documents",
+        "items": [
+          "Modify existing templates, merge multiple documents, manage versions of documents, copy styles from template to template, use the style organizer, copy macros from document to document, link to external data, move building blocks between documents"
+        ]
+      },
+      {
+        "label": "Manage document changes",
+        "items": [
+          "Track changes, manage comments, use markup options, resolve multi-document style conflicts, display all changes"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design advanced documents (25–30%)",
+    "skills": [
+      {
+        "label": "Apply advanced ordering and grouping",
+        "items": [
+          "Create outlines, promote sections in outlines, create master documents, insert subdocuments, link document elements"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create advanced references (25–30%)",
+    "skills": [
+      {
+        "label": "Create and manage indexes",
+        "items": [
+          "Create indexes, update indexes, mark index entries, use index auto-mark files"
+        ]
+      },
+      {
+        "label": "Create and manage reference tables",
+        "items": [
+          "Create a table of contents, create a table of figures, format a table of contents, update a table of authorities, set advanced reference options (captions, footnotes, citations)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create custom Word elements (20–25%)",
+    "skills": [
+      {
+        "label": "Prepare a document for internationalization and accessibility",
+        "items": [
+          "Configure language options in documents, add alt-text to document elements, create documents for use with accessibility tools, manage multiple options for +body and +heading fonts, utilize global content standards, modify tab order in document elements and objects"
+        ]
+      }
+    ]
+  }
+]

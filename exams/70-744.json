@@ -1,0 +1,246 @@
+[
+  {
+    "label": "Implement Server Hardening Solutions (25-30%)",
+    "skills": [
+      {
+        "label": "Configure disk and file encryption",
+        "items": [
+          "Determine hardware and firmware requirements for secure boot and encryption key functionality",
+          "Deploy bitlocker encryption",
+          "Deploy bitlocker without a trusted platform module (tpm)",
+          "Deploy bitlocker with a tpm only",
+          "Configure the network unlock feature",
+          "Configure bitlocker group policy settings",
+          "Enable bitlocker to use secure boot for platform and bcd integrity validation",
+          "Configure bitlocker on cluster shared volumes (csvs) and storage area networks (sans)",
+          "Implement bitlocker recovery process using self-recovery and recovery password retrieval solutions",
+          "Configure bitlocker for virtual machines (vms) in hyper-v",
+          "Determine usage scenarios for encrypting file system (efs)",
+          "Configure the efs recovery agent",
+          "Manage efs and bitlocker certificates, including backup and restore"
+        ]
+      },
+      {
+        "label": "Implement malware protection",
+        "items": [
+          "Implement antimalware solution with windows defender",
+          "Integrate windows defender with wsus and windows update",
+          "Configure windows defender using group policy",
+          "Configure windows defender scans using windows powershell",
+          "Implement applocker rules",
+          "Implement applocker rules using windows powershell",
+          "Implement control flow guard",
+          "Implement code integrity (device guard) policies",
+          "Create code integrity policy rules",
+          "Create code integrity file rules"
+        ]
+      },
+      {
+        "label": "Protect credentials",
+        "items": [
+          "Determine requirements for implementing credential guard",
+          "Configure credential guard using group policy, wmi, command prompt, and windows powershell",
+          "Implement ntlm blocking"
+        ]
+      },
+      {
+        "label": "Create security baselines",
+        "items": [
+          "Install and configure microsoft security compliance toolkit",
+          "Create, view, and import security baselines",
+          "Deploy configurations to domain and non-domain joined servers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Secure a Virtualization Infrastructure (5-10%)",
+    "skills": [
+      {
+        "label": "Implement a Guarded Fabric solution",
+        "items": [
+          "Install and configure the host guardian service (hgs)",
+          "Configure admin-trusted attestation",
+          "Configure tpm-trusted attestation",
+          "Configure the key protection service using hgs",
+          "Migrate shielded vms to other guarded hosts",
+          "Troubleshoot guarded hosts"
+        ]
+      },
+      {
+        "label": "Implement Shielded and encryption-supported VMs",
+        "items": [
+          "Determine requirements and scenarios for implementing shielded vms",
+          "Create a shielded vm using only a hyper-v environment",
+          "Enable and configure vtpm to allow an operating system and data disk encryption within a vm",
+          "Determine requirements and scenarios for implementing encryption-supported vms",
+          "Troubleshoot shielded and encryption-supported vms"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Secure a Network Infrastructure (10-15%)",
+    "skills": [
+      {
+        "label": "Configure Windows Firewall",
+        "items": [
+          "Configure windows firewall with advanced security",
+          "Configure network location profiles",
+          "Configure and deploy profile rules",
+          "Configure firewall rules for multiple profiles using group policy",
+          "Configure connection security rules using group policy, the gui management console, or windows powershell",
+          "Configure windows firewall to allow or deny applications, scopes, ports, and users using group policy, the gui management console, or windows powershell",
+          "Configure authenticated firewall exceptions",
+          "Import and export settings"
+        ]
+      },
+      {
+        "label": "Implement a Software Defined Datacenter Firewall",
+        "items": [
+          "Determine requirements and scenarios for datacenter firewall implementation with software defined networking",
+          "Determine usage scenarios for datacenter firewall policies and network security groups",
+          "Configure datacenter firewall access control lists"
+        ]
+      },
+      {
+        "label": "Secure network traffic",
+        "items": [
+          "Configure ipsec transport and tunnel modes",
+          "Configure ipsec authentication options",
+          "Configure connection security rules",
+          "Implement isolation zones",
+          "Implement domain isolation",
+          "Implement server isolation zones",
+          "Determine smb 3.1.1 protocol security scenarios and implementations",
+          "Enable smb encryption on smb shares",
+          "Configure smb signing via group policy",
+          "Disable smb 1.0",
+          "Secure dns traffic using dnssec and dns policies",
+          "Install and configure microsoft message analyzer (mma) to analyze network traffic"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Privileged Identities (25-30%)",
+    "skills": [
+      {
+        "label": "Implement Just-In-Time (JIT) Administration",
+        "items": [
+          "Create a new administrative (bastion) forest in an existing active directory environment using microsoft identity manager (mim)",
+          "Configure trusts between production and bastion forests",
+          "Create shadow principals in bastion forest",
+          "Configure the mim web portal",
+          "Request privileged access using the mim web portal",
+          "Determine requirements and usage scenarios for privileged access management (pam) solutions",
+          "Create and implement mim policies",
+          "Implement just-in-time administration principals using time-based policies",
+          "Request privileged access using windows powershell"
+        ]
+      },
+      {
+        "label": "Implement Just-Enough-Administration (JEA)",
+        "items": [
+          "Enable a jea solution on windows server 2016",
+          "Create and configure session configuration files",
+          "Create and configure role capability files",
+          "Create a jea endpoint",
+          "Connect to a jea endpoint on a server for administration",
+          "View logs",
+          "Download wmf 5.1 to a windows server 2008 r2",
+          "Configure a jea endpoint on a server using desired state configuration (dsc)"
+        ]
+      },
+      {
+        "label": "Implement Privileged Access Workstations (PAWs) and User Rights Assignments",
+        "items": [
+          "Implement a paws solution",
+          "Configure user rights assignment group policies",
+          "Configure security options settings in group policy",
+          "Enable and configure remote credential guard for remote desktop access",
+          "Implement an enhanced security administrative environment (esae) administrative forest design approach",
+          "Determine usage scenarios and requirements for implementing esae forest design architecture to create a dedicated administrative forest"
+        ]
+      },
+      {
+        "label": "Implement Local Administrator Password Solution (LAPS)",
+        "items": [
+          "Install and configure the laps tool",
+          "Secure local administrator passwords using laps",
+          "Manage password parameters and properties using laps"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Threat Detection Solutions (15-20%)",
+    "skills": [
+      {
+        "label": "Configure advanced audit policies",
+        "items": [
+          "Determine the differences and usage scenarios for using local audit policies and advanced auditing policies",
+          "Implement auditing using group policy and auditpol.exe",
+          "Implement auditing using windows powershell",
+          "Create expression-based audit policies",
+          "Configure the audit pnp activity policy",
+          "Configure the audit group membership policy",
+          "Enable and configure module, script block, and transcription logging in windows powershell"
+        ]
+      },
+      {
+        "label": "Install and configure Microsoft Advanced Threat Analytics (ATA)",
+        "items": [
+          "Determine usage scenarios for ata",
+          "Determine deployment requirements for ata",
+          "Install and configure ata gateway on a dedicated server",
+          "Install and configure ata lightweight gateway directly on a domain controller",
+          "Configure alerts in ata center when suspicious activity is detected",
+          "Review and edit suspicious activities on the attack time line"
+        ]
+      },
+      {
+        "label": "Determine threat detection solutions using Operations Management Suite (OMS)",
+        "items": [
+          "Determine usage and deployment scenarios for oms",
+          "Determine security and auditing functions available for use",
+          "Determine log analytics usage scenarios"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Workload-Specific Security (5-10%)",
+    "skills": [
+      {
+        "label": "Secure application development and server workload infrastructure",
+        "items": [
+          "Determine usage scenarios, supported server workloads, and requirements for deployments",
+          "Install and configure nano server",
+          "Implement security policies on nano servers using desired state configuration (dsc)",
+          "Manage local policy on nano server",
+          "Determine usage scenarios and requirements for windows server and hyper-v containers",
+          "Install and configure containers"
+        ]
+      },
+      {
+        "label": "Implement a secure file services infrastructure and Dynamic Access Control (DAC)",
+        "items": [
+          "Install the file server resource manager (fsrm) role service",
+          "Configure quotas",
+          "Configure file screens",
+          "Configure storage reports",
+          "Configure file management tasks",
+          "Configure file classification infrastructure (fci) using fsrm",
+          "Implement work folders",
+          "Configure file access auditing",
+          "Configure user and device claim types",
+          "Implement policy changes and staging",
+          "Perform access-denied remediation",
+          "Create and configure central access rules and policies",
+          "Create and configure resource properties and lists"
+        ]
+      }
+    ]
+  }
+]

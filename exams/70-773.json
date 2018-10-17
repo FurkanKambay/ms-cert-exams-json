@@ -1,0 +1,166 @@
+[
+  {
+    "label": "Read and explore big data ",
+    "skills": [
+      {
+        "label": "Read data with R Server",
+        "items": [
+          "Read supported data file formats, such as text files, sas, and spss",
+          "Convert data to xdf format",
+          "Identify trade-offs between xdf and flat text files",
+          "Read data through open database connectivity (odbc) data sources",
+          "Read in files from other file systems",
+          "Use an internal data frame as a data source",
+          "Process data from sources that cannot be read natively by r server"
+        ]
+      },
+      {
+        "label": "Summarize data",
+        "items": [
+          "Compute crosstabs and univariate statistics, choose when to use rxcrosstabs versus rxcube, integrate with open source technologies by using packages such as dplyrxdf, use group by functionality, create complex formulas to perform multiple tasks in one pass through the data, extract quantiles by using rxquantile"
+        ]
+      },
+      {
+        "label": "Visualize data",
+        "items": [
+          "Visualize in-memory data with base plotting functions and ggplot2",
+          "Create custom visualizations with rxsummary and rxcube",
+          "Visualize data with rxhistogram and rxlineplot, including faceted plots"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Process big data",
+    "skills": [
+      {
+        "label": "Process data with",
+        "items": [
+          "Rxdatastep"
+        ]
+      },
+      {
+        "label": "Perform complex transforms that use transform functions",
+        "items": [
+          "Define a transform function",
+          "Reshape data by using a transform function",
+          "Use open source packages, such as lubridate",
+          "Pass in values by using transformvars and transformenvir",
+          "Use internal .rx variables and functions for tasks, including cross-chunk communication"
+        ]
+      },
+      {
+        "label": "Manage data sets",
+        "items": [
+          "Sort data in various orders, such as ascending and descending",
+          "Use rxsort deduplication to remove duplicate values",
+          "Merge data sources using rxmerge()",
+          "Merge options and types",
+          "Identify when alternatives to rxsort and rxmerge should be used"
+        ]
+      },
+      {
+        "label": "Process text using RML packages",
+        "items": [
+          "Create features using rml functions, such as featurizetext()",
+          "Create indicator variables and arrays using rml functions, such as categorical() and categoricalhash()",
+          "Perform feature selection using rml functions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build predictive models with ScaleR",
+    "skills": [
+      {
+        "label": "Estimate linear models",
+        "items": [
+          "Use rxlinmod, rxglm, and rxlogit to estimate linear models",
+          "Set the family for a generalized linear model by using functions such as rxtweedie",
+          "Process data on the fly by using the appropriate arguments and functions, such as the f function and transforms argument",
+          "Weight observations through frequency or probability weights",
+          "Choose between different types of automatic variable selections, such as greedy searches, repeated scoring, and byproduct of training",
+          "Identify the impact of missing values during automatic variable selection"
+        ]
+      },
+      {
+        "label": "Build and use partitioning models",
+        "items": [
+          "Use rxdtree, rxdforest, and rxbtrees to build partitioning models",
+          "Adjust the weighting of false positives and misses by using loss",
+          "Select parameters that affect bias and variance, such as pruning, learning rate, and tree depth",
+          "Use as.rpart to interact with open source ecosystems"
+        ]
+      },
+      {
+        "label": "Generate predictions and residuals",
+        "items": [
+          "Use rxpredict to generate predictions",
+          "Perform parallel scoring using rxexec",
+          "Generate different types of predictions, such as link and response scores for glm, response, prob, and vote for rxdforest",
+          "Generate different types of residuals, such as usual, pearson, and dbm"
+        ]
+      },
+      {
+        "label": "Evaluate models and tuning parameters",
+        "items": [
+          "Summarize estimated models",
+          "Run arbitrary code out of process, such as parallel parameter tuning by using rxexec",
+          "Evaluate tree models by using revotreeview and rxvarimpplot",
+          "Calculate model evaluation metrics by using built-in functions",
+          "Calculate model evaluation metrics and visualizations by using custom code, such as mean absolute percentage error and precision recall curves"
+        ]
+      },
+      {
+        "label": "Create additional models using RML packages",
+        "items": [
+          "Build and use a one-class support vector machine, build and use linear and logistic regressions that use l1 and l2 regularization, build and use a decision tree by using fasttree, use fasttree as a recommender with ranking loss (ndcg), build and use a simple three-layer feed-forward neural network"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Use R Server in different environments",
+    "skills": [
+      {
+        "label": "Use different compute contexts to run R Server effectively",
+        "items": [
+          "Change the compute context (rxhadoopmr, rxspark, rxlocalseq, and rxlocalparallel)",
+          "Identify which compute context to use for different tasks",
+          "Use different data source objects, depending on the context (rxodbcdata and rxtextdata)",
+          "Identify and use appropriate data sources for different data sources and compute contexts (hdfs and sql server)",
+          "Debug processes across different compute contexts",
+          "Identify use cases for revopemar"
+        ]
+      },
+      {
+        "label": "Optimize tasks by using local compute contexts",
+        "items": [
+          "Identify and execute tasks that can be run only in the local compute context, identify tasks that are more efficient to run in the local compute context, choose between rxlocalseq and rxlocalparallel, profile across different compute contexts"
+        ]
+      },
+      {
+        "label": "Perform in-database analytics by using SQL Server",
+        "items": [
+          "Choose when to perform in-database versus out-of-database computations, identify limitations of in-database computations, use in-database versus out-of-database compute contexts appropriately, use stored procedures for data processing steps, serialize objects and write back to binary fields in a table, write tables, configure r to optimize sql server ( chunksize, numtasks, and computecontext), effectively communicate performance properties to sql administrators and architects (sql server profiler)"
+        ]
+      },
+      {
+        "label": "Implement analysis workflows in the Hadoop ecosystem and Spark",
+        "items": [
+          "Use appropriate r server functions in spark",
+          "Integrate with hive, pig, and hadoop mapreduce",
+          "Integrate with the spark ecosystem of tools, such as sparklyr and sparkr",
+          "Profile and tune across different compute contexts",
+          "Use dorsr for parallelizing code that was written using open source foreach"
+        ]
+      },
+      {
+        "label": "Deploy predictive models to SQL Server and Azure Machine Learning",
+        "items": [
+          "Deploy predictive models to sql server as a stored procedure, deploy an arbitrary function to azure machine learning by using the azureml r package, identify when to use deployr"
+        ]
+      }
+    ]
+  }
+]

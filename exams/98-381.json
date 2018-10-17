@@ -1,0 +1,164 @@
+[
+  {
+    "label": "Perform Operations using Data Types and Operators (20-25%)",
+    "skills": [
+      {
+        "label": "Evaluate an expression to identify the data type Python will assign to each variable",
+        "items": [
+          "Identify str, int, float, and bool data types"
+        ]
+      },
+      {
+        "label": "Perform data and data type operations",
+        "items": [
+          "Convert from one data type to another type",
+          "Construct data structures",
+          "Perform indexing and slicing operations"
+        ]
+      },
+      {
+        "label": "Determine the sequence of execution based on operator precedence",
+        "items": [
+          "Assignment",
+          "Comparison",
+          "Logical",
+          "Arithmetic",
+          "Identity (is)",
+          "Containment (in)"
+        ]
+      },
+      {
+        "label": "Select the appropriate operator to achieve the intended result",
+        "items": [
+          "Assignment",
+          "Comparison",
+          "Logical",
+          "Arithmetic",
+          "Identity (is)",
+          "Containment (in)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Control Flow with Decisions and Loops (25-30%)",
+    "skills": [
+      {
+        "label": "Construct and analyze code segments that use branching statements",
+        "items": [
+          "If",
+          "Elif",
+          "Else",
+          "Nested and compound conditional expressions"
+        ]
+      },
+      {
+        "label": "Construct and analyze code segments that perform iteration",
+        "items": [
+          "While",
+          "For",
+          "Break",
+          "Continue",
+          "Pass",
+          "Nested loops and loops that include compound conditional expressions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Perform Input and Output Operations (20-25%)",
+    "skills": [
+      {
+        "label": "Construct and analyze code segments that perform file input and output operations",
+        "items": [
+          "Open",
+          "Close",
+          "Read",
+          "Write",
+          "Append",
+          "Check existence",
+          "Delete",
+          "With statement"
+        ]
+      },
+      {
+        "label": "Construct and analyze code segments that perform console input and output operations",
+        "items": [
+          "Read input from console",
+          "Print formatted text",
+          "Use of command line arguments"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Document and Structure Code (15-20%)",
+    "skills": [
+      {
+        "label": "Document code segments using comments and documentation strings",
+        "items": [
+          "Use indentation, white space, comments, and documentation strings",
+          "Generate documentation by using pydoc"
+        ]
+      },
+      {
+        "label": "Construct and analyze code segments that include function definitions",
+        "items": [
+          "Call signatures",
+          "Default values",
+          "Return",
+          "Def",
+          "Pass"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Perform Troubleshooting and Error Handling (5-10%)",
+    "skills": [
+      {
+        "label": "Analyze, detect, and fix code segments that have errors",
+        "items": [
+          "Syntax errors",
+          "Logic errors",
+          "Runtime errors"
+        ]
+      },
+      {
+        "label": "Analyze and construct code segments that handle exceptions",
+        "items": [
+          "Try",
+          "Except",
+          "Else",
+          "Finally",
+          "Raise"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Perform Operations Using Modules and Tools (1-5%)",
+    "skills": [
+      {
+        "label": "Perform basic operations using built-in modules",
+        "items": [
+          "Math",
+          "Datetime",
+          "Io",
+          "Sys",
+          "Os",
+          "Os.path",
+          "Random"
+        ]
+      },
+      {
+        "label": "Solve complex computing problems by using built-in modules",
+        "items": [
+          "Math",
+          "Datetime",
+          "Random"
+        ]
+      }
+    ]
+  }
+]

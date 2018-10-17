@@ -1,0 +1,167 @@
+[
+  {
+    "label": "Manage the application life cycle (20–25%)",
+    "skills": [
+      {
+        "label": "Understand the platform fundamentals",
+        "items": [
+          "Packaging and the runtime environment: app package, app container, credentials/permission sets, host process, leverage existing html5 skills and content for slate/tablet applications"
+        ]
+      },
+      {
+        "label": "Manage the state of an application",
+        "items": [
+          "Manage session state, app state, and persist state information",
+          "Understand states of an application",
+          "Understand the differences between local and session storage"
+        ]
+      },
+      {
+        "label": "Debug and test an HTML5-based, touch-enabled application",
+        "items": [
+          "Touch gestures",
+          "Understand which gestures you test on a device"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build the user interface (UI) by using HTML5 (25–30%)",
+    "skills": [
+      {
+        "label": "Choose and configure HTML5 tags to display text content",
+        "items": []
+      },
+      {
+        "label": "Choose and configure HTML5 tags to display graphics",
+        "items": [
+          "When, why, and how to use canvas",
+          "When, why, and how to use scalable vector graphics (svg)"
+        ]
+      },
+      {
+        "label": "Choose and configure HTML5 tags to play media",
+        "items": [
+          "Video and audio tags"
+        ]
+      },
+      {
+        "label": "Choose and configure HTML5 tags to organize content and forms",
+        "items": [
+          "Tables, lists, sections",
+          "Semantic html"
+        ]
+      },
+      {
+        "label": "Choose and configure HTML5 tags for input and validation",
+        "items": []
+      }
+    ]
+  },
+  {
+    "label": "Format the user interface by using Cascading Style Sheets (CSS) (20–25%)",
+    "skills": [
+      {
+        "label": "Understand the core CSS concepts",
+        "items": [
+          "Separate presentation from content (create content with html and style content with css)",
+          "Manage content flow (inline versus block flow)",
+          "Manage positioning of individual elements( float versus absolute positioning)",
+          "Manage content overflow (scrolling, visible, and hidden)",
+          "Basic css styling"
+        ]
+      },
+      {
+        "label": "Arrange UI content by using CSS",
+        "items": [
+          "Use flexible box and grid layouts to establish content alignment, direction, and orientation",
+          "Proportional scaling and use of \"free scale\" for elements within a flexible box or grid",
+          "Order and arrange content",
+          "Concepts for using flex box for simple layouts and grid for complex layouts",
+          "Grid content properties for rows and columns",
+          "Use application templates"
+        ]
+      },
+      {
+        "label": "Manage the flow of text content by using CSS",
+        "items": [
+          "Regions and using regions to flow text content between multiple sections (content source, content container, dynamic flow, flow-into, flow-from, msregionupdate, msregionoverflow, msgetregioncontent)",
+          "Columns and hyphenation and using these css settings to optimize the readability of text",
+          "Use \"positioned floats\" to create text flow around a floating object"
+        ]
+      },
+      {
+        "label": "Manage the graphical interface by using CSS",
+        "items": [
+          "Graphics effects (rounded corners, shadows, transparency, background gradients, typography, and web open font format)",
+          "Two-dimensional (2-d) and three-dimensional (3-d) transformations (translate, scale, rotate, skew, and 3-d perspective transitions and animations)",
+          "Svg filter effects",
+          "Canvas"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Code by using JavaScript (30–35%)",
+    "skills": [
+      {
+        "label": "Manage and maintain JavaScript",
+        "items": [
+          "Create and use functions",
+          "Jquery and other third-party libraries"
+        ]
+      },
+      {
+        "label": "Update the UI by using JavaScript",
+        "items": [
+          "Locate/access elements",
+          "Listen and respond to events",
+          "Show and hide elements",
+          "Update the content of elements",
+          "Add elements"
+        ]
+      },
+      {
+        "label": "Code animations by using JavaScript",
+        "items": [
+          "Use animation",
+          "Manipulate the canvas",
+          "Work with images, shapes, and other graphics"
+        ]
+      },
+      {
+        "label": "Access data access by using JavaScript",
+        "items": [
+          "Send and receive data",
+          "Transmit complex objects and parsing",
+          "Load and save files",
+          "App cache",
+          "Datatypes",
+          "Forms",
+          "Cookies",
+          "Localstorage"
+        ]
+      },
+      {
+        "label": "Respond to the touch interface",
+        "items": [
+          "Gestures, how to capture and respond to gestures"
+        ]
+      },
+      {
+        "label": "Code additional HTML5 APIs",
+        "items": [
+          "Geolocation, web workers, websocket",
+          "File api"
+        ]
+      },
+      {
+        "label": "Access device and operating system resources",
+        "items": [
+          "In- memory resources, such as contact lists and calendar",
+          "Hardware capabilities, such as gps, accelerometer, and camera"
+        ]
+      }
+    ]
+  }
+]

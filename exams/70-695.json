@@ -1,0 +1,142 @@
+[
+  {
+    "label": "Implement the Operating System Deployment (OSD) infrastructure (20–25%)",
+    "skills": [
+      {
+        "label": "Assess the computing environment",
+        "items": [
+          "Configure and implement the microsoft assessment and planning (map) toolkit, assess configuration manager reports, integrate map with microsoft system center configuration manager, determine network load capacity"
+        ]
+      },
+      {
+        "label": "Plan and implement user state migration",
+        "items": [
+          "Design considerations, including determining which user data and settings to preserve, hard-link versus remote storage, mitigation plan for non-migrated applications, and wipe-and-load migration versus side-by-side migration",
+          "Estimate migration store size",
+          "Secure migrated data",
+          "Create a user state migration tool (usmt) package, select between in-place upgrade and migration, deploy windows as compact os"
+        ]
+      },
+      {
+        "label": "Configure the deployment infrastructure",
+        "items": [
+          "Configure windows deployment services (wds), install and configure microsoft deployment toolkit (mdt), identify network services that support deployments, select configuration manager distribution points, support bitlocker"
+        ]
+      },
+      {
+        "label": "Configure and manage activation",
+        "items": [
+          "Configure kms, mak, and active directory–based activation",
+          "Identify the appropriate activation tool"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement a Lite Touch deployment (15–20%)",
+    "skills": [
+      {
+        "label": "Install and configure WDS",
+        "items": [
+          "Configure unicast/multicast, add images to wds, configure scheduling, restrict who can receive images"
+        ]
+      },
+      {
+        "label": "Configure MDT",
+        "items": [
+          "Configure deployment shares, manage the driver pool, configure task sequences, configure customsettings.ini"
+        ]
+      },
+      {
+        "label": "Create and manage answer files",
+        "items": [
+          "Identify the appropriate location for answer files, identify the required number of answer files, identify the appropriate setup phase for answer files, configure answer file settings, create autounattend.xml answer files, use windows imaging and configuration designer"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement a Zero Touch deployment (20–25%)",
+    "skills": [
+      {
+        "label": "Configure Configuration Manager for OSD",
+        "items": [
+          "Configure deployment packages and applications, configure task sequences, manage the driver pool, manage boot and deployment images"
+        ]
+      },
+      {
+        "label": "Configure distribution points",
+        "items": [
+          "Configure unicast/multicast, configure pxe, configure deployments to distribution points and distribution point groups"
+        ]
+      },
+      {
+        "label": "Configure MDT and Configuration Manager integration",
+        "items": [
+          "Use mdt-specific task sequences",
+          "Create mdt boot images",
+          "Create custom task sequences, using mdt components"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and maintain device images (20–25%)",
+    "skills": [
+      {
+        "label": "Plan images",
+        "items": [
+          "Design considerations, including thin, thick, and hybrid images, wds image types, image format (vhd or wim), number of images based on operating system or hardware platform, drivers, and operating features, for example, desktop, mobile, and iot"
+        ]
+      },
+      {
+        "label": "Capture images",
+        "items": [
+          "Prepare the operating system for capture, create capture images using wds, capture an image to an existing or new wim file, capture an operating system image using configuration manager"
+        ]
+      },
+      {
+        "label": "Maintain images",
+        "items": [
+          "Update images using dism",
+          "Apply updates, drivers, settings, and files to online and offline images",
+          "Apply service packs to images",
+          "Manage embedded applications"
+        ]
+      },
+      {
+        "label": "Modify Windows installations",
+        "items": [
+          "Build packages",
+          "Provision packages to modify existing windows installations"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Prepare and deploy the application environment (20–25%)",
+    "skills": [
+      {
+        "label": "Plan for and implement application compatibility and remediation",
+        "items": [
+          "Planning considerations, including rds, vdi, client hyper-v, and 32 bit versus 64 bit",
+          "Plan for application version co-existence",
+          "Use the application compatibility toolkit (act)",
+          "Deploy compatibility fixes"
+        ]
+      },
+      {
+        "label": "Deploy Office by using MSI",
+        "items": [
+          "Customize deployment, manage office activation, manage office settings, integrate lite touch deployment, re-arm office, provide slipstream updates"
+        ]
+      },
+      {
+        "label": "Deploy Office by using click-to-run (C2R)",
+        "items": [
+          "Configure licensing, customize deployment, configure updates, monitor usage by using the telemetry dashboard"
+        ]
+      }
+    ]
+  }
+]

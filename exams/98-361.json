@@ -1,0 +1,170 @@
+[
+  {
+    "label": "Understanding core programming (15-20%)",
+    "skills": [
+      {
+        "label": "Understand computer storage and data types",
+        "items": [
+          "How a computer stores programs and the instructions in computer memory, memory stacks and heaps, memory size requirements for the various data storage types, numeric data and textual data"
+        ]
+      },
+      {
+        "label": "Understand computer decision structures",
+        "items": [
+          "Various decision structures used in all computer programming languages",
+          "If decision structures",
+          "Multiple decision structures, such as if…else and switch/select case",
+          "Reading flowcharts",
+          "Decision tables",
+          "Evaluating expressions"
+        ]
+      },
+      {
+        "label": "Identify the appropriate method for handling repetition",
+        "items": [
+          "For loops, while loops, do...while loops, and recursion"
+        ]
+      },
+      {
+        "label": "Understand error handling",
+        "items": [
+          "Structured exception handling"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding object-oriented programming (20-25%)",
+    "skills": [
+      {
+        "label": "Understand the fundamentals of classes",
+        "items": [
+          "Properties, methods, events, and constructors",
+          "How to create a class",
+          "How to use classes in code"
+        ]
+      },
+      {
+        "label": "Understand inheritance",
+        "items": [
+          "Inheriting the functionality of a base class into a derived class"
+        ]
+      },
+      {
+        "label": "Understand polymorphism",
+        "items": [
+          "Extending the functionality in a class after inheriting from a base class, overriding methods in the derived class"
+        ]
+      },
+      {
+        "label": "Understand encapsulation",
+        "items": [
+          "Creating classes that hide their implementation details while still allowing access to the required functionality through the interface, access modifiers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding general software development (15-20%)",
+    "skills": [
+      {
+        "label": "Understand application life cycle management",
+        "items": [
+          "Phases of application life cycle management, software testing"
+        ]
+      },
+      {
+        "label": "Interpret application specifications",
+        "items": [
+          "Reading application specifications and translating them into prototypes, code, select appropriate application type, and components"
+        ]
+      },
+      {
+        "label": "Understand algorithms and data structures",
+        "items": [
+          "Arrays, stacks, queues, linked lists, and sorting algorithms",
+          "Performance implications of various data structures",
+          "Choosing the right data structure"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding web applications (15-20%)",
+    "skills": [
+      {
+        "label": "Understand web page development",
+        "items": [
+          "Html, cascading style sheets (css), javascript"
+        ]
+      },
+      {
+        "label": "Understand Microsoft ASP.NET web application development",
+        "items": [
+          "Page life cycle, event model, state management, client-side versus server-side programming"
+        ]
+      },
+      {
+        "label": "Understand web hosting",
+        "items": [
+          "Creating virtual directories and websites, deploying web applications, understanding the role of internet information services"
+        ]
+      },
+      {
+        "label": "Understand web services",
+        "items": [
+          "Web services that will be consumed by client applications, accessing web services from a client application, soap and web service definition language (wsdl)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding desktop applications (15-20%)",
+    "skills": [
+      {
+        "label": "Understand Windows apps",
+        "items": [
+          "Ui design guideline categories, characteristics and capabilities of store apps, identify gestures"
+        ]
+      },
+      {
+        "label": "Understand console-based applications",
+        "items": [
+          "Characteristics and capabilities of console-based applications"
+        ]
+      },
+      {
+        "label": "Understand Windows Services",
+        "items": [
+          "Characteristics and capabilities of windows services"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding databases (15-20%)",
+    "skills": [
+      {
+        "label": "Understand relational database management systems",
+        "items": [
+          "Characteristics and capabilities of database products, database design, entity relationship diagrams (erds), normalization concepts"
+        ]
+      },
+      {
+        "label": "Understand database query methods",
+        "items": [
+          "Structured query language (sql), creating and accessing stored procedures, updating data and selecting data"
+        ]
+      },
+      {
+        "label": "Understand database connection methods",
+        "items": [
+          "Connecting to various types of data stores, such as flat file",
+          "Xml file",
+          "In-memory object",
+          "Resource optimization"
+        ]
+      }
+    ]
+  }
+]

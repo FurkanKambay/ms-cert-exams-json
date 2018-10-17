@@ -1,0 +1,230 @@
+[
+  {
+    "label": "Plan and design Skype for Business (35–40%)",
+    "skills": [
+      {
+        "label": "Plan Skype for Business site topology",
+        "items": [
+          "Evaluate user distribution for central and branch site design",
+          "Associate workloads to business requirements",
+          "Analyze business requirements and capacity requirements",
+          "Plan skype for business architecture",
+          "Analyze and design skype for business sip domains including shared sip namespaces(split domain)",
+          "Plan for skype for business online dependencies"
+        ]
+      },
+      {
+        "label": "Plan Skype for Business Server support infrastructure",
+        "items": [
+          "Define certificate requirements for internal servers",
+          "Analyze and design load balancing, plan for dns, sql, ad ds, and file store",
+          "Assess network requirements including expressroute",
+          "Plan for optimal conferencing traffic, capacity, and qos support",
+          "Estimate network usage and capacity including internal network and skype for business online service requirements"
+        ]
+      },
+      {
+        "label": "Plan Skype for Business Servers",
+        "items": [
+          "Define server roles",
+          "Analyze hardware requirements",
+          "Determine storage requirements for archiving and monitoring",
+          "Determine operating system version requirements",
+          "Determine operating system dependencies",
+          "Define virtualization requirements"
+        ]
+      },
+      {
+        "label": "Design a Skype for Business Server high availability/disaster recovery (HA/DR) solution",
+        "items": [
+          "Design a strategy for central and branch office scenarios, resiliency, sql mirroring, sql alwayson failover clustering instances and sql alwayson availability groups, load balancing, and geo dns",
+          "Define failover scenarios"
+        ]
+      },
+      {
+        "label": "Design conferencing",
+        "items": [
+          "Design dial-in conferencing including conference access numbers and conferencing regions, conferencing lifecycle, conferencing policies, video interoperability server (vis), office online server (oos), and skype meeting broadcast"
+        ]
+      },
+      {
+        "label": "Design Skype for Business remote and external access using Edge Services",
+        "items": [
+          "Design federation including skype consumer connectivity, skype for business online, and xmpp",
+          "Design for mobility",
+          "Design for directors",
+          "Design for remote user access",
+          "Define certificate requirements for remote servers",
+          "Analyze and design firewall requirements, load balancing, dns, and reverse proxy, split tunneling strategies"
+        ]
+      },
+      {
+        "label": "Plan for Skype for Business clients and user experiences",
+        "items": [
+          "Plan contact list management, client version control, privacy, address book web search/download, skype for business mobility, client authentication options, skype for business users for vdi, and corporate access to skype for business online",
+          "Design for client ui experience",
+          "Plan for skype for business room system"
+        ]
+      },
+      {
+        "label": "Plan migration and upgrade from previous versions",
+        "items": [
+          "Plan the migration sequence",
+          "Plan for in-place upgrade",
+          "Decommission old servers",
+          "Monitoring and archiving server roles",
+          "Plan for co-existence with previous server versions",
+          "Upgrade from mirroring to alwayson"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deploy and configure Skype for Business (30–35%)",
+    "skills": [
+      {
+        "label": "Configure and publish topology",
+        "items": [
+          "Create skype for business roles",
+          "Create gateways and trunks",
+          "Add/remove server features",
+          "Deploy edge server",
+          "Deploy sql ha options, create office online server"
+        ]
+      },
+      {
+        "label": "Configure conferencing",
+        "items": [
+          "Create pin policy, regions and conference dial-in access numbers, meeting configuration, conference policies, mediation server co-location, and trunks and gateways",
+          "Configure skype meeting broadcast"
+        ]
+      },
+      {
+        "label": "Configure Skype for Business remote and external access",
+        "items": [
+          "Configure federation, including skype consumer connectivity, skype for business online, and xmpp",
+          "Configure mobility policies and remote user access policies",
+          "Configure load balancing, dns, and reverse proxy"
+        ]
+      },
+      {
+        "label": "Deploy and configure clients",
+        "items": [
+          "Configure skype for business client features, client policies, and client security options",
+          "Deploy skype for business users for vdi",
+          "Deploy skype for business room system"
+        ]
+      },
+      {
+        "label": "Migrate and upgrade from previous versions and/or Skype for Business Online",
+        "items": [
+          "Consolidate servers to a supported single version",
+          "Move users",
+          "Migrate response groups or lis",
+          "Move cms or file share data",
+          "Transition to sql alwayson",
+          "Perform in-place upgrade",
+          "Configure clients for skype for business online",
+          "Enable or move users to skype for business online",
+          "Migrate user settings",
+          "Migrate to skype for business online"
+        ]
+      },
+      {
+        "label": "Configure HA/DR",
+        "items": [
+          "Configure pool pairing, configure geo dns for site failover, configure sql ha"
+        ]
+      },
+      {
+        "label": "Deploy and configure monitoring and archiving services",
+        "items": [
+          "Deploy monitoring reports",
+          "Configure cdr and quality of experience",
+          "Configure archiving storage",
+          "Configure archiving and ediscovery with exchange including exchange online, archiving policies, media quality dashboard (mqd), and server-side conversation history"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and troubleshoot Skype for Business (30–35%)",
+    "skills": [
+      {
+        "label": "Manage and troubleshoot conferencing and application sharing",
+        "items": [
+          "Manage and troubleshoot conferencing auto attendant (caa), conference announcement service (cas), contact objects, and conference directories",
+          "Troubleshoot web scheduler, multipoint control unit (mcu) health, simple urls (join launcher), uc add-in for microsoft outlook",
+          "Manage and troubleshoot multi-party video, server resources, media relay, and third-party interop",
+          "Troubleshoot microsoft powerpoint presentation connections, office web app server configurations, and dataproxy",
+          "Troubleshoot skype meeting broadcast."
+        ]
+      },
+      {
+        "label": "Manage and troubleshoot sign-in, presence, and client configuration",
+        "items": [
+          "Manage and troubleshoot dns, certificates, registration, network connectivity including expressroute, authentication, and auto-discover",
+          "Manage and troubleshoot aggregation (oof, calendar, machine, and user), enhanced privacy, subscriptions, contact list, and privacy relationship",
+          "Manage and troubleshoot file transfer, policy assignment, url filtering, client version filtering, gpo, and skype for business online"
+        ]
+      },
+      {
+        "label": "Manage and troubleshoot federation and remote access",
+        "items": [
+          "Manage and troubleshoot federation, including skype consumer connectivity, xmpp, and skype for business online federation types (open, direct, and enhanced), federation policy, and legacy interop",
+          "Troubleshoot mobile auto-discover issues, mobile device usage issues, mobile callback feature, push notification, call establishment, and mobile conference data"
+        ]
+      },
+      {
+        "label": "Manage and troubleshoot Address Book",
+        "items": [
+          "Configure address book",
+          "Troubleshoot normalization, local versus web lookup, internal file download, external file download, address book generation, and contact merge"
+        ]
+      },
+      {
+        "label": "Manage and troubleshoot high availability and resiliency",
+        "items": [
+          "Manage and troubleshoot the backup service, server storage replication, and file share replication by using dfs",
+          "Manage single server failure (skype for business, sql)",
+          "Manage data center failure, including cms and branch survivability",
+          "Backup and restore application service data",
+          "Manage filestore data and contacts",
+          "Maintain and recover skype for business topology",
+          "Recover cms"
+        ]
+      },
+      {
+        "label": "Identify issues by using troubleshooting tools",
+        "items": [
+          "Interpret skype for business monitoring reports, and identify potential issues",
+          "Configure synthetic transactions",
+          "Test connectivity with powershell test cmdlets",
+          "Configure core reliability and media quality monitoring",
+          "Verify service health and cms replication",
+          "Recover from failed server build",
+          "Analyze event viewer",
+          "Enable best practice analyzer",
+          "Verify name resolution",
+          "Identify issues using clslogging scenarios",
+          "Use snooper for log analysis",
+          "Identify issues using a network packet analyzer, cls logger, event viewer, and performance monitor",
+          "Analyze signaling and media call flow for skype for business for online users",
+          "Validate connectivity for online users",
+          "Use microsoft online services diagnostics and logging support toolkit"
+        ]
+      },
+      {
+        "label": "Manage and troubleshoot topology and dependent infrastructure",
+        "items": [
+          "Enable or move skype for business users",
+          "Configure role-based access control (rbac)",
+          "Manage and troubleshoot dns",
+          "Manage rgs delegated administration",
+          "Troubleshoot database synchronization issues, including sql ha and lyss replication, topology replication, iis, user placement, and rbac rights assignment",
+          "Troubleshoot certificates"
+        ]
+      }
+    ]
+  }
+]

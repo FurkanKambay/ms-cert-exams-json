@@ -1,0 +1,85 @@
+[
+  {
+    "label": "Consume and Transform Data by Using Microsoft Excel (30-35%)",
+    "skills": [
+      {
+        "label": "Import from data sources",
+        "items": [
+          "Connect to and import from databases, files, and folders",
+          "Connect to microsoft sql azure, big data, sql server analysis services (ssas), and power query",
+          "Import supported file types",
+          "Import from other excel workbooks",
+          "Link to data from other sources"
+        ]
+      },
+      {
+        "label": "Perform data transformations",
+        "items": [
+          "Design and implement basic and advanced transformations, apply business rules, change data format to support visualization, filter data, format data"
+        ]
+      },
+      {
+        "label": "Cleanse data",
+        "items": [
+          "Manage incomplete data",
+          "Handle data received as a report",
+          "Remove unnecessary rows, columns, and data",
+          "Remove repeating headers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Model Data (35-40%)",
+    "skills": [
+      {
+        "label": "Create and optimize data models",
+        "items": [
+          "Manage data relationships, optimize models for reporting, manually enter data, perform get & transform, create automatic relationships, create manual relationships"
+        ]
+      },
+      {
+        "label": "Create calculated columns, measures, and tables",
+        "items": [
+          "Create dax queries, create dax formulas, create excel formulas"
+        ]
+      },
+      {
+        "label": "Create performance KPIs",
+        "items": [
+          "Calculate the actual value, calculate the target value, calculate actual to target values"
+        ]
+      },
+      {
+        "label": "Create hierarchies",
+        "items": [
+          "Create date hierarchies, create business hierarchies, resolve hierarchy issues"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Visualize Data (30-35%)",
+    "skills": [
+      {
+        "label": "Create and manage PivotTables",
+        "items": [
+          "Format pivottables and pivotcharts, format calculated measures, filter data, group and summarize data"
+        ]
+      },
+      {
+        "label": "Create and manage PivotCharts",
+        "items": [
+          "Select a chart type, format calculated measures, filter data",
+          "Group and summarize data, use slicers"
+        ]
+      },
+      {
+        "label": "Interact with Power BI",
+        "items": [
+          "Import excel data from power bi, manipulate excel data in power bi"
+        ]
+      }
+    ]
+  }
+]

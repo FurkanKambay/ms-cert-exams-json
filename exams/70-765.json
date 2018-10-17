@@ -1,0 +1,71 @@
+[
+  {
+    "label": "Implement SQL in Azure (40–45%)",
+    "skills": [
+      {
+        "label": "Deploy a Microsoft Azure SQL Database",
+        "items": [
+          "Choose a service tier, create servers and databases, create a sysadmin account, configure elastic pools"
+        ]
+      },
+      {
+        "label": "Plan for SQL Server installation",
+        "items": [
+          "Plan for an iaas or on-premises deployment, select the appropriate size for a virtual machine, plan storage pools based on performance requirements, evaluate best practices for installation, design a storage layout for a sql server virtual machine"
+        ]
+      },
+      {
+        "label": "Deploy SQL Server instances",
+        "items": [
+          "Deploy a sql server instance in iaas and on-premises, manually install sql server on an azure virtual machine, provision an azure virtual machine to host a sql server instance, automate the deployment of sql server databases, deploy sql server by using templates"
+        ]
+      },
+      {
+        "label": "Deploy SQL Server databases to Azure virtual machines",
+        "items": [
+          "Migrate an on-premises sql server database to an azure virtual machine, generate benchmark data for performance needs, perform performance tuning on azure iaas, support availability sets in azure"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage databases and instances (30-35%)",
+    "skills": [
+      {
+        "label": "Configure secure access to Microsoft Azure SQL Databases",
+        "items": [
+          "Configure firewall rules, configure always encrypted for azure sql database, configure cell-level encryption, configure dynamic data masking, configure transparent data encryption (tde)"
+        ]
+      },
+      {
+        "label": "Configure SQL Server performance settings",
+        "items": [
+          "Configure database performance settings, configure max server memory, configure the database scope, configure operators and alerts"
+        ]
+      },
+      {
+        "label": "Manage SQL Server instances",
+        "items": [
+          "Create databases, manage files and file groups, manage system database files, configure tempdb"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Storage (30–35%)",
+    "skills": [
+      {
+        "label": "Manage SQL Storage",
+        "items": [
+          "Manage smb file shares, manage stretch databases, configure azure storage, change service tiers, review wait statistics, manage storage pools, recover from failed storage"
+        ]
+      },
+      {
+        "label": "Perform database maintenance",
+        "items": [
+          "Monitor dmvs, maintain indexes, automate maintenance tasks, update statistics, verify database integrity, recover from database corruption"
+        ]
+      }
+    ]
+  }
+]

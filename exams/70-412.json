@@ -1,0 +1,244 @@
+[
+  {
+    "label": "Configure and Manage High Availability",
+    "skills": [
+      {
+        "label": "Configure Network Load Balancing (NLB)",
+        "items": [
+          "Install nlb nodes",
+          "Configure nlb prerequisites",
+          "Configure affinity",
+          "Configure port rules",
+          "Configure cluster operation mode",
+          "Upgrade an nlb cluster"
+        ]
+      },
+      {
+        "label": "Configure failover clustering",
+        "items": [
+          "Configure quorum",
+          "Configure cluster networking",
+          "Restore single node or cluster configuration",
+          "Configure cluster storage",
+          "Implement cluster aware updating",
+          "Upgrade a cluster",
+          "Configure and optimize clustered shared volumes",
+          "Configure clusters without network names",
+          "Configure storage spaces"
+        ]
+      },
+      {
+        "label": "Manage failover clustering roles",
+        "items": [
+          "Configure role-specific settings including continuously available shares",
+          "Configure vm monitoring",
+          "Configure failover and preference settings",
+          "Configure guest clustering"
+        ]
+      },
+      {
+        "label": "Manage Virtual Machine (VM) movement",
+        "items": [
+          "Perform live migration",
+          "Perform quick migration",
+          "Perform storage migration",
+          "Import, export, and copy vms",
+          "Configure virtual machine network health protection",
+          "Configure drain on shutdown"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure File and Storage Solutions",
+    "skills": [
+      {
+        "label": "Configure advanced file services",
+        "items": [
+          "Configure nfs data store",
+          "Configure branchcache",
+          "Configure file classification infrastructure (fci) using file server resource manager (fsrm)",
+          "Configure file access auditing"
+        ]
+      },
+      {
+        "label": "Implement Dynamic Access Control (DAC)",
+        "items": [
+          "Configure user and device claim types",
+          "Implement policy changes and staging",
+          "Perform access-denied remediation",
+          "Configure file classification",
+          "Create and configure central access rules and policies",
+          "Create and configure resource properties and lists"
+        ]
+      },
+      {
+        "label": "Configure and optimize storage",
+        "items": [
+          "Configure iscsi target and initiator",
+          "Configure internet storage name server (isns)",
+          "Implement thin provisioning and trim",
+          "Manage server free space using features on demand",
+          "Configure tiered storage"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Business Continuity and Disaster Recovery",
+    "skills": [
+      {
+        "label": "Configure and manage backups",
+        "items": [
+          "Configure windows server backups",
+          "Configure windows azure backups",
+          "Configure role-specific backups",
+          "Manage vss settings using vssadmin"
+        ]
+      },
+      {
+        "label": "Recover servers",
+        "items": [
+          "Restore from backups",
+          "Perform a bare metal restore (bmr)",
+          "Recover servers using windows recovery environment (win re) and safe mode",
+          "Configure the boot configuration data (bcd) store"
+        ]
+      },
+      {
+        "label": "Configure site-level fault tolerance",
+        "items": [
+          "Configure hyper-v replica including hyper-v replica broker and vms",
+          "Configure multi-site clustering including network settings, quorum, and failover settings",
+          "Configure hyper-v replica extended replication",
+          "Configure global update manager",
+          "Recover a multi-site failover cluster"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Network Services",
+    "skills": [
+      {
+        "label": "Implement an advanced Dynamic Host Configuration Protocol (DHCP) solution",
+        "items": [
+          "Create and configure superscopes and multicast scopes",
+          "Implement dhcpv6",
+          "Configure high availability for dhcp including dhcp failover and split scopes",
+          "Configure dhcp name protection",
+          "Configure dns registration"
+        ]
+      },
+      {
+        "label": "Implement an advanced DNS solution",
+        "items": [
+          "Configure security for dns including dnssec, dns socket pool, and cache locking",
+          "Configure dns logging",
+          "Configure delegated administration",
+          "Configure recursion",
+          "Configure netmask ordering",
+          "Configure a globalnames zone",
+          "Analyze zone level statistics"
+        ]
+      },
+      {
+        "label": "Deploy and manage IPAM",
+        "items": [
+          "Provision ipam manually or by using group policy",
+          "Configure server discovery",
+          "Create and manage ip blocks and ranges",
+          "Monitor utilization of ip address space",
+          "Migrate to ipam",
+          "Delegate ipam administration",
+          "Manage ipam collections",
+          "Configure ipam database storage"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure the Active Directory Infrastructure",
+    "skills": [
+      {
+        "label": "Configure a forest or a domain",
+        "items": [
+          "Implement multi-domain and multi-forest active directory environments including interoperability with previous versions of active directory",
+          "Upgrade existing domains and forests including environment preparation and functional levels",
+          "Configure multiple user principal name (upn) suffixes"
+        ]
+      },
+      {
+        "label": "Configure trusts",
+        "items": [
+          "Configure external, forest, shortcut, and realm trusts",
+          "Configure trust authentication",
+          "Configure sid filtering",
+          "Configure name suffix routing"
+        ]
+      },
+      {
+        "label": "Configure sites",
+        "items": [
+          "Configure sites and subnets",
+          "Create and configure site links",
+          "Manage site coverage",
+          "Manage registration of srv records",
+          "Move domain controllers between sites"
+        ]
+      },
+      {
+        "label": "Manage Active Directory and SYSVOL replication",
+        "items": [
+          "Configure replication to read-only domain controllers (rodcs)",
+          "Configure password replication policy (prp) for rodcs",
+          "Monitor and manage replication",
+          "Upgrade sysvol replication to distributed file system replication (dfsr)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Access and Information Protection Solutions",
+    "skills": [
+      {
+        "label": "Implement Active Directory Federation Services (AD FS)",
+        "items": [
+          "Install ad fs",
+          "Implement claims-based authentication including relying party trusts",
+          "Configure authentication policies",
+          "Configure multi-factor authentication"
+        ]
+      },
+      {
+        "label": "Install and configure Active Directory Certificate Services (AD CS)",
+        "items": [
+          "Install an enterprise certificate authority (ca)",
+          "Configure crl distribution points",
+          "Install and configure online responder",
+          "Implement administrative role separation",
+          "Configure ca backup and recovery"
+        ]
+      },
+      {
+        "label": "Manage certificates",
+        "items": [
+          "Manage certificate templates",
+          "Implement and manage certificate deployment, validation, and revocation",
+          "Manage certificate renewal",
+          "Manage certificate enrollment and renewal to computers and users using group policies",
+          "Configure and manage key archival and recovery"
+        ]
+      },
+      {
+        "label": "Install and configure Active Directory Rights Management Services (AD RMS)",
+        "items": [
+          "Install a licensing or certificate ad rms server",
+          "Manage ad rms service connection point (scp)",
+          "Manage rms templates",
+          "Configure exclusion policies, back up and restore ad rms"
+        ]
+      }
+    ]
+  }
+]

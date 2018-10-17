@@ -1,0 +1,175 @@
+[
+  {
+    "label": "Administer Microsoft Dynamics CRM (20–25%)",
+    "skills": [
+      {
+        "label": "Identify deployment considerations",
+        "items": [
+          "Describe the hardware and software requirements for microsoft dynamics crm",
+          "Explain the role of supporting technologies, including active directory, active directory federation services (adfs), microsoft sharepoint, microsoft exchange, and the secure token service",
+          "Identify supported browsers"
+        ]
+      },
+      {
+        "label": "Plan an implementation",
+        "items": [
+          "Identify the required active directory groups, identify the microsoft dynamics crm licensing model and license types, explain product key types and access mode types, plan multiple organizations, plan how to access microsoft dynamics crm"
+        ]
+      },
+      {
+        "label": "Configure Microsoft Dynamics CRM Online",
+        "items": [
+          "Install sample data, install and configure language packs, install the email router, configure server synchronization, configure sharepoint integration"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Administer Microsoft Dynamics CRM Online (15–20%)",
+    "skills": [
+      {
+        "label": "Plan a deployment",
+        "items": [
+          "Identify options for accessing crm data",
+          "Describe licensing plans",
+          "Identify requirements",
+          "Customize microsoft dynamics crm online",
+          "Create user accounts",
+          "Manage subscriptions, licenses, and user accounts",
+          "Assign users to security roles"
+        ]
+      },
+      {
+        "label": "Deploy Microsoft Dynamics CRM Online",
+        "items": [
+          "Create a deployment plan, identify objects that you can customize, implement customizations, grant users access to microsoft dynamics crm online, compare microsoft online services administrative roles and microsoft dynamics crm online security roles, provision users and assign licenses"
+        ]
+      },
+      {
+        "label": "Manage Microsoft Dynamics CRM Online instances",
+        "items": [
+          "Compare multiple instances versus multiple tenants, describe reasons to implement multiple instances, add instances to a subscription, configure instances, copy instances, identify features and constraints of a multi-tenant deployment, create a sandbox organization, copy an organization"
+        ]
+      },
+      {
+        "label": "Manage Microsoft Dynamics CRM Online",
+        "items": [
+          "Prepare for updates",
+          "Import solutions",
+          "Manage email notifications",
+          "Configure microsoft dynamics crm to use exchange online, lync, sharepoint online, and yammer",
+          "Add storage",
+          "Free storage space"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Upgrade a Microsoft Dynamics CRM edition and redeploy Microsoft Dynamics CRM (15–20%)",
+    "skills": [
+      {
+        "label": "Select an upgrade strategy",
+        "items": [
+          "Describe upgrade paths, processes, and supported upgrade editions",
+          "Identify upgrade considerations"
+        ]
+      },
+      {
+        "label": "Upgrade Microsoft Dynamics CRM and other components",
+        "items": [
+          "Upgrade the email router, upgrade microsoft dynamics crm for microsoft outlook, import and update organization"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and manage email (10–15%)",
+    "skills": [
+      {
+        "label": "Configure email and message processing",
+        "items": [
+          "Identify email process options",
+          "Explain the advantages and disadvantages of email processing options",
+          "Track email, appointments, tasks, and contacts",
+          "Configure automatic email tracking",
+          "Configure correlation",
+          "Monitor individual mailboxes",
+          "Identify available synchronization methods",
+          "Manage synchronization filters"
+        ]
+      },
+      {
+        "label": "Install and configure the Microsoft Dynamics CRM Email Router",
+        "items": [
+          "Identify supported email systems and windows operating systems",
+          "Install the email router",
+          "Install the rule deployment wizard",
+          "Create incoming and outgoing email profiles, deploy inbox rules and forwarding rules",
+          "Create and monitor a forward mailbox",
+          "Migrate email router settings"
+        ]
+      },
+      {
+        "label": "Configure server-side synchronization",
+        "items": [
+          "Describe the features of and identify supported configurations",
+          "Enable and configure server-side synchronization",
+          "Configure exchange online",
+          "Synchronize appointments, contacts, and tasks"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Install and deploy other client tools for Microsoft Dynamics CRM (15–20%)",
+    "skills": [
+      {
+        "label": "Identify hardware and software requirements for the Microsoft Outlook client",
+        "items": [
+          "Identify minimum hardware requirements, identify supported operating systems, identify supported outlook versions, identify supported internet browsers"
+        ]
+      },
+      {
+        "label": "Install and upgrade the Microsoft Outlook client",
+        "items": [
+          "Identify deployment methods, install the client, prepare a configuration file and install the client by using the command prompt"
+        ]
+      },
+      {
+        "label": "Configure the Microsoft Outlook client",
+        "items": [
+          "Use the configuration wizard for on-premises or hosted organizations, work online and offline, configure multiple organizations, configure user email settings, create and modify data synchronization filters"
+        ]
+      },
+      {
+        "label": "Install and configure the client for tablets and phones",
+        "items": [
+          "Identify supported mobile platforms, install the app, configure security permissions required to use the app, troubleshoot the app, capture trace logs"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and troubleshoot a Microsoft Dynamics CRM deployment (15–20%)",
+    "skills": [
+      {
+        "label": "Manage system jobs",
+        "items": [
+          "Describe system job types, view and delete system jobs, limit the number of asynchronous jobs, delete records, use the bulk deletion wizard"
+        ]
+      },
+      {
+        "label": "Monitor and troubleshoot Microsoft Dynamics CRM",
+        "items": [
+          "Configure tracing for microsoft dynamics crm for microsoft outlook, discuss the microsoft dynamics marketplace"
+        ]
+      },
+      {
+        "label": "Manage data encryption",
+        "items": [
+          "Describe data encryption, identify attributes that support encryption, identify required privileges to manage encryption"
+        ]
+      }
+    ]
+  }
+]

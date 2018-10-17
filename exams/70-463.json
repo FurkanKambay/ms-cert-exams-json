@@ -1,0 +1,298 @@
+[
+  {
+    "label": "Design and implement a data warehouse (10–15%)\r\n",
+    "skills": [
+      {
+        "label": "Design and implement dimensions",
+        "items": [
+          "Design shared/conformed dimensions",
+          "Determine if you need support for slowly changing dimensions",
+          "Determine attributes",
+          "Design hierarchies",
+          "Determine whether you need star or snowflake schema",
+          "Determine the granularity of relationship with fact tables",
+          "Determine the need for auditing or lineage",
+          "Determine keys (business transactional or your own data warehouse/surrogate keys)",
+          "Implement dimensions",
+          "Implement data lineage of a dimension table"
+        ]
+      },
+      {
+        "label": "Design and implement fact tables",
+        "items": [
+          "Design a data warehouse that supports many to many relationships",
+          "Appropriately index a fact table",
+          "Using columnstore indexes",
+          "Partitioning",
+          "Additive measures",
+          "Semi additive measures",
+          "Non additive measures",
+          "Implement fact tables",
+          "Determining the loading method for the fact tables",
+          "Implement data lineage of a fact table",
+          "Design summary aggregation tables"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Extract and transform data (20–25%)",
+    "skills": [
+      {
+        "label": "Define connection managers",
+        "items": [
+          "Plan the configuration of connection managers",
+          "Package level or project level connection manager",
+          "Define a connection string",
+          "Parameterization of connection strings"
+        ]
+      },
+      {
+        "label": "Design data flow",
+        "items": [
+          "Define data sources and destinations",
+          "Distinguish blocking and non-blocking transformations",
+          "Use different methods to pull out changed data from data sources",
+          "Determine appropriate data flow components",
+          "Determine the need for supporting slowly changing dimensions (scd)",
+          "Determine whether to use sql joins or ssis lookup or merge join transformations",
+          "Batch processing versus row by row processing",
+          "Determine the appropriate transform to use for a specific task",
+          "Determine the need and method for identity mapping and deduplicating",
+          "Fuzzy lookup, fuzzy grouping and data quality services (dqs) transformation",
+          "Determine the need for custom data sources, destinations, and transforms",
+          "Determine what to do with erroneous rows",
+          "Determine auditing needs",
+          "Trusted/authoritative data sources, including warehouse metadata",
+          "Extracting only changed rows"
+        ]
+      },
+      {
+        "label": "Implement data flow",
+        "items": [
+          "Debug data flow",
+          "Use the appropriate data flow components",
+          "Sql / ssis data transformation",
+          "Create ssis packages that support slowly changing dimensions",
+          "Use the lookup task in ssis",
+          "Map identities using ssis fuzzy lookup (advanced)",
+          "Specify a data source and destination",
+          "Use data flows",
+          "Different categories of transformations",
+          "Read, transform and load data",
+          "Understand which transforms to use to accomplish a specific business task",
+          "Data correction transformation",
+          "Performance tune an ssis dataflow",
+          "Optimize integration services packages for speed of execution",
+          "Maintain data integrity, including good data flow"
+        ]
+      },
+      {
+        "label": "Manage SSIS package execution",
+        "items": [
+          "Schedule package execution by using sql server agent",
+          "Execute packages by using dtexec",
+          "Execute packages by using sql server management studio",
+          "Implement package execution",
+          "Plan and design package execution strategy",
+          "Use powershell to execute script",
+          "Monitor the execution using management studio",
+          "Use dtexecui",
+          "Etl restartability"
+        ]
+      },
+      {
+        "label": "Implement script tasks in SSIS",
+        "items": [
+          "Determine if it is appropriate to use a script task",
+          "Extending the capability of a control flow",
+          "Perform a custom action as needed (not on every row) during a control flow"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Load data (25–30%)",
+    "skills": [
+      {
+        "label": "Design control flow",
+        "items": [
+          "Determine control flow",
+          "Determine containers and tasks needed",
+          "Determine precedence constraints",
+          "Design an ssis package strategy with rollback, staging and transaction control",
+          "Decide between one package or multiple packages",
+          "Determine event handlers",
+          "Determine variables",
+          "Determine parameters on package and project level",
+          "Determine connection managers and whether they are package or project level",
+          "Determine the need for custom tasks",
+          "Determine how much information you need to log from a package",
+          "Determine the need for checkpoints",
+          "Determine security needs"
+        ]
+      },
+      {
+        "label": "Implement package logic by using SSIS variables and parameters",
+        "items": [
+          "User variables",
+          "Variable scope, data type",
+          "Implement parameterization of properties using variables",
+          "Using variables in precedence constraints",
+          "Referring to ssis system variables",
+          "Design dynamic ssis packages",
+          "Package configurations (file or sql tables)",
+          "Expressions",
+          "Package and project parameters",
+          "Project level connection managers",
+          "Variables",
+          "Implement dynamic package behavior",
+          "Configure packages in ssis for different environments, package configurations (xmlconfiguration file, sqlserver table, registry entry",
+          "Parent package variables, environment variable)",
+          "Parameters (package and project level)",
+          "Project connection managers",
+          "Property expressions (use expressions for connection managers)"
+        ]
+      },
+      {
+        "label": "Implement control flow",
+        "items": [
+          "Checkpoints",
+          "Debug control flow",
+          "Implement the appropriate control flow task to solve a problem",
+          "Data profiling",
+          "Use sequence containers and loop containers",
+          "Manage transactions in ssis packages",
+          "Managing parallelism",
+          "Using precedence constraint to control task execution sequence",
+          "Creating package templates",
+          "Using the execute package task"
+        ]
+      },
+      {
+        "label": "Implement data load options",
+        "items": [
+          "Implement a full and incremental data load strategy",
+          "Plan for an incremental update of the relational data mart",
+          "Plan for loads into indexed tables",
+          "Configure appropriate bulk load options",
+          "Select an appropriate load technique (ssis destination versus t-sql) and load partitioned tables"
+        ]
+      },
+      {
+        "label": "Implement script components in SSIS",
+        "items": [
+          "Create an ssis package that handles scd type 2 changes without using the scd component",
+          "Work with script component in ssis",
+          "Deciding when it is appropriate to use a script component versus a built in",
+          "Source, transformation, destination component",
+          "Use cases: web service source and destination, getting the error message"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and deploy SSIS solutions (20–25%)",
+    "skills": [
+      {
+        "label": "Troubleshoot data integration issues",
+        "items": [
+          "Performance issues",
+          "Connectivity issues",
+          "Execution of a task or transformation failed",
+          "Logic issues",
+          "Demonstrate awareness of the new ssis logging infrastructure",
+          "Troubleshoot a failed package execution to determine the root cause of failure",
+          "Troubleshoot ssis package failure from an invalid datatype",
+          "Implement break points",
+          "Data viewers",
+          "Profile data with different tools",
+          "Batch cleanup"
+        ]
+      },
+      {
+        "label": "Install and maintain SSIS components",
+        "items": [
+          "Software installation (is, management tools)",
+          "Development box and server",
+          "Install specifics for remote package execution",
+          "Planning for installation (32- versus 64-bit)",
+          "Upgrade",
+          "Provisioning the accounts",
+          "Creating the catalog"
+        ]
+      },
+      {
+        "label": "Implement auditing, logging, and event handling",
+        "items": [
+          "Audit package execution by using system variables",
+          "Propagate events",
+          "Use log providers",
+          "Log an ssis execution",
+          "Create alerting and notification mechanisms",
+          "Use event handlers in ssis to track etl events and errors",
+          "Implement custom logging"
+        ]
+      },
+      {
+        "label": "Deploy SSIS solutions",
+        "items": [
+          "Create and configure an ssis catalog",
+          "Deploy ssis packages by using the deployment utility",
+          "Deploy ssis packages to sql or file system locations",
+          "Validate deployed packages",
+          "Deploy packages on multiple servers",
+          "How to install custom components and tasks",
+          "Deploy ssis packages by using dtutil"
+        ]
+      },
+      {
+        "label": "Configure SSIS security settings",
+        "items": [
+          "Ssis catalog database roles",
+          "Package protection levels",
+          "Secure integration services packages that are deployed at the file system",
+          "Secure integration services parameters, configuration"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build data quality solutions (15–20%)",
+    "skills": [
+      {
+        "label": "Install and maintain data quality services",
+        "items": [
+          "Installation prerequisites",
+          ".msi package",
+          "Adding users to the dq roles",
+          "Identity analysis, including data governance"
+        ]
+      },
+      {
+        "label": "Implement master data management solutions",
+        "items": [
+          "Install master data services (mds)",
+          "Implement mds",
+          "Create models, entities, hierarchies, collections, attributes",
+          "Define security roles",
+          "Import/export",
+          "Subscriptions"
+        ]
+      },
+      {
+        "label": "Create a data quality project to clean data",
+        "items": [
+          "Profile online transaction processing (oltp) and other source systems",
+          "Data quality knowledge base management",
+          "Create data quality project",
+          "Use data quality client",
+          "Improve data quality",
+          "Identity mapping and deduplicating",
+          "Handle history and data quality",
+          "Manage data quality/cleansing"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "label": "Create and manage presentations (30-35%)",
+    "skills": [
+      {
+        "label": "Create a presentation",
+        "items": [
+          "Create a new presentation, create a presentation based on a template, import word document outlines"
+        ]
+      },
+      {
+        "label": "Insert and format slides",
+        "items": [
+          "Insert specific slide layouts",
+          "Duplicate existing slides",
+          "Hide and unhide slides",
+          "Delete slides",
+          "Apply a different slide layout",
+          "Modify individual slide backgrounds",
+          "Insert slide headers, footers, and page numbers"
+        ]
+      },
+      {
+        "label": "Modify slides, handouts, and notes",
+        "items": [
+          "Change the slide master theme or background, modify slide master content, create a slide layout, modify a slide layout, modify the handout master, modify the notes master"
+        ]
+      },
+      {
+        "label": "Order and group slides",
+        "items": [
+          "Create sections, modify slide order, rename sections"
+        ]
+      },
+      {
+        "label": "Change presentation options and views",
+        "items": [
+          "Change slide size, change views of a presentation, set file properties"
+        ]
+      },
+      {
+        "label": "Configure a presentation for print",
+        "items": [
+          "Print all or part of a presentation",
+          "Print notes pages",
+          "Print handouts",
+          "Print in color, grayscale, or black and white"
+        ]
+      },
+      {
+        "label": "Configure and present a slide show",
+        "items": [
+          "Create custom slide shows, configure slide show options, rehearse slide show timing, present a slide show by using presenter view"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Insert and format text, shapes, and images (20-25%)",
+    "skills": [
+      {
+        "label": "Insert and format text",
+        "items": [
+          "Insert text on a slide, apply formatting and styles to text, apply wordart styles to text, format text in multiple columns, create bulleted and numbered lists, insert hyperlinks"
+        ]
+      },
+      {
+        "label": "Insert and format shapes and text boxes",
+        "items": [
+          "Insert or replace shapes, insert text boxes, resize shapes and text boxes, format shapes and text boxes, apply styles to shapes and text boxes"
+        ]
+      },
+      {
+        "label": "Insert and format images",
+        "items": [
+          "Insert images, resize and crop images, apply styles and effects"
+        ]
+      },
+      {
+        "label": "Order and group objects",
+        "items": [
+          "Order objects, align objects, group objects, display alignment tools"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Insert tables, charts, SmartArt, and media (20-25%)",
+    "skills": [
+      {
+        "label": "Insert and format tables",
+        "items": [
+          "Create a table, insert and delete table rows and columns, apply table styles, import a table"
+        ]
+      },
+      {
+        "label": "Insert and format charts",
+        "items": [
+          "Create a chart, import a chart, change the chart type, add a legend to a chart, change the chart style of a chart"
+        ]
+      },
+      {
+        "label": "Insert and format SmartArt graphics",
+        "items": [
+          "Create smartart graphics, convert lists to smartart graphics, add shapes to smartart graphics, reorder shapes in smartart graphics, change the color of smartart graphics"
+        ]
+      },
+      {
+        "label": "Insert and manage media",
+        "items": [
+          "Insert audio and video clips, configure media playback options, adjust media window size, set the video start and stop time, set media timing options"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Apply transitions and animations (10-15%)",
+    "skills": [
+      {
+        "label": "Apply slide transitions",
+        "items": [
+          "Insert slide transitions, set transition effect options"
+        ]
+      },
+      {
+        "label": "Animate slide content",
+        "items": [
+          "Apply animations to objects, apply animations to text, set animation effect options, set animation paths"
+        ]
+      },
+      {
+        "label": "Set timing for transitions and animations",
+        "items": [
+          "Set transition effect duration, configure transition start and finish options, reorder animations on a slide"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage multiple presentations (5-10%)",
+    "skills": [
+      {
+        "label": "Merge content from multiple presentations",
+        "items": [
+          "Insert slides from another presentation, compare two presentations, insert comments, review comments"
+        ]
+      },
+      {
+        "label": "Finalize presentations",
+        "items": [
+          "Protect a presentation, inspect a presentation, proof a presentation, preserve presentation content, export presentations to other formats"
+        ]
+      }
+    ]
+  }
+]

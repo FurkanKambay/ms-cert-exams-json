@@ -1,0 +1,206 @@
+[
+  {
+    "label": "Understand the Dynamics 365 for Talent Environment (25 - 30%)",
+    "skills": [
+      {
+        "label": "Understand Dynamics 365 for Talent Components",
+        "items": [
+          "Describe the components and experiences of dynamics 365 for talent",
+          "Identify features of dynamics 365 for talent",
+          "Identify benefits of using dynamics 365 for talent",
+          "Describe how data is shared and separated per company in dynamics 365 for talent",
+          "Describe the technology and integration of dynamics 365 for talent with other dynamics 365 applications",
+          "Describe and use the microsoft excel add-in with dynamics 365 for talent"
+        ]
+      },
+      {
+        "label": "Understand basic navigation in Dynamics 365 for Talent",
+        "items": [
+          "Describe the user interface components of dynamics 365 for talent",
+          "Describe the use case scenarios for workspaces and provide examples of workspaces",
+          "Identify the components of a dynamics 365 for talent workspace",
+          "Navigate and perform searches in the web interface",
+          "Set up core prerequisites and parameters for using dynamics 365 for talent"
+        ]
+      },
+      {
+        "label": "Use People Analytics and Personnel Management in Dynamics 365 for Talent",
+        "items": [
+          "Describe features of the people workspace",
+          "Use the people workspace to view and edit personal information",
+          "Enroll in benefits by using the people workspace",
+          "Check fmla eligibility",
+          "Request time-off in the people workspace",
+          "View leave and absence information",
+          "View or update emergency contact information or certificates and tests for a person"
+        ]
+      },
+      {
+        "label": "Use the Employee and Manager self-service features",
+        "items": [
+          "Describe features for employee self-service",
+          "Describe features for manager self-service",
+          "Use the employee self-service workspace to manage personal information",
+          "Review and update performance information",
+          "Add and share feedback to another employee",
+          "View team information in the manger self-service portal",
+          "View and update skill information and perform a skill gap analysis",
+          "Describe and use the mobile device for employee and manager self-service"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage the Attract and Recruiting Processes (25 - 30%)",
+    "skills": [
+      {
+        "label": "Manage jobs",
+        "items": [
+          "Create new jobs",
+          "Import jobs from excel",
+          "Update job details",
+          "Define the job settings"
+        ]
+      },
+      {
+        "label": "Create, accept, reject, and manage applicants",
+        "items": [
+          "Manually add an applicant",
+          "Import applicants by using microsoft excel",
+          "Setup integrations for applicants to apply",
+          "Communicate with applicants",
+          "Request candidate availability",
+          "Reject an applicant",
+          "Update the applicant status"
+        ]
+      },
+      {
+        "label": "Schedule and manage interviews",
+        "items": [
+          "Request candidate availability",
+          "Identify options for defining the interview",
+          "Schedule an interview",
+          "Send schedule and summary to the interview team",
+          "Conduct interviews and provide interview feedback and recommendations"
+        ]
+      },
+      {
+        "label": "Create and manage offers",
+        "items": [
+          "Define offer settings",
+          "Maintain the status of the offer",
+          "Start the onboarding process"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Use the Onboarding, Offboarding, and Transition Processes (20 - 25%)",
+    "skills": [
+      {
+        "label": "Use the Onboarding Modular application",
+        "items": [
+          "Describe scenarios for using the onboarding modular application",
+          "Create, import and migrate employees into the onboarding modular application"
+        ]
+      },
+      {
+        "label": "Design and configure welcome guides",
+        "items": [
+          "Describe the components of a welcome guide",
+          "Create new welcome guides from samples",
+          "Design a new welcome guide template",
+          "Build an activities list for a welcome guide",
+          "Add contacts and resources to a welcome guide",
+          "Send a guide to a worker"
+        ]
+      },
+      {
+        "label": "Set up and use task management",
+        "items": [
+          "Describe the various types of task management scenarios",
+          "Provide examples for uses of task management",
+          "Describe the setup components for a task management checklist",
+          "Create checklists",
+          "Apply a checklist to a worker"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Set Up and Use the Talent Application (25 - 30%)",
+    "skills": [
+      {
+        "label": "Manage worker information",
+        "items": [
+          "Understand worker and position data",
+          "Describe the difference between jobs and positions",
+          "Set up and manage jobs",
+          "Create and assign positions to workers",
+          "Explain personnel actions",
+          "Enable and use worker actions and position actions",
+          "Configure prerequisites for positions and jobs",
+          "Configure and loan equipment to workers",
+          "Define parameters and shared parameters for human resources",
+          "Identify key configurations for human resources",
+          "Hire and retire a worker",
+          "Enter worker details"
+        ]
+      },
+      {
+        "label": "Set Up and manage benefit information",
+        "items": [
+          "Explore the benefit management workspace",
+          "Describe the difference between benefits and benefit elements",
+          "Describe the various types of benefits",
+          "Configure benefit elements",
+          "Define eligibility rules",
+          "Process eligibility rules for workers",
+          "Enroll a single worker in a benefit",
+          "Enroll mass workers in a benefit",
+          "Maintain dependents and beneficiary information"
+        ]
+      },
+      {
+        "label": "Configure compensation information",
+        "items": [
+          "Describe examples of fixed and variable compensation plans",
+          "Use recommendations with compensation",
+          "Review and make changes to compensation plans",
+          "Define mandatory confirmation for compensation plans",
+          "Describe the range utilization matrix",
+          "Define reference points",
+          "Create compensation grids",
+          "Define eligibility rules for compensation",
+          "Configure pay rate conversions",
+          "Set up and use vesting rules",
+          "Configure and use pay for performance features",
+          "Describe compensation process events",
+          "Perform the compensation processes",
+          "Adjust compensation for an employee"
+        ]
+      },
+      {
+        "label": "Manage Leave and absences",
+        "items": [
+          "Explain the leave and absence administration process",
+          "Describe leave and absence transactions",
+          "Request and process time off requests",
+          "Explore leave types and leave plans",
+          "Set up and configure leave and absence plans",
+          "View time off requests and approved time off",
+          "Use the leave and absence workspace"
+        ]
+      },
+      {
+        "label": "Use compliance features in Dynamics 365 for Talent",
+        "items": [
+          "Define templates for physical job requirements",
+          "Configure the physical requirements for a job",
+          "Create an accommodation request",
+          "Grant or deny work environment accommodation requests"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "label": "Consuming and Transforming Data By Using Power BI Desktop",
+    "skills": [
+      {
+        "label": "Connect to data sources.",
+        "items": [
+          "May include: connect to databases, files, folders",
+          "Import from excel",
+          "Connect to sql azure, big data, sql server analysis services (ssas)"
+        ]
+      },
+      {
+        "label": "Perform transformations.",
+        "items": [
+          "May include: design and implement basic and advanced transformations",
+          "Apply business rules",
+          "Change data format to support visualization"
+        ]
+      },
+      {
+        "label": "Cleanse data.",
+        "items": [
+          "May include: manage incomplete data",
+          "Meet data quality requirements"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Modeling and Visualizing Data",
+    "skills": [
+      {
+        "label": "Create and optimize data models.",
+        "items": [
+          "May include: manage relationships",
+          "Optimize models for reporting",
+          "Manually type in data",
+          "Use power query"
+        ]
+      },
+      {
+        "label": "Create calculated columns, calculated tables, and measures.",
+        "items": [
+          "May include: create dax formulas for calculated columns, calculated tables, and measures",
+          "Use what if parameters"
+        ]
+      },
+      {
+        "label": "Measure performance by using KPIs, gauges and cards.",
+        "items": [
+          "May include: calculate the actual",
+          "Calculate the target",
+          "Calculate actual to target",
+          "Configure values for gauges",
+          "Use the format settings to manually set values"
+        ]
+      },
+      {
+        "label": "Create hierarchies.",
+        "items": [
+          "May include: create date hierarchies",
+          "Create hierarchies based on business needs",
+          "Add columns to tables to support desired hierarchy"
+        ]
+      },
+      {
+        "label": "Create and format interactive visualizations.",
+        "items": [
+          "May include: select a visualization type",
+          "Configure page layout and formatting",
+          "Configure interactions between visual",
+          "Configure duplicate pages",
+          "Handle categories that have no data",
+          "Configure default summarization and data category of columns",
+          "Position, align, and sort visuals",
+          "Enable and integrate r visuals",
+          "Format measures",
+          "Use bookmarks and themes for reports"
+        ]
+      },
+      {
+        "label": "Manage custom reporting solutions.",
+        "items": [
+          "May include: configure and access microsoft power bi embedded",
+          "Enable developers to create and edit reports through custom applications",
+          "Enable developers to embed reports in applications",
+          "Use the power bi api to push data into a power bi dataset",
+          "Enable developers to create custom visuals"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Dashboards, Reports and Apps in the Power BI Service",
+    "skills": [
+      {
+        "label": "Access on-premises data.",
+        "items": [
+          "May include: connect to a data source by using a data gateway",
+          "Publish reports to the power bi service from power bi desktop",
+          "Edit power bi service reports by using power bi desktop"
+        ]
+      },
+      {
+        "label": "Configure a dashboard.",
+        "items": [
+          "May include: add text and images",
+          "Filter dashboards",
+          "Dashboard settings",
+          "Customize the url and title",
+          "Enable natural language queries"
+        ]
+      },
+      {
+        "label": "Publish and embed reports.",
+        "items": [
+          "May include: publish to web",
+          "Publish to microsoft sharepoint",
+          "Publish reports to a power bi report server"
+        ]
+      },
+      {
+        "label": "Configure security for dashboards, reports and apps.",
+        "items": [
+          "May include: create a security group by using the admin portal",
+          "Configure access to dashboards and app workspaces",
+          "Configure the export and sharing setting of the tenant",
+          "Configure row-level security"
+        ]
+      },
+      {
+        "label": "Configure apps and apps workspaces.",
+        "items": [
+          "May include: create and configure an app workspace",
+          "Publish an app",
+          "Update a published app",
+          "Package dashboards and reports as apps"
+        ]
+      }
+    ]
+  }
+]

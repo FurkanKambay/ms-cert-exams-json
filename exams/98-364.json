@@ -1,0 +1,131 @@
+[
+  {
+    "label": "Understanding core database concepts (20–25%)",
+    "skills": [
+      {
+        "label": "Understand how data is stored in tables",
+        "items": [
+          "Understand what a table is and how it relates to the data that will be stored in the database",
+          "Columns/fields, rows/records"
+        ]
+      },
+      {
+        "label": "Understand relational database concepts",
+        "items": [
+          "Understand what a relational database is, the need for relational database management systems (rdbms), and how relations are established"
+        ]
+      },
+      {
+        "label": "Understand data manipulation language (DML)",
+        "items": [
+          "Understand what dml is and its role in databases"
+        ]
+      },
+      {
+        "label": "Understand data definition language (DDL)",
+        "items": [
+          "Understand how t-sql can be used to create database objects, such as tables and views"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create database objects (20–25%)",
+    "skills": [
+      {
+        "label": "Choose data types",
+        "items": [
+          "Understand what data types are, why they are important, and how they affect storage requirements"
+        ]
+      },
+      {
+        "label": "Understand tables and how to create them",
+        "items": [
+          "Purpose of tables",
+          "Create tables in a database by using proper ansi sql syntax"
+        ]
+      },
+      {
+        "label": "Create views",
+        "items": [
+          "Understand when to use views and how to create a view by using t-sql or a graphical designer"
+        ]
+      },
+      {
+        "label": "Create stored procedures and functions",
+        "items": [
+          "Select, insert, update, or delete data"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manipulate data (25–30%)",
+    "skills": [
+      {
+        "label": "Select data",
+        "items": [
+          "Utilize select queries to extract data from one table, extract data by using joins, combine result sets by using union and intersect"
+        ]
+      },
+      {
+        "label": "Insert data",
+        "items": [
+          "Understand how data is inserted into a database, how to use insert statements"
+        ]
+      },
+      {
+        "label": "Update data",
+        "items": [
+          "Understand how data is updated in a database and how to write the updated data to the database by using the appropriate update statements, update by using a table"
+        ]
+      },
+      {
+        "label": "Delete data",
+        "items": [
+          "Delete data from single or multiple tables, ensure data and referential integrity by using transactions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand data storage (15–20%)",
+    "skills": [
+      {
+        "label": "Understand normalization",
+        "items": [
+          "Understand the reasons for normalization, the five most common levels of normalization, how to normalize a database to third normal form"
+        ]
+      },
+      {
+        "label": "Understand primary, foreign, and composite keys",
+        "items": [
+          "Understand the reason for keys in a database, choose appropriate primary keys, select appropriate data type for keys, select appropriate fields for composite keys, understand the relationship between foreign and primary keys"
+        ]
+      },
+      {
+        "label": "Understand indexes",
+        "items": [
+          "Understand clustered and non-clustered indexes and their purpose in a database"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Administer a database (10–15%)\r\n",
+    "skills": [
+      {
+        "label": "Understand database security concepts",
+        "items": [
+          "Understand the need to secure a database, what objects can be secured, what objects should be secured, user accounts, and roles"
+        ]
+      },
+      {
+        "label": "Understand database backups and restore",
+        "items": [
+          "Understand various backup types, such as full and incremental, importance of backups, how to restore a database"
+        ]
+      }
+    ]
+  }
+]

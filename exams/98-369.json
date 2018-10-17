@@ -1,0 +1,154 @@
+[
+  {
+    "label": "Understand the cloud (20–25%)",
+    "skills": [
+      {
+        "label": "Describe cloud principles and delivery mechanisms",
+        "items": [
+          "Differentiate between on-premises it service models",
+          "Differentiate between subscription or pay-as-you-go versus upfront capex/opex funding model",
+          "Use cloud services to expand capacity (elasticity of the cloud), scalability, redundancy, and availability",
+          "Differentiate between cloud services that are configurable versus on-premises services that are customizable"
+        ]
+      },
+      {
+        "label": "Describe cloud security requirements and policies",
+        "items": [
+          "Describe how cloud services manage privacy, how compliance goals are met, how data is secured at rest or on-the-wire, and how data and operations transparency requirements are met"
+        ]
+      },
+      {
+        "label": "Describe how a cloud service stays up to date and available",
+        "items": [
+          "Describe the service/feature improvement process",
+          "Monitor service health, service maintenance, and future roadmap publishing",
+          "Identify guarantees, service level agreements (sla), and capping of liability of the cloud service provider"
+        ]
+      },
+      {
+        "label": "Describe the different types of cloud services",
+        "items": [
+          "Differentiate between types of cloud services and their characteristics, including infrastructure as a service (iaas), platform as a service (paas), and software as a service (saas)",
+          "Integrate the cloud with on-premises services in hybrid scenarios"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Enable Microsoft cloud services (20–25%)",
+    "skills": [
+      {
+        "label": "Identify the requirements and dependencies for using Office 365 and Microsoft Intune",
+        "items": [
+          "Plan networking and domains, firewall rule, client requirements, bandwidth implications, and dns"
+        ]
+      },
+      {
+        "label": "Select a cloud service plan",
+        "items": [
+          "Understand the different options and plans available for office 365 and microsoft intune"
+        ]
+      },
+      {
+        "label": "Sign up for cloud services",
+        "items": [
+          "Name your tenant, set up your first administrator, determine tenant location"
+        ]
+      },
+      {
+        "label": "Set up the initial configuration of cloud services",
+        "items": [
+          "Register domains, verify domains, choose the domain purpose",
+          "Identify required dns record types"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Administer Office 365 and Microsoft Intune (15–20%)",
+    "skills": [
+      {
+        "label": "Create users and groups, and assign services and licenses",
+        "items": [
+          "Differentiate between cloud identities (online identity, synchronized identities, federated identities), create and manage users and identities, delete and restore users (soft delete), create and manage groups, assign and revoke licenses, determine user locations"
+        ]
+      },
+      {
+        "label": "Assign permissions in Office 365 and Microsoft Intune",
+        "items": [
+          "Assign or revoke administrative roles",
+          "Manage delegated admins",
+          "Manage password policies, subscriptions, and licenses"
+        ]
+      },
+      {
+        "label": "Monitor service health in Office 365 and Microsoft Intune",
+        "items": [
+          "Monitor the service health dashboard, subscribe to rss feeds, monitor the maintenance schedule, monitor the message center, log service support requests, configure alerts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Use and configure Microsoft cloud services (20–25%)",
+    "skills": [
+      {
+        "label": "Configure Exchange Online",
+        "items": [
+          "Manage recipients (mailboxes, shared mailboxes, resources, contacts, groups), manage anti-spam and antivirus settings"
+        ]
+      },
+      {
+        "label": "Configure SharePoint Online, including OneDrive",
+        "items": [
+          "Create sharepoint team sites, configure external sharing, set up social features using newsfeeds or yammer, apply themes, set storage and resource limits"
+        ]
+      },
+      {
+        "label": "Configure Skype for Business Online",
+        "items": [
+          "Manage skype for business user options, manage external communication settings, configure dial-in settings and meeting invitation options, configure skype for business online dns"
+        ]
+      },
+      {
+        "label": "Configure Microsoft Intune",
+        "items": [
+          "Install microsoft intune client management software, create and deploy policies, automate installs, identify software requirements, set up notifications, identify mobile device management policies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Support cloud users (15–20%)",
+    "skills": [
+      {
+        "label": "Resolve sign-in and Office application installation issues",
+        "items": [
+          "Troubleshoot sign-in issues, forgotten passwords, connection problems, difficulty activating office applications, and difficulty connecting mobile devices to office 365 or microsoft intune",
+          "Choose between 32-bit and 64-bit",
+          "Identify when an office repair is required",
+          "Identify operating system requirements for office 365 proplus",
+          "Browser requirements and specific versions of internet explorer"
+        ]
+      },
+      {
+        "label": "Resolve email and calendar issues",
+        "items": [
+          "Troubleshoot issues receiving and sending email, troubleshoot issues accessing a delegated mailbox"
+        ]
+      },
+      {
+        "label": "Resolve SharePoint and OneDrive issues",
+        "items": [
+          "Identify storage limits, troubleshoot “open with explorer” not working and onedrive not syncing, recover deleted files"
+        ]
+      },
+      {
+        "label": "Resolve Skype for Business issues",
+        "items": [
+          "Troubleshoot skype for business sign-in issues, troubleshoot connection issues to skype for business online, troubleshoot communicating to skype consumer users and users in other companies using skype for business"
+        ]
+      }
+    ]
+  }
+]

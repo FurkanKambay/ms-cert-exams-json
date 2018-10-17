@@ -1,0 +1,273 @@
+[
+  {
+    "label": "Implement a Microsoft Dynamics CRM Online deployment (10% - 15%)",
+    "skills": [
+      {
+        "label": "Access Microsoft Dynamics CRM Online",
+        "items": [
+          "Describe methods for accessing microsoft dynamics crm online",
+          "Identify supported browsers",
+          "Identify supported phone operating systems",
+          "Describe requirements for dynamics crm for tablets",
+          "Identify supported web browsers",
+          "Identify user subscription license types",
+          "Describe subscription add-ons"
+        ]
+      },
+      {
+        "label": "Plan a deployment",
+        "items": [
+          "Identify the storage requirements",
+          "Plan security",
+          "Determine the number of instances and licenses that are required",
+          "Identify implications of implementing single sign-on"
+        ]
+      },
+      {
+        "label": "Import data",
+        "items": [
+          "Compare the methods for importing data",
+          "Import data by using the import data wizard",
+          "Identify limitations of import processes"
+        ]
+      },
+      {
+        "label": "Customize Microsoft Dynamics CRM Online",
+        "items": [
+          "Create new fields",
+          "Modify values for option sets",
+          "Modify entity forms",
+          "Create new entities and reports",
+          "Modify views and dashboards"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Microsoft Dynamics CRM Online (10% - 15%)",
+    "skills": [
+      {
+        "label": "Configure subscriptions",
+        "items": [
+          "Identify methods to sign-up for a subscription",
+          "Identify subscription requirements",
+          "Describe the subscription cancellation process",
+          "Describe the methods for purchasing add-ons"
+        ]
+      },
+      {
+        "label": "Manage users",
+        "items": [
+          "Identify the methods to add users to dynamics crm online",
+          "Assign microsoft dynamics crm online licenses to users",
+          "Assign security roles",
+          "Enable and disable users",
+          "Describe non-interactive users",
+          "Mark a user as non-interactive",
+          "Identify administrative roles"
+        ]
+      },
+      {
+        "label": "Synchronize user accounts",
+        "items": [
+          "Compare dynamics crm online accounts with company accounts",
+          "Describe user synchronization",
+          "Identify the steps to synchronize active directory with office 365",
+          "Describe active directory federation services"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Microsoft Dynamics CRM Online (10% - 15%)",
+    "skills": [
+      {
+        "label": "Administer Microsoft Dynamics CRM Online instances",
+        "items": [
+          "Define instances",
+          "Describe the relationship between instances subscriptions, tenants, and security groups",
+          "Describe instance types",
+          "Set instance properties",
+          "Switch an instance",
+          "Reset an instance",
+          "Place an instance in administrative mode",
+          "Delete an instance",
+          "Describe methods to copy an instance",
+          "Create a copy of an instance"
+        ]
+      },
+      {
+        "label": "Describe tenant considerations",
+        "items": [
+          "Identify limitations on the number and type of instances per tenant",
+          "Configure the region for a tenant",
+          "Describe limitation and requirements for multiple tenants"
+        ]
+      },
+      {
+        "label": "Manage storage and administrative notifications",
+        "items": [
+          "Identify the storage limit for a subscription",
+          "Describe the implications of reaching the storage limit",
+          "View resources used",
+          "Identify requirements and limitations for sending administrative notifications"
+        ]
+      },
+      {
+        "label": "Describe the Microsoft Dynamics CRM Online update policy",
+        "items": [
+          "Identify the frequency of updates",
+          "Describe the update process",
+          "Determine the version of microsoft dynamics crm online",
+          "Skip updates",
+          "Approve updates",
+          "Determine what updates are available",
+          "Reschedule an update"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage related services (10% - 15%)",
+    "skills": [
+      {
+        "label": "Describe related services",
+        "items": [
+          "Identify related online services",
+          "Integrate microsoft social engagement with microsoft dynamics crm online",
+          "Manage campaigns with microsoft dynamics marketing"
+        ]
+      },
+      {
+        "label": "Integrate Yammer and SharePoint Online",
+        "items": [
+          "Describe yammer and sharepoint online",
+          "Identify sharepoint online integration types",
+          "Describe the integration process"
+        ]
+      },
+      {
+        "label": "Integrate OneNote, Skype, Skype for Business, Office 365 Groups, and OneDrive for Business",
+        "items": [
+          "Compare dynamics crm notes and onenote",
+          "Identify storage location for onenote notebooks",
+          "Configure onenote integration",
+          "Integrate skype and skype for business",
+          "Identify limitations for skype and skype for business",
+          "Describe office 365 groups",
+          "Identify requirements for office 365 groups",
+          "Integrate office 365 groups with microsoft dynamics crm online"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage mobile device apps (10% - 15%)",
+    "skills": [
+      {
+        "label": "Install and use mobile device apps",
+        "items": [
+          "Identify the mobile apps for phones and tablets",
+          "Describe requirements for mobile apps",
+          "Identify supported mobile device hardware and software",
+          "Install mobile apps",
+          "Configure security privileges",
+          "Describe restrictions for working offline",
+          "Create draft records"
+        ]
+      },
+      {
+        "label": "Configure entities for mobile",
+        "items": [
+          "Identify entity types that can be accessed from mobile apps",
+          "Hide form components",
+          "Enable dashboards for mobile apps"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Microsoft Dynamics CRM for Microsoft Office Outlook  (10% - 15%)",
+    "skills": [
+      {
+        "label": "Deploy Dynamics CRM for Outlook",
+        "items": [
+          "Identify supported operating systems",
+          "Describe required software components",
+          "Compare dynamics crm for outlook versions",
+          "Identify deployment methods",
+          "Configure dynamics crm for outlook",
+          "Configure multiple organizations"
+        ]
+      },
+      {
+        "label": "Configure offline capabilities",
+        "items": [
+          "Describe offline capabilities",
+          "Identify fields that can be synchronized",
+          "Describe limitations for synchronized fields",
+          "Configure synchronized fields"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage email (10% - 15%)",
+    "skills": [
+      {
+        "label": "Select an email processing option",
+        "items": [
+          "Identify email processing options",
+          "Describe the advantages of each email processing option",
+          "Identify limitations and requirements for each email processing option"
+        ]
+      },
+      {
+        "label": "Track and correlate email",
+        "items": [
+          "Compare email tracking with email correlation",
+          "Describe user options for automatic tracking",
+          "Describe correlation options",
+          "Identify limitations of folder-level tracking",
+          "Configure folder-level tracking for exchange folders"
+        ]
+      },
+      {
+        "label": "Manage mailbox records and email",
+        "items": [
+          "Describe synchronization methods for incoming and outgoing email",
+          "Configure the default synchronization method for users and queues",
+          "Describe mailbox records",
+          "Configure approval for email addresses"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage server-side synchronization (10% - 15%)",
+    "skills": [
+      {
+        "label": "Configure server-side synchronization",
+        "items": [
+          "Describe server-side synchronization",
+          "Identify server-side synchronization features and supported configurations",
+          "Set the email processing method",
+          "Configure mailbox records"
+        ]
+      },
+      {
+        "label": "Set up a forwarding mailbox",
+        "items": [
+          "Describe mailbox forwarding",
+          "Create a forward mailbox record",
+          "Add email forwarding rules for users",
+          "Add mailbox records to server profile",
+          "Enable mailboxes",
+          "Test email configuration",
+          "Describe synchronization alerts",
+          "View the performance dashboard"
+        ]
+      }
+    ]
+  }
+]

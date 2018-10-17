@@ -1,0 +1,209 @@
+[
+  {
+    "label": "Plan business continuity management (21%)",
+    "skills": [
+      {
+        "label": "Plan for SQL high availability and disaster recovery",
+        "items": [
+          "Plan for sql server mirroring",
+          "Plan for sql server clustering",
+          "Plan for sql server alwayson",
+          "Plan for sql server log shipping",
+          "Plan for storage redundancy",
+          "Plan for login replication"
+        ]
+      },
+      {
+        "label": "Plan SharePoint high availability",
+        "items": [
+          "Plan for service distribution",
+          "Plan for service instance configuration",
+          "Plan for physical server distribution",
+          "Plan for network redundancy",
+          "Plan for server load balancing",
+          "Plan for sql server aliases"
+        ]
+      },
+      {
+        "label": "Plan backup and restore",
+        "items": [
+          "Establish a sharepoint backup schedule",
+          "Establish a sql server backup schedule",
+          "Plan a non-production environment content refresh",
+          "Plan for farm configuration recovery",
+          "Plan for service application recovery",
+          "Plan for content recovery",
+          "Configure a recovery solution using sql database running in azure and other azure backup solutions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan a SharePoint environment (20%)",
+    "skills": [
+      {
+        "label": "Plan a social workload",
+        "items": [
+          "Plan communities",
+          "Plan my sites",
+          "Plan social permissions",
+          "Plan user profiles",
+          "Plan activity feeds",
+          "Plan connections",
+          "Configure yammer settings"
+        ]
+      },
+      {
+        "label": "Plan and configure a search workload",
+        "items": [
+          "Plan and configure search result relevancy",
+          "Plan and configure index freshness",
+          "Plan and configure result sources",
+          "Plan and configure the end-user experience",
+          "Plan and configure a search schema",
+          "Analyze search analytics reports"
+        ]
+      },
+      {
+        "label": "Plan and configure a Web Content Management (WCM) workload",
+        "items": [
+          "Plan and configure channels",
+          "Plan and configure product catalog and topic pages",
+          "Plan and configure design manager",
+          "Plan and configure content deployment",
+          "Plan and configure display templates",
+          "Plan and configure variations"
+        ]
+      },
+      {
+        "label": "Plan an Enterprise Content Management (ECM) workload",
+        "items": [
+          "Plan and configure e-discovery",
+          "Plan and configure document routing",
+          "Plan and configure co-authoring",
+          "Plan and configure record disposition and retention",
+          "Plan large document repositories",
+          "Plan and configure software boundaries"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Upgrade and migrate a SharePoint environment (20%)",
+    "skills": [
+      {
+        "label": "Evaluate content and customizations",
+        "items": [
+          "Perform migration pre-check tasks",
+          "Analyze content database test results",
+          "Configure web application authentication for upgrade",
+          "Resolve orphan objects",
+          "Resolve missing file system components",
+          "Resolve configuration conflict issues"
+        ]
+      },
+      {
+        "label": "Plan an upgrade process",
+        "items": [
+          "Plan removal of servers in rotation",
+          "Configure a parallel upgrade",
+          "Configure read-only access for content",
+          "Configure upgrade farms",
+          "Measure upgrade performance",
+          "Plan an installation sequence",
+          "Migrate sharepoint on-premises to sharepoint online"
+        ]
+      },
+      {
+        "label": "Upgrade site collection",
+        "items": [
+          "Perform a health check",
+          "Analyze and resolve health check results",
+          "Plan and configure available site collection modes",
+          "Plan and configure site collection upgrade availability",
+          "Plan and configure eval mode",
+          "Plan and configure site collection upgrade throttling"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and configure service applications (21%)",
+    "skills": [
+      {
+        "label": "Create and configure app management",
+        "items": [
+          "Create and configure the app store",
+          "Create and configure subscriptions",
+          "Configure marketplace connections",
+          "Configure dns entries",
+          "Configure wildcard certificates"
+        ]
+      },
+      {
+        "label": "Create and configure productivity services",
+        "items": [
+          "Create and configure microsoft excel services, microsoft access services, microsoft visio services, microsoft word automation services, microsoft powerpoint conversion services, and translation services"
+        ]
+      },
+      {
+        "label": "Configure service application federation",
+        "items": [
+          "Plan services to federate",
+          "Perform a certificate exchange",
+          "Manage trusts",
+          "Manage service application permissions",
+          "Publish service applications",
+          "Consume service applications"
+        ]
+      },
+      {
+        "label": "Create and configure a Business Connectivity Service (BCS) and Secure Store application",
+        "items": [
+          "Import and configure bcs models",
+          "Configure bcs model security",
+          "Configure bcs for search",
+          "Generate a secure store master key",
+          "Manage secure store target application permissions",
+          "Create secure store target applications"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage SharePoint solutions, BI, and systems integration (18%)",
+    "skills": [
+      {
+        "label": "Manage SharePoint solutions and applications",
+        "items": [
+          "Manage sandbox solution quotas",
+          "Configure sandbox solution management",
+          "Deploy farm solutions",
+          "Upgrade farm solutions",
+          "Deploy apps",
+          "Upgrade apps"
+        ]
+      },
+      {
+        "label": "Plan and configure a BI infrastructure",
+        "items": [
+          "Plan and configure performance point",
+          "Plan and configure reporting services",
+          "Plan and configure powerpivot",
+          "Plan and configure excel services",
+          "Plan and configure powerview",
+          "Plan and configure bi security"
+        ]
+      },
+      {
+        "label": "Create and configure work management",
+        "items": [
+          "Configure a connection to exchange",
+          "Configure a connection to microsoft project server",
+          "Manage trusts",
+          "Plan exchange configuration for e-discovery"
+        ]
+      }
+    ]
+  }
+]

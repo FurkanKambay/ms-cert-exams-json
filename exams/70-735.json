@@ -1,0 +1,104 @@
+[
+  {
+    "label": "Prepare the Imaging Environment (20-25%)",
+    "skills": [
+      {
+        "label": "Install deployment tools and scripts",
+        "items": [
+          "Prepare the windows assessment and deployment kit (windows adk), prepare the required tools from the windows adk installation"
+        ]
+      },
+      {
+        "label": "Add customizations to the image",
+        "items": [
+          "Use tools to design an answer file that will add branding to the device, add oem information such as support url or phone support number, provide the default product key for oem activation implementation, set the default user languages, add the custom logo and wallpaper"
+        ]
+      },
+      {
+        "label": "Create a Windows Preinstallation Environment (Windows PE)",
+        "items": [
+          "Use the windows adk scripts to create the windows pe source files, add optional packages, add default languages, add custom scripts, create a bootable usb or iso file of the windows pe, add device drivers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Service the Offline Image (40-45%)",
+    "skills": [
+      {
+        "label": "Add drivers to the image",
+        "items": [
+          "Choose the recommended installation paths for adding drivers, add inf-based drivers offline, add inf-based drivers from a folder path using deployment tools"
+        ]
+      },
+      {
+        "label": "Add language packs to the image",
+        "items": [
+          "Distinguish the difference between a language pack and a language interface pack",
+          "Determine when to use feature on demand language packs, how to apply the ordering of feature on demand language packs when adding new languages to the image, and which language packs should be applied to the recovery image",
+          "Set the default time zone in the image",
+          "Set the default input and system locales in the image"
+        ]
+      },
+      {
+        "label": "Add update packages to the image",
+        "items": [
+          "Choose which updates to apply, select which updates to apply to windows image and recovery image"
+        ]
+      },
+      {
+        "label": "Service in-box applications",
+        "items": [
+          "Reapply in-box applications, select the appropriate dependency packages for each application bundle, troubleshoot installation failures, pin apps to start layout and taskbar"
+        ]
+      },
+      {
+        "label": "Optimize the image",
+        "items": [
+          "Mark updates in a recovery image as permanent, export a recovery image, set scratch space size, check the overall size of a recovery image for partition layout schemes"
+        ]
+      },
+      {
+        "label": "Deploy the image",
+        "items": [
+          "Select the disk partition layout, run dism to apply the image, set up the recovery environment, boot into audit mode for online servicing"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Service the Online Image (35-40%)",
+    "skills": [
+      {
+        "label": "Preinstall Office 2016",
+        "items": [
+          "Prepare office files for preinstallation, create configuration files, add multiple languages, set up the first user experience"
+        ]
+      },
+      {
+        "label": "Create restore packages",
+        "items": [
+          "Use scanstate to create restore packages of installed desktop applications, registry settings, and application settings"
+        ]
+      },
+      {
+        "label": "Prepare the recovery environment",
+        "items": [
+          "Create extensibility scripts, create configuration files, create migration files, copy backup files to the recovery folder for push button reset"
+        ]
+      },
+      {
+        "label": "Reseal the image",
+        "items": [
+          "Use sysprep to reseal the image to oobe, boot to windows pe for final capture, optimize the image for disk footprint, mark update packages as permanent, optimize the image for deployment, use deployment tools to capture the final image for mass deployment"
+        ]
+      },
+      {
+        "label": "Deploy and validate the image",
+        "items": [
+          "Test the final image deployment, verify that settings are correct, the image passes system validation tests, and push button reset restores the image to its correct state"
+        ]
+      }
+    ]
+  }
+]

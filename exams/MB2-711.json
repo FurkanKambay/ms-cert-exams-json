@@ -1,0 +1,174 @@
+[
+  {
+    "label": "Prepare to install Microsoft Dynamics CRM (10–15%)",
+    "skills": [
+      {
+        "label": "Plan a deployment",
+        "items": [
+          "Identify supported browsers, describe requirements for dynamics crm for tablets, describe dynamics crm offerings and editions, identify user client access license types, understand differences between device and user client access licenses, describe access modes"
+        ]
+      },
+      {
+        "label": "Identify system requirements",
+        "items": [
+          "Identify technologies that support a dynamics crm installation, describe dynamics crm server hardware and software requirements, identify supported server topologies, describe server roles, implement microsoft dynamics sure step"
+        ]
+      },
+      {
+        "label": "Identify related technologies",
+        "items": [
+          "Describe sql server hardware requirements, identify supported sql server editions, describe other sql server requirements, identify active directory requirements and active directory groups"
+        ]
+      },
+      {
+        "label": "Identify email processing options",
+        "items": [
+          "Describe the advantages and disadvantages of each email processing option, identify email tracking and correlation methods, identify user options for automatic email tracking, describe email correlation, describe folder-level tracking for microsoft exchange folders, enable and configure folder-level tracking, describe the process for monitoring individual and forward mailboxes, describe synchronization methods, configure mailbox records, configure email address approval"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deploy Microsoft Dynamics CRM (10–15%)",
+    "skills": [
+      {
+        "label": "Install Dynamics CRM",
+        "items": [
+          "Identify components installed during setup, identify required installation rights, describe installation steps, troubleshoot an installation, install sample data, install dynamics crm using the command line, configure multiple languages, and currencies"
+        ]
+      },
+      {
+        "label": "Install Report Authoring Extensions and Reporting Extensions",
+        "items": [
+          "Identify tools for creating custom reports, describe sql-based and fetch-based reports, describe reporting extensions, describe reporting options, identify installation requirements"
+        ]
+      },
+      {
+        "label": "Install and configure the Email Router",
+        "items": [
+          "Describe the role of the email router, identify email router components and hardware and software requirements, identify installation steps, install the rule deployment wizard, set up a forward mailbox, deploy inbox rules, configure mailbox forwarding rules"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Microsoft Dynamics CRM 2016 (10–15%)",
+    "skills": [
+      {
+        "label": "Configure Dynamics CRM",
+        "items": [
+          "Identify deployment administrators, manage organizations, manage servers in the deployment, modify web addresses, view license information, upgrade the dynamics crm edition, administer dynamics crm using powershell"
+        ]
+      },
+      {
+        "label": "Manage organizations",
+        "items": [
+          "Identify options for importing organizations, describe import steps, map users"
+        ]
+      },
+      {
+        "label": "Redeploy Dynamics CRM",
+        "items": [
+          "Identify conditions for redeploying dynamics crm, describe redeployment steps"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Upgrade to Microsoft Dynamics CRM 2016 (10–15%)",
+    "skills": [
+      {
+        "label": "Plan an upgrade",
+        "items": [
+          "Identify versions that can be upgraded, identify upgrade process, describe the base and extension table merge process, describe upgrade methods, describe steps to perform an in-place installation, describe the steps to perform a migration with the same sql server, migrate using a new sql server instance, identify other upgrade considerations"
+        ]
+      },
+      {
+        "label": "Upgrade to Dynamics CRM 2016",
+        "items": [
+          "Identify the steps to prepare an upgrade, establish a test environment, upgrade and validate the test environment, upgrade and validate the production environment"
+        ]
+      },
+      {
+        "label": "Upgrade related components",
+        "items": [
+          "Identify considerations for upgrading microsoft dynamics crm for outlook, describe the process to upgrade the email router, identify options for upgrading reporting extensions."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Install and configure server-side synchronization (10–15%)",
+    "skills": [
+      {
+        "label": "Plan for server-side synchronization",
+        "items": [
+          "Identify the role of server-side synchronization, identify features, identify supported configurations, create a server profile for microsoft exchange online or exchange on-premises, configure authentication, identify connection encryption requirements"
+        ]
+      },
+      {
+        "label": "Configure and manage server-side synchronization",
+        "items": [
+          "Set up a forward mailbox, test email configuration, test and enable mailboxes, configure alerts, monitor performance using the server-side synchronization performance dashboard"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Install and configure Microsoft Dynamics CRM for Outlook (10–15%)",
+    "skills": [
+      {
+        "label": "Prepare to install Dynamics CRM for Outlook",
+        "items": [
+          "Identify dynamics crm for outlook, identify supported operating systems and components, identify support for dynamics crm for outlook versions"
+        ]
+      },
+      {
+        "label": "Deploy Dynamics CRM for Outlook",
+        "items": [
+          "Describe deployment methods, identify installation steps, deploy dynamics crm for outlook using the command line"
+        ]
+      },
+      {
+        "label": "Configure Dynamics CRM for Outlook",
+        "items": [
+          "Configure multiple organizations, enable offline capabilities, describe offline capabilities, identify fields that can be synchronized, describe limitations for synchronized fields, configure synchronized fields, configure data synchronization filters"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage an Internet-facing deployment (10–15%)",
+    "skills": [
+      {
+        "label": "Plan authentication",
+        "items": [
+          "Describe claims-based authentication, identify requirements, configure required dns entries, describe active directory federation services certificates, describe microsoft dynamics crm website and claims certificates, describe wildcard certificates"
+        ]
+      },
+      {
+        "label": "Install and configure an Internet-facing deployment",
+        "items": [
+          "Identify installation methods, configure a claims provider trust, implement the configure claims-based authentication wizard, add a relying party trust, implement the configure internet-facing deployment wizard, add required domain names"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Maintain and troubleshoot a deployment (10–15%)",
+    "skills": [
+      {
+        "label": "Monitor Microsoft Dynamics CRM",
+        "items": [
+          "Identify installed services, identify where service accounts are used, manage service accounts, manage system jobs, limit asynchronous jobs, bulk delete records, configure disaster recovery methods, identify registry keys for server tracing, configure and enable tracing"
+        ]
+      },
+      {
+        "label": "Update Microsoft Dynamics CRM",
+        "items": [
+          "Identify update types, identify order of updates, implement microsoft update, update clients and multiple servers, determine which updates are installed"
+        ]
+      }
+    ]
+  }
+]

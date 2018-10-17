@@ -1,0 +1,375 @@
+[
+  {
+    "label": "Design the application architecture (15-20%)",
+    "skills": [
+      {
+        "label": "Plan the application layers",
+        "items": [
+          "Plan data access",
+          "Plan for separation of concerns, appropriate use of models, views, controllers, components, and service dependency injection",
+          "Choose between client-side and server-side processing",
+          "Design for scalability",
+          "Choose between asp.net core and asp.net",
+          "Choose when to use .net standard libraries"
+        ]
+      },
+      {
+        "label": "Design a distributed application",
+        "items": [
+          "Design a hybrid application",
+          "Plan for session management in a distributed environment",
+          "Plan web farms",
+          "Run microsoft azure services on-premises with azure pack",
+          "Enable deferred processing through azure features including queues, scheduled and on-demand jobs, azure functions, and azure web jobs"
+        ]
+      },
+      {
+        "label": "Design and implement the Azure Web Apps life cycle",
+        "items": [
+          "Identify and implement start, run, and stop events",
+          "Code against application events in applications",
+          "Configure startup tasks, including iis, app pool configuration, and third-party tools"
+        ]
+      },
+      {
+        "label": "Configure state management",
+        "items": [
+          "Choose a state management mechanism including in-process, out of process, and redis-based state management",
+          "Plan for scalability",
+          "Use cookies or local storage to maintain state",
+          "Apply configuration settings in web.config files",
+          "Implement sessionless state including query strings",
+          "Configure middleware to enable session and application state in asp.net core"
+        ]
+      },
+      {
+        "label": "Design a caching strategy",
+        "items": [
+          "Implement page output caching and data caching",
+          "Create cache profiles",
+          "Implement http caching",
+          "Implement azure redis caching",
+          "Plan a content delivery network (cdn) strategy, for example, azure cdn"
+        ]
+      },
+      {
+        "label": "Design and implement a Web Socket strategy",
+        "items": [
+          "Read and write string and binary data asynchronously",
+          "Choose a connection loss strategy",
+          "Decide when to use web sockets",
+          "Implement signalr",
+          "Enable web socket features in an azure web app instance"
+        ]
+      },
+      {
+        "label": "Design a configuration management solution",
+        "items": [
+          "Manage configuration sources, including xml, json, and ini files",
+          "Manage environment variables",
+          "Implement option objects",
+          "Implement multiple environments using files and hierarchical structure",
+          "Manage sensitive configuration",
+          "React to runtime configuration changes",
+          "Implement a custom configuration source",
+          "Secure configuration by using azure key vault",
+          "Use the secret manager tool in development to keep secrets out of your code for configuration values"
+        ]
+      },
+      {
+        "label": "Interact with the host environment",
+        "items": [
+          "Work with file system using file providers",
+          "Work with environment variables",
+          "Determine hosting environment capabilities",
+          "Implement native components, including pinvoke and native dependencies for hosts including linux and windows",
+          "Use asp.net hosting on an open web interface for .net (owin)-based server"
+        ]
+      },
+      {
+        "label": "Compose an application by using the framework pipeline",
+        "items": [
+          "Add custom request processing modules to the pipeline",
+          "Add, remove, and configure services used in the application",
+          "Design and implement middleware",
+          "Design for kestrel, http.sys web server and iis",
+          "Design and implement startup filters"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design the build and deployment architecture (10-15%)",
+    "skills": [
+      {
+        "label": "Design a browser artifact build strategy",
+        "items": [
+          "Design a javascript build pipeline using gulp, grunt, npm and bower",
+          "Design an artifact build strategy using less, sass and font awesome",
+          "Design and implement a bundling and minification strategy for broswer artifacts, including javascript, css and images"
+        ]
+      },
+      {
+        "label": "Design a server build strategy",
+        "items": [
+          "Manage nuget dependencies",
+          "Target runtimes, including the full .net framework, .net core, and .net standard",
+          "Manage debug and release configurations, including compilation and optimization options",
+          "Include or exclude files from build",
+          "Manage build sources, including content, resources, and shared files",
+          "Implement metadata for projects, including version, release notes, and descriptions",
+          "Define other build options, including xmldoc and warningsaserrors",
+          "Work with static files in asp.net core"
+        ]
+      },
+      {
+        "label": "Design a publishing strategy",
+        "items": [
+          "Implement application publishing using dotnet.exe",
+          "Manage publishing options in csproj",
+          "Implement additional tooling",
+          "Implement pre-publish and post-publish scripts",
+          "Implement native compilation",
+          "Publish to docker container image"
+        ]
+      },
+      {
+        "label": "Implement an Azure deployment strategy",
+        "items": [
+          "Deploy azure web app using supported deployment models including ftp, kudu, web deploy, and visual studio publishing wizard",
+          "Provision arm- based resources while deploying applications",
+          "Implement deployment environments, including dev, test, and prod in azure",
+          "Use deployment slots for staging sites",
+          "Deploy to azure stack"
+        ]
+      },
+      {
+        "label": "Implement a on-premises deployment strategy",
+        "items": [
+          "Deploy application to iis using web deploy, xcopy, and visual studio publishing wizard",
+          "Deploy application to windows nano server, deploy application to iis hosted web core, deploy application to http.sys web server",
+          "Deploy application to kestrel on windows and linux",
+          "Implement reverse proxying to kestrel using iis and nginx"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design the User Experience (15-20%)",
+    "skills": [
+      {
+        "label": "Create elements of the user interface for a web application",
+        "items": [
+          "Create and apply styles by using css",
+          "Structure and lay out the user interface by using html",
+          "Implement dynamic page content based on a design"
+        ]
+      },
+      {
+        "label": "Design and implement UI behavior",
+        "items": [
+          "Implement client-side validation",
+          "Use javascript to manipulate the dom",
+          "Extend objects by using prototypal inheritance",
+          "Use ajax to make partial page updates"
+        ]
+      },
+      {
+        "label": "Design the UI layout of an application",
+        "items": [
+          "Implement partial views and view components for reuse in different areas of the application",
+          "Design and implement pages by using razor pages",
+          "Design and implement layouts to provide visual structure",
+          "Define and render optional and required page sections",
+          "Create and use tag and html helpers to simplify markup"
+        ]
+      },
+      {
+        "label": "Plan a responsive UI layout",
+        "items": [
+          "Plan for applications that run on multiple devices and screen resolutions",
+          "Use media queries and bootstrap’s responsive grid",
+          "Detect browser features and capabilities",
+          "Create a web application that runs across multiple browsers and mobile devices",
+          "Enable consistent cross-browser experiences with polyfills"
+        ]
+      },
+      {
+        "label": "Plan mobile UI strategy",
+        "items": [
+          "Implement mobile specific ui elements such as touch input, low bandwidth situations, and device oritentation changes",
+          "Define and implement a strategy for working with mobile browsers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop the User Experience (15-20%)",
+    "skills": [
+      {
+        "label": "Plan for search engine optimization and accessibility",
+        "items": [
+          "Use analytical tools to parse html",
+          "Provide an xml sitemap and robots.txt file to improve scraping",
+          "Write semantic markup for accessibility, for example, screen readers",
+          "Use rich snippets to increase content visibility"
+        ]
+      },
+      {
+        "label": "Plan and implement globalization and localization",
+        "items": [
+          "Plan a localization strategy",
+          "Create and apply resources to ui including javascript resources",
+          "Set cultures",
+          "Implement server side localization and globalization"
+        ]
+      },
+      {
+        "label": "Design and implement MVC controllers and actions",
+        "items": [
+          "Apply authorization attributes, filters including global, authentication, and overriddable filters",
+          "Choose and implement custom http status codes and responses",
+          "Implement action results",
+          "Implement mvc areas",
+          "Implement dependency injection for services in controllers"
+        ]
+      },
+      {
+        "label": "Design and implement routes",
+        "items": [
+          "Define a route to handle a url pattern",
+          "Apply route constraints",
+          "Ignore url patterns",
+          "Add custom route parameters",
+          "Define areas",
+          "Define routes that interoperate with single page application frameworks such as angular"
+        ]
+      },
+      {
+        "label": "Control application behavior by using MVC extensibility points",
+        "items": [
+          "Create custom middleware and inject it into the pipeline",
+          "Implement mvc filters and controller factories",
+          "Control application behavior by using action results, model binders, and route handlers",
+          "Inject services into a view"
+        ]
+      },
+      {
+        "label": "Design and implement serialization and model binding",
+        "items": [
+          "Serialize models and data using supported serialization formats, including json, xml, protobuf, and wcf/soap",
+          "Implement model and property binding, including custom binding and model validation",
+          "Implement web socket communication in mvc",
+          "Implement file uploading and multipart data",
+          "Use autorest to build clients"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Troubleshoot and Debug Web Applications (20-25%)",
+    "skills": [
+      {
+        "label": "Prevent and troubleshoot runtime issues",
+        "items": [
+          "Troubleshoot performance, security, and errors",
+          "Implement tracing, logging, and debugging including intellitrace",
+          "Enable and configure health monitoring including performance monitor",
+          "Configure and use app insights runtime telemetry"
+        ]
+      },
+      {
+        "label": "Design an exception handling strategy",
+        "items": [
+          "Handle exceptions across multiple layers",
+          "Use mvc middleware to configure error handling",
+          "Use different exception handling strategies for different environments",
+          "Create and display custom error pages",
+          "Configure a custom pipeline for error handling",
+          "Handle first chance exceptions",
+          "Configure and use app insights",
+          "Log application exceptions"
+        ]
+      },
+      {
+        "label": "Test a web application",
+        "items": [
+          "Create and run unit tests, for example, use the assert class, create mocks and stubs",
+          "Create and run web tests including using browser link",
+          "Debug a web application in multiple browsers and mobile emulators",
+          "Use azure devtest labs",
+          "Use visual studio team services"
+        ]
+      },
+      {
+        "label": "Debug an Azure application",
+        "items": [
+          "Collect diagnostic information by using azure app insights",
+          "Choose log types, for example, event logs, performance counters, and crash dumps",
+          "Stream logs directly to visual studio from a deployed site",
+          "Debug an azure application by using visual studio and remote debugging",
+          "Interact directly with remote azure websites using server explorer"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and Implement Security (15-20%)",
+    "skills": [
+      {
+        "label": "Configure authentication",
+        "items": [
+          "Authenticate users",
+          "Enforce authentication settings",
+          "Implement asp.net core identity",
+          "Enable facebook, google and other external providers",
+          "Implement account confirmation, password recovery, and multi-factor authentication",
+          "Perform authentication using azure active directory, azure active directory b2c, azure active directory b2b, and microsoft identity manage user session by using cookies",
+          "Acquire access tokens using the microsoft authentication library (msal)"
+        ]
+      },
+      {
+        "label": "Configure and apply authorization",
+        "items": [
+          "Create roles",
+          "Authorize roles programmatically",
+          "Configure and work with custom userstores using middleware",
+          "Configure controllers and actions to participate in authorization"
+        ]
+      },
+      {
+        "label": "Design and implement claims-based authentication",
+        "items": [
+          "Perform authentication and authorization using tokens including openid, oauth, jwt, saml, bearer tokens, etc."
+        ]
+      },
+      {
+        "label": "Manage data integrity",
+        "items": [
+          "Apply encryption to application data",
+          "Apply encryption to the configuration sections of an application",
+          "Sign application data to prevent tampering",
+          "Secure data using azure key vault",
+          "Implement encryption for data protection using the data protection apis in transit and at rest"
+        ]
+      },
+      {
+        "label": "Implement a secure site",
+        "items": [
+          "Secure communication by applying ssl certificates",
+          "Require ssl for all requests",
+          "Enable ssl hosting in the development environment",
+          "Implement ssl using azure load balancers",
+          "Salt and hash passwords for storage",
+          "Use html encoding to prevent cross-site scripting attacks (anti-xss library)",
+          "Implement deferred validation and handle unvalidated requests, for example, form, querystring, and url",
+          "Prevent sql injection attacks by parameterizing queries",
+          "Prevent cross-site request forgeries (xsrf)",
+          "Use azure security center to monitor azure resources",
+          "Implement cross origin resource sharing (cors)",
+          "Implement protection against open redirect attacks"
+        ]
+      }
+    ]
+  }
+]

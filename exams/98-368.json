@@ -1,0 +1,153 @@
+[
+  {
+    "label": "Understand device configurations (20-25%)",
+    "skills": [
+      {
+        "label": "Configure device options",
+        "items": [
+          "Describe microsoft account, configure control panel, configure system options"
+        ]
+      },
+      {
+        "label": "Configure desktop settings",
+        "items": [
+          "Configure the start menu, profiles, display settings, shortcuts, and group configurations and capabilities"
+        ]
+      },
+      {
+        "label": "Configure drive encryption",
+        "items": [
+          "Configure bitlocker, prepare for file encryption"
+        ]
+      },
+      {
+        "label": "Configure updates",
+        "items": [
+          "Describe windows update, describe app updates, describe device system updates"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand data access and management (20-25%)",
+    "skills": [
+      {
+        "label": "Describe cloud storage services",
+        "items": [
+          "Describe onedrive, microsoft azure storage, onenote, outlook, and office 365"
+        ]
+      },
+      {
+        "label": "Describe local storage",
+        "items": [
+          "Describe storage spaces and storage pools"
+        ]
+      },
+      {
+        "label": "Describe file systems",
+        "items": [
+          "Describe fat, fat32, exfat, ntfs, and resilient file system overview (refs)"
+        ]
+      },
+      {
+        "label": "Describe file and print sharing",
+        "items": [
+          "Describe ntfs and share permissions, homegroup, print drivers, and effective permissions",
+          "Create public, basic, and advanced shares",
+          "Map drives"
+        ]
+      },
+      {
+        "label": "Describe data encryption",
+        "items": [
+          "Describe encrypting file system (efs)",
+          "Describe how efs-encrypted folders impact moving and copying files",
+          "Describe bitlocker to go, virtual private network (vpn), public key, and private key",
+          "Certificate services",
+          "And ssl"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand device security (20-25%)",
+    "skills": [
+      {
+        "label": "Describe the differences between the Internet, an intranet, and an extranet",
+        "items": [
+          "Describe uses of private networks, public networks, host firewalls, network firewalls, and clouds"
+        ]
+      },
+      {
+        "label": "Describe user authentication",
+        "items": [
+          "Describe multifactor authentication, describe smart cards, describe windows rights management services, describe biometrics and password procedures"
+        ]
+      },
+      {
+        "label": "Describe permissions",
+        "items": [
+          "Configure file and share permissions",
+          "Describe the behavior when moving or copying files from one location to another",
+          "Describe basic and advanced permissions",
+          "Describe taking ownership, delegating, and resultant permissions"
+        ]
+      },
+      {
+        "label": "Describe malware",
+        "items": [
+          "Describe computer viruses, trojan horses, spyware, and adware",
+          "Describe antivirus and antimalware strategies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand cloud services (20-25%)",
+    "skills": [
+      {
+        "label": "Describe the types of cloud services",
+        "items": [
+          "Describe productivity services, storage services, communications services, and search services"
+        ]
+      },
+      {
+        "label": "Describe Microsoft Intune",
+        "items": [
+          "Describe microsoft intune capabilities, describe selective wipe, describe location settings"
+        ]
+      },
+      {
+        "label": "Describe Microsoft Azure",
+        "items": [
+          "Describe virtual machines",
+          "Describe azure services",
+          "Storage tiers, describe disaster recovery, high availability, redundancy, and fault tolerance"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand enterprise mobility (20-25%)",
+    "skills": [
+      {
+        "label": "Describe identity services",
+        "items": [
+          "Describe windows server active directory and azure active directory, microsoft account, and federation services"
+        ]
+      },
+      {
+        "label": "Describe business data access",
+        "items": [
+          "Describe company portal, describe work folders, offline folders, describe azure remoteapp"
+        ]
+      },
+      {
+        "label": "Describe Bring Your Own Device (BYOD)",
+        "items": [
+          "Describe device-centric to people-centric it, describe desktop virtualization, describe dynamic access control policies, describe windows rights management"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "label": "Set up and configure the core financial modules. (25-30%)",
+    "skills": [
+      {
+        "label": "Define and configure the General ledger module.",
+        "items": [
+          "Define currency and exchange rates",
+          "Define and create the chart of accounts and main accounts",
+          "Set up and manage fiscal and ledger calendars",
+          "Create and define financial dimensions and financial dimension sets",
+          "Configure account structure",
+          "Define the ledger for a legal entity",
+          "Set up journals",
+          "Define the general ledger parameters and accounts for automatic transactions",
+          "Configure intercompany accounting"
+        ]
+      },
+      {
+        "label": "Explain and set up the Cash and bank management module.",
+        "items": [
+          "Explain bank transaction types and transaction groups",
+          "Set up bank groups, create bank accounts, explain the cash and bank management parameters",
+          "Configure check layouts"
+        ]
+      },
+      {
+        "label": "Describe and design the Accounts receivable and Collections management modules.",
+        "items": [
+          "Describe customer posting profiles, set up customer payment information, create customers, define the accounts receivable parameters, describe an organizational structure for centralized payments",
+          "Set up and process collection letters, configure and calculate interest, process interest adjustments, set up customer pools and aging period definitions"
+        ]
+      },
+      {
+        "label": "Review and build the Accounts payable module.",
+        "items": [
+          "Define vendor posting profiles, configure vendor payment information, explain invoice matching",
+          "Create vendors, walkthrough the account payable parameters",
+          "Review an organizational structure for centralized payments"
+        ]
+      },
+      {
+        "label": "Clarify and utilize the Tax module.",
+        "items": [
+          "Define ledger posting groups, create sales tax codes, establish sales and item tax groups, define sales tax authorities, explain withholding tax",
+          "Review sales tax jurisdictions"
+        ]
+      },
+      {
+        "label": "Define basic fixed asset concepts, and complete setup for the Fixed assets module.",
+        "items": [
+          "Define depreciation methods and conventions, set up depreciation profiles and books, set up value models, define fixed asset parameters, create fixed assets, set up and assign bar codes to assets, lend fixed assets"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage daily procedures for the core financial modules. (25-30%)",
+    "skills": [
+      {
+        "label": "Review and process transactions in the General ledger module.",
+        "items": [
+          "Create and post general journals",
+          "Create voucher templates, process periodic journals, process period allocations, create and process accrual schemes, reverse a transaction, create reversing entries",
+          "Use ledger accrual schemes in a journal",
+          "Create and post intercompany journal entries"
+        ]
+      },
+      {
+        "label": "Analyze and walkthrough transactions in the Cash and bank management module.",
+        "items": [
+          "Create and delete checks, void a check and create payment reversals, create and cancel deposit slips, reconcile bank accounts"
+        ]
+      },
+      {
+        "label": "Assess and handle transactions in the Accounts receivable and Collections management modules.",
+        "items": [
+          "Create free text invoices, process prepayments, create payment journals, reverse settlements, reimburse a customer, perform sales order invoicing",
+          "Review aged balances for customer, process customer account statements, create write-off transactions, process a non-sufficient funds cancellation",
+          "Manage the status of customer transactions",
+          "Use cases and activities to track collection actions"
+        ]
+      },
+      {
+        "label": "Define and create transactions in the Accounts payable module.",
+        "items": [
+          "Define and create different types of invoice journals, manage vendor invoices, perform invoice matching",
+          "Process prepayments, create payment proposals",
+          "Process payment journals"
+        ]
+      },
+      {
+        "label": "Explain and work with transactions in the Tax module.",
+        "items": [
+          "Revise sales tax prior to posting a transaction, post sales tax on prepayments, create transactions with conditional sales tax"
+        ]
+      },
+      {
+        "label": "Review and process fixed asset transactions.",
+        "items": [
+          "Define transaction types available, process acquisitions through journals, process depreciations, process disposals, process value adjustments",
+          "Create purchase orders for fixed assets",
+          "Acquire fixed assets from a purchase order"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Set up, configure, and use the Budgeting module. (20-25%)",
+    "skills": [
+      {
+        "label": "Define basic budgeting concepts, and setup basic budgeting features.",
+        "items": [
+          "Define budget concepts",
+          "Discuss different budget types",
+          "Set up the different budget configurations, define the budget parameters"
+        ]
+      },
+      {
+        "label": "Configure and use budget control features.",
+        "items": [
+          "Set up the budget control configuration settings",
+          "Define budget groups and budget control rules",
+          "Enable budget control for source documents and journals",
+          "Activate and turn on budget control",
+          "View budget check results on transactions"
+        ]
+      },
+      {
+        "label": "Define and generate budget plans.",
+        "items": [
+          "Define budget planning configuration, create budget plans, process budget plans, modify budget plans in excel"
+        ]
+      },
+      {
+        "label": "Create and process budget register entries.",
+        "items": [
+          "Create and process budget register entries",
+          "Transfer budget balances, define budget allocations, update budget register entries in excel",
+          "Create budget register entries from budget plans"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage periodic and closing procedures for the financial modules. (20-25%)",
+    "skills": [
+      {
+        "label": "Setup, configure, and run consolidations and eliminations.",
+        "items": [
+          "Set up and define a consolidation and elimination company, add consolidation information to main accounts",
+          "Define and use consolidation groups",
+          "Configure elimination rules",
+          "Define the consolidation methods available",
+          "Perform a consolidation",
+          "Create and process eliminations"
+        ]
+      },
+      {
+        "label": "Configure and perform foreign currency revaluations.",
+        "items": [
+          "Define main account settings for foreign currency revaluation",
+          "Define the types of foreign currency revaluations",
+          "Perform foreign currency revaluations"
+        ]
+      },
+      {
+        "label": "Set up and run ledger allocations.",
+        "items": [
+          "Describe the various types of ledger allocation",
+          "Create ledger allocations rules and basis",
+          "Process ledger allocation requests",
+          "Configure allocations terms for a main account"
+        ]
+      },
+      {
+        "label": "Construct and use the period close workspace.",
+        "items": [
+          "Describe uses for the period close workspace",
+          "Configure the period close workspace",
+          "Define a period close template",
+          "Use the period close workspace"
+        ]
+      },
+      {
+        "label": "Set and run the fiscal year end closing processes.",
+        "items": [
+          "Define parameters for fiscal year end close",
+          "Configure and run the fiscal year close process",
+          "Describe and use the closing sheet"
+        ]
+      }
+    ]
+  }
+]

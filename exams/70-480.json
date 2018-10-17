@@ -1,0 +1,203 @@
+[
+  {
+    "label": "Implement and Manipulate Document Structures and Objects (20-25%)",
+    "skills": [
+      {
+        "label": "Create the document structure by using HTML",
+        "items": [
+          "Structure the ui by using semantic markup, including markup for search engines and screen readers, such as section, article, nav, header, footer, and aside",
+          "Create a layout container in html"
+        ]
+      },
+      {
+        "label": "Write code that interacts with UI controls",
+        "items": [
+          "Programmatically add and modify html elements",
+          "Implement media controls",
+          "Implement html5 canvas and svg graphics"
+        ]
+      },
+      {
+        "label": "Apply styling to HTML elements programmatically",
+        "items": [
+          "Change the location of an element",
+          "Apply a transform",
+          "Show and hide elements"
+        ]
+      },
+      {
+        "label": "Implement HTML5 APIs",
+        "items": [
+          "Implement storage apis and the geolocation api"
+        ]
+      },
+      {
+        "label": "Establish the scope of objects and variables",
+        "items": [
+          "Define the lifetime of variables",
+          "Keep objects out of the global namespace",
+          "Use the “this” keyword to reference an object that fired an event",
+          "Scope variables locally and globally"
+        ]
+      },
+      {
+        "label": "Create and implement objects and methods",
+        "items": [
+          "Implement native objects",
+          "Create custom objects and custom properties for native objects using prototypes and functions",
+          "Inherit from an object",
+          "Implement native methods and create custom methods"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Program Flow (25-30%)",
+    "skills": [
+      {
+        "label": "Implement program flow",
+        "items": [
+          "Iterate across collections and array items",
+          "Manage program decisions by using switch statements, if/then, and operators",
+          "Evaluate expressions"
+        ]
+      },
+      {
+        "label": "Raise and handle an event",
+        "items": [
+          "Handle common events exposed by dom (onblur, onfocus, onclick)",
+          "Declare and handle bubbled events",
+          "Handle an event by using an anonymous function"
+        ]
+      },
+      {
+        "label": "Implement exception handling",
+        "items": [
+          "Set and respond to error codes",
+          "Throw an exception",
+          "Request for null checks",
+          "Implement try-catch-finally blocks"
+        ]
+      },
+      {
+        "label": "Implement asynchronous programming",
+        "items": [
+          "Receive messages from the html5 websocket api",
+          "Use jquery to make an ajax call",
+          "Wire up an event",
+          "Implement a callback by using anonymous functions",
+          "Handle the “this” pointer"
+        ]
+      },
+      {
+        "label": "Create a web worker process",
+        "items": [
+          "Start and stop a web worker",
+          "Pass data to a web worker",
+          "Configure timeouts and intervals on the web worker",
+          "Register an event listener for the web worker",
+          "Limitations of a web worker"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Access and Secure Data (25-30%)",
+    "skills": [
+      {
+        "label": "Validate user input by using HTML5 elements",
+        "items": [
+          "Choose the appropriate controls based on requirements",
+          "Implement html input types and content attributes to collect user input"
+        ]
+      },
+      {
+        "label": "Validate user input by using JavaScript",
+        "items": [
+          "Evaluate a regular expression to validate the input format",
+          "Validate that you are getting the right kind of data type by using built-in functions",
+          "Prevent code injection"
+        ]
+      },
+      {
+        "label": "Consume data",
+        "items": [
+          "Consume json and xml data",
+          "Retrieve data by using web services",
+          "Load data or get data from other sources by using xmlhttprequest"
+        ]
+      },
+      {
+        "label": "Serialize, deserialize, and transmit data",
+        "items": [
+          "Handle binary data",
+          "Handle text data such as json and xml",
+          "Implement the jquery serialize method",
+          "Use form.submit",
+          "Parse data",
+          "Send data by using xmlhttprequest",
+          "Sanitize input by using uri/form encoding"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Use CSS3 in Applications (25-30%)",
+    "skills": [
+      {
+        "label": "Style HTML text properties",
+        "items": [
+          "Apply styles to text appearance",
+          "Apply styles to text font, including woff, @font-face, size, and understudy fonts",
+          "Apply styles to text alignment, spacing, and indentation",
+          "Apply styles to text hyphenation",
+          "Apply styles for a text drop shadow"
+        ]
+      },
+      {
+        "label": "Style HTML box properties",
+        "items": [
+          "Apply styles to alter appearance attributes, including size, borders, rounded corners, outline, padding, and margin",
+          "Apply styles to alter graphic effects, including transparency, opacity, background image, gradients, shadow, and clipping",
+          "Apply styles to establish and change an element’s position"
+        ]
+      },
+      {
+        "label": "Create a flexible content layout",
+        "items": [
+          "Implement a layout using a flexible box model",
+          "Implement a multi-column layout",
+          "Implement a layout using position floating and exclusions",
+          "Implement a layout using grid alignment",
+          "Implement a layout using regions, grouping, and nesting"
+        ]
+      },
+      {
+        "label": "Create an animated and adaptive UI",
+        "items": [
+          "Animate objects by applying css transitions",
+          "Apply 3-d and 2-d transformations",
+          "Adjust ui based on media queries, including device adaptations for output formats, displays, and representations",
+          "Hide or disable controls"
+        ]
+      },
+      {
+        "label": "Find elements by using CSS selectors and JQuery",
+        "items": [
+          "Choose the correct selector to reference an element",
+          "Define element, style, and attribute selectors",
+          "Find elements by using pseudo-elements and pseudo-classes"
+        ]
+      },
+      {
+        "label": "Structure a CSS file by using CSS selectors",
+        "items": [
+          "Reference elements correctly",
+          "Implement inheritance",
+          "Override inheritance by using !important",
+          "Style an element based on pseudo-elements and pseudo-classes"
+        ]
+      }
+    ]
+  }
+]

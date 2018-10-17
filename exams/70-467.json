@@ -1,0 +1,209 @@
+[
+  {
+    "label": "Plan business intelligence (BI) infrastructure (15–20%)",
+    "skills": [
+      {
+        "label": "Plan for performance",
+        "items": [
+          "Optimize batch procedures: extract, transform, load (etl) in sql server integration services (ssis)/sql and processing phase in analysis services",
+          "Configure proactive caching within sql server analysis services (ssas) for different scenarios",
+          "Understand performance consequences of named queries in a data source view",
+          "Analyze and optimize performance, including multidimensional expression (mdx) and data analysis expression (dax) queries",
+          "Understand the difference between partitioning for load performance versus query performance in ssas",
+          "Appropriately index a fact table",
+          "Optimize analysis services cubes in sql server data tools",
+          "Create aggregations"
+        ]
+      },
+      {
+        "label": "Plan for scalability",
+        "items": [
+          "Change binding options for partitions",
+          "Choose the appropriate multidimensional olap (molap), relational olap (rolap), and hybrid olap (holap) storage modes"
+        ]
+      },
+      {
+        "label": "Plan and manage upgrades",
+        "items": [
+          "Plan change management for a bi solution"
+        ]
+      },
+      {
+        "label": "Maintain server health",
+        "items": [
+          "Design an automation strategy"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design BI infrastructure (15–20%)",
+    "skills": [
+      {
+        "label": "Design a security strategy",
+        "items": [
+          "Configure security and impersonation between sql server service, analysis services, and front end",
+          "Implement dynamic dimension security within a cube",
+          "Configure security for an extranet environment",
+          "Configure kerberos security",
+          "Design authentication mechanisms",
+          "Design security tests",
+          "Build secure solutions end to end",
+          "Design roles for calculated measures",
+          "Understand the tradeoffs between regular ssas security and dynamic security"
+        ]
+      },
+      {
+        "label": "Design a SQL partitioning strategy",
+        "items": [
+          "Choose the proper partitioning strategy for the data warehouse and cube, implement a parallel load to fact tables by using partition switching, use data compression"
+        ]
+      },
+      {
+        "label": "Design a high availability and disaster recovery strategy",
+        "items": [
+          "Design a recovery strategy, back up and restore ssas databases, back up and restore ssrs databases, move and restore the ssis catalog, design an alwayson solution"
+        ]
+      },
+      {
+        "label": "Design a logging and auditing strategy",
+        "items": [
+          "Design a new ssis logging infrastructure (for example, information available through the catalog views), validate data is balancing and reconciling correctly"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design a reporting solution (20–25%)",
+    "skills": [
+      {
+        "label": "Design a Reporting Services dataset",
+        "items": [
+          "Design appropriate data query parameters, create appropriate sql queries, create appropriate dax queries for an application, manage data rights and security, extract data from analysis services by using mdx queries, balance query-based processing versus filter-based processing, manage data sets through the use of stored procedures"
+        ]
+      },
+      {
+        "label": "Manage Excel Services/reporting for SharePoint",
+        "items": [
+          "Configure data refresh schedules for powerpivot published to sharepoint, publish bi info to sharepoint, use sharepoint to accomplish bi administrative tasks, install and configure power view, publish powerpivot and power view to sharepoint"
+        ]
+      },
+      {
+        "label": "Design a data acquisition strategy",
+        "items": [
+          "Identify the data sources that need to be used to pull in the data, determine the changes (incremental data) in the data source (time window), identify the relationship and dependencies between the data sources, determine who can access which data, determine what data can be retained for how long (regulatory compliance, data archiving, aging), design a data movement strategy, profile source data"
+        ]
+      },
+      {
+        "label": "Plan and manage reporting services configuration",
+        "items": [
+          "Choose the appropriate reporting services requirements (including native mode and sharepoint mode)"
+        ]
+      },
+      {
+        "label": "Design BI reporting solution architecture",
+        "items": [
+          "Linked drill-down reports, drill-through reports, and sub reports",
+          "Design report migration strategies",
+          "Access report services api",
+          "Design code-behind strategies",
+          "Identify when to use reporting services (rs), report builder (rb), or power view",
+          "Design and implement context transfer when interlinking all types of reports (rs, rb, power view, excel)",
+          "Implement bi tools for reporting in sharepoint (excel services versus powerview versus reporting services)",
+          "Select a subscription strategy",
+          "Enable data alerts",
+          "Design map visualization"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design BI data models (30–35%)",
+    "skills": [
+      {
+        "label": "Design the data warehouse",
+        "items": [
+          "Design a data model that is optimized for reporting",
+          "Design and build a cube on top",
+          "Design enterprise data warehouse (edw) and olap cubes",
+          "Choose between natural keys and surrogate keys when designing the data warehouse",
+          "Use sql server to design, implement, and maintain a data warehouse, including partitioning, slowly changing dimensions (scd), change data capture (cdc), index views, and column store indexes",
+          "Identify design best practices",
+          "Implement a many-to-many relationship in an olap cube",
+          "Design a data mart/warehouse in reverse from an analysis services cube",
+          "Implement incremental data load",
+          "Choose between performing aggregation operations in the ssis pipeline or the relational engine"
+        ]
+      },
+      {
+        "label": "Design a schema",
+        "items": [
+          "Multidimensional modeling starting from a star or snowflake schema, design relational modeling for a data mart"
+        ]
+      },
+      {
+        "label": "Design cube architecture",
+        "items": [
+          "Partition cubes and build aggregation strategies for the separate partitions",
+          "Design a data model",
+          "Choose the proper partitioning strategy for the data warehouse and cube",
+          "Design the data file layout",
+          "Identify the aggregation method for a measure in a molap cube",
+          "Performance tune a molap cube using aggregations",
+          "Design a data source view",
+          "Design for cube drill-through and write back actions",
+          "Choose the correct grain of data to store in a measure group",
+          "Design analysis services processing by using indexes, indexed views, and order by statements"
+        ]
+      },
+      {
+        "label": "Design fact tables",
+        "items": [
+          "Design a data warehouse that supports many to many dimensions with factless fact tables"
+        ]
+      },
+      {
+        "label": "Design BI semantic models",
+        "items": [
+          "Plan for a multidimensional cube",
+          "Support a many-to-many relationship between tables",
+          "Choose between multidimensional and tabular, depending on the type of data and workload"
+        ]
+      },
+      {
+        "label": "Design and create MDX calculations",
+        "items": [
+          "Design mdx queries, identify the structures of mdx and the common functions (tuples, sets, topcount, scope, visualtotals, and more), create calculated members in an mdx statement, identify which mdx statement would return the required result, implement a custom mdx or logical solution for a pre-prepared case task"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design an ETL solution (10–15%)",
+    "skills": [
+      {
+        "label": "Design SSIS package execution",
+        "items": [
+          "Use the new project deployment model",
+          "Pass values at execution time",
+          "Share parameters between packages",
+          "Plan for incremental loads versus full loads",
+          "Optimize execution by using balanced data distributor (bdd)",
+          "Choose optimal processing strategy (including script transform, flat file incremental loads, and derived column transform)"
+        ]
+      },
+      {
+        "label": "Plan to deploy SSIS solutions",
+        "items": [
+          "Deploy the package to another server with different security requirements, secure integration services packages that are deployed at the file system, demonstrate awareness of ssis packages/projects and how they interact with environments (including recoverability), decide between performing aggregation operations in the ssis pipeline or the relational engine, plan to automate ssis deployment, plan the administration of the ssis catalog database"
+        ]
+      },
+      {
+        "label": "Design package configurations for SSIS packages",
+        "items": [
+          "Avoid repeating configuration information entered in ssis packages, and use configuration files"
+        ]
+      }
+    ]
+  }
+]

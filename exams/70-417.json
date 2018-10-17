@@ -1,0 +1,220 @@
+[
+  {
+    "label": "Install and configure servers",
+    "skills": [
+      {
+        "label": "Install servers",
+        "items": [
+          "Plan for a server installation, plan for server roles, plan for a server upgrade, install server core, optimize resource utilization by using features on demand, migrate roles from previous versions of windows server"
+        ]
+      },
+      {
+        "label": "Configure servers",
+        "items": [
+          "Configure server core, delegate administration, add and remove features in offline images, deploy roles on remote servers, convert server core to/from full gui, configure services, configure nic teaming, install and configure windows powershell desired state configuration (dsc)"
+        ]
+      },
+      {
+        "label": "Configure local storage",
+        "items": [
+          "Design storage spaces, configure basic and dynamic disks, configure master boot record (mbr) and guid partition table (gpt) disks, manage volumes, create and mount virtual hard disks (vhds), configure storage pools and disk pools, create storage pools by using disk enclosures"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure server roles and features",
+    "skills": [
+      {
+        "label": "Configure servers for remote management",
+        "items": [
+          "Configure winrm, configure down-level server management, configure servers for day-to-day management tasks, configure multi-server management, configure server core, configure windows firewall, manage non-domain joined servers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Hyper-V",
+    "skills": [
+      {
+        "label": "Create and configure virtual machine (VM) settings",
+        "items": [
+          "Configure dynamic memory, configure smart paging, configure resource metering, configure guest integration services, create and configure generation 1 and 2 vms, configure and use enhanced session mode, configure remotefx"
+        ]
+      },
+      {
+        "label": "Create and configure virtual machine storage",
+        "items": [
+          "Create vhds and vhdx, configure differencing drives, modify vhds, configure pass-through disks, manage checkpoints, implement a virtual fibre channel adapter, configure storage quality of service"
+        ]
+      },
+      {
+        "label": "Create and configure virtual networks",
+        "items": [
+          "Configure hyper-v virtual switches, optimize network performance, configure mac addresses, configure network isolation, configure synthetic and legacy virtual network adapters, configure nic teaming in vms"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Install and administer Active Directory",
+    "skills": [
+      {
+        "label": "Install domain controllers",
+        "items": [
+          "Add or remove a domain controller from a domain, upgrade a domain controller, install active directory domain services (ad ds) on a server core installation, install a domain controller from install from media (ifm), resolve domain name system (dns) srv record registration issues, configure a global catalog server, deploy active directory infrastructure as a service (iaas) in microsoft azure"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deploy, manage, and maintain servers",
+    "skills": [
+      {
+        "label": "Monitor servers",
+        "items": [
+          "Configure data collector sets (dcs), configure alerts, monitor real-time performance, monitor vms, monitor events, configure event subscriptions, configure network monitoring, schedule performance monitoring"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure network services and access",
+    "skills": [
+      {
+        "label": "Configure DirectAccess",
+        "items": [
+          "Implement server requirements, implement client configuration, configure dns for directaccess, configure certificates for directaccess"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure a network policy server infrastructure",
+    "skills": [
+      {
+        "label": "Configure Network Access Protection (NAP)",
+        "items": [
+          "Configure system health validators (shvs), configure health policies, configure nap enforcement using dynamic host configuration protocol (dhcp) and vpn, configure isolation and remediation of non-compliant computers using dhcp and vpn, configure nap client settings"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and manage Active Directory",
+    "skills": [
+      {
+        "label": "Configure domain controllers",
+        "items": [
+          "Transfer and seize operations master roles, install and configure a read-only domain controller (rodc), configure domain controller cloning"
+        ]
+      },
+      {
+        "label": "Maintain Active Directory",
+        "items": [
+          "Back up active directory and sysvol, manage active directory offline, optimize an active directory database, clean up metadata, configure active directory snapshots, perform object- and container-level recovery, perform active directory restore, configure and restore objects by using the active directory recycle bin"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and manage Group Policy",
+    "skills": [
+      {
+        "label": "Configure Group Policy processing",
+        "items": [
+          "Configure processing order and precedence, configure blocking of inheritance, configure enforced policies, configure security filtering and wmi filtering, configure loopback processing, configure and manage slow-link processing and group policy caching, configure client-side extension (cse) behavior, force group policy update"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and manage high availability",
+    "skills": [
+      {
+        "label": "Configure failover clustering",
+        "items": [
+          "Configure quorum, configure cluster networking, restore single node or cluster configuration, configure cluster storage, implement cluster aware updating, upgrade a cluster, configure and optimize clustered shared volumes, configure clusters without network names, configure storage spaces"
+        ]
+      },
+      {
+        "label": "Manage failover clustering roles",
+        "items": [
+          "Configure role-specific settings, including continuously available shares",
+          "Configure vm monitoring",
+          "Configure failover and preference settings",
+          "Configure guest clustering"
+        ]
+      },
+      {
+        "label": "Manage virtual machine movement",
+        "items": [
+          "Perform live migration",
+          "Perform quick migration",
+          "Perform storage migration",
+          "Import, export, and copy vms",
+          "Configure virtual machine network health protection",
+          "Configure drain on shutdown"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure file and storage solutions",
+    "skills": [
+      {
+        "label": "Implement Dynamic Access Control (DAC)",
+        "items": [
+          "Configure user and device claim types, implement policy changes and staging, perform access-denied remediation, configure file classification, create and configure central access rules and policies, create and configure resource properties and lists"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement business continuity and disaster recovery",
+    "skills": [
+      {
+        "label": "Configure and manage backups",
+        "items": [
+          "Configure windows server backups, configure azure backups, configure role-specific backups, manage vss settings using vssadmin"
+        ]
+      },
+      {
+        "label": "Configure site-level fault tolerance",
+        "items": [
+          "Configure hyper-v replica, including hyper-v replica broker and vms",
+          "Configure multi-site clustering, including network settings, quorum, and failover settings",
+          "Configure hyper-v replica extended replication",
+          "Configure global update manager",
+          "Recover a multi-site failover cluster"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure network services",
+    "skills": [
+      {
+        "label": "Deploy and manage IP address management (IPAM)",
+        "items": [
+          "Provision ipam manually or by using group policy, configure server discovery, create and manage ip blocks and ranges, monitor utilization of ip address space, migrate to ipam, delegate ipam administration, manage ipam collections, configure ipam database storage"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure access and information protection solutions",
+    "skills": [
+      {
+        "label": "Implement Active Directory Federation Services (AD FS)",
+        "items": [
+          "Install ad fs",
+          "Implement claims-based authentication, including relying party trusts",
+          "Configure authentication policies",
+          "Configure workplace join",
+          "Configure multi-factor authentication"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "label": "Create a Customer Organizational Structure (25% - 30%)",
+    "skills": [
+      {
+        "label": "Support the Microsoft Dynamics 365 client environment",
+        "items": [
+          "Validate minimum browser requirements for devices utilizing the web interface to access microsoft dynamics 365, ensure client devices meet the minimum hardware specifications, support outlook integration by using outlook or outlook with dynamics 365 app for outlook installed, manage phone and tablet client environments"
+        ]
+      },
+      {
+        "label": "Deploy Microsoft Dynamics",
+        "items": [
+          "Determine the proper edition of microsoft dynamics 365 suited for the client",
+          "Determine the proper pricing, packaging, and subscription model based on the needs of the organizational environment",
+          "Create a deployment plan to meet organizational considerations"
+        ]
+      },
+      {
+        "label": "Import data into the Microsoft Dynamics 365 environment",
+        "items": [
+          "Design a data import plan, import data through supported methodologies, upload data from on-premises to azure, manage large volume migrations with the data loader service"
+        ]
+      },
+      {
+        "label": "Manage the Microsoft Dynamics 365 environment",
+        "items": [
+          "Sign-up and cancel subscriptions, manage users, configure sso and ad synchronization within hybrid environments with active directory federation services (adfs), configure administrative access, assign roles"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Administer the Microsoft Dynamics 365 Environment (25% - 30%)",
+    "skills": [
+      {
+        "label": "Deploy instances",
+        "items": [
+          "Deploy appropriate number and types of instances for designated environments, deploy sandbox and production instances, configure and edit instance properties"
+        ]
+      },
+      {
+        "label": "Manage instances",
+        "items": [
+          "Switch an instance, reset an instance, delete an instance, copy an instance, manage regions and multiple tenant environments, manage storage and resources, manage administrative email notifications"
+        ]
+      },
+      {
+        "label": "Manage updates",
+        "items": [
+          "Design a microsoft dynamics 365 update policy",
+          "Review, approve, and skip updates",
+          "Schedule updates"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Integrate Microsoft Dynamics with Other Applications (20% - 25%)",
+    "skills": [
+      {
+        "label": "Integrate Microsoft Exchange, SharePoint, and OneDrive with Microsoft Dynamics",
+        "items": [
+          "Configure exchange server synchronization for incoming and outgoing traffic, manage folder based tracking flows, manage sharepoint integration, enable onedrive for business, configure control access and folder structure for sharepoint"
+        ]
+      },
+      {
+        "label": "Integrate other Microsoft Online Business Solutions with Microsoft Dynamics",
+        "items": [
+          "Manage onenote integration, manage microsoft social engagement integration, manage yammer integration, manage workspace collaboration with office 365 groups, manage and configure delve integration"
+        ]
+      },
+      {
+        "label": "Integrate customized and third party applications with Microsoft Dynamics",
+        "items": [
+          "Configure and manage app modules, create customized function apps with app designer, create site maps by using design app mapper, obtain access to additional apps through app source and power apps"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Microsoft Outlook and Mobile Environments (25% - 30%)",
+    "skills": [
+      {
+        "label": "Integrate Microsoft Dynamics 365 with Outlook",
+        "items": [
+          "Manage supported environments for microsoft dynamics 365 for outlook, deploy microsoft dynamics 365 for outlook through multiple methods, configure microsoft dynamics 365 for outlook to connect to multiple instances, configure synchronized fields, perform basic functions using the microsoft dynamics 365 app for outlook interface"
+        ]
+      },
+      {
+        "label": "Manage and configure mobile apps for Microsoft Dynamics 365",
+        "items": [
+          "Configure microsoft dynamics 365 for phones express and newer microsoft dynamics 365 for phones and tablets, configure entities and security privileges, manage crm forms and dashboards"
+        ]
+      }
+    ]
+  }
+]

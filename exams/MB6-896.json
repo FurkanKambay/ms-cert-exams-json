@@ -1,0 +1,222 @@
+[
+  {
+    "label": "Manage customer and vendor relationships (20 – 25%)",
+    "skills": [
+      {
+        "label": "Manage customer relationships",
+        "items": [
+          "This objective may include but is not limited to: create and maintain customer records in microsoft dynamics 365",
+          "Configure and manage customer trade agreements including agreements with supplementary items",
+          "Set up customer groups and posting profiles",
+          "Configure credit limits",
+          "Configure additional customer parameters including delivery and payment terms",
+          "Create a customer using default data and financial dimensions"
+        ]
+      },
+      {
+        "label": "Manage vendor relationships",
+        "items": [
+          "This objective may include but is not limited to: create and maintain vendor records",
+          "Configure and manage vendor trade agreements",
+          "Set up vendor groups and posting profiles",
+          "Configure vendor collaboration workspaces"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage the sales process (25 – 30%)",
+    "skills": [
+      {
+        "label": "Control and manage sales",
+        "items": [
+          "This objective may include but is not limited to: create charge codes",
+          "Create customer charges groups",
+          "Create item charge groups",
+          "Create delivery charges groups",
+          "Create auto charges on items, customers and vendors",
+          "Create terms of payment"
+        ]
+      },
+      {
+        "label": "Manage sales commissions",
+        "items": [
+          "This objective may include but is not limited to: create commission customer groups",
+          "Create commission item groups",
+          "Create commission sales groups",
+          "Set up commission calculations",
+          "Setup commissions for return items"
+        ]
+      },
+      {
+        "label": "Create sales quotations",
+        "items": [
+          "This objective may include but is not limited to: create sales quotations",
+          "Update sales quotations"
+        ]
+      },
+      {
+        "label": "Perform the sales process",
+        "items": [
+          "This objective may include but is not limited to: create sales orders",
+          "Copy sales orders",
+          "Create order events",
+          "Configure order holds",
+          "Add order notes",
+          "Create customer sales agreements",
+          "Update charge",
+          "Implement items lists",
+          "Implement full text search"
+        ]
+      },
+      {
+        "label": "Configure delivery settings",
+        "items": [
+          "This objective may include but is not limited to: set up enhanced delivery date control",
+          "Configure coverage calendars and transport times",
+          "Configure available ship and receipt dates",
+          "Add order entry deadlines",
+          "Configure sales orders picking"
+        ]
+      },
+      {
+        "label": "Process outbound delivery and invoicing",
+        "items": [
+          "This objective may include but is not limited to: create direct delivery orders",
+          "Set up warehouses",
+          "Pack and ship products",
+          "Post a packing slip",
+          "Invoice customers",
+          "Process returns from customers",
+          "Create replacement orders",
+          "Configure and process transfer orders",
+          "Pick items for transfers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage the purchase process (25 – 30%)",
+    "skills": [
+      {
+        "label": "Control and manage purchases",
+        "items": [
+          "This objective may include but is not limited to: create charges codes",
+          "Create vendor charges groups",
+          "Create item charges groups",
+          "Create delivery charges groups",
+          "Create auto charges"
+        ]
+      },
+      {
+        "label": "Create purchase requisitions",
+        "items": [
+          "This objective may include but is not limited to: create and submit purchase requisitions for approval",
+          "Configure purchase requisition workflows",
+          "Define control parameters and workflow on purchase requisition documents",
+          "Set up purchasing policies"
+        ]
+      },
+      {
+        "label": "Create requests for quotations",
+        "items": [
+          "This objective may include but is not limited to: create requests for quotations",
+          "Process requests for quotations",
+          "Accept or reject requests for quotations",
+          "Manage bills of materials on sales quotations"
+        ]
+      },
+      {
+        "label": "Perform the procurement process",
+        "items": [
+          "This objective may include but is not limited to: create purchase orders",
+          "Create purchase agreements and release lines",
+          "Configure change management"
+        ]
+      },
+      {
+        "label": "Receive products and services",
+        "items": [
+          "This objective may include but is not limited to: perform desktop receiving",
+          "Create purchase invoices and match receipts",
+          "Set up quality management on purchase items",
+          "Create tests and configure item sampling",
+          "Create test groups",
+          "Configure automatic and manual quality orders",
+          "Create and process nonconformance orders",
+          "Manage quality reports and certificates",
+          "Inspect product receipts",
+          "Receive products and return rejections",
+          "Create a case for undelivered products from a vendor"
+        ]
+      },
+      {
+        "label": "Configure and manage item reservations",
+        "items": [
+          "This objective may include but is not limited to: apply automatic and manual reservations",
+          "Apply explosion reservations",
+          "View, lock, and cancel reservations",
+          "Configure batch reservations",
+          "Pick reservations"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and manage inventory (20 – 25%)",
+    "skills": [
+      {
+        "label": "Set up and configure inventory management",
+        "items": [
+          "This objective may include but is not limited to: create sites",
+          "Create warehouses",
+          "Configure warehouse items",
+          "Set up inventory aisles and locations",
+          "Configure boxing logic",
+          "Manage the inventory close process"
+        ]
+      },
+      {
+        "label": "Manage products and services",
+        "items": [
+          "This objective may include but is not limited to: create product and service records",
+          "Create item groups and item model groups",
+          "Create storage and tracking dimensions",
+          "Track inventory using serial and batch numbers",
+          "Create units of measure",
+          "Create inventory and posting profiles",
+          "Create released products"
+        ]
+      },
+      {
+        "label": "Enrich product data",
+        "items": [
+          "This objective may include but is not limited to: set up product attributes",
+          "Create attribute groups",
+          "Create and maintain product hierarchies",
+          "Set up supplementary items"
+        ]
+      },
+      {
+        "label": "Configure, run, and review inventory reports",
+        "items": [
+          "This objective may include but is not limited to: configure abc classifications",
+          "Determine physical inventory",
+          "Run and analyze inventory aging reports",
+          "Configure and run forecasting reports"
+        ]
+      },
+      {
+        "label": "Configure and manage inventory journals",
+        "items": [
+          "This objective may include but is not limited to: set up inventory journals",
+          "Manage inventory adjustments",
+          "Create transfer, bills of materials, and counting journals",
+          "Set up and manage cycle counting operations",
+          "Process inventory blocking",
+          "Set up item registration"
+        ]
+      }
+    ]
+  }
+]

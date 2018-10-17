@@ -1,0 +1,233 @@
+[
+  {
+    "label": "Manage Program Flow (25-30%)",
+    "skills": [
+      {
+        "label": "Implement multithreading and asynchronous processing",
+        "items": [
+          "Use the task parallel library, including theparallel.for method, plinq, tasks",
+          "Create continuation tasks",
+          "Spawn threads by using threadpool",
+          "Unblock the ui",
+          "Use async and await keywords",
+          "Manage data by using concurrent collections"
+        ]
+      },
+      {
+        "label": "Manage multithreading",
+        "items": [
+          "Synchronize resources",
+          "Implement locking",
+          "Cancel a long-running task",
+          "Implement thread-safe methods to handle race conditions"
+        ]
+      },
+      {
+        "label": "Implement program flow",
+        "items": [
+          "Iterate across collection and array items",
+          "Program decisions by using switch statements, if/then, and operators",
+          "Evaluate expressions"
+        ]
+      },
+      {
+        "label": "Create and implement events and callbacks",
+        "items": [
+          "Create event handlers",
+          "Subscribe to and unsubscribe from events",
+          "Use built-in delegate types to create events",
+          "Create delegates",
+          "Lambda expressions",
+          "Anonymous methods"
+        ]
+      },
+      {
+        "label": "Implement exception handling",
+        "items": [
+          "Handle exception types, including sql exceptions, network exceptions, communication exceptions, network timeout exceptions",
+          "Use catch statements",
+          "Use base class of an exception",
+          "Implement try-catchfinally blocks",
+          "Throw exceptions",
+          "Rethrow an exception",
+          "Create custom exceptions",
+          "Handle inner exceptions",
+          "Handle aggregate exception"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and Use Types (25-30%)",
+    "skills": [
+      {
+        "label": "Create types",
+        "items": [
+          "Create value types, including structs and enum",
+          "Create reference types, generic types, constructors, static variables, methods, classes, extension methods",
+          "Create optional and named parameters",
+          "Create indexed properties",
+          "Create overloaded and overriden methods"
+        ]
+      },
+      {
+        "label": "Consume types",
+        "items": [
+          "Box or unbox to convert between value types",
+          "Cast types",
+          "Convert types",
+          "Handle dynamic types",
+          "Ensure interoperability with code that accesses com apis"
+        ]
+      },
+      {
+        "label": "Enforce encapsulation",
+        "items": [
+          "Enforce encapsulation by using properties",
+          "Enforce encapsulation by using accessors, including public, private, protected, and internal",
+          "Enforce encapsulation by using explicit interface implementation"
+        ]
+      },
+      {
+        "label": "Create and implement a class hierarchy",
+        "items": [
+          "Design and implement an interface",
+          "Inherit from a base class",
+          "Create and implement classes based on the icomparable, ienumerable, idisposable, and iunknown interfaces"
+        ]
+      },
+      {
+        "label": "Find, execute, and create types at runtime by using reflection",
+        "items": [
+          "Create and apply attributes",
+          "Read attributes",
+          "Generate code at runtime by using codedom and lambda expressions",
+          "Use types from the system.reflection namespace, including assembly, propertyinfo, methodinfo, type"
+        ]
+      },
+      {
+        "label": "Manage the object life cycle",
+        "items": [
+          "Manage unmanaged resources",
+          "Implement idisposable, including interaction with finalization",
+          "Manage idisposable by using the using statement",
+          "Manage finalization and garbage collection"
+        ]
+      },
+      {
+        "label": "Manipulate strings",
+        "items": [
+          "Manipulate strings by using the stringbuilder, stringwriter, and stringreader classes",
+          "Search strings",
+          "Enumerate string methods",
+          "Format strings",
+          "Use string interpolation"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Debug Applications and Implement Security (25-30%)",
+    "skills": [
+      {
+        "label": "Validate application input",
+        "items": [
+          "Validate json data",
+          "Choose the appropriate data collection type",
+          "Manage data integrity",
+          "Evaluate a regular expression to validate the input format",
+          "Use built-in functions to validate data type and content"
+        ]
+      },
+      {
+        "label": "Perform symmetric and asymmetric encryption",
+        "items": [
+          "Choose an appropriate encryption algorithm",
+          "Manage and create certificates",
+          "Implement key management",
+          "Implement the system.security namespace",
+          "Hash data",
+          "Encrypt streams"
+        ]
+      },
+      {
+        "label": "Manage assemblies",
+        "items": [
+          "Version assemblies",
+          "Sign assemblies using strong names",
+          "Implement side-by-side hosting",
+          "Put an assembly in the global assembly cache",
+          "Create a winmd assembly"
+        ]
+      },
+      {
+        "label": "Debug an application",
+        "items": [
+          "Create and manage preprocessor directives",
+          "Choose an appropriate build type",
+          "Manage program database files (debug symbols)"
+        ]
+      },
+      {
+        "label": "Implement diagnostics in an application",
+        "items": [
+          "Implement logging and tracing",
+          "Profiling applications",
+          "Create and monitor performance counters",
+          "Write to the event log"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Data Access (25-30%)",
+    "skills": [
+      {
+        "label": "Perform I/O operations",
+        "items": [
+          "Read and write files and streams",
+          "Read and write from the network by using classes in the system.net namespace",
+          "Implement asynchronous i/o operations"
+        ]
+      },
+      {
+        "label": "Consume data",
+        "items": [
+          "Retrieve data from a database",
+          "Update data in a database",
+          "Consume json and xml data",
+          "Retrieve data by using web services"
+        ]
+      },
+      {
+        "label": "Query and manipulate data and objects by using LINQ",
+        "items": [
+          "Query data by using operators, including projection, join, group, take, skip, aggregate",
+          "Create methodbased linq queries",
+          "Query data by using query comprehension syntax",
+          "Select data by using anonymous types",
+          "Force execution of a query",
+          "Read, filter, create, and modify data structures by using linq to xml"
+        ]
+      },
+      {
+        "label": "Serialize and deserialize data",
+        "items": [
+          "Serialize and deserialize data by using binary serialization, custom serialization, xml serializer, json serializer, and data contract serializer"
+        ]
+      },
+      {
+        "label": "Store data in and retrieve data from collections",
+        "items": [
+          "Store and retrieve data by using dictionaries, arrays, lists, sets, and queues",
+          "Choose a collection type",
+          "Initialize a collection",
+          "Add and remove items from a collection",
+          "Use typed vs. non-typed collections",
+          "Implement custom collections",
+          "Implement collection interfaces"
+        ]
+      }
+    ]
+  }
+]

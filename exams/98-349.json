@@ -1,0 +1,195 @@
+[
+  {
+    "label": "Understanding operating system configurations (15–20%)",
+    "skills": [
+      {
+        "label": "Configure Control Panel options",
+        "items": [
+          "Configure administrative tools, configure accessibility options, configure power settings, configure file explorer settings"
+        ]
+      },
+      {
+        "label": "Configure desktop settings",
+        "items": [
+          "Configure profiles, display settings, and shortcuts",
+          "Configure and customize start menu",
+          "Configure task bar settings",
+          "Configure toolbars",
+          "Configure notifications"
+        ]
+      },
+      {
+        "label": "Configure native applications and tools",
+        "items": [
+          "Configure microsoft edge, configure cortana, configure hyper-v, configure settings using msconfig, configure processes and applications using task manager, configure computer management"
+        ]
+      },
+      {
+        "label": "Configure mobility settings",
+        "items": [
+          "Configure sync center, windows mobility center, and remote desktop"
+        ]
+      },
+      {
+        "label": "Configure and use management tools",
+        "items": [
+          "Configure mmc, configure the windows powershell console and windows powershell ise"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Installing and upgrading client systems (15–20%)",
+    "skills": [
+      {
+        "label": "Identify Windows operating system editions",
+        "items": [
+          "Identify hardware and compatibility requirements, determine appropriate editions per device type"
+        ]
+      },
+      {
+        "label": "Identify upgrade paths",
+        "items": [
+          "Identify upgrade paths from previous windows versions, identify application compatibility"
+        ]
+      },
+      {
+        "label": "Understand installation types",
+        "items": [
+          "Perform a clean install, upgrade via windows update, migrate from previous windows versions, perform removable media installation, perform network installation"
+        ]
+      },
+      {
+        "label": "Understand operating system architecture",
+        "items": [
+          "Understand kernel mode",
+          "Understand user mode",
+          "Understand memory, irqs, drivers, cpus, and ui",
+          "Understand 32-bit versus 64-bit architecture"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Managing applications (15–20%)",
+    "skills": [
+      {
+        "label": "Configure applications",
+        "items": [
+          "Understand local versus network applications, configure desktop applications, configure app startup options, configure windows features, configure windows smartscreen, configure application removal, configure windows store apps"
+        ]
+      },
+      {
+        "label": "Configure user account control (UAC)",
+        "items": [
+          "Understand standard user versus administrative user, understand types of uac prompts and levels"
+        ]
+      },
+      {
+        "label": "Configure antivirus settings",
+        "items": [
+          "Configure windows defender and the malicious software removal tool"
+        ]
+      },
+      {
+        "label": "Understand services",
+        "items": [
+          "Understand service start-up types, service accounts, and service dependencies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Managing files and folders (15–20%)",
+    "skills": [
+      {
+        "label": "Understand file systems",
+        "items": [
+          "Understand fat32, ntfs, and refs"
+        ]
+      },
+      {
+        "label": "Understand file and print sharing",
+        "items": [
+          "Configure file system permissions, configure share permissions, configure homegroup settings, configure print drivers, configure effective permissions, create shares, create mapped drives"
+        ]
+      },
+      {
+        "label": "Understand encryption",
+        "items": [
+          "Understand bitlocker and encrypting file systems (efs)"
+        ]
+      },
+      {
+        "label": "Understand libraries",
+        "items": [
+          "Understand offline files, configure libraries, add multiple local locations to a library, add networked locations"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Managing devices (15–20%)",
+    "skills": [
+      {
+        "label": "Connect devices",
+        "items": [
+          "Connect, enable, and disable plug-and-play and bluetooth devices",
+          "Connect and disconnect printers",
+          "Install third-party software for devices",
+          "Install device drivers"
+        ]
+      },
+      {
+        "label": "Understand storage",
+        "items": [
+          "Understand disk types, security (encryption), storage device types (esata, usb, ieee 1394, iscsi, infiniband), and storage drive types (basic, primary, extended, logical, dynamic disk, vhds)",
+          "Configure onedrive use",
+          "Optimize drives"
+        ]
+      },
+      {
+        "label": "Understand printing devices",
+        "items": [
+          "Understand local printers, network printers, print queues, print-to-file, and internet printing"
+        ]
+      },
+      {
+        "label": "Understand system devices",
+        "items": [
+          "Understand video, audio, and infrared input devices",
+          "Understand device manager"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding operating system maintenance (15–20%)",
+    "skills": [
+      {
+        "label": "Understand backup and recovery methods",
+        "items": [
+          "Configure system restore",
+          "Configure a recovery drive",
+          "Configure recovery boot options, such as last known good, and various safe mode options",
+          "Recover files from onedrive"
+        ]
+      },
+      {
+        "label": "Understand maintenance tools",
+        "items": [
+          "Understand disk defragmenter, disk cleanup, task scheduler, and system information"
+        ]
+      },
+      {
+        "label": "Configure updates",
+        "items": [
+          "Configure windows update options",
+          "Implement insider preview, current branch, and current branch for business scenarios",
+          "Manage update history",
+          "Roll back updates"
+        ]
+      }
+    ]
+  }
+]

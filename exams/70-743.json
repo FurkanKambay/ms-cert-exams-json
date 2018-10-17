@@ -1,0 +1,388 @@
+[
+  {
+    "label": "Install Windows Servers in Host and Compute Environments",
+    "skills": [
+      {
+        "label": "Install, upgrade, and migrate servers and workloads",
+        "items": [
+          "Determine windows server 2016 installation requirements",
+          "Determine appropriate windows server 2016 editions per workloads",
+          "Install windows server 2016",
+          "Install windows server 2016 features and roles",
+          "Install and configure windows server core",
+          "Manage windows server core installations using windows powershell, command line, and remote management capabilities",
+          "Implement windows powershell desired state configuration (dsc) to install and maintain integrity of installed environments",
+          "Perform upgrades and migrations of servers and core workloads from windows server 2008 and windows server 2012 to windows server 2016",
+          "Determine the appropriate activation model for server installation, such as automatic virtual machine activation (avma), key management service (kms), and active directory-based activation"
+        ]
+      },
+      {
+        "label": "Install and configure Nano Server",
+        "items": [
+          "Determine appropriate usage scenarios and requirements for nano server",
+          "Install nano server",
+          "Implement roles and features on nano server",
+          "Use nano server image builder, manage and configure nano server",
+          "Manage nano server remotely using mmc, windows powershell, and server management tools"
+        ]
+      },
+      {
+        "label": "Create, manage, and maintain images for deployment",
+        "items": [
+          "Plan for windows server virtualization",
+          "Assess virtualization workloads using the microsoft assessment and planning (map) toolkit",
+          "Determine considerations for deploying workloads into virtualized environments",
+          "Update images with patches, hotfixes, last cumulative updates and drivers",
+          "Install roles and features in offline images",
+          "Manage and maintain windows server core, nano server images, and vhds using windows powershell"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Storage Solutions",
+    "skills": [
+      {
+        "label": "Implement server storage",
+        "items": [
+          "Configure storage pools",
+          "Implement simple, mirror, and parity storage layout options for disks or enclosures",
+          "Expand storage pools",
+          "Configure tiered storage",
+          "Configure iscsi target and initiator",
+          "Configure isns",
+          "Configure datacenter bridging (dcb)",
+          "Configure multi-path io (mpio)",
+          "Determine usage scenarios for storage replica",
+          "Implement storage replica for server-to-server, cluster-to-cluster, and stretch cluster scenarios"
+        ]
+      },
+      {
+        "label": "Implement data deduplication",
+        "items": [
+          "Implement and configure deduplication",
+          "Determine appropriate usage scenarios for deduplication",
+          "Monitor deduplication",
+          "Implement a backup and restore solution with deduplication"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Hyper-V",
+    "skills": [
+      {
+        "label": "Install and configure Hyper-V",
+        "items": [
+          "Determine hardware and compatibility requirements for installing hyper-v",
+          "Install hyper-v",
+          "Install management tools",
+          "Upgrade from existing versions of hyper-v",
+          "Delegate virtual machine management",
+          "Perform remote management of hyper-v hosts",
+          "Using windows powershell direct",
+          "Implement nested virtualization"
+        ]
+      },
+      {
+        "label": "Configure virtual machine (VM) settings",
+        "items": [
+          "Add or remove memory in a running vm",
+          "Configure dynamic memory",
+          "Configure non-uniform memory access (numa) support",
+          "Configure smart paging",
+          "Configure resource metering",
+          "Manage integration services",
+          "Create and configure generation 1 and 2 vms and determine appropriate usage scenarios",
+          "Implement enhanced session mode",
+          "Create linux and freebsd vms",
+          "Install and configure linux integration services (lis)",
+          "Install and configure freebsd integration services (bis)",
+          "Implement secure boot for windows and linux environments",
+          "Move and convert vms from previous versions of hyper-v to windows server 2016 hyper-v",
+          "Export and import vms",
+          "Implement discrete device assignment (dda), troubleshoot vm configuration versions"
+        ]
+      },
+      {
+        "label": "Configure Hyper-V storage",
+        "items": [
+          "Create vhds and vhdx files using hyper-v manager",
+          "Create shared vhdx files",
+          "Configure differencing disks",
+          "Modify virtual hard disks",
+          "Configure pass-through disks",
+          "Resize a virtual hard disk",
+          "Manage checkpoints",
+          "Implement production checkpoints",
+          "Implement a virtual fibre channel adapter",
+          "Configure storage quality of service (qos)"
+        ]
+      },
+      {
+        "label": "Configure Hyper-V networking",
+        "items": [
+          "Add and remove virtual network interface cards (vnics)",
+          "Configure hyper-v virtual switches",
+          "Optimize network performance",
+          "Configure mac addresses",
+          "Configure network isolation",
+          "Configure synthetic and legacy virtual network adapters",
+          "Configure nic teaming in vms",
+          "Configure virtual machine queue (vmq)",
+          "Enable remote direct memory access (rdma) on network adapters bound to a hyper-v virtual switch using switch embedded teaming (set)",
+          "Configure bandwidth management"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Windows Containers",
+    "skills": [
+      {
+        "label": "Deploy Windows containers",
+        "items": [
+          "Determine installation requirements and appropriate scenarios for windows containers",
+          "Install and configure windows server container host in physical or virtualized environments",
+          "Install and configure windows server container host to windows server core or nano server in a physical or virtualized environment",
+          "Install docker on windows server and nano server",
+          "Configure docker start-up options",
+          "Install powershell for docker",
+          "Install a base container image",
+          "Tag an image",
+          "Remove a container",
+          "Create windows server containers",
+          "Create hyper-v containers"
+        ]
+      },
+      {
+        "label": "Manage Windows containers",
+        "items": [
+          "Manage windows containers by using docker cli and powershell for docker",
+          "Manage container networking",
+          "Manage container data volumes",
+          "Manage resource control",
+          "Create new container images using dockerfile",
+          "Manage container images using dockerhub repository for public and private scenarios",
+          "Manage container images using microsoft azure"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement High Availability",
+    "skills": [
+      {
+        "label": "Implement high availability and disaster recovery options in Hyper-V",
+        "items": [
+          "Implement hyper-v replica",
+          "Implement live migration including shared nothing live migration",
+          "Configure credssp or kerberos authentication protocol for live migration",
+          "Implement storage migration"
+        ]
+      },
+      {
+        "label": "Implement failover clustering",
+        "items": [
+          "Implement workgroup, single, and multi domain clusters",
+          "Configure quorum",
+          "Configure cluster networking",
+          "Restore single node or cluster configuration",
+          "Configure cluster storage",
+          "Implement cluster-aware updating",
+          "Implement cluster operating system rolling upgrade",
+          "Configure and optimize cluster shared volumes (csvs)",
+          "Configure clusters without network names",
+          "Implement scale-out file server (sofs)",
+          "Determine different scenarios for the use of sofs vs. file server for general use",
+          "Determine usage scenarios for implementing guest clustering",
+          "Implement a clustered storage spaces solution using shared sas storage enclosures",
+          "Implement storage replica",
+          "Implement cloud witness",
+          "Implement vm resiliency",
+          "Implement shared vhdx as a storage solution for guest clusters"
+        ]
+      },
+      {
+        "label": "Implement Storage Spaces Direct",
+        "items": [
+          "Determine scenario requirements for implementing storage spaces direct",
+          "Enable storage spaces direct using windows powershell",
+          "Implement a disaggregated storage spaces direct scenario",
+          "Implement a hyper-converged storage spaces direct scenario"
+        ]
+      },
+      {
+        "label": "Manage failover clustering",
+        "items": [
+          "Configure role-specific settings, including continuously available shares",
+          "Configure vm monitoring",
+          "Configure failover and preference settings",
+          "Implement stretch and site-aware failover clusters",
+          "Enable and configure node fairness"
+        ]
+      },
+      {
+        "label": "Manage VM movement in clustered nodes",
+        "items": [
+          "Perform live migration",
+          "Perform quick migration",
+          "Perform storage migration",
+          "Import, export, and copy vms",
+          "Configure vm network health protection",
+          "Configure drain on shutdown"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Domain Name System (DNS)",
+    "skills": [
+      {
+        "label": "Install and configure DNS servers",
+        "items": [
+          "Determine dns installation requirements",
+          "Determine supported dns deployment scenarios on nano server",
+          "Install dns",
+          "Configure forwarders",
+          "Configure root hints",
+          "Configure delegation",
+          "Implement dns policies",
+          "Configure dns server settings using windows powershell",
+          "Configure domain name system security extensions (dnssec)",
+          "Configure dns socket pool",
+          "Configure cache locking",
+          "Enable response rate limiting",
+          "Configure dns-based authentication of named entities (dane)",
+          "Configure dns logging",
+          "Configure delegated administration",
+          "Configure recursion settings",
+          "Implement dns performance tuning",
+          "Configure global settings"
+        ]
+      },
+      {
+        "label": "Implement and Maintain IP Address Management (IPAM)",
+        "items": [
+          "Provision ipam manually or by using group policy",
+          "Configure server discovery",
+          "Create and manage ip blocks and ranges",
+          "Monitor utilization of ip address space",
+          "Migrate existing workloads to ipam",
+          "Configure ipam database storage using sql server",
+          "Determine scenarios for using ipam with system center virtual machine manager for physical and virtual ip address space management",
+          "Manage dhcp server properties using ipam",
+          "Configure dhcp scopes and options",
+          "Configure dhcp policies and failover",
+          "Manage dns server properties using ipam",
+          "Manage dns zones and records",
+          "Manage dns and dhcp servers in multiple active directory forests",
+          "Delegate administration for dns and dhcp using role-based access control (rbac)",
+          "Audit the changes performed on the dns and dhcp servers",
+          "Audit the ipam address usage trail",
+          "Audit dhcp lease events and user logon events"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Network Connectivity and Remote Access Solutions",
+    "skills": [
+      {
+        "label": "Implement virtual private network (VPN) and DirectAccess solutions",
+        "items": [
+          "Implement remote access and site-to-site (s2s) vpn solutions using remote access gateway",
+          "Configure different vpn protocol options",
+          "Configure authentication options",
+          "Configure vpn reconnect",
+          "Create and configure connection profiles",
+          "Determine when to use remote access vpn and site-to-site vpn and configure appropriate protocols",
+          "Install and configure directaccess",
+          "Implement server requirements",
+          "Implement client configuration",
+          "Troubleshoot directaccess"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement an Advanced Network Infrastructure",
+    "skills": [
+      {
+        "label": "Implement high performance network solutions",
+        "items": [
+          "Implement nic teaming or the switch embedded teaming (set) solution and identify when to use each",
+          "Enable and configure receive side scaling (rss)",
+          "Enable and configure network quality of service (qos) with data center bridging (dcb)",
+          "Enable and configure smb direct on remote direct memory access (rdma) enabled network adapters",
+          "Configure smb multichannel",
+          "Enable and configure virtual receive side scaling (vrss) on a virtual machine queue (vmq) capable network adapter",
+          "Enable and configure virtual machine multi-queue (vmmq)",
+          "Enable and configure single-root i/o virtualization (sr-iov) on a supported network adapter"
+        ]
+      },
+      {
+        "label": "Determine scenarios and requirements for implementing Software Defined Networking (SDN)",
+        "items": [
+          "Determine deployment scenarios and network requirements for deploying sdn",
+          "Determine requirements and scenarios for implementing hyper-v network virtualization (hnv) using network virtualization generic route encapsulation (nvgre) encapsulation or virtual extensible lan (vxlan) encapsulation",
+          "Determine scenarios for implementation of software load balancer (slb) for north-south and east-west load balancing",
+          "Determine implementation scenarios for various types of windows server gateways, including l3, gre, and s2s, and their use",
+          "Determine requirements and scenarios for datacenter firewall policies and network security groups"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Install and Configure Active Directory Domain Services (AD DS)",
+    "skills": [
+      {
+        "label": "Install and configure domain controllers",
+        "items": [
+          "Install a new forest",
+          "Add or remove a domain controller from a domain",
+          "Upgrade a domain controller",
+          "Install ad ds on a server core installation",
+          "Install a domain controller from install from media (ifm)",
+          "Resolve dns srv record registration issues",
+          "Configure a global catalog server",
+          "Transfer and seize operations master roles",
+          "Install and configure a read-only domain controller (rodc)",
+          "Configure domain controller cloning"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement identity federation and access solutions",
+    "skills": [
+      {
+        "label": "Install and configure Active Directory Federation Services (AD FS)",
+        "items": [
+          "Upgrade and migrate previous ad fs workloads to windows server 2016",
+          "Implement claims-based authentication, including relying party trusts",
+          "Configure authentication policies",
+          "Configure multi-factor authentication",
+          "Implement and configure device registration",
+          "Integrate ad fs with microsoft passport",
+          "Configure for use with microsoft azure and office 365",
+          "Configure ad fs to enable authentication of users stored in ldap directories"
+        ]
+      },
+      {
+        "label": "Implement Web Application Proxy (WAP)",
+        "items": [
+          "Install and configure wap",
+          "Implement wap in pass-through mode",
+          "Implement wap as ad fs proxy",
+          "Integrate wap with ad fs",
+          "Configure ad fs requirements",
+          "Publish web apps via wap",
+          "Publish remote desktop gateway applications",
+          "Configure http to https redirects",
+          "Configure internal and external fully qualified domain names (fqdns)"
+        ]
+      }
+    ]
+  }
+]

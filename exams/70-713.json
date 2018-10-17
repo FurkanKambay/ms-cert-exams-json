@@ -1,0 +1,162 @@
+[
+  {
+    "label": "Assess SAM Programs by using the SAM Optimization Model (SOM) (15-20%)",
+    "skills": [
+      {
+        "label": "Define the scope of a SAM program assessment",
+        "items": [
+          "Identify infrastructure groups and locations, identify estimated quantity of hardware and on-premises and cloud software assets, identify functional descriptions for each group and key points of contact"
+        ]
+      },
+      {
+        "label": "Assess SAM processes, policies, resources, and tools throughout an organization",
+        "items": [
+          "Assess infrastructure groups for the existence of documented sam procedures, roles, and responsibilities"
+        ]
+      },
+      {
+        "label": "Assign maturity levels",
+        "items": [
+          "Assign maturity levels according to the 10 components of som, assign one of four maturity levels to each component"
+        ]
+      },
+      {
+        "label": "Perform a gap analysis between maturity levels",
+        "items": [
+          "Perform a gap analysis between the current maturity level and the desired maturity level, review assigned maturity levels"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Perform Software License Reviews (15-20%)",
+    "skills": [
+      {
+        "label": "Collect and manage complete hardware and on-premises and cloud software inventories",
+        "items": [
+          "Review an organization’s hardware and on-premises and cloud software inventory collection processes and data to ensure completeness"
+        ]
+      },
+      {
+        "label": "Validate inventory accuracy",
+        "items": [
+          "Normalize on-premises and cloud software inventories, reconcile on-premises and cloud software inventories against other data sources, verify the accuracy of specified license metrics such as user counts based on hr employee records"
+        ]
+      },
+      {
+        "label": "Collect, validate, and manage license entitlement records",
+        "items": [
+          "Gather, store, normalize, and validate license entitlement records and term documents, provide reports as needed"
+        ]
+      },
+      {
+        "label": "Perform a periodic reconciliation of on-premises and cloud software inventories, license entitlements and optimization opportunities",
+        "items": [
+          "Reconcile on-premises and cloud software inventory data against on-premises and cloud software license entitlements data, determine and report license compliance status"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Coordinate Data Collection Technologies (15-20%)",
+    "skills": [
+      {
+        "label": "Manage data collection and ensure completeness",
+        "items": [
+          "Identify machine type, agent installation requirements, collection schedules, and discrepancies between inventories, define data schemas, identify data storage locations, normalize collected data"
+        ]
+      },
+      {
+        "label": "Coordinate data collection between operations groups",
+        "items": [
+          "Facilitate data transfer and synchronization between various it groups",
+          "Validate data between various it groups",
+          "Ensure that overall sam processes are being followed",
+          "Collect data for security, virtualization, and third-party resources including linux"
+        ]
+      },
+      {
+        "label": "Manage data interfaces between disparate data sources",
+        "items": [
+          "Identify the process of matching common fields, cross-referencing, and consolidation and integration of data from multiple sources"
+        ]
+      },
+      {
+        "label": "Manage reporting",
+        "items": [
+          "Gather requirements for general user and executive reports, generate and maintain periodic reports, maintain the infrastructure necessary for ad hoc reporting requests, generate reports for software publishers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and Manage a SAM Program (25-30%)",
+    "skills": [
+      {
+        "label": "Secure executive sponsorship and ongoing cadence",
+        "items": [
+          "Identify stakeholders, create proposal materials, obtain explicit executive authorization for software asset infrastructure, policies, and overall corporate governance, establish a regular engagement with the senior management team"
+        ]
+      },
+      {
+        "label": "Secure funding",
+        "items": [
+          "Estimate operational costs in both consulting hours and employee time, create a project plan and budget, obtain funding from each infrastructure group for each task associated with managing a sam program"
+        ]
+      },
+      {
+        "label": "Design a SAM program",
+        "items": [
+          "Identify resources and objectives for a sam program, align resources with customer requirements and schedules, coordinate acquisition strategies, coordinate optimization methods that include software as a service (saas), platform as a service (paas), and application virtualization, ensure strong security and compliance requirements"
+        ]
+      },
+      {
+        "label": "Implement a SAM program",
+        "items": [
+          "Create a sam stakeholder group to oversee the project, assess and benchmark the current state of sam according to industry standards such as iso/iec 19770-1 and iaitam, implement technologies to support asset discovery, enhance purchasing processes to include storage and retrieval of license entitlement information, perform initial license and cloud services reconciliation, create policies, processes, and procedures to support sam efforts, secure support from all associated departments, educate employees"
+        ]
+      },
+      {
+        "label": "Maintain a SAM program",
+        "items": [
+          "Monitor adherence to the policies, processes, and procedures of an organization’s sam life cycle, standardize sam processes across all domains and organizational units, perform periodic license and cloud services reconciliation, provide ongoing sam awareness training"
+        ]
+      },
+      {
+        "label": "Create and manage a SAM program improvement plan",
+        "items": [
+          "Incorporate sam analytical data into strategic it and business unit planning, create detailed metrics and reports to measure sam adoption, implementation, and maturity, report return of investment (roi), cost avoidance, and end-user satisfaction to all stakeholders, evangelize sam maturity benefits"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage the Software Asset Life Cycle (15-20%)",
+    "skills": [
+      {
+        "label": "Manage the acquisition process",
+        "items": [
+          "Identify and manage approved and unapproved purchasing processes, identify suppliers, manage software approval and receiving processes, manage license updates, optimization, and subscriptions, ensure proper consumption of online services"
+        ]
+      },
+      {
+        "label": "Manage the deployment process and consumption",
+        "items": [
+          "Validate the availability of on-premises and cloud software licenses, select the correct media, specify the software identification characteristics, track deployment and consumption of on-premises cloud software"
+        ]
+      },
+      {
+        "label": "Optimize assets",
+        "items": [
+          "Manage on-premises and cloud software and hardware centralization throughout the software asset life cycle according to iso/iec 19770-1 and iaitam, generate awareness of available agreement benefits"
+        ]
+      },
+      {
+        "label": "Manage the retirement process",
+        "items": [
+          "Identify hardware for retirement, retire software, harvest software licenses, ensure decommissioning or destruction of storage media, stop subscriptions and downloads, preserve compliance, perform notifications, retain documentation"
+        ]
+      }
+    ]
+  }
+]

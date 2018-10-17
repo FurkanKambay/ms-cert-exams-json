@@ -1,0 +1,135 @@
+[
+  {
+    "label": "Design and implement database objects (25–30%)",
+    "skills": [
+      {
+        "label": "Design and implement a relational database schema",
+        "items": [
+          "Design tables and schemas based on business requirements, improve the design of tables by using normalization, write table create statements, determine the most efficient data types to use"
+        ]
+      },
+      {
+        "label": "Design and implement indexes",
+        "items": [
+          "Design new indexes based on provided tables, queries, or plans",
+          "Distinguish between indexed columns and included columns",
+          "Implement clustered index columns by using best practices",
+          "Recommend new indexes based on query plans"
+        ]
+      },
+      {
+        "label": "Design and implement views",
+        "items": [
+          "Design a view structure to select data based on user or business requirements, identify the steps necessary to design an updateable view, implement partitioned views, implement indexed views"
+        ]
+      },
+      {
+        "label": "Implement columnstore indexes",
+        "items": [
+          "Determine use cases that support the use of columnstore indexes, identify proper usage of clustered and non-clustered columnstore indexes, design standard non-clustered indexes in conjunction with clustered columnstore indexes, implement columnstore index maintenance"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement programmability objects (20–25%)",
+    "skills": [
+      {
+        "label": "Ensure data integrity with constraints",
+        "items": [
+          "Define table and foreign key constraints to enforce business rules, write transact-sql statements to add constraints to tables, identify results of data manipulation language (dml) statements given existing tables and constraints, identify proper usage of primary key constraints"
+        ]
+      },
+      {
+        "label": "Create stored procedures",
+        "items": [
+          "Design stored procedure components and structure based on business requirements, implement input and output parameters, implement table-valued parameters, implement return codes, streamline existing stored procedure logic, implement error handling and transaction control logic within stored procedures"
+        ]
+      },
+      {
+        "label": "Create triggers and user-defined functions",
+        "items": [
+          "Design trigger logic based on business requirements",
+          "Determine when to use data manipulation language (dml) triggers, data definition language (ddl) triggers, or logon triggers",
+          "Recognize results based on execution of after or instead of triggers",
+          "Design scalar-valued and table-valued user-defined functions based on business requirements",
+          "Identify differences between deterministic and non-deterministic functions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage database concurrency (25–30%)",
+    "skills": [
+      {
+        "label": "Implement transactions",
+        "items": [
+          "Identify dml statement results based on transaction behavior, recognize differences between and identify usage of explicit and implicit transactions, implement savepoints within transactions, determine the role of transactions in high-concurrency databases"
+        ]
+      },
+      {
+        "label": "Manage isolation levels",
+        "items": [
+          "Identify differences between read uncommitted, read committed, repeatable read, serializable, and snapshot isolation levels",
+          "Define results of concurrent queries based on isolation level",
+          "Identify the resource and performance impact of given isolation levels"
+        ]
+      },
+      {
+        "label": "Optimize concurrency and locking behavior",
+        "items": [
+          "Troubleshoot locking issues, identify lock escalation behaviors, capture and analyze deadlock graphs, identify ways to remediate deadlocks"
+        ]
+      },
+      {
+        "label": "Implement memory-optimized tables and native stored procedures",
+        "items": [
+          "Define use cases for memory-optimized tables versus traditional disk-based tables, optimize performance of in-memory tables by changing durability settings, determine best case usage scenarios for natively compiled stored procedures, enable collection of execution statistics for natively compiled stored procedures"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Optimize database objects and SQL infrastructure (20–25%)",
+    "skills": [
+      {
+        "label": "Optimize statistics and indexes",
+        "items": [
+          "Determine the accuracy of statistics and the associated impact to query plans and performance, design statistics maintenance tasks, use dynamic management objects to review current index usage and identify missing indexes, consolidate overlapping indexes"
+        ]
+      },
+      {
+        "label": "Analyze and troubleshoot query plans",
+        "items": [
+          "Capture query plans using extended events and traces, identify poorly performing query plan operators, create efficient query plans using query store, compare estimated and actual query plans and related metadata, configure azure sql database performance insight"
+        ]
+      },
+      {
+        "label": "Manage performance for database instances",
+        "items": [
+          "Manage database workload in sql server",
+          "Design and implement elastic scale for azure sql database",
+          "Select an appropriate service tier or edition",
+          "Optimize database file and tempdb configuration",
+          "Optimize memory configuration",
+          "Monitor and diagnose scheduling and wait statistics using dynamic management objects",
+          "Troubleshoot and analyze storage, io, and cache issues",
+          "Monitor azure sql database query plans"
+        ]
+      },
+      {
+        "label": "Monitor and trace SQL Server baseline performance metrics",
+        "items": [
+          "Monitor operating system and sql server performance metrics",
+          "Compare baseline metrics to observed metrics while troubleshooting performance issues",
+          "Identify differences between performance monitoring and logging tools, such as perfmon and dynamic management objects",
+          "Monitor azure sql database performance",
+          "Determine best practice use cases for extended events",
+          "Distinguish between extended events targets",
+          "Compare the impact of extended events and sql trace",
+          "Define differences between extended events packages, targets, actions, and sessions"
+        ]
+      }
+    ]
+  }
+]

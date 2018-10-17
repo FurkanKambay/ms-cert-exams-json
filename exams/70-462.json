@@ -1,0 +1,275 @@
+[
+  {
+    "label": "Install and configure (20–25%)",
+    "skills": [
+      {
+        "label": "Plan installation",
+        "items": [
+          "Evaluate installation requirements",
+          "Design the installation of sql server and its components (drives, service accounts, etc.)",
+          "Plan scale-up vs. scale-out basics",
+          "Plan for capacity, including if/when to shrink, grow, autogrow, and monitor growth",
+          "Manage the technologies that influence sql architecture (for example, service broker, full text, scale out, etc.)",
+          "Design the storage for new databases (drives, filegroups, partitioning)",
+          "Design database infrastructure",
+          "Configure a sql server standby database for reporting purposes",
+          "Windows-level security and service level security",
+          "Core mode installation",
+          "Benchmark a server before using it in a production environment (sqlio, tests on sql instance)",
+          "Choose the right hardware"
+        ]
+      },
+      {
+        "label": "Install SQL Server and related services",
+        "items": [
+          "Test connectivity",
+          "Enable and disable features",
+          "Install sql server database engine and ssis (not ssrs and ssas)",
+          "Configure an os disk"
+        ]
+      },
+      {
+        "label": "Implement a migration strategy",
+        "items": [
+          "Restore vs detach/attach",
+          "Migrate security",
+          "Migrate from a previous version",
+          "Migrate to new hardware",
+          "Migrate systems and data from other sources"
+        ]
+      },
+      {
+        "label": "Configure additional SQL Server components",
+        "items": [
+          "Set up and configure all sql server components (engine, as, rs and sharepoint integration) in a complex and highly secure environment",
+          "Configure full-text indexing",
+          "Ssis security",
+          "Filestream",
+          "Filetable"
+        ]
+      },
+      {
+        "label": "Manage SQL Server Agent",
+        "items": [
+          "Create, maintain, and monitor jobs",
+          "Administer jobs and alerts",
+          "Automate (setup, maintenance, monitoring) across multiple databases and multiple instances",
+          "Send to \"manage sql server agent jobs\""
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Maintain instances and databases (15–20%)",
+    "skills": [
+      {
+        "label": "Manage and configure databases",
+        "items": [
+          "Design multiple file groups",
+          "Database configuration and standardization: autoclose, autoshrink, recovery models",
+          "Manage file space, including adding new filegroups and moving objects from one filegroup to another",
+          "Implement and configure contained databases",
+          "Data compression",
+          "Configure tde",
+          "Partitioning",
+          "Manage log file growth",
+          "Dbcc"
+        ]
+      },
+      {
+        "label": "Configure SQL Server instances",
+        "items": [
+          "Configure and standardize a database: autoclose, autoshrink, recovery models",
+          "Install default and named instances",
+          "Configure sql to use only certain cpus (affinity masks, etc.)",
+          "Configure server level settings",
+          "Configure many databases/instance, many instances/server, virtualization",
+          "Configure clustered instances including msdtc",
+          "Memory allocation",
+          "Database mail",
+          "Configure sql server engine: memory, filffactor, sp_configure, default options"
+        ]
+      },
+      {
+        "label": "Implement a SQL Server clustered instance",
+        "items": [
+          "Install a cluster",
+          "Manage multiple instances on a cluster",
+          "Set up subnet clustering",
+          "Recover from a failed cluster node"
+        ]
+      },
+      {
+        "label": "Manage SQL Server instances",
+        "items": [
+          "Install an instance",
+          "Manage interaction of instances",
+          "Sql patch management",
+          "Install additional instances",
+          "Manage resource utilization by using resource governor",
+          "Cycle error logs"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Optimize and troubleshoot (15–20%)",
+    "skills": [
+      {
+        "label": "Identify and resolve concurrency problems",
+        "items": [
+          "Examine deadlocking issues using the sql server logs using trace flags",
+          "Design reporting database infrastructure (replicated databases)",
+          "Monitor via dmv or other ms product",
+          "Diagnose blocking, live locking and deadlocking",
+          "Diagnose waits",
+          "Performance detection with built in dmvs",
+          "Know what affects performance",
+          "Locate and if necessary kill processes that are blocking or claiming all resources"
+        ]
+      },
+      {
+        "label": "Collect and analyze troubleshooting data",
+        "items": [
+          "Monitor using profiler",
+          "Collect performance data by using system monitor",
+          "Collect trace data by using sql server profiler",
+          "Identify transactional replication problems",
+          "Identify and troubleshoot data access problems",
+          "Gather performance metrics",
+          "Identify potential problems before they cause service interruptions",
+          "Identify performance problems",
+          ", use xevents and dmvs",
+          "Create alerts on critical server condition",
+          "Monitor data and server access by creating audit and other controls",
+          "Identify io vs. memory vs. cpu bottlenecks",
+          "Use the data collector tool"
+        ]
+      },
+      {
+        "label": "Audit SQL Server instances",
+        "items": [
+          "Implement a security strategy for auditing and controlling the instance",
+          "Configure an audit",
+          "Configure server audits",
+          "Track who modified an object",
+          "Monitor elevated privileges as well as unsolicited attempts to connect",
+          "Policy-based management"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage data (20–25%)",
+    "skills": [
+      {
+        "label": "Configure and maintain a back-up strategy",
+        "items": [
+          "Manage different backup models, including point-in-time recovery",
+          "Protect customer data even if backup media is lost",
+          "Perform backup/restore based on proper strategies including backup redundancy",
+          "Recover from a corrupted drive",
+          "Manage a multi-tb database",
+          "Implement and test a database implementation and a backup strategy (multiple files for user database and tempdb, spreading database files, backup/restore)",
+          "Back up a sql server environment",
+          "Back up system databases"
+        ]
+      },
+      {
+        "label": "Restore databases",
+        "items": [
+          "Restore a database secured with tde",
+          "Recover data from a damaged db (several errors in dbcc checkdb)",
+          "Restore to a point in time",
+          "File group restore",
+          "Page level restore"
+        ]
+      },
+      {
+        "label": "Implement and maintain indexes",
+        "items": [
+          "Inspect physical characteristics of indexes and perform index maintenance",
+          "Identify fragmented indexes",
+          "Identify unused indexes",
+          "Implement indexes",
+          "Defrag/rebuild indexes",
+          "Set up a maintenance strategy for indexes and statistics",
+          "Optimize indexes (full, filter index)",
+          "Statistics (full, filter) force or fix queue",
+          "When to rebuild vs. reorg and index",
+          "Full text indexes",
+          "Column store indexes"
+        ]
+      },
+      {
+        "label": "Import and export data",
+        "items": [
+          "Transfer data",
+          "Bulk copy",
+          "Bulk insert"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement security (15–20%)",
+    "skills": [
+      {
+        "label": "Manage logins and server roles",
+        "items": [
+          "Configure server security",
+          "Secure the sql server using windows account / sql server accounts, server roles",
+          "Create log in accounts",
+          "Manage access to the server, sql server instance, and databases",
+          "Create and maintain user-defined server roles",
+          "Manage certificate logins"
+        ]
+      },
+      {
+        "label": "Manage database security",
+        "items": [
+          "Configure database security",
+          "Database level, permissions",
+          "Protect objects from being modified",
+          "Auditing",
+          "Encryption"
+        ]
+      },
+      {
+        "label": "Manage users and database roles",
+        "items": [
+          "Create access to server / database with least privilege",
+          "Manage security roles for users and administrators",
+          "Create database user accounts",
+          "Contained login"
+        ]
+      },
+      {
+        "label": "Troubleshoot security",
+        "items": [
+          "Manage certificates and keys",
+          "Endpoints"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement high availability (5–10%)",
+    "skills": [
+      {
+        "label": "Implement AlwaysOn",
+        "items": [
+          "Implement alwayson availability groups",
+          "Implement alwayson failover clustering"
+        ]
+      },
+      {
+        "label": "Implement replication",
+        "items": [
+          "Troubleshoot replication problems",
+          "Identify appropriate replication strategy"
+        ]
+      }
+    ]
+  }
+]

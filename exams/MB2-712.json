@@ -1,0 +1,141 @@
+[
+  {
+    "label": "Configure Microsoft Dynamics CRM (25%)",
+    "skills": [
+      {
+        "label": "Configure Dynamics CRM settings",
+        "items": [
+          "Configure auditing, document management, and collaboration",
+          "Configure business units",
+          "Perform user management",
+          "Configure email",
+          "Manage teams"
+        ]
+      },
+      {
+        "label": "Manage Dynamics CRM security",
+        "items": [
+          "Understand security roles",
+          "Define permissions and privileges",
+          "Configure access levels",
+          "Configure security roles",
+          "Assign security roles",
+          "Work with multiple security roles",
+          "Manage access",
+          "Manage security hierarchy"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and implement Microsoft Dynamics CRM entities, entity relationships, and fields (27%)",
+    "skills": [
+      {
+        "label": "Manage Dynamics CRM entities",
+        "items": [
+          "Manage entity ownership",
+          "Manage entity properties",
+          "Understand system and custom entities"
+        ]
+      },
+      {
+        "label": "Configure field customizations",
+        "items": [
+          "Understand and configure fields",
+          "Configure field properties",
+          "Use calculated fields",
+          "Use rollup fields",
+          "Configure global option sets",
+          "Create alternate keys",
+          "Configure field-level security",
+          "Understand status and status reasons"
+        ]
+      },
+      {
+        "label": "Implement entity relationships",
+        "items": [
+          "Understand relationship types",
+          "Understand cascading rules",
+          "Work with hierarchical data",
+          "Understand and configure entity mapping",
+          "Create connections and connection roles"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and manage Microsoft Dynamics CRM solutions, forms, views, and visualizations (24%)",
+    "skills": [
+      {
+        "label": "Create and manage Dynamics CRM solutions",
+        "items": [
+          "Understand solution components",
+          "Identify solution types",
+          "Create managed and unmanaged solutions",
+          "Configure publishers and versions",
+          "Work with multiple solutions",
+          "Import and export solutions"
+        ]
+      },
+      {
+        "label": "Customize Dynamics CRM forms",
+        "items": [
+          "Understand the form structure",
+          "Build a form",
+          "Use specialized form components",
+          "Use access teams and sub-grids",
+          "Work with navigation",
+          "Understand form types",
+          "Use multiple forms",
+          "Implement form customizations and mobile clients"
+        ]
+      },
+      {
+        "label": "Implement Dynamics CRM views and visualizations",
+        "items": [
+          "Understand view types",
+          "Manage system, public, and personal views",
+          "Create, modify, and delete views",
+          "Customize views",
+          "Customize charts",
+          "Customize dashboards",
+          "Use themes"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement business rules, workflows, and business process flows (24%)",
+    "skills": [
+      {
+        "label": "Implement and manage business rules",
+        "items": [
+          "Understand when to use business rules",
+          "Understand business rule scopes",
+          "Understand how business rules are triggered",
+          "Configure business rules, conditions, and actions"
+        ]
+      },
+      {
+        "label": "Implement and manage workflows, dialogs, and custom actions",
+        "items": [
+          "Implement workflows",
+          "Identify workflow types",
+          "Implement dialogs and custom actions",
+          "Identify when to use business process flows, workflow dialogs, and custom actions"
+        ]
+      },
+      {
+        "label": "Implement and manage business process flows",
+        "items": [
+          "Understand business process flows",
+          "Enable business process flows",
+          "Work with steps, stages, and categories",
+          "Work with multiple entities",
+          "Use conditional branching",
+          "Implement role-driven business process flows"
+        ]
+      }
+    ]
+  }
+]

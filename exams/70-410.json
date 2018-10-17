@@ -1,0 +1,163 @@
+[
+  {
+    "label": "Install and configure servers (15–20%)",
+    "skills": [
+      {
+        "label": "Install servers",
+        "items": [
+          "Plan for a server installation, plan for server roles, plan for a server upgrade, install server core, optimize resource utilization by using features on demand, migrate roles from previous versions of windows server"
+        ]
+      },
+      {
+        "label": "Configure servers",
+        "items": [
+          "Configure server core, delegate administration, add and remove features in offline images, deploy roles on remote servers, convert server core to/from full gui, configure services, configure nic teaming, install and configure windows powershell desired state configuration (dsc)"
+        ]
+      },
+      {
+        "label": "Configure local storage",
+        "items": [
+          "Design storage spaces, configure basic and dynamic disks, configure master boot record (mbr) and guid partition table (gpt) disks, manage volumes, create and mount virtual hard disks (vhds), configure storage pools and disk pools, create storage pools by using disk enclosures"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure server roles and features (15–20%)",
+    "skills": [
+      {
+        "label": "Configure file and share access",
+        "items": [
+          "Create and configure shares, configure share permissions, configure offline files, configure ntfs permissions, configure access-based enumeration (abe), configure volume shadow copy service (vss), configure ntfs quotas, create and configure work folders"
+        ]
+      },
+      {
+        "label": "Configure print and document services",
+        "items": [
+          "Configure the easy print print driver, configure enterprise print management, configure drivers, configure printer pooling, configure print priorities, configure printer permissions"
+        ]
+      },
+      {
+        "label": "Configure servers for remote management",
+        "items": [
+          "Configure winrm, configure down-level server management, configure servers for day-to-day management tasks, configure multi-server management, configure server core, configure windows firewall, manage non-domain joined servers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Hyper-V (15–20%)",
+    "skills": [
+      {
+        "label": "Create and configure virtual machine settings",
+        "items": [
+          "Configure dynamic memory, configure smart paging, configure resource metering, configure guest integration services, create and configure generation 1 and 2 virtual machines, configure and use enhanced session mode, configure remotefx"
+        ]
+      },
+      {
+        "label": "Create and configure virtual machine storage",
+        "items": [
+          "Create vhds and vhdx, configure differencing drives, modify vhds, configure pass-through disks, manage checkpoints, implement a virtual fibre channel adapter, configure storage quality of service"
+        ]
+      },
+      {
+        "label": "Create and configure virtual networks",
+        "items": [
+          "Configure hyper-v virtual switches, optimize network performance, configure mac addresses",
+          "Configure network isolation, configure synthetic and legacy virtual network adapters, configure nic teaming in virtual machines"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deploy and configure core network services (15–20%)",
+    "skills": [
+      {
+        "label": "Configure IPv4 and IPv6 addressing",
+        "items": [
+          "Configure ip address options, configure ipv4 or ipv6 subnetting, configure supernetting, configure interoperability between ipv4 and ipv6, configure intra-site automatic tunnel addressing protocol (isatap), configure teredo"
+        ]
+      },
+      {
+        "label": "Deploy and configure Dynamic Host Configuration Protocol (DHCP) service",
+        "items": [
+          "Create and configure scopes, configure a dhcp reservation, configure dhcp options, configure client and server for pxe boot, configure dhcp relay agent, authorize dhcp server"
+        ]
+      },
+      {
+        "label": "Deploy and configure DNS service",
+        "items": [
+          "Configure active directory integration of primary zones, configure forwarders, configure root hints, manage dns cache, create a and ptr resource records"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Install and administer Active Directory (15–20%)",
+    "skills": [
+      {
+        "label": "Install domain controllers",
+        "items": [
+          "Add or remove a domain controller from a domain, upgrade a domain controller, install active directory domain services (ad ds) on a server core installation, install a domain controller from install from media (ifm), resolve dns srv record registration issues, configure a global catalog server, deploy active directory infrastructure as a service (iaas) in microsoft azure"
+        ]
+      },
+      {
+        "label": "Create and manage Active Directory users and computers",
+        "items": [
+          "Automate the creation of active directory accounts",
+          "Create, copy, configure, and delete users and computers",
+          "Configure templates",
+          "Perform bulk active directory operations",
+          "Configure user rights",
+          "Offline domain join",
+          "Manage inactive and disabled accounts"
+        ]
+      },
+      {
+        "label": "Create and manage Active Directory groups and organizational units (OUs)",
+        "items": [
+          "Configure group nesting",
+          "Convert groups, including security, distribution, universal, domain local, and domain global",
+          "Manage group membership using group policy",
+          "Enumerate group membership",
+          "Delegate the creation and management of active directory objects",
+          "Manage default active directory containers",
+          "Create, copy, configure, and delete groups and ous"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and manage Group Policy (15–20%)",
+    "skills": [
+      {
+        "label": "Create Group Policy objects (GPOs)",
+        "items": [
+          "Configure a central store, manage starter gpos, configure gpo links, configure multiple local group policies"
+        ]
+      },
+      {
+        "label": "Configure security policies",
+        "items": [
+          "Configure user rights assignment, configure security options settings. configure security templates, configure audit policy, configure local users and groups, configure user account control (uac)"
+        ]
+      },
+      {
+        "label": "Configure application restriction policies",
+        "items": [
+          "Configure rule enforcement, configure applocker rules, configure software restriction policies"
+        ]
+      },
+      {
+        "label": "Configure Windows Firewall",
+        "items": [
+          "Configure rules for multiple profiles using group policy",
+          "Configure connection security rules",
+          "Configure windows firewall to allow or deny applications, scopes, ports, and users",
+          "Configure authenticated firewall exceptions",
+          "Import and export settings"
+        ]
+      }
+    ]
+  }
+]

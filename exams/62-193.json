@@ -1,0 +1,155 @@
+[
+  {
+    "label": "Facilitate Student Collaboration",
+    "skills": [
+      {
+        "label": "Determine the level to which a learning activity meets the rubric for collaboration",
+        "items": [
+          "Prepare activities that enable students to work together, have a shared responsibility for deliverables, make decisions that are substantive and crucial to learning activity success, and work interdependently"
+        ]
+      },
+      {
+        "label": "Analyze, evaluate, design, and manage the learning environment to facilitate student collaboration, given a set of resources available in a classroom",
+        "items": [
+          "Virtual environment",
+          "Physical environment",
+          "Software tools available"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Facilitate Skilled Communication",
+    "skills": [
+      {
+        "label": "Modify a learning activity to meet the rubric for the highest level of skilled communication",
+        "items": [
+          "Prepare activities that enable students to create product deliverables that convey a set of connected ideas, are multimodal, require supporting evidence, and are designed for a specific audience"
+        ]
+      },
+      {
+        "label": "Evaluate student product examples to determine the level to which they meet the skilled communication rubric",
+        "items": [
+          "Evaluate student product examples on the use of connected ideas, multimodal approach, supporting evidence, and design for a specific audience"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Facilitate Knowledge Construction",
+    "skills": [
+      {
+        "label": "Determine the level to which a learning activity meets the knowledge construction rubric",
+        "items": [
+          "Prepare interdisciplinary activities that enable students to apply knowledge in a new context"
+        ]
+      },
+      {
+        "label": "Transform a didactic learning situation into an activity that requires students to apply knowledge in a new context that facilitates interdisciplinary learning",
+        "items": [
+          "Prepare activities that enable students to spend their time and effort developing knowledge that is new to them and participate in interdisciplinary learning activities"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Facilitate Self-Regulation",
+    "skills": [
+      {
+        "label": "Determine the level to which a learning activity meets the rubric for self-regulation",
+        "items": [
+          "Prepare long-term activities that enable students to plan their own work and revise work based on feedback"
+        ]
+      },
+      {
+        "label": "Determine which opportunities facilitate an environment of self-regulation",
+        "items": [
+          "Provide students with opportunities to set their learning goals, decide on the best strategies to achieve these goals, and monitor to see if these strategies are working"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Facilitate Real World Problem Solving and Innovation",
+    "skills": [
+      {
+        "label": "Determine the level to which a learning activity meets the rubric for real world problem solving",
+        "items": [
+          "Prepare activities that enable students to develop a solution to a problem that is new to them, complete a task that they have not been instructed how to do, or design a complex product that meets a set of requirements"
+        ]
+      },
+      {
+        "label": "Select a strategy to encourage students to problem-solve, innovate, and apply a solution that benefits others in the real world",
+        "items": [
+          "Develop learning objectives that involve real-world issues"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Facilitate Student use of Information and Communication Tools (ICT)",
+    "skills": [
+      {
+        "label": "Determine the level to which a learning activity meets the rubric for use of ICT learning",
+        "items": [
+          "Prepare activities that enable students’ use of ict to support knowledge construction",
+          "Address the needs of diverse learners"
+        ]
+      },
+      {
+        "label": "Fulfill student learning outcomes by using Microsoft technology tools",
+        "items": [
+          "Identify the skills required to implement the resources"
+        ]
+      },
+      {
+        "label": "Select the best ICT resource to help resolve or manage the logistical challenges of reaching the desired educational outcome",
+        "items": [
+          "Lab configuration issues",
+          "Shared computers",
+          "Byod"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Use ICT to be an Effective Educator",
+    "skills": [
+      {
+        "label": "Determine which ICT resource supports a specified educational outcome",
+        "items": [
+          "Evaluate a learning activity",
+          "Rate the appropriateness of specific ict resources",
+          "Address the diverse needs of all learners"
+        ]
+      },
+      {
+        "label": "Determine the appropriate pedagogical approach to meet an educational outcome using ICT resources",
+        "items": [
+          "Planned vs. unplanned situations",
+          "Appropriate performances of understanding",
+          "Different learning styles"
+        ]
+      },
+      {
+        "label": "Select an appropriate ICT resource to reach a professional development goal",
+        "items": [
+          "Improve productivity",
+          "Time management skills"
+        ]
+      },
+      {
+        "label": "Evaluate responses to a scenario involving Digital Citizenship",
+        "items": [
+          "Internet safety",
+          "Security issues",
+          "Cyber-bullying",
+          "Digital footprint",
+          "Privacy issues",
+          "Communication forums",
+          "Acceptable use"
+        ]
+      }
+    ]
+  }
+]

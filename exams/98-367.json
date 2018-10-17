@@ -1,0 +1,212 @@
+[
+  {
+    "label": "Understand security layers (25–30%)",
+    "skills": [
+      {
+        "label": "Understand core security principles",
+        "items": [
+          "Confidentiality",
+          "Integrity",
+          "Availability",
+          "How threat and risk impact principles",
+          "Principle of least privilege",
+          "Social engineering",
+          "Attack surface analysis",
+          "Threat modelling"
+        ]
+      },
+      {
+        "label": "Understand physical security",
+        "items": [
+          "Site security",
+          "Computer security",
+          "Removable devices and drives",
+          "Access control",
+          "Mobile device security",
+          "Keyloggers"
+        ]
+      },
+      {
+        "label": "Understand Internet security",
+        "items": [
+          "Browser security settings",
+          "Secure websites"
+        ]
+      },
+      {
+        "label": "Understand wireless security",
+        "items": [
+          "Advantages and disadvantages of specific security types",
+          "Keys",
+          "Service set identifiers (ssids)",
+          "Mac filters"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand operating system security (35-40%)",
+    "skills": [
+      {
+        "label": "Understand user authentication",
+        "items": [
+          "Multifactor authentication",
+          "Physical and virtual smart cards",
+          "Remote authentication dial-in user service (radius)",
+          "Biometrics",
+          "Use run as to perform administrative tasks"
+        ]
+      },
+      {
+        "label": "Understand permissions",
+        "items": [
+          "File system permissions",
+          "Share permissions",
+          "Registry",
+          "Active directory",
+          "Enable or disable inheritance",
+          "Behavior when moving or copying files within the same disk or on another disk",
+          "Multiple groups with different permissions",
+          "Basic permissions and advanced permissions",
+          "Take ownership",
+          "Delegation",
+          "Inheritance"
+        ]
+      },
+      {
+        "label": "Understand password policies",
+        "items": [
+          "Password complexity",
+          "Account lockout",
+          "Password length",
+          "Password history",
+          "Time between password changes",
+          "Enforce by using group policies",
+          "Common attack methods",
+          "Password reset procedures",
+          "Protect domain user account passwords"
+        ]
+      },
+      {
+        "label": "Understand audit policies",
+        "items": [
+          "Types of auditing",
+          "What can be audited",
+          "Enable auditing",
+          "What to audit for specific purposes",
+          "Where to save audit information",
+          "How to secure audit information"
+        ]
+      },
+      {
+        "label": "Understand encryption",
+        "items": [
+          "Encrypting file system (efs)",
+          "How efs-encrypted folders impact moving/copying files",
+          "Bitlocker (to go)",
+          "Tpm",
+          "Software-based encryption",
+          "Mail encryption and signing and other uses",
+          "Virtual private network (vpn)",
+          "Public key/private key",
+          "Encryption algorithms",
+          "Certificate properties",
+          "Certificate services",
+          "Pki/certificate services infrastructure",
+          "Token devices",
+          "Lock down devices to run only trusted applications"
+        ]
+      },
+      {
+        "label": "Understand malware",
+        "items": [
+          "Buffer overflow",
+          "Viruses, polymorphic viruses",
+          "Worms",
+          "Trojan horses",
+          "Spyware",
+          "Ransomware",
+          "Adware",
+          "Rootkits",
+          "Backdoors",
+          "Zero day attacks"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand network security (20–25%)",
+    "skills": [
+      {
+        "label": "Understand dedicated firewalls",
+        "items": [
+          "Types of hardware firewalls and their characteristics",
+          "When to use a hardware firewall instead of a software firewall",
+          "Stateful versus stateless firewall inspection",
+          "Security compliance manager",
+          "Security baselines"
+        ]
+      },
+      {
+        "label": "Understand network isolation",
+        "items": [
+          "Routing",
+          "Honeypot",
+          "Perimeter networks",
+          "Network address translation (nat)",
+          "Vpn",
+          "Ipsec",
+          "Server and domain isolation"
+        ]
+      },
+      {
+        "label": "Understand protocol security",
+        "items": [
+          "Protocol spoofing",
+          "Ipsec",
+          "Tunneling",
+          "Dnssec",
+          "Network sniffing",
+          "Denial-of-service (dos) attacks",
+          "Common attack methods"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand security software (15–20%)",
+    "skills": [
+      {
+        "label": "Understand client protection",
+        "items": [
+          "Antivirus",
+          "Protect against unwanted software installations",
+          "User account control (uac)",
+          "Keep client operating system and software updated",
+          "Encrypt offline folders, software restriction policies",
+          "Principle of least privilege"
+        ]
+      },
+      {
+        "label": "Understand email protection",
+        "items": [
+          "Antispam, antivirus, spoofing, phishing, and pharming",
+          "Client versus server protection",
+          "Sender policy framework (spf) records",
+          "Ptr records"
+        ]
+      },
+      {
+        "label": "Understand server protection",
+        "items": [
+          "Separation of services",
+          "Hardening",
+          "Keep server updated",
+          "Secure dynamic domain name system (dns) updates",
+          "Disable unsecure authentication protocols",
+          "Read-only domain controllers (rodc)"
+        ]
+      }
+    ]
+  }
+]

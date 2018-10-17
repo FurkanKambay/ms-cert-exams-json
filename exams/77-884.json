@@ -1,0 +1,172 @@
+[
+  {
+    "label": "Manage the Outlook environment (15–20%)",
+    "skills": [
+      {
+        "label": "Apply and manipulate Outlook program options",
+        "items": [
+          "Set general, mail, calendar, tasks, notes and journal, advanced, and language options"
+        ]
+      },
+      {
+        "label": "Manipulate item tags",
+        "items": [
+          "Categorize items, set flags, set sensitivity level, mark items as read or unread, and view message properties"
+        ]
+      },
+      {
+        "label": "Arrange the Content pane",
+        "items": [
+          "Show or hide fields in a list view, change the reading view, and use the reminders window and people pane"
+        ]
+      },
+      {
+        "label": "Apply search and filter tools",
+        "items": [
+          "Use built-in search folders"
+        ]
+      },
+      {
+        "label": "Print an Outlook item",
+        "items": [
+          "Print attachments, calendars, multiple messages, multiple contact records, tasks, and multiple notes"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and format item content (25–30%)",
+    "skills": [
+      {
+        "label": "Create and send email messages",
+        "items": [
+          "Specify a message theme",
+          "Specify plain text, rich text, or html message content format",
+          "Show or hide the from and bcc fields",
+          "Set a reminder for message recipients",
+          "Specify the sending account",
+          "Specify the sent item folder",
+          "Configure message delivery options",
+          "Configure voting and tracking options",
+          "And send a message to a contact group"
+        ]
+      },
+      {
+        "label": "Create and manage Quick Steps",
+        "items": [
+          "Perform, create, edit, delete, and duplicate quick steps, reset quick steps to default settings"
+        ]
+      },
+      {
+        "label": "Create item content",
+        "items": [
+          "Insert graphical elements, insert a hyperlink"
+        ]
+      },
+      {
+        "label": "Format item content",
+        "items": [
+          "Use formatting tools, apply styles, create styles and themes, use paste special, and format graphical elements"
+        ]
+      },
+      {
+        "label": "Attach content to email messages",
+        "items": [
+          "Attach an outlook item, attach external files"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage email messages (25–30%)",
+    "skills": [
+      {
+        "label": "Clean up the mailbox",
+        "items": [
+          "View mailbox size, save message attachments, save a message in an external format, ignore a conversation, and use clean-up tools"
+        ]
+      },
+      {
+        "label": "Create and manage rules",
+        "items": [
+          "Create, modify, and delete rules"
+        ]
+      },
+      {
+        "label": "Manage junk mail",
+        "items": [
+          "Allow a specific message (not junk) and filter junk mail with never block sender, never block sender’s domain, never block this group or mailing list, and block sender"
+        ]
+      },
+      {
+        "label": "Manage automatic message content",
+        "items": [
+          "Manage signatures, specify the font for new html messages, plain-text messages, specify options for replies and forwards, and set a default theme for all html messages, stationery, and fonts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage contacts (15–20%)",
+    "skills": [
+      {
+        "label": "Create and manipulate contacts",
+        "items": [
+          "Modify a default business card, forward a contact, and update a contact in the address book"
+        ]
+      },
+      {
+        "label": "Create and manipulate contact groups",
+        "items": [
+          "Create a contact group, manage contact group membership, show notes about a contact group, forward a contact group, delete a contact group, and send a meeting to a contact group"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage calendar objects (15–20%)",
+    "skills": [
+      {
+        "label": "Create and manipulate appointments and events",
+        "items": [
+          "Set appointment options, print appointment details, forward an appointment, and schedule a meeting with a message sender"
+        ]
+      },
+      {
+        "label": "Create and manipulate meeting requests",
+        "items": [
+          "Set response options, update a meeting request, cancel a meeting or invitation, and propose a new time for a meeting"
+        ]
+      },
+      {
+        "label": "Manipulate the Calendar pane",
+        "items": [
+          "Arrange the calendar view, change the calendar color, display or hide calendars, and create a calendar group"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Work with tasks, notes, and journal entries (5–10%)",
+    "skills": [
+      {
+        "label": "Create and manipulate tasks",
+        "items": [
+          "Create a task, manage task details, send a status report, mark a task as complete, move or copy a task to another folder, assign a task to another outlook user, accept or decline a task assignment, update an assigned task, and use current view"
+        ]
+      },
+      {
+        "label": "Create and manipulate notes",
+        "items": [
+          "Create a note, change the current view, and categorize notes"
+        ]
+      },
+      {
+        "label": "Create and manipulate Journal entries",
+        "items": [
+          "Automatically record outlook items, automatically record files, and edit a journal entry"
+        ]
+      }
+    ]
+  }
+]

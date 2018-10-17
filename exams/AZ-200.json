@@ -1,0 +1,187 @@
+[
+  {
+    "label": "Select the appropriate cloud technology solution (15-20%)",
+    "skills": [
+      {
+        "label": "Select an appropriate compute solution",
+        "items": [
+          "May include but not limited to: leverage appropriate design patterns",
+          "Select appropriate network connectivity options",
+          "Design for hybrid topologies"
+        ]
+      },
+      {
+        "label": "Select an appropriate integration solution",
+        "items": [
+          "May include but not limited to: address computational bottlenecks, state management, and os requirements",
+          "Provide for web hosting if applicable",
+          "Evaluate minimum number of nodes"
+        ]
+      },
+      {
+        "label": "Select an appropriate storage solution",
+        "items": [
+          "May include but not limited to: validate data storage technology capacity limitations",
+          "Address durability of data",
+          "Provide for appropriate throughput of data access",
+          "Evaluate structure of data storage",
+          "Provide for data archiving, retention, and compliance"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop for cloud storage (30-35%)",
+    "skills": [
+      {
+        "label": "Develop solutions that use storage tables",
+        "items": [
+          "May include but not limited to: connect to storage",
+          "Design and implement policies to tables",
+          "Query a table storage by using code"
+        ]
+      },
+      {
+        "label": "Develop solutions that use Cosmos DB storage",
+        "items": [
+          "May include but not limited to: choose a consistency level",
+          "Choose appropriate api for cosmos db storage",
+          "Create, read, update, and delete tables in cosmos storage by using code",
+          "Manage documents and collections in cosmos db storage"
+        ]
+      },
+      {
+        "label": "Develop solutions that use file storage",
+        "items": [
+          "May include but not limited to: implement quotas for file shares in storage account",
+          "Move items in file shares between containers asynchronously",
+          "Set file storage container properties in metadata"
+        ]
+      },
+      {
+        "label": "Develop solutions that use a relational database",
+        "items": [
+          "May include but not limited to: create, read, update, and delete database tables by using code",
+          "Implement dynamic data masking"
+        ]
+      },
+      {
+        "label": "Develop solutions that use blob storage",
+        "items": [
+          "May include but not limited to: create a shared access signature for a blob",
+          "Move items in blob storage between containers asynchronously",
+          "Set blob storage container properties in metadata"
+        ]
+      },
+      {
+        "label": "Developing for caching and content delivery solutions",
+        "items": [
+          "May include but not limited to: develop for azure redis cache, storage on content delivery networks (cdns)",
+          "Develop code to address session state and cache invalidation"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create Platform as a Service (PaaS) Solutions (35-40%)",
+    "skills": [
+      {
+        "label": "Create web applications by using PaaS",
+        "items": [
+          "May include but not limited to: create an azure app service web app by using azure cli, powershell, and other tools",
+          "Create documentation for the api by using open source and other tools",
+          "Create an app service web app for containers",
+          "Create an app service background task by using webjobs"
+        ]
+      },
+      {
+        "label": "Create mobile apps using PaaS",
+        "items": [
+          "May include but not limited to: add push notifications for mobile app",
+          "Enable offline sync for mobile app",
+          "Implement a remote instrumentation strategy for mobile devices"
+        ]
+      },
+      {
+        "label": "Create an app service Logic App",
+        "items": [
+          "May include but not limited to: create a custom connector for logic apps, a custom template for a logic app",
+          "Create a logic app",
+          "Package an azure app service logic app"
+        ]
+      },
+      {
+        "label": "Create app or service that runs on Service Fabric",
+        "items": [
+          "May include but not limited to: develop a stateful reliable service and a stateless reliable service",
+          "Develop an actor-based reliable service",
+          "Write code to consume reliable collections in your service"
+        ]
+      },
+      {
+        "label": "Create serverless functions",
+        "items": [
+          "May include but not limited to: implement the bindings for the function (input and output)",
+          "Implement the function trigger by using a data operation, timer, webhook, or other tools",
+          "Develop an azure function app for containers by using azure portal, cli, and other tools",
+          "Develop an azure service fabric mesh app"
+        ]
+      },
+      {
+        "label": "Schedule bulk operations",
+        "items": [
+          "May include but not limited to: define the batch output and conditions by using batch service api",
+          "Write code to run a batch job",
+          "Run a batch job by using azure cli, azure portal, and other tools"
+        ]
+      },
+      {
+        "label": "Create solutions that use Azure Kubernetes Service",
+        "items": [
+          "May include but not limited to: configure diagnostic settings on resources",
+          "Create a container image by using a docker file",
+          "Create an azure container service (acs/aks) cluster by using the azure cli and azure portal",
+          "Publish an image to the azure container registry",
+          "Implement an application that runs on an azure container instance",
+          "Implement container instances by using azure container service (acs/aks), azure service fabric, and other tools",
+          "Manage container settings by using code"
+        ]
+      },
+      {
+        "label": "Design and develop applications that use media services",
+        "items": [
+          "May include but not limited to: implement an application using video indexer, video api, preview, and other media related services",
+          "Implement file-based encoding and azure media analytics",
+          "Develop media solutions that use ai services (e.g., content moderation, optical character recognition, video summarization, face detection, etc.)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Secure cloud solutions (15-20%)",
+    "skills": [
+      {
+        "label": "Implement authentication",
+        "items": [
+          "May include but not limited to: implement authentication by using certificates, forms-based authentication, tokens, windows-integrated authentication",
+          "Implement multi-factor authentication by using azure ad options"
+        ]
+      },
+      {
+        "label": "Implement access control",
+        "items": [
+          "May include but not limited to: implement claims-based access control (cbac) and role-based access control (rbac) authorization"
+        ]
+      },
+      {
+        "label": "Implement secure data solutions",
+        "items": [
+          "May include but not limited to: encrypt and decrypt data at rest",
+          "Encrypt data with always encrypted",
+          "Implement azure confidential compute and ssl/tls communications",
+          "Manage cryptographic keys in the azure key vault"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "label": "Sharing and maintaining documents",
+    "skills": [
+      {
+        "label": "Apply different views to a document",
+        "items": [
+          "Selecting zoom options",
+          "Splitting and arranging windows (view side by side, synchronous scrolling), document views (reorganizing a document outline, master documents, subdocuments, web layout, draft)",
+          "Switching windows",
+          "Opening a document in a new window"
+        ]
+      },
+      {
+        "label": "Apply protection to a document",
+        "items": [
+          "Applying protection by using the microsoft office backstage view commands (applying controls and restrictions to document access, password-protecting a document, marking as final)",
+          "Applying protection by using ribbon commands"
+        ]
+      },
+      {
+        "label": "Manage document versions",
+        "items": [
+          "Recovering draft versions",
+          "Deleting all draft versions"
+        ]
+      },
+      {
+        "label": "Share documents",
+        "items": [
+          "Sending documents via email, onedrive, or internet fax",
+          "Changing file types",
+          "Creating pdf documents",
+          "Creating and publishing a blog post",
+          "Registering a blog account"
+        ]
+      },
+      {
+        "label": "Save a document",
+        "items": [
+          "Using compatibility mode, protected mode, and save as options"
+        ]
+      },
+      {
+        "label": "Apply a template to a document",
+        "items": [
+          "Finding templates (locating a template on your disk, finding templates on the web)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Formatting content",
+    "skills": [
+      {
+        "label": "Apply font and paragraph attributes",
+        "items": [
+          "Applying character attributes",
+          "Applying styles",
+          "Using format painter"
+        ]
+      },
+      {
+        "label": "Navigate and search through a document",
+        "items": [
+          "Using the navigation pane (headings, pages, results), go to, browse by button, and highlight features",
+          "Setting find and replace options (format, special)"
+        ]
+      },
+      {
+        "label": "Apply indentation and tab settings to paragraphs",
+        "items": [
+          "Applying indents (first line, hanging)",
+          "Setting tabs",
+          "Using the tabs dialog box",
+          "Setting tabs on the ruler",
+          "Clearing tabs",
+          "Setting tab stops",
+          "Moving tab stops"
+        ]
+      },
+      {
+        "label": "Apply spacing settings to text and paragraphs",
+        "items": [
+          "Line spacing, paragraph spacing"
+        ]
+      },
+      {
+        "label": "Create tables",
+        "items": [
+          "Using the insert table dialog box",
+          "Using draw table",
+          "Inserting a quick table",
+          "Converting text to tables",
+          "Using a table to control page layout"
+        ]
+      },
+      {
+        "label": "Manipulate tables in a document",
+        "items": [
+          "Sorting content",
+          "Adding a row to a table",
+          "Adding a column to a table",
+          "Splitting, merging, moving, resizing, and deleting a row or column",
+          "Defining the header row",
+          "Converting tables to text",
+          "Viewing gridlines"
+        ]
+      },
+      {
+        "label": "Apply bullets to a document",
+        "items": [
+          "Applying bullets",
+          "Selecting a symbol format",
+          "Defining a picture to be used as a bullet",
+          "Using autoformat",
+          "Promoting or demoting bullet levels"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Applying page layout and reusable content",
+    "skills": [
+      {
+        "label": "Apply and manipulate page setup settings",
+        "items": [
+          "Setting margins, non-breaking spaces, hyphenation, and columns",
+          "Working with breaks",
+          "Forcing a page break",
+          "Inserting a section break (continuous, next page, next odd, next even)",
+          "Inserting a blank page into a document"
+        ]
+      },
+      {
+        "label": "Apply themes",
+        "items": [
+          "Using a theme to apply formatting",
+          "Customizing a theme"
+        ]
+      },
+      {
+        "label": "Construct content in a document by using the Quick Parts tool",
+        "items": [
+          "Adding built-in building blocks (quotes, text boxes, headers, footers, cover pages, watermarks, equations)"
+        ]
+      },
+      {
+        "label": "Create and manipulate page backgrounds",
+        "items": [
+          "Formatting a document's background",
+          "Setting a colored background",
+          "Adding a watermark",
+          "Placing page borders"
+        ]
+      },
+      {
+        "label": "Create and modify headers and footers",
+        "items": [
+          "Inserting and formatting page numbers",
+          "Inserting the current date and time",
+          "Inserting a built-in header or footer",
+          "Adding content to a header or footer (custom dialog box, manual entry)",
+          "Deleting a header or footer",
+          "Changing margins",
+          "Applying a different first page attribute"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Including illustrations and graphics in a document",
+    "skills": [
+      {
+        "label": "Insert and format pictures in a document",
+        "items": [
+          "Adding captions",
+          "Applying artistic effects and picture styles",
+          "Compressing pictures",
+          "Modifying a shape",
+          "Adjusting position and size",
+          "Inserting screenshots"
+        ]
+      },
+      {
+        "label": "Insert and format shapes, WordArt, and SmartArt",
+        "items": [
+          "Adding text to a shape",
+          "Modifying text on a shape",
+          "Adding captions",
+          "Setting shape styles (border, text)",
+          "Adjusting position and size"
+        ]
+      },
+      {
+        "label": "Insert and format Clip Art",
+        "items": [
+          "Organizing clipart, captions, artistic effects, compressing pictures, corrections, modifying the shape, reset, picture styles, arranging options, size"
+        ]
+      },
+      {
+        "label": "Apply and manipulate text boxes",
+        "items": [
+          "Formatting, saving selection to text box gallery, text box styles, text direction, shadow effects, 3-d effects, arranging options"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Proofreading documents",
+    "skills": [
+      {
+        "label": "Validate content by using spelling and grammar checking options",
+        "items": [
+          "Grammar and style options"
+        ]
+      },
+      {
+        "label": "Configure AutoCorrect settings",
+        "items": [
+          "Adding, removing, exceptions, autocorrect dialog"
+        ]
+      },
+      {
+        "label": "Insert and modify comments in a document",
+        "items": [
+          "Inserting a comment",
+          "Editing a comment",
+          "Deleting a comment",
+          "Viewing a comment (viewing comments from another user, viewing comments inline, viewing comments as balloons)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Applying references and hyperlinks",
+    "skills": [
+      {
+        "label": "Apply a hyperlink",
+        "items": [
+          "Hyperlink using text",
+          "Hyperlink using graphic, headings, and bookmarks",
+          "Creating new document",
+          "Email address"
+        ]
+      },
+      {
+        "label": "Create endnotes and footnotes in a document",
+        "items": [
+          "Managing footnote and endnote location",
+          "Configuring footnote and endnote format, presentation, and numbering"
+        ]
+      },
+      {
+        "label": "Create a table of contents in a document",
+        "items": [
+          "Default formats, showing levels, alignment, tab leader, formats, options",
+          "Modifying styles",
+          "Updating table"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Performing mail merge operations",
+    "skills": [
+      {
+        "label": "Setup mail merge",
+        "items": [
+          "Performing a mail merge using the mail merge wizard",
+          "Performing a mail merge manually",
+          "Auto checking for errors"
+        ]
+      },
+      {
+        "label": "Execute mail merge",
+        "items": [
+          "Print, preview"
+        ]
+      }
+    ]
+  }
+]

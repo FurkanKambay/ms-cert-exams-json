@@ -1,0 +1,196 @@
+[
+  {
+    "label": "Plan and deploy a server infrastructure (20–25%)",
+    "skills": [
+      {
+        "label": "Design and plan an automated server installation strategy",
+        "items": [
+          "Design considerations including images and bare metal/virtual deployment",
+          "Design a server implementation using windows assessment and deployment kit (adk)",
+          "Design a virtual server deploymentplan for deploying servers to microsoft azure infrastructure as a service (iaas)",
+          "Plan for deploying servers to public and private cloud by using appcontroller and windows powershell",
+          "Plan for multicast deployment",
+          "Plan for windows deployment services (wds)"
+        ]
+      },
+      {
+        "label": "Implement a server deployment infrastructure",
+        "items": [
+          "Configure multi-site topology and transport servers",
+          "Implement a multi-server topology, including stand-alone and active directory–integrated windows deployment services (wds) servers",
+          "Deploy servers to microsoft azure iaas",
+          "Deploy servers to public and private cloud by using appcontroller and windows powershell"
+        ]
+      },
+      {
+        "label": "Plan and implement server upgrade and migration",
+        "items": [
+          "Plan for role migration",
+          "Migrate server roles",
+          "Migrate servers across domains and forests",
+          "Design a server consolidation strategy",
+          "Plan for capacity and resource optimization"
+        ]
+      },
+      {
+        "label": "Plan and deploy Virtual Machine Manager services",
+        "items": [
+          "Design virtual machine manager service templates",
+          "Plan and deploy profiles, operating system profiles, hardware and capability profiles, application profiles, and sql profiles",
+          "Plan and manage services including scaling out, updating and servicing services",
+          "Configure virtual machine manager libraries",
+          "Plan and deploy services to non-trusted domains and workgroups"
+        ]
+      },
+      {
+        "label": "Plan and implement file and storage services",
+        "items": [
+          "Planning considerations include iscsi sans, fibre channel sans, virtual fibre channel, storage spaces, storage pools including tiered storage and data de-duplication",
+          "Configure the internet storage name server (isns)",
+          "Configure services for network file system (nfs)",
+          "Plan and implement smb 3.0 based storage",
+          "Plan for windows offloaded data transfer (odx)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and implement network infrastructure services (20–25%)",
+    "skills": [
+      {
+        "label": "Design and maintain a Dynamic Host Configuration Protocol (DHCP) solution",
+        "items": [
+          "Design considerations including a highly available dhcp solution including split scope, dhcp failover, and dhcp failover clustering, dhcp interoperability, and dhcpv6",
+          "Implement dhcp filtering",
+          "Implement and configure a dhcp management pack",
+          "Maintain a dhcp database"
+        ]
+      },
+      {
+        "label": "Design a name resolution solution strategy",
+        "items": [
+          "Design considerations including active directory integrated zones, dnssec, dns socket pool, cache locking, disjoint namespaces, dns interoperability, migration to application partitions, ipv6, single-label dns name resolution, zone hierarchy, and zone delegation"
+        ]
+      },
+      {
+        "label": "Design and manage an IP address management solution",
+        "items": [
+          "Design considerations including ip address management technologies including ipam, group policy based, manual provisioning, and distributed, centralized, hybrid placement, and database storage",
+          "Configure role-based access control",
+          "Configure ipam auditing",
+          "Migrate ips",
+          "Manage and monitor multiple dhcp and dns servers",
+          "Configure data collection for ipam",
+          "Integrate ipam with virtual machine manager (vmm)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and implement network access services (15–20%)",
+    "skills": [
+      {
+        "label": "Design a VPN solution",
+        "items": [
+          "Design considerations including certificate deployment, firewall configuration, client/site to site, bandwidth, protocol implications, connectivity to microsoft azure iaas and vpn deployment configurations using connection manager administration kit (cmak)"
+        ]
+      },
+      {
+        "label": "Design a DirectAccess solution",
+        "items": [
+          "Design considerations including deployment topology, migration from forefront uag, one time password (otp), and use of certificates issued by enterprise certificate authority (ca)"
+        ]
+      },
+      {
+        "label": "Design a Web Application Proxy solution",
+        "items": [
+          "Design considerations including planning for applications, authentication and authorization, workplace join, devices, multifactor authentication, multifactor access control, single sign-on (sso), certificates, planning access for internal and external clients"
+        ]
+      },
+      {
+        "label": "Implement a scalable remote access solution",
+        "items": [
+          "Configure site-to-site vpn",
+          "Configure packet filters",
+          "Implement packet tracing",
+          "Implement multi-site remote access",
+          "Configure remote access clustered with network load balancing (nlb)",
+          "Implement an advanced directaccess solution, configure multiple radius server groups and infrastructure, configure web application proxy for clustering"
+        ]
+      },
+      {
+        "label": "Design and implement network protection solution",
+        "items": [
+          "Design considerations including network access protection (nap) enforcement methods for dhcp, ipsec, vpn, and 802.1x, capacity, placement of servers, firewall, network policy server (nps), and remediation network, configure nap enforcement for ipsec and 802.1x, monitor for compliance"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and implement an Active Directory infrastructure (logical) (20–25%)",
+    "skills": [
+      {
+        "label": "Design a forest and domain infrastructure",
+        "items": [
+          "Design considerations including multi-forest architecture, trusts, functional levels, domain upgrade, domain migration, forest restructure, microsoft azure active directory and dirsync"
+        ]
+      },
+      {
+        "label": "Implement a forest and domain infrastructure",
+        "items": [
+          "Configure domain rename",
+          "Configure kerberos realm trusts",
+          "Implement a domain upgrade",
+          "Implement a domain migration",
+          "Implement a forest restructure",
+          "Deploy and manage a test forest including synchronization with production forests"
+        ]
+      },
+      {
+        "label": "Design a Group Policy strategy",
+        "items": [
+          "Design considerations including inheritance blocking, enforced policies, loopback processing, security, and wmi filtering, site-linked group policy objects (gpos), slow-link processing, group strategies, organizational unit (ou) hierarchy, and advanced group policy management (agpm), and group policy caching"
+        ]
+      },
+      {
+        "label": "Design an Active Directory permission model",
+        "items": [
+          "Design considerations including active directory object security and active directory quotas",
+          "Customize tasks to delegate in delegate of control wizard",
+          "Deploy administrative tools on the client devices",
+          "Delegate permissions on administrative users (adminsdholder)",
+          "Plan for kerberos delegation"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and implement an Active Directory infrastructure (physical) (20–25%)",
+    "skills": [
+      {
+        "label": "Design an Active Directory sites topology",
+        "items": [
+          "Design considerations including proximity of domain controllers, replication optimization, and site link",
+          "Monitor and resolve active directory replication conflicts"
+        ]
+      },
+      {
+        "label": "Design a domain controller strategy",
+        "items": [
+          "Design considerations including global catalog, operations master roles, read-only domain controllers (rodcs), partial attribute set, and domain controller cloning, and domain controller placement"
+        ]
+      },
+      {
+        "label": "Design and implement a branch office infrastructure",
+        "items": [
+          "Design considerations including rodc, universal group membership caching (ugmc), global catalog, dns, dhcp, and branchcache",
+          "Implement confidential attributes",
+          "Delegate administration",
+          "Modify filtered attributes set",
+          "Configure password replication policy",
+          "Configure hash publication"
+        ]
+      }
+    ]
+  }
+]

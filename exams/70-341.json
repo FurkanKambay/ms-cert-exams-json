@@ -1,0 +1,241 @@
+[
+  {
+    "label": "Install, Configure, and Manage the Mailbox Role (20-25%)",
+    "skills": [
+      {
+        "label": "Plan the mailbox role",
+        "items": [
+          "Plan for database size and storage performance requirements",
+          "Plan for virtualization requirements and scenarios",
+          "Plan mailbox role capacity and placement",
+          "Design public folder placement strategy",
+          "Validate storage by running jetstress"
+        ]
+      },
+      {
+        "label": "Configure and manage the mailbox role",
+        "items": [
+          "Create and configure offline address book (oab)",
+          "Create and configure public folders",
+          "Deploy mailbox server roles",
+          "Design and create hierarchical address lists"
+        ]
+      },
+      {
+        "label": "Deploy and manage high availability solutions for the mailbox role",
+        "items": [
+          "Create and configure a database availability group (dag)",
+          "Identify failure domains",
+          "Manage dag networks",
+          "Configure proper placement of a file share witness",
+          "Manage mailbox database copies",
+          "Configure autoreseed for dag"
+        ]
+      },
+      {
+        "label": "Monitor and troubleshoot the mailbox role",
+        "items": [
+          "Troubleshoot database replication and replay",
+          "Troubleshoot database copy activation",
+          "Troubleshoot mailbox role performance",
+          "Troubleshoot database failures",
+          "Monitor database replication and content indexing"
+        ]
+      },
+      {
+        "label": "Develop backup and recovery solutions for the mailbox role and public folders",
+        "items": [
+          "Manage lagged copies",
+          "Determine most appropriate backup solution/strategy",
+          "Perform a dial tone restore",
+          "Perform item-level recovery",
+          "Recover the public folder hierarchy",
+          "Recover a mailbox server role"
+        ]
+      },
+      {
+        "label": "Create and configure mail-enabled objects",
+        "items": [
+          "Configure resource mailboxes and scheduling",
+          "Configure team mailboxes",
+          "Configure distribution lists",
+          "Configure moderation",
+          "Configure a linked mailbox"
+        ]
+      },
+      {
+        "label": "Manage mail-enabled object permissions",
+        "items": [
+          "Configure mailbox folder permissions",
+          "Configure mailbox permissions",
+          "Set up room mailbox delegates",
+          "Set up team mailbox membership",
+          "Set up auto-mapping",
+          "Determine when to use send as and send on behalf permissions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan, Install, Configure, and Manage Client Access (20-25%)",
+    "skills": [
+      {
+        "label": "Plan, deploy, and manage a Client Access Server (CAS)",
+        "items": [
+          "Design to account for differences between legacy cas and exchange 2013 cas",
+          "Configure office online application integration",
+          "Plan for outlook anywhere",
+          "Configure address book policies",
+          "Plan to implement kerberos authentication",
+          "Plan for outlook mapi over http"
+        ]
+      },
+      {
+        "label": "Plan and configure namespaces and client services",
+        "items": [
+          "Design namespaces for client connectivity",
+          "Configure urls",
+          "Plan for certificates",
+          "Configure authentication methods",
+          "Implement auto-discover for a given namespace",
+          "Implement integration with sfb/lync"
+        ]
+      },
+      {
+        "label": "Deploy and manage mobility solutions",
+        "items": [
+          "Deploy outlook on the web for devices",
+          "Deploy outlook for mobile devices",
+          "Configure outlook on the web policies",
+          "Configure microsoft activesync policies",
+          "Configure allow block quarantine (abq)",
+          "Deploy and manage office apps"
+        ]
+      },
+      {
+        "label": "Implement load balancing",
+        "items": [
+          "Configure namespace load balancing",
+          "Configure session initiation protocol (sip) load balancing",
+          "Plan for differences between layer seven and layer four load balancing methods",
+          "Configure windows network load balancing (wnlb)"
+        ]
+      },
+      {
+        "label": "Troubleshoot client connectivity",
+        "items": [
+          "Troubleshoot outlook anywhere connectivity",
+          "Troubleshoot outlook mapi over http connectivity",
+          "Troubleshoot pop/imap",
+          "Troubleshoot authentication",
+          "Troubleshoot web services",
+          "Troubleshoot autodiscover",
+          "Troubleshoot mobile devices",
+          "Troubleshoot mobile apps"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan, Install, Configure, and Manage Transport (20-25%)",
+    "skills": [
+      {
+        "label": "Plan a high availability solution for common scenarios",
+        "items": [
+          "Set up redundancy for intra-site scenarios: plan for safety net",
+          "Plan for shadow redundancy",
+          "Plan for redundant mx records"
+        ]
+      },
+      {
+        "label": "Design a transport solution",
+        "items": [
+          "Design inter-site mail flow",
+          "Design inter-org mail flow",
+          "Plan for domain secure/tls",
+          "Design edge transport",
+          "Design message hygiene solutions",
+          "Design shared namespace scenarios"
+        ]
+      },
+      {
+        "label": "Configure and manage transport",
+        "items": [
+          "Configure edge servers",
+          "Configure send/receive connectors",
+          "Configure transport rules",
+          "Configure accepted domains",
+          "Configure email policies",
+          "Configure address rewriting"
+        ]
+      },
+      {
+        "label": "Troubleshoot and monitor transport",
+        "items": [
+          "Interpret message tracking logs and protocol logs",
+          "Troubleshoot a shared namespace environment",
+          "Troubleshoot smtp mail flow",
+          "Given a failure scenario, predict mail flow and identify how to recover",
+          "Troubleshoot domain secure/tls",
+          "Troubleshoot the new transport architecture"
+        ]
+      },
+      {
+        "label": "Configure and manage hygiene",
+        "items": [
+          "Manage content filtering",
+          "Manage recipient filtering",
+          "Manage senderid",
+          "Manage connection filtering",
+          "Manage spam confidence level (scl) thresholds",
+          "Manage anti-malware"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and Manage an Exchange Infrastructure (20-25%)",
+    "skills": [
+      {
+        "label": "Plan for impact of Exchange on Active Directory Domain services",
+        "items": [
+          "Plan the number of domain controllers",
+          "Plan placement of global catalog (gc)",
+          "Determine dns changes required for exchange",
+          "Prepare domains for exchange",
+          "Evaluate impact of schema changes required for exchange",
+          "Plan around active directory site topology"
+        ]
+      },
+      {
+        "label": "Administer Exchange Workload Management",
+        "items": [
+          "Monitor system workload events",
+          "Monitor user workload events",
+          "Manage workload throttling settings"
+        ]
+      },
+      {
+        "label": "Plan and manage Role Based Access Control (RBAC)",
+        "items": [
+          "Determine appropriate rbac roles and cmdlets",
+          "Limit administration using existing role groups",
+          "Evaluate differences between rbac and active directory split permissions",
+          "Configure a custom-scoped role group",
+          "Configure delegated setup"
+        ]
+      },
+      {
+        "label": "Design an appropriate Exchange solution for a given SLA",
+        "items": [
+          "Plan for updates",
+          "Plan for change management",
+          "Design a virtualization solution",
+          "Design a solution that meets sla requirements around scheduled downtime",
+          "Design a solution that meets sla requirements around rpo/rto",
+          "Design a solution that meets sla requirements around message delivery"
+        ]
+      }
+    ]
+  }
+]

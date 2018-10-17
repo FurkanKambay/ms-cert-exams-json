@@ -1,0 +1,157 @@
+[
+  {
+    "label": "Deploying and Integrating an Azure Stack Environment (20-25%)",
+    "skills": [
+      {
+        "label": "Build test environments by using the Azure Stack Development Kit (ASDK).",
+        "items": [
+          "This objective may include but is not limited to: use powershell commands",
+          "Install updated asdk",
+          "Troubleshoot failed installs",
+          "Post-deployment registration"
+        ]
+      },
+      {
+        "label": "Configure DNS for data center integration.",
+        "items": [
+          "This objective may include but is not limited to: configure external dns name resolution from within azure stack",
+          "Configure azure stack dns names from outside azure stack"
+        ]
+      },
+      {
+        "label": "Configure connectivity for data center integration.",
+        "items": [
+          "This objective may include but is not limited to: manage firewall ports needed at the edge",
+          "Configure connectivity to the data center",
+          "Install and renew certificates for public endpoints"
+        ]
+      },
+      {
+        "label": "Connect to and perform API-based administration on Azure Stack.",
+        "items": [
+          "This objective may include but is not limited to: connect to the stack by using powershell",
+          "Configure client certificates",
+          "Configure firewall to support remote administration",
+          "Establish rbac roles for the azure stack fabric",
+          "Create subscriptions for end users"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configuring PaaS and IaaS for an Azure Stack Environment (25-30%)",
+    "skills": [
+      {
+        "label": "Configure and administer the App Service resource provider.",
+        "items": [
+          "This objective may include but is not limited to: configure system",
+          "Configure source control",
+          "Configure worker tiers",
+          "Configure subscription quotas",
+          "Scale worker tiers and app service infrastructure roles",
+          "Add custom software",
+          "Configure azure stack networking security"
+        ]
+      },
+      {
+        "label": "Configure and administer database resource providers.",
+        "items": [
+          "This objective may include but is not limited to: configure and administer the sql adapter",
+          "Configure and administer the mysql adapter",
+          "Set up skus",
+          "Set up additional hosting capacity"
+        ]
+      },
+      {
+        "label": "Configure and administer IaaS services.",
+        "items": [
+          "This objective may include but is not limited to: implement virtual machine images",
+          "Prepare linux and windows images",
+          "Prepare a custom image",
+          "Upload an image"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Providing Services to and Enabling DevOps for Azure Stack Tenants (25-30%)",
+    "skills": [
+      {
+        "label": "Create and manage quotas, plans, and offers.",
+        "items": [
+          "This objective may include but is not limited to: create quotas",
+          "Configure plans",
+          "Configure offers",
+          "Configure delegated offers",
+          "Create add-on plans"
+        ]
+      },
+      {
+        "label": "Manage tenants.",
+        "items": [
+          "This objective may include but is not limited to: add new tenants",
+          "Remove tenants",
+          "Manage authentication and authorization",
+          "Establish rbac roles for the tenant space"
+        ]
+      },
+      {
+        "label": "Manage the Azure Marketplace.",
+        "items": [
+          "This objective may include but is not limited to: enable azure marketplace on azure stack",
+          "Plan new packages",
+          "Create and publish new packages",
+          "Download azure marketplace items"
+        ]
+      },
+      {
+        "label": "Enable DevOps for tenants.",
+        "items": [
+          "This objective may include but is not limited to: enable version control for tenants",
+          "Manage arm templates",
+          "Deploy arm templates",
+          "Debug arm templates",
+          "Use microsoft visual studio team services to connect to azure stack",
+          "Use continuous integration and continuous deployment to automate a pipeline that targets azure stack"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Maintaining and Monitoring an Azure Stack Environment (20-25%)",
+    "skills": [
+      {
+        "label": "Plan and implement a backup-recovery and a disaster-recovery solution.",
+        "items": [
+          "This objective may include but is not limited to: back up azure stack infrastructure services",
+          "Perform cloud recovery of azure stack, replicate and fail over iaas virtual machines to azure",
+          "Back up and restore paas resource data",
+          "Back up and restore backup and restore of user iaas virtual machine guest-os, disks, volumes, and apps"
+        ]
+      },
+      {
+        "label": "Manage and monitor capacity, performance, updates, and alerts.",
+        "items": [
+          "This objective may include but is not limited to: manage storage",
+          "Monitor available storage",
+          "Integrate existing monitoring services",
+          "Manage public ip address ranges",
+          "Monitor infrastructure component health",
+          "Monitor azure stack memory, public ip addresses, and storage tenant consumption",
+          "Apply updates",
+          "Update system firmware",
+          "Review and react to alerts"
+        ]
+      },
+      {
+        "label": "Manage usage reporting.",
+        "items": [
+          "This objective may include but is not limited to: provide access to the usage database",
+          "Test usage by using the asdk",
+          "Collect the usage data by using the provider usage api and the tenant usage api",
+          "Investigate the usage time versus the reported time"
+        ]
+      }
+    ]
+  }
+]

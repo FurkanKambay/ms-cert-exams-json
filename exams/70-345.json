@@ -1,0 +1,324 @@
+[
+  {
+    "label": "Plan, Deploy, Manage, and Troubleshoot Mailbox Databases (15-20%)",
+    "skills": [
+      {
+        "label": "Plan, deploy, and manage mailbox databases",
+        "items": [
+          "Plan for database size and storage performance requirements",
+          "Plan mailbox database capacity and placement",
+          "Plan archive mailboxes capacity and placement",
+          "Plan modern public folder capacity and placement",
+          "Plan for storage architecture (san, das, raid, jbod)",
+          "Plan file system requirements",
+          "Plan for auto reseed",
+          "Plan for virtualization requirements and scenarios",
+          "Validate storage design by running jetstress",
+          "Create and configure mailbox databases",
+          "Manage mailbox databases",
+          "Configure transaction log properties and file placement"
+        ]
+      },
+      {
+        "label": "Plan, deploy, and manage high availability solutions for mailbox databases",
+        "items": [
+          "Identify failure domains",
+          "Plan a solution that meets sla requirements around scheduled downtime",
+          "Plan for software updates and server maintenance",
+          "Plan for change management",
+          "Create, configure, and manage database availability groups (dag)",
+          "Create, configure, and manage dag networks",
+          "Create, configure, and manage proper placement of a file share witness (fsw)",
+          "Create and configure mailbox database copies",
+          "Create, configure, and manage azure file share witness (fsw)",
+          "Create, configure, and manage azure dag members"
+        ]
+      },
+      {
+        "label": "Plan, deploy, and manage a site-resilient Database Availability Group (DAG)",
+        "items": [
+          "Recommend quorum options with given customer requirements",
+          "Plan, create, and configure cross-site dag configuration",
+          "Plan, deploy and configure datacenter activation coordination (dac)",
+          "Configure and manage proper placement of an alternate file share witness (fsw)",
+          "Test and perform site recovery"
+        ]
+      },
+      {
+        "label": "Monitor and troubleshoot mailbox databases",
+        "items": [
+          "Monitor mailbox database replication and content indexing",
+          "Troubleshoot mailbox database replication and replay",
+          "Troubleshoot mailbox database copy activation",
+          "Troubleshoot mailbox database performance",
+          "Troubleshoot database failures (e.g., repair, defrag, recover)",
+          "Resolve quorum issues",
+          "Troubleshoot data center activation"
+        ]
+      },
+      {
+        "label": "Plan, deploy, and manage backup and recovery solutions for mailbox databases",
+        "items": [
+          "Plan most appropriate backup solution that meets sla requirements of recovery point objectives and recovery time objectives",
+          "Deploy, configure, and manage lagged mailbox database copies",
+          "Recover an exchange server, mailbox database, mailbox, public folder or mail item",
+          "Recover the public folder hierarchy",
+          "Perform a dial tone restore"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan, Deploy, Manage and Troubleshoot Client Access Services (15-20%)",
+    "skills": [
+      {
+        "label": "Plan, deploy, and manage Client Access services",
+        "items": [
+          "Plan namespaces for client connectivity",
+          "Plan proxy and redirection requirements",
+          "Plan and deploy certificates",
+          "Plan and configure authentication (including fba, basic, ntlm and kerberos, adfs claims-based authentication)",
+          "Plan, deploy, and configure autodiscover, outlook anywhere, outlook mapi over http, exchange web services, outlook on the web, exchange admin center, exchange activesync, pop3, and imap4",
+          "Plan, deploy, and configure office online servers (oos)",
+          "Deploy and configure skype for business integration",
+          "Plan, create and configure offline address book (oab)",
+          "Plan, create, and configure hierarchical address lists",
+          "Plan, deploy, and configure address book policies"
+        ]
+      },
+      {
+        "label": "Plan, deploy and manage mobility solutions",
+        "items": [
+          "Plan, deploy, and configure outlook on the web and outlook for devices, outlook for the web policies, and mobile device mailbox policies",
+          "Plan, deploy, and configure allow block quarantine (abq)",
+          "Plan, deploy and configure office apps"
+        ]
+      },
+      {
+        "label": "Plan, deploy, and manage load balancing",
+        "items": [
+          "Configure namespace load balancing",
+          "Plan for differences between layer seven and layer four load balancing methods"
+        ]
+      },
+      {
+        "label": "Monitor and troubleshoot client connectivity",
+        "items": [
+          "Troubleshoot outlook anywhere connectivity",
+          "Troubleshoot outlook mapi over http connectivity",
+          "Troubleshoot exchange web services (ews)",
+          "Troubleshoot outlook on the web",
+          "Troubleshoot pop3 and imap4",
+          "Troubleshoot authentication",
+          "Troubleshoot autodiscover",
+          "Troubleshoot exchange activesync",
+          "Troubleshoot proxy and redirection issues"
+        ]
+      },
+      {
+        "label": "Plan, deploy, and manage a site-resilient client access services solution",
+        "items": [
+          "Plan site-resilient namespaces",
+          "Configure site-resilient namespace urls",
+          "Perform and test steps for site failover and switchover",
+          "Plan certificate requirements for site failovers",
+          "Manage expected client behavior during a failover and switchover"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan, Deploy, Manage, and Troubleshoot Transport Services (15-20%)",
+    "skills": [
+      {
+        "label": "Plan, deploy, and manage transport services",
+        "items": [
+          "Plan a solution that meets sla requirements around message delivery",
+          "Plan inter-site mail flow",
+          "Plan inter-org mail flow",
+          "Plan, deploy and configure redundancy for intra-site scenarios",
+          "Plan and configure for safetynet",
+          "Plan and configure for shadow redundancy",
+          "Plan and configure for redundant mx records",
+          "Plan, create, and configure tls transport, edge transport, send/receive connectors, transport rules, accepted domains, email address policies and address rewriting"
+        ]
+      },
+      {
+        "label": "Troubleshoot and monitor transport services",
+        "items": [
+          "Interpret message tracking logs and protocol logs",
+          "Troubleshoot a shared namespace environment",
+          "Troubleshoot smtp mail flow",
+          "Given a failure scenario, predict mail flow and identify how to recover",
+          "Troubleshoot tls",
+          "Troubleshoot the new transport architecture"
+        ]
+      },
+      {
+        "label": "Plan, deploy, and manage message hygiene",
+        "items": [
+          "Plan and configure malware filtering",
+          "Plan and configure connection filtering",
+          "Plan and configure spam filtering",
+          "Plan and configure recipient filtering",
+          "Plan and configure sender policy framework",
+          "Plan and configure spam confidence level (scl) thresholds"
+        ]
+      },
+      {
+        "label": "Plan, deploy and manage site resilience transport services",
+        "items": [
+          "Plan, create and configure mx records for failover scenarios",
+          "Manage resubmission and reroute queues",
+          "Plan, create, and configure send/receive connectors for site resiliency",
+          "Test and perform steps for transport failover and switchover"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan, Deploy, and Manage Exchange Infrastructure, Recipients, and Security (15-20%)",
+    "skills": [
+      {
+        "label": "Plan and configure Active Directory (AD) Domain Services for Exchange and Organizational settings",
+        "items": [
+          "Plan the number of domain controllers",
+          "Plan placement of global catalog (gc)",
+          "Plan and configure dns changes required for exchange",
+          "Plan for schema changes required for exchange",
+          "Prepare ad for exchange",
+          "Prepare domains for exchange",
+          "Plan and configure active directory site topology",
+          "Plan and configure variant configuration",
+          "Plan and configure throttling"
+        ]
+      },
+      {
+        "label": "Create and configure mail-enabled objects",
+        "items": [
+          "Create and configure mailboxes, create and configure resource mailboxes and scheduling, create and configure shared mailboxes, create and configure mail-enabled users and contacts, create and configure distribution lists, configure moderation, create and configure linked mailboxes, create and configure modern public folders"
+        ]
+      },
+      {
+        "label": "Manage mail-enabled object permissions",
+        "items": [
+          "Determine when to use send-as and send-on-behalf permissions, configure mailbox folder permissions, configure mailbox permissions, set up room mailbox delegates, configure auto-mapping, create and configure public folder permissions"
+        ]
+      },
+      {
+        "label": "Plan, deploy, manage, and troubleshoot Role Based Access Control (RBAC)",
+        "items": [
+          "Determine appropriate rbac roles and cmdlets, limit administration using existing role groups, evaluate differences between rbac and active directory split permissions, plan and configure a custom-scoped role group, plan and configure delegated setup, plan and create unscoped top-level roles, troubleshoot rbac, plan and configure user assignment policies"
+        ]
+      },
+      {
+        "label": "Plan an appropriate security strategy",
+        "items": [
+          "Plan and configure bitlocker",
+          "Plan and configure s/mime"
+        ]
+      },
+      {
+        "label": "Plan, deploy, manage, and troubleshoot IRM with Active Directory Rights Management Services (AD RMS) or Azure RMS",
+        "items": [
+          "Plan and configure information rights management (irm) in exchange, create an rms template, plan and create transport protection rules, plan and create outlook protection rules, plan and configure journal report decryption, plan and configure irm for ediscovery, plan and configure pre-licensing for client access, troubleshoot failed irm protection"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan, Deploy, and Manage Compliance, Archiving, eDiscovery, and Auditing (10-15%)",
+    "skills": [
+      {
+        "label": "Plan and configure Data Loss Prevention (DLP) solutions",
+        "items": [
+          "Plan a dlp solution to meet business requirements, plan and configure pre-built rules, plan and create custom rules, plan and configure custom dlp policies, plan and configure dlp fingerprinting"
+        ]
+      },
+      {
+        "label": "Plan, configure, and manage Archiving and Message Records Management (MRM)",
+        "items": [
+          "Plan and configure retention policies",
+          "Plan, create, and configure custom tags",
+          "Assign policies to users",
+          "Plan and configure the managed folder assistant",
+          "Remove and delete tags",
+          "Plan and configure online archiving (office 365)",
+          "Plan and create archive policies",
+          "Plan and configure in-place archiving"
+        ]
+      },
+      {
+        "label": "Plan, configure, and perform eDiscovery",
+        "items": [
+          "Plan and delegate rbac roles for ediscovery",
+          "Enable a legal/litigation hold",
+          "Perform a query-based inplace hold",
+          "Perform multi-mailbox searches in exchange administration center (eac) and exchange management shell",
+          "Integrate inplace federated searches with microsoft sharepoint discovery center"
+        ]
+      },
+      {
+        "label": "Plan, configure, and manage a compliance solution",
+        "items": [
+          "Plan and configure mailtips",
+          "Plan, create, configure, and deploy message classifications",
+          "Plan and configure transport rules to meet specified compliance requirements",
+          "Plan and configure journaling"
+        ]
+      },
+      {
+        "label": "Plan, manage, and use mailbox and administrative auditing",
+        "items": [
+          "Plan and configure mailbox audit logging, plan and configure administrative audit logging, search and interpret all audit logs"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and Manage Coexistence, Hybrid Scenarios, Migration, and Federation (10-15%)",
+    "skills": [
+      {
+        "label": "Plan, deploy, and troubleshoot coexistence with Office 365 (Exchange Online)",
+        "items": [
+          "Plan, deploy, and manage hybrid configuration",
+          "Evaluate limitations of the hybrid configuration wizard",
+          "Plan and manage hybrid deployment oauth-based authentication",
+          "Plan and configure certificate and firewall requirements for exchange hybrid setup",
+          "Troubleshoot transport with exchange online",
+          "Troubleshoot client access with exchange online",
+          "Troubleshoot directory synchronization"
+        ]
+      },
+      {
+        "label": "Plan, deploy, manage, and troubleshoot Exchange federation",
+        "items": [
+          "Plan, create, and manage federation trusts with microsoft federation gateways",
+          "Manage sharing policies",
+          "Manage organization relationships",
+          "Plan and create certificate and firewall requirements for federation",
+          "Troubleshoot exchange federation trust and organization relationships",
+          "Troubleshoot cross-forest availability"
+        ]
+      },
+      {
+        "label": "Plan, deploy, and troubleshoot on-premises coexistence with earlier supported versions of Exchange",
+        "items": [
+          "Plan, create, and configure namespaces for coexistence",
+          "Plan and configure proxy redirect",
+          "Plan firewall configuration for coexistence",
+          "Plan and configure for mail flow requirements",
+          "Plan for mailbox migrations",
+          "Troubleshoot transport in coexistence",
+          "Troubleshoot client access in coexistence"
+        ]
+      },
+      {
+        "label": "Migrate from earlier supported versions of Exchange",
+        "items": [
+          "Determine transition paths to exchange, migrate to modern public folders, migrate mailboxes, plan for discontinued features, transition and decommission servers, troubleshoot mailbox replication services"
+        ]
+      }
+    ]
+  }
+]

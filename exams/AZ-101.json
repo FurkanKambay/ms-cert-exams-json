@@ -1,0 +1,146 @@
+[
+  {
+    "label": "Evaluate and perform server migration to Azure (15-20%)",
+    "skills": [
+      {
+        "label": "Evaluate migration scenarios by using Azure Migrate",
+        "items": [
+          "May include but not limited to: discover and assess environment",
+          "Identify workloads that can and cannot be deployed",
+          "Identify ports to open",
+          "Identify changes to network",
+          "Identify if target environment is supported",
+          "Setup domain accounts and credentials"
+        ]
+      },
+      {
+        "label": "Migrate servers to Azure",
+        "items": [
+          "May include but not limited to: migrate by using azure site recovery (asr)",
+          "Migrate using p2v",
+          "Configure storage",
+          "Create a backup vault",
+          "Prepare source and target environments",
+          "Backup and restore data",
+          "Deploy azure site recovery (asr) agent",
+          "Prepare virtual network"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and manage application services (20-25%)",
+    "skills": [
+      {
+        "label": "Configure serverless computing",
+        "items": [
+          "May include but not limited to: manage a logic app resource",
+          "Manage azure function app settings",
+          "Manage event grid",
+          "Manage service bus"
+        ]
+      },
+      {
+        "label": "Manage App Service plans",
+        "items": [
+          "May include but not limited to: configure application for scaling",
+          "Enable monitoring and diagnostics",
+          "Configure app service plans"
+        ]
+      },
+      {
+        "label": "Manage App services",
+        "items": [
+          "May include but not limited to: assign ssl certificates",
+          "Configure application settings",
+          "Configure deployment slots",
+          "Configure azure content delivery network (cdn) integration",
+          "Manage app service protection",
+          "Manage roles for an app service",
+          "Create and manage app service environment"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement advanced virtual networking (30-35%)",
+    "skills": [
+      {
+        "label": "Implement application load balancing",
+        "items": [
+          "May include but not limited to: configure application gateway and load balancing rules",
+          "Implement front end ip configurations",
+          "Manage application load balancing"
+        ]
+      },
+      {
+        "label": "Implement Azure load balancer",
+        "items": [
+          "May include but not limited to: configure internal load balancer, load balancing rules, and public load balancer",
+          "Manage azure load balancing"
+        ]
+      },
+      {
+        "label": "Monitor and manage networking",
+        "items": [
+          "May include but not limited to: monitor on-premises connectivity",
+          "Use network resource monitoring and network watcher",
+          "Manage external networking and virtual network connectivity"
+        ]
+      },
+      {
+        "label": "Integrate on premises network with Azure virtual network",
+        "items": [
+          "May include but not limited to: create and configure azure vpn gateway",
+          "Create and configure site to site vpn",
+          "Configure express route",
+          "Verify on premises connectivity",
+          "Manage on-premise connectivity with azure"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Secure identities (25-30%)",
+    "skills": [
+      {
+        "label": "Implement Multi-Factor Authentication (MFA)",
+        "items": [
+          "May include but not limited to: enable mfa for an azure tenant",
+          "Configure user accounts for mfa",
+          "Configure fraud alerts",
+          "Configure bypass options",
+          "Configure trusted ips",
+          "Configure verification methods",
+          "Manage role-based access control (rbac)",
+          "Implement rbac policies",
+          "Assign rbac roles",
+          "Create a custom role",
+          "Configure access to azure resources by assigning roles",
+          "Configure management access to azure"
+        ]
+      },
+      {
+        "label": "Manage role-based access control (RBAC)",
+        "items": [
+          "May include but not limited to: create a custom role",
+          "Configure access to azure resources by assigning roles",
+          "Configure management access to azure",
+          "Troubleshoot rbac",
+          "Implement rbac policies",
+          "Assign rbac roles"
+        ]
+      },
+      {
+        "label": "Implement Azure Active Director (AD) Privileged Identity Management (PIM)",
+        "items": [
+          "May include but not limited to: activate a pim role",
+          "Configure just-in-time access, permanent access, pim management access, and time-bound access",
+          "Create a delegated approver account",
+          "Enable pim",
+          "Process pending approval requests"
+        ]
+      }
+    ]
+  }
+]

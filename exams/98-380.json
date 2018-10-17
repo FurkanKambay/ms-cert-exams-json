@@ -1,0 +1,158 @@
+[
+  {
+    "label": "Apply Strategies to Solve Computational Problems (15-20%)",
+    "skills": [
+      {
+        "label": "Identify basic algorithmic steps to solve simple problems",
+        "items": [
+          "Decompose simple problems into steps, sequence processes in the appropriate order, describe storyboards, resolve challenges and errors related to logic or pseudocode"
+        ]
+      },
+      {
+        "label": "Decompose a computational problem into sub-problems",
+        "items": [
+          "Describe computer programs that use logical subdivisions, describe solutions that use programmable strategies such as objects, functions, and parameters in the pseudo code provided, identify situations when code can be reviewed"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design Algorithms (25-30%)",
+    "skills": [
+      {
+        "label": "Create Algorithms",
+        "items": [
+          "Differentiate problems as easy or hard for computers to solve, apply the concept of iteration, create simple algorithms"
+        ]
+      },
+      {
+        "label": "Analyze game play to identify the algorithmic sequences",
+        "items": [
+          "Analyze a game and create a sequence of instructions for playing it, identify an event, create the code for an event in block-based editors, explain the “on every frame” code and event handlers"
+        ]
+      },
+      {
+        "label": "Create and analyze algorithms used to implement animation and movement in code",
+        "items": [
+          "Describe animation that uses a series of individual frames, resolve errors in algorithms, create algorithms that can be translated into pseudocode or block-based code, use code to command items on the screen or device"
+        ]
+      },
+      {
+        "label": "Explain sequence, selection, and iteration",
+        "items": [
+          "Define loops, identify the control variable, predict the output of loop, random number, and control variable constructs, identify conditional statements",
+          "Choose the appropriate boolean logic for specific results"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Work with Data Representation in Block-Based Programming Languages (15-20%)",
+    "skills": [
+      {
+        "label": "Represent data in text, sounds, pictures, and numbers",
+        "items": [
+          "Create code to add and position objects, such as sprites on a screen or device, identify data examples as text, sound, pictures, or numbers, change the parameters of “set frame grid” to work with different sprite sheets, explain the role of cloud variables, explain the impact of variable scope, including cloud variables, global variables, and local or temporary variables, design, create, and populate a table or two-dimensional array, describe multiple uses for data"
+        ]
+      },
+      {
+        "label": "Employ simple data structures to solve computational problems",
+        "items": [
+          "Declare and use variables in a program, use input and variables to calculate new information, describe arrays, lists, and collections, explain the differences between variables and arrays"
+        ]
+      },
+      {
+        "label": "Describe how data is accessed in apps and games",
+        "items": [
+          "Distinguish among variable data types, add, remove, and insert elements in a collection, iterate through collections using for loops and for-each loops, describe how random numbers are used"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Solve Computational Problems by Using Modeling and Simulation (5-10%)",
+    "skills": [
+      {
+        "label": "Solve computational problems by using computer and non-computer methods",
+        "items": [
+          "Use algorithms and boolean logic, use games and apps to simulate practical tasks such as converting currencies"
+        ]
+      },
+      {
+        "label": "Represent events observed in the physical world by coding simulation and modeling programs",
+        "items": [
+          "Create programs and apps that mimic random occurrences, create programs and apps that demonstrate fundamentals of physics such as gravity, acceleration, and bounce"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Code Programs in Block-Based Programming (15-20%)",
+    "skills": [
+      {
+        "label": "Implement solutions using code",
+        "items": [
+          "Identify the basic coding elements of the programming environment, create code for conditional statements, create conditional statements using and, or, and not, create loops, use counting variables"
+        ]
+      },
+      {
+        "label": "Use libraries and built-in functions to facilitate programming solutions",
+        "items": [
+          "Code by using ready-made functions related to objects including the game board, wall, obstacle, sprite, string, textbox, collection, and turtle"
+        ]
+      },
+      {
+        "label": "Make connections between elements of mathematics and computer science",
+        "items": [
+          "Plot points on a gaming coordinate system, analyze a game to discover how random numbers are used, use the random range function to generate random numbers, evaluate random numbers by using conditionals"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Assess Personal Security in Internet Communications (5-10%)",
+    "skills": [
+      {
+        "label": "Explain the basic components of Internet communication",
+        "items": [
+          "Explain how information travels across the internet, define cloud computing, describe the internet of things, describe the roles of cloud computing and cloud storage and their uses"
+        ]
+      },
+      {
+        "label": "Explain the principles of security",
+        "items": [
+          "Describe how personal information can be used in inappropriate ways, describe how to prevent someone from gaining access to an online account, describe steps that websites take to keep passwords secure, describe the caesar cipher"
+        ]
+      },
+      {
+        "label": "Implement encryption and authentication strategies",
+        "items": [
+          "Encode and decode messages using unicode, evaluate passwords based on security criteria, describe how hashed passwords enhance internet security"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Examine the Software Development Process (5-10%)",
+    "skills": [
+      {
+        "label": "Plan and create programs",
+        "items": [
+          "Analyze problems in relation to your audience and identify which apps or games can be part of the solution and how they can be used, describe user-experience principles, gather user input, use code or text to create instructions for using a program"
+        ]
+      },
+      {
+        "label": "Describe software development processes used to solve problems",
+        "items": [
+          "Plan project tasks and delegate responsibilities, describe a cycle of create, evaluate, and revise"
+        ]
+      },
+      {
+        "label": "Analyze and evaluate completed programs",
+        "items": [
+          "Evaluate for readability and usability, give and receive feedback, evaluate feedback and revise the program accordingly"
+        ]
+      }
+    ]
+  }
+]

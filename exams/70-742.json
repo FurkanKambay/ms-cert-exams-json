@@ -1,0 +1,232 @@
+[
+  {
+    "label": "Install and Configure Active Directory Domain Services (AD DS) (20-25%)",
+    "skills": [
+      {
+        "label": "Install and configure domain controllers",
+        "items": [
+          "This objective may include but is not limited to: install a new forest",
+          "Add or remove a domain controller from a domain",
+          "Upgrade a domain controller",
+          "Install ad ds on a server core installation",
+          "Install a domain controller from install from media (ifm)",
+          "Resolve dns srv record registration issues",
+          "Configure a global catalog server",
+          "Transfer and seize operations master roles",
+          "Install and configure a read-only domain controller (rodc)",
+          "Configure domain controller cloning"
+        ]
+      },
+      {
+        "label": "Create and manage Active Directory users and computers",
+        "items": [
+          "This objective may include but is not limited to: automate the creation of active directory accounts",
+          "Create, copy, configure, and delete users and computers",
+          "Configure templates",
+          "Perform bulk active directory operations",
+          "Configure user rights",
+          "Implement offline domain join",
+          "Manage inactive and disabled accounts",
+          "Automate unlocking of disabled accounts",
+          "Automate password resets"
+        ]
+      },
+      {
+        "label": "Create and manage Active Directory groups and organizational units (OUs)",
+        "items": [
+          "This objective may include but is not limited to: configure group nesting",
+          "Convert groups, including security, distribution, universal, domain local, and global",
+          "Manage group membership using group policy",
+          "Enumerate group membership",
+          "Automate group membership management using windows powershell",
+          "Delegate the creation and management of active directory groups and ous",
+          "Manage default active directory containers",
+          "Create, copy, configure, and delete groups and ous."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and Maintain AD DS (15-20%)",
+    "skills": [
+      {
+        "label": "Configure service authentication and account policies",
+        "items": [
+          "This objective may include but is not limited to: create and configure service accounts",
+          "Create and configure group managed service accounts (gmsas)",
+          "Configure kerberos constrained delegation (kcd)",
+          "Manage service principal names (spns)",
+          "Configure virtual accounts",
+          "Configure domain and local user password policy settings",
+          "Configure and apply password settings objects (psos)",
+          "Delegate password settings management",
+          "Configure account lockout policy settings",
+          "Configure kerberos policy settings within group policy, configure authentication policies and authentication policy silos"
+        ]
+      },
+      {
+        "label": "Maintain Active Directory",
+        "items": [
+          "This objective may include but is not limited to: back up active directory and sysvol",
+          "Manage active directory offline",
+          "Perform offline defragmentation of an active directory database",
+          "Clean up metadata",
+          "Configure active directory snapshots",
+          "Perform object- and container-level recovery",
+          "Perform active directory restore",
+          "Configure and restore objects by using the active directory recycle bin",
+          "Configure replication to read-only domain controllers (rodcs)",
+          "Configure password replication policy (prp) for rodc",
+          "Monitor and manage replication",
+          "Upgrade sysvol replication to distributed file system replication (dfsr)"
+        ]
+      },
+      {
+        "label": "Configure Active Directory in a complex enterprise environment",
+        "items": [
+          "This objective may include but is not limited to: configure a multi-domain and multi-forest active directory infrastructure",
+          "Deploy windows server 2016 domain controllers within a preexisting active directory environment",
+          "Upgrade existing domains and forests",
+          "Configure domain and forest functional levels",
+          "Configure multiple user principal name (upn) suffixes",
+          "Configure external, forest, shortcut, and realm trusts",
+          "Configure trust authentication",
+          "Configure sid filtering",
+          "Configure name suffix routing",
+          "Configure sites and subnets",
+          "Create and configure site links",
+          "Manage site coverage",
+          "Manage registration of srv records",
+          "Move domain controllers between sites"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and Manage Group Policy (25-30%)",
+    "skills": [
+      {
+        "label": "Create and manage Group Policy Objects (GPOs)",
+        "items": [
+          "This objective may include but is not limited to: configure a central store",
+          "Manage starter gpos",
+          "Configure gpo links",
+          "Configure multiple local group policies",
+          "Back up, import, copy, and restore gpos",
+          "Create and configure a migration table",
+          "Reset default gpos",
+          "Delegate group policy management",
+          "Detect health issues using the group policy infrastructure status page"
+        ]
+      },
+      {
+        "label": "Configure Group Policy processing",
+        "items": [
+          "This objective may include but is not limited to: configure processing order and precedence",
+          "Configure blocking of inheritance",
+          "Configure enforced policies",
+          "Configure security filtering and windows management instrumentation (wmi) filtering",
+          "Configure loopback processing",
+          "Configure and manage slow-link processing and group policy caching",
+          "Configure client-side extension (cse) behavior",
+          "Force a group policy update"
+        ]
+      },
+      {
+        "label": "Configure Group Policy settings",
+        "items": [
+          "This objective may include but is not limited to: configure software installation",
+          "Configure folder redirection",
+          "Configure scripts",
+          "Configure administrative templates",
+          "Import security templates",
+          "Import a custom administrative template file",
+          "Configure filtering for administrative template"
+        ]
+      },
+      {
+        "label": "Configure Group Policy preferences",
+        "items": [
+          "This objective may include but is not limited to: configure printer preferences",
+          "Define network drive mappings",
+          "Configure power options",
+          "Configure custom registry settings",
+          "Configure control panel settings",
+          "Configure internet explorer settings",
+          "Configure file and folder deployment",
+          "Configure shortcut deployment",
+          "Configure item-level targeting"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Active Directory Certificate Services (AD CS) (10-15%)",
+    "skills": [
+      {
+        "label": "Install and configure AD CS",
+        "items": [
+          "This objective may include but is not limited to: install active directory integrated enterprise certificate authority (ca)",
+          "Install offline root and subordinate cas",
+          "Install standalone cas",
+          "Configure certificate revocation list (crl) distribution points",
+          "Install and configure online responder",
+          "Implement administrative role separation",
+          "Configure ca backup and recovery"
+        ]
+      },
+      {
+        "label": "Manage certificates",
+        "items": [
+          "This objective may include but is not limited to: manage certificate templates",
+          "Implement and manage certificate deployment, validation, and revocation",
+          "Manage certificate renewal",
+          "Manage certificate enrolment and renewal for computers and users using group policies",
+          "Configure and manage key archival and recovery"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Identity Federation and Access Solutions (15-20%)",
+    "skills": [
+      {
+        "label": "Install and configure Active Directory Federation Services (AD FS)",
+        "items": [
+          "This objective may include but is not limited to: upgrade and migrate previous ad fs workloads to windows server 2016",
+          "Implement claims-based authentication, including relying party trusts",
+          "Configure authentication policies",
+          "Configure multi-factor authentication",
+          "Implement and configure device registration",
+          "Integrate ad fs with microsoft passport",
+          "Configure for use with microsoft azure and office 365",
+          "Configure ad fs to enable authentication of users stored in ldap directories"
+        ]
+      },
+      {
+        "label": "Implement Web Application Proxy (WAP)",
+        "items": [
+          "This objective may include but is not limited to: install and configure wap",
+          "Implement wap in pass-through mode",
+          "Implement wap as ad fs proxy",
+          "Integrate wap with ad fs",
+          "Configure ad fs requirements",
+          "Publish web apps via wap",
+          "Publish remote desktop gateway applications",
+          "Configure http to https redirects",
+          "Configure internal and external fully qualified domain names (fqdns)"
+        ]
+      },
+      {
+        "label": "Install and configure Active Directory Rights Management Services (AD RMS)",
+        "items": [
+          "This objective may include but is not limited to: install a licensor certificate ad rms server",
+          "Manage ad rms service connection point (scp)",
+          "Manage ad rms templates",
+          "Configure exclusion policies",
+          "Back up and restore ad rms"
+        ]
+      }
+    ]
+  }
+]

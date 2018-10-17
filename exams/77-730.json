@@ -1,0 +1,135 @@
+[
+  {
+    "label": "Create and manage a database (20-25%)",
+    "skills": [
+      {
+        "label": "Create and modify databases",
+        "items": [
+          "Create a blank desktop database, create a database from a template, create a database by using import objects or data from other sources, delete database objects"
+        ]
+      },
+      {
+        "label": "Manage relationships and keys",
+        "items": [
+          "Create and modify relationships, set the primary key, enforce referential integrity, set foreign keys, view relationships"
+        ]
+      },
+      {
+        "label": "Navigate through a database",
+        "items": [
+          "Navigate specific records, create and modify a navigation form, set a form as the startup option, display objects in the navigation pane, change views of objects"
+        ]
+      },
+      {
+        "label": "Protect and maintain databases",
+        "items": [
+          "Compact a database, repair a database, back up a database, split a database, encrypt a database with a password, recover data from backup"
+        ]
+      },
+      {
+        "label": "Print and export data",
+        "items": [
+          "Print reports, print records, save a database as a template, export objects to alternative formats"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build tables (25-30%)",
+    "skills": [
+      {
+        "label": "Create tables",
+        "items": [
+          "Create a table, import data into tables, create linked tables from external sources, import tables from other databases, create a table from a template with application parts"
+        ]
+      },
+      {
+        "label": "Manage tables",
+        "items": [
+          "Hide fields in tables, add total rows, add table descriptions, rename tables"
+        ]
+      },
+      {
+        "label": "Manage records in tables",
+        "items": [
+          "Update records, add records, delete records, append records from external data, find and replace data, sort records, filter records"
+        ]
+      },
+      {
+        "label": "Create and modify fields",
+        "items": [
+          "Add fields to tables, add validation rules to fields, change field captions, change field sizes, change field data types, configure fields to auto-increment, set default values, using input masks, delete fields"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create queries (20-25%)",
+    "skills": [
+      {
+        "label": "Create a query",
+        "items": [
+          "Run a query, create a crosstab query, create a parameter query, create an action query, create a multi-table query, save a query"
+        ]
+      },
+      {
+        "label": "Modify a query",
+        "items": [
+          "Rename a query, add fields, remove fields, hide fields, sort data within queries, format fields within queries"
+        ]
+      },
+      {
+        "label": "Create calculated fields and grouping within queries",
+        "items": [
+          "Add calculated fields, set filtering criteria, group and summarize data, group data by using comparison operators, group data by using arithmetic and logical operators"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create forms (15-20%)",
+    "skills": [
+      {
+        "label": "Create a form",
+        "items": [
+          "Create a form, create a form from a template with application parts, save a form"
+        ]
+      },
+      {
+        "label": "Configure form controls",
+        "items": [
+          "Move form controls, add form controls, modify data sources, remove form controls, set form control properties, manage labels, add sub-forms"
+        ]
+      },
+      {
+        "label": "Format a form",
+        "items": [
+          "Modify tab order, configure print settings, sort records by form field, apply a theme, control form positioning, insert backgrounds, insert headers and footers, insert images"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create reports (15-20%)",
+    "skills": [
+      {
+        "label": "Create a report",
+        "items": [
+          "Create a report based on the query or table, create a report in design view, create a report by using a wizard"
+        ]
+      },
+      {
+        "label": "Configure report controls",
+        "items": [
+          "Group and sort fields, modify data sources, add report controls, add and modify labels"
+        ]
+      },
+      {
+        "label": "Format a report",
+        "items": [
+          "Format a report into multiple columns, add calculated fields, control report positioning, format report elements, change report orientation, insert header and footer information, insert images, apply a theme"
+        ]
+      }
+    ]
+  }
+]

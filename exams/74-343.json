@@ -1,0 +1,171 @@
+[
+  {
+    "label": "Initialize a project (15–20%)",
+    "skills": [
+      {
+        "label": "Create a new project",
+        "items": [
+          "Create a template from a completed project, create a project from an existing template, existing project, sharepoint task list, or excel workbook"
+        ]
+      },
+      {
+        "label": "Create and maintain calendars",
+        "items": [
+          "Set working or non-working hours and days for calendars, set a base calendar, resource calendar, and hours per day, apply calendars to project, task, and resource levels"
+        ]
+      },
+      {
+        "label": "Create custom fields",
+        "items": [
+          "Create basic formulas, graphical indicator criteria, lookup tables, and task and resource custom fields"
+        ]
+      },
+      {
+        "label": "Customize option settings",
+        "items": [
+          "Set default task types, manual versus auto-scheduling, project options, calendar options, customized ribbon, and quick access toolbar"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create a task-based schedule (20–25%)",
+    "skills": [
+      {
+        "label": "Set up project information",
+        "items": [
+          "Define project start date, apply calendars and current date, enter project properties, display the project summary task on a new project"
+        ]
+      },
+      {
+        "label": "Create and modify a project task structure",
+        "items": [
+          "Create and modify summary tasks and subtasks, rearrange tasks, create milestones, create manually scheduled tasks, outline, set tasks as active or inactive"
+        ]
+      },
+      {
+        "label": "Build a logical schedule model",
+        "items": [
+          "Set date constraints, deadlines, dependencies, links, duration equations, effort-driven tasks, and formulas, choose a task type"
+        ]
+      },
+      {
+        "label": "Create a user-controlled schedule",
+        "items": [
+          "Enter duration, set or change the task mode (manual or auto), display warnings and suggestions, use estimated durations and user-controlled summary tasks"
+        ]
+      },
+      {
+        "label": "Manage multiple projects",
+        "items": [
+          "Create a shared resource pool, connect to a resource pool, create links between projects, resolve conflicts between linked projects, work with master projects and sub-projects, summarize data in master projects"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage resources and assignments (20–25%)",
+    "skills": [
+      {
+        "label": "Enter and edit resource information",
+        "items": [
+          "Enter and edit max units, resource types, resource rate table, cost per use, availability, resource group, generic resources, and cost resources"
+        ]
+      },
+      {
+        "label": "Create and edit resource assignments",
+        "items": [
+          "Use task forms, assign multiple resources, assign resources to tasks using units that represent part-time work, edit assignments"
+        ]
+      },
+      {
+        "label": "Manage resource allocation",
+        "items": [
+          "View task and resource usage, view availability across multiple projects, change assignment information, level, replace resources"
+        ]
+      },
+      {
+        "label": "Manage resource allocations by using Team Planner",
+        "items": [
+          "Display current resource allocations and assignments, manage unassigned tasks, resolve resource conflicts, level resource over-allocations, substitute resources"
+        ]
+      },
+      {
+        "label": "Model project costs",
+        "items": [
+          "Enter and assign resource-based costs (work, material, cost), cost per use, fixed costs, accrual method, apply a resource rate table"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Track and analyze a project (20–25%)",
+    "skills": [
+      {
+        "label": "Set and maintain baselines",
+        "items": [
+          "Use multiple baselines, baseline an entire project, baseline selected tasks, update a baseline"
+        ]
+      },
+      {
+        "label": "Update actual progress",
+        "items": [
+          "Update percentage completion, actual or remaining duration, actual work, remaining work, status date, current date, actual start and actual finish, use actual work and usage views, reschedule uncompleted work, cancel an unneeded task"
+        ]
+      },
+      {
+        "label": "Compare progress against a baseline",
+        "items": [
+          "Use date variance, work variance, cost variance, and task slippage, show variance of the current plan against baseline (tracking gantt), select a view to display variance"
+        ]
+      },
+      {
+        "label": "Resolve potential schedule problems",
+        "items": [
+          "Display warnings, suggestions, and task drivers by using task inspector and task path, identify resource over-allocations"
+        ]
+      },
+      {
+        "label": "Display critical path information",
+        "items": [
+          "View the critical path in single or master projects, view total slack, display progress against baseline or deadlines"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Communicate project information (15–20%)",
+    "skills": [
+      {
+        "label": "Apply and customize views",
+        "items": [
+          "Use auto-filter, apply views, group, filter, highlight, create and manage tables, sort, customize views, share a view with organizer"
+        ]
+      },
+      {
+        "label": "Share data with other applications",
+        "items": [
+          "Import data from excel, export data to excel, attach documents or link hyperlinks to supporting information, copy and paste timeline and reports to other office web apps, create and generate visual reports in excel and visio, export a timeline view to email"
+        ]
+      },
+      {
+        "label": "Configure and display reports and dashboards",
+        "items": [
+          "Report progress status, save to pdf or xps, display gantt information, schedule, or timeline, display data based on date range, create built-in dashboards and reports, change and customize built-in dashboards and reports, copy pictures, work with cumulative fields"
+        ]
+      },
+      {
+        "label": "Connect and share data with SharePoint",
+        "items": [
+          "Sync to sharepoint, share plans and get updates through sharepoint, share project plans through sharepoint (bi-directional sync of tasks, progress, and timeline elements), collect actual progress from a team through sharepoint"
+        ]
+      },
+      {
+        "label": "Extend Project",
+        "items": [
+          "Acquire apps from the office store, save files in onedrive for business, acquire templates from office.com, automate frequent tasks with visual basic for applications (vba)"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "label": "Recommend the appropriate technology solution (60-65%)",
+    "skills": [
+      {
+        "label": "Evaluate the gap between the current and future technology solution",
+        "items": [
+          "Identify the customer's short-term and long-term technology vision",
+          "Identify a solution that would meet the customer requirements",
+          "Choose between on-premises software, online services, or a combination of both."
+        ]
+      },
+      {
+        "label": "Determine the required products and product licensing rights for the customer's on-premises solution",
+        "items": [
+          "Identify product features and functions",
+          "List dependencies",
+          "Recommend editions and versions",
+          "Describe product licensing in both physical and virtual environments",
+          "Recommend activation solutions",
+          "Describe how to acquire software",
+          "Choose the appropriate products, including windows server 2016, system center 2016, sql server 2016, skype for business server 2015, exchange server 2016, sharepoint server 2016, dynamics 365 on-premises server, windows 10, and office 2016."
+        ]
+      },
+      {
+        "label": "Determine the required products and product licensing rights for the customer's Online Services solution",
+        "items": [
+          "Identify product features and functions",
+          "List dependencies",
+          "Recommend plans",
+          "Recommend step-up, from sa, or add-on user software licenses (sls)",
+          "Advise on use of office 365 portal",
+          "Choose the appropriate products, including office 365, enterprise mobility + security, microsoft 365, and dynamics 365."
+        ]
+      },
+      {
+        "label": "Determine the required products and product licensing rights for the customer's Azure solution",
+        "items": [
+          "Identify consumption services and azure plans",
+          "Recommend solutions using the azure hybrid use benefit or license mobility through sa",
+          "Recommend azure enterprise portal and azure management portal to manage resources, consumption and spend."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Recommend the Appropriate Software Assurance Benefits (10-15%)",
+    "skills": [
+      {
+        "label": "Leverage  Software Assurance (SA) benefits for customer solutions",
+        "items": [
+          "Identify benefits such as license mobility across server farms, unlimited virtualization rights, virtual desktop access, and step-up licenses."
+        ]
+      },
+      {
+        "label": "Assist the customer with SA benefit activation",
+        "items": [
+          "Activate and manage training vouchers, home use program, planning services, and 24x7 problem resolution support."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Recommend a licensing solution (20-25%)",
+    "skills": [
+      {
+        "label": "Select the appropriate licensing programs",
+        "items": [
+          "Determine the customer’s software environment, including software deployment plans and strategy for on-premises, cloud or hybrid solutions, current microsoft licensing agreements, geographic scope, budget requirements, payment options, expected growth, and purchasing process",
+          "Recommend programs such as enterprise agreement, enterprise subscription agreement, cloud solution provider (csp), mpsa, and crossover with open and open value programs."
+        ]
+      },
+      {
+        "label": "Identify product licensing rights",
+        "items": [
+          "Choose between oem and volume licensing",
+          "Explain the benefits of volume licensing, including license reassignment, downgrade rights, and reimaging rights."
+        ]
+      }
+    ]
+  }
+]

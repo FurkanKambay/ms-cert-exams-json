@@ -1,0 +1,120 @@
+[
+  {
+    "label": "Manage the Outlook environment for productivity (20-25%)",
+    "skills": [
+      {
+        "label": "Customize settings",
+        "items": [
+          "Customize reply messages, change text formats for all outgoing messages, customize the navigation pane, configure reviews, manage multiple accounts, add an account"
+        ]
+      },
+      {
+        "label": "Print and save information",
+        "items": [
+          "Print message, calendar, contact, or task information",
+          "Save message attachments",
+          "Preview attachments",
+          "Save messages in alternate formats",
+          "Export messages to a data file"
+        ]
+      },
+      {
+        "label": "Perform search operations in Outlook",
+        "items": [
+          "Create new search folders",
+          "Search for items in messages, tasks, contacts, or calendars",
+          "Search by using advanced find",
+          "Search by folder"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage messages (35-40%)",
+    "skills": [
+      {
+        "label": "Configure mail settings",
+        "items": [
+          "Set fonts for new messages and responses",
+          "Create, assign, and modify signatures",
+          "Create and manage rules",
+          "Create automatic replies",
+          "Create messages by using quick parts",
+          "Configure junk email and clutter settings"
+        ]
+      },
+      {
+        "label": "Create messages",
+        "items": [
+          "Create a message",
+          "Add or remove message attachments",
+          "Add cc and bcc to messages",
+          "Add tracking and voting options",
+          "Forward and reply to messages",
+          "Request a delivery or read receipt",
+          "Redirect replies",
+          "Flag outgoing messages for follow up, importance, and sensitivity",
+          "Recall a message"
+        ]
+      },
+      {
+        "label": "Format a message",
+        "items": [
+          "Format text, insert hyperlinks, apply themes and styles, insert messages, add a signature to specific messages"
+        ]
+      },
+      {
+        "label": "Organize and manage messages",
+        "items": [
+          "Sort messages, move messages between folders, add new local folders, apply categories, clean up messages, mark a message as read or unread, flag received messages, ignore messages, sort messages by conversation, delete messages, automate repetitive tasks by using quick steps, configure basic auto archive settings, delegate access"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage schedules (35-40%)",
+    "skills": [
+      {
+        "label": "Create and manage calendars",
+        "items": [
+          "Create and add calendars, adjust viewing details for calendars, modify calendar time zones, delete calendars, set calendar work times, manage multiple calendars, manage calendar groups, display multiple calendars, share calendars"
+        ]
+      },
+      {
+        "label": "Create appointments, meetings, and events",
+        "items": [
+          "Create calendar items, create recurring calendar items, cancel calendar items, create calendar items from messages, set calendar item times, set up meetings by using the scheduling assistant, set free or busy status for calendar items, schedule resources, set up meeting location by using room finder"
+        ]
+      },
+      {
+        "label": "Organize and manage appointments, meetings, and events",
+        "items": [
+          "Set calendar item importance, forward calendar items, configure reminders, add participants, respond to invitations, update individual or recurring calendar items, share meeting notes, categorize calendar items"
+        ]
+      },
+      {
+        "label": "Create and manage notes and tasks",
+        "items": [
+          "Create and manage tasks, create and organize notes"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage contacts and groups (10-15%)",
+    "skills": [
+      {
+        "label": "Create and manage contacts",
+        "items": [
+          "Create a new contact, delete contacts, import contacts from external sources, edit contact information, attach an image to a contact, add tags to contacts, share contacts, create and manage address books"
+        ]
+      },
+      {
+        "label": "Create and manage contact groups",
+        "items": [
+          "Create new contact groups, add contacts to existing contact groups, add notes to a contact group, update contacts within contact groups, delete contact groups, delete contact group members"
+        ]
+      }
+    ]
+  }
+]

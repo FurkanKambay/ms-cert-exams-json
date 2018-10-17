@@ -1,0 +1,177 @@
+[
+  {
+    "label": "Manage the Access environment",
+    "skills": [
+      {
+        "label": "Create and manage a database",
+        "items": [
+          "Use save object as, open, save and publish, compact and repair database, and encrypt with password commands, create a database from a template, and set access options"
+        ]
+      },
+      {
+        "label": "Configure the Navigation pane",
+        "items": [
+          "Rename objects, delete objects, and set navigation options"
+        ]
+      },
+      {
+        "label": "Apply Application Parts",
+        "items": [
+          "Use blank forms, quick start, and user templates"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build tables",
+    "skills": [
+      {
+        "label": "Create tables",
+        "items": [
+          "Create tables in design view"
+        ]
+      },
+      {
+        "label": "Create and modify fields",
+        "items": [
+          "Insert a field, delete a field, rename a field, hide or unhide fields, freeze or unfreeze fields, modify data types, modify the field description, and modify field properties"
+        ]
+      },
+      {
+        "label": "Sort and filter records",
+        "items": [
+          "Use find, sort, and filter commands"
+        ]
+      },
+      {
+        "label": "Set relationships",
+        "items": [
+          "Define primary keys, use primary keys to create relationships, and edit relationships"
+        ]
+      },
+      {
+        "label": "Enter and format text",
+        "items": [
+          "Use text effects",
+          "Change the indentation, alignment, line spacing, and direction of text",
+          "Change the formatting of bulleted and numbered lists",
+          "Enter text in a placeholder text box",
+          "Convert text to smartart",
+          "Copy and paste text",
+          "Use paste special, and use format painter"
+        ]
+      },
+      {
+        "label": "Import data from a single data file",
+        "items": [
+          "Import source data into a new table, append records to an existing table, and import data as a linked table"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build forms",
+    "skills": [
+      {
+        "label": "Create forms",
+        "items": [
+          "Use the form wizard, create a blank form, use form design tools, and create navigation forms"
+        ]
+      },
+      {
+        "label": "Apply Form Design Tab options",
+        "items": [
+          "Use the themes, controls, header/footer, and tools groups"
+        ]
+      },
+      {
+        "label": "Apply Form Arrange Tab options",
+        "items": [
+          "Use the table, move, and position groups"
+        ]
+      },
+      {
+        "label": "Apply Form Format Tab options",
+        "items": [
+          "Use the background and control formatting groups"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and manage queries",
+    "skills": [
+      {
+        "label": "Construct queries",
+        "items": [
+          "Use select, make table, append, and crosstab query types"
+        ]
+      },
+      {
+        "label": "Manage source tables and relationships",
+        "items": [
+          "Use the show table and remove table commands, and create ad hoc relationships"
+        ]
+      },
+      {
+        "label": "Manipulate fields",
+        "items": [
+          "Add, remove, and rearrange fields, and use sort and show options"
+        ]
+      },
+      {
+        "label": "Calculate totals",
+        "items": [
+          "Use the total row, and use group by"
+        ]
+      },
+      {
+        "label": "Generate calculated fields",
+        "items": [
+          "Perform calculations, use the zoom box, and use expression builder"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design reports",
+    "skills": [
+      {
+        "label": "Create reports",
+        "items": [
+          "Create a blank report, use report design tools, and use the report wizard"
+        ]
+      },
+      {
+        "label": "Apply Report Design Tab options",
+        "items": [
+          "Use the themes, grouping & totals, controls, header/footer, and tools groups"
+        ]
+      },
+      {
+        "label": "Apply Report Arrange Tab options",
+        "items": [
+          "Use the table, move, position, and sizing & ordering groups"
+        ]
+      },
+      {
+        "label": "Apply Report Format Tab options",
+        "items": [
+          "Add color, background images, and conditional formatting"
+        ]
+      },
+      {
+        "label": "Apply Report Page Setup Tab options",
+        "items": [
+          "This objective may include, but is not limited to, using the page size and page layout groups"
+        ]
+      },
+      {
+        "label": "Sort and filter records for reporting",
+        "items": [
+          "Use the find, sort, and filter commands, and use view types"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "label": "Plan and design Skype for Business with Enterprise Voice (30-35%)",
+    "skills": [
+      {
+        "label": "Design Enterprise Voice topology",
+        "items": [
+          "Design mediation server collocation or placement, gateways, trunks, voice resiliency, mediation server dependencies, voice usage and traffic, dns, and phone configuration"
+        ]
+      },
+      {
+        "label": "Design call routing and Public Switched Telephone Network (PSTN) connectivity",
+        "items": [
+          "Design dial plans, routes, including location-based routing, normalization, voice policies, basic emergency dialing and notification, pstn usage, and trunk configuration",
+          "Design for call via work",
+          "Define sip trunk capacity requirements",
+          "Design multiple media gateway support, trunk configuration",
+          "Define outbound translation rules, inbound dial plan",
+          "Qualify technology options from ucoip"
+        ]
+      },
+      {
+        "label": "Design voice applications",
+        "items": [
+          "Design call park, response group, delegation model, response group workflows",
+          "Design private line and vacant number announcements"
+        ]
+      },
+      {
+        "label": "Design unified messaging (UM)",
+        "items": [
+          "Design um dial plans, normalization rules, um auto-attendant, subscriber access, um outbound dialing, and um placement and capacity for on-premises and online"
+        ]
+      },
+      {
+        "label": "Plan for network readiness and optimization",
+        "items": [
+          "Assess network requirements including multiprotocol label switching (mpls), virtual private network (vpn), multiple mpls providers including expressroute providers, asymmetric links, point-to-point wireless, internal nat, tcp vs. udp, and signaling vs. media traffic",
+          "Plan for optimal conferencing traffic, capacity, edge placement, assess qos readiness including traffic policing and traffic shaping impact on rtc, dscp, port based, scavenger class, best effort traffic class, and separate/converged networks",
+          "Estimate network usage",
+          "Analyze media scenarios for conference, peer-to-peer, pstn, and capture traces for max jitter, average jitter, peak consecutive packet loss, average packet loss, and one-way network delay"
+        ]
+      },
+      {
+        "label": "Design network services for Enterprise Voice",
+        "items": [
+          "Design location information services (lis) and call admission control (cac)",
+          "Plan for media bypass",
+          "Design for qos including port requirements for internal and external services",
+          "Design and forecast network needs for sizing expressroute"
+        ]
+      },
+      {
+        "label": "Model and analyze Skype for Business traffic per site",
+        "items": [
+          "Predict and calculate service needs and growth, compare how different personas impact network requirements, and calibrate usage models based on customer usage and business requirements, including web, audio and video conferencing, pstn, and peer-to peer calls",
+          "Adjust business requirements, adjust network components (topology, capacity), and limit traffic volume or modify solution design",
+          "Calculate traffic volume by using the skype for business bandwidth calculator for branch traffic, central site traffic, and remote user traffic"
+        ]
+      },
+      {
+        "label": "Analyze policies and historical data network usage",
+        "items": [
+          "Analyze service level agreements (slas) on network infrastructure, analyze impact of security policies, including firewalls, vpn tunnels, remote access, direct access, nat, and private vlans, and assess appropriateness of current qos policies for skype for business, average usage, peak usage, average drop, and peak packet loss",
+          "Analyze historical call quality data",
+          "Analyze bandwidth requirements for skype for business online"
+        ]
+      },
+      {
+        "label": "Plan and analyze simulation traffic results, and make recommendations",
+        "items": [
+          "Design site traffic generator endpoint placement/location, design site traffic generator transaction path, and design site traffic generator transaction volume per path",
+          "Interpret baseline network characteristics and any variations, analyze simulation results in the context of a network (topology, qos)",
+          "Recommend network reconfigurations, recommend modifications for qos approach, and explain impact of observed network characteristics, including latency, packet loss, jitter, and bandwidth usage"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deploy and configure Enterprise Voice (30-35%)",
+    "skills": [
+      {
+        "label": "Configure network services for Enterprise Voice",
+        "items": [
+          "Configure location information services (lis), call admission control (cac) for voice, call admission control (cac) for video, dhcp for phone edition, qos, and media bypass",
+          "Configure expressroute for office 365"
+        ]
+      },
+      {
+        "label": "Configure voice applications",
+        "items": [
+          "Configure call park, response group workflows, response group queues, private line, and vacant number announcements, configure delegation",
+          "Configure and enable pstn conferencing with acp, cloud pbx, pstn calling, hybrid voice infrastructure",
+          "Port phone numbers to microsoft as the carrier",
+          "Configure users with cloud phone numbers"
+        ]
+      },
+      {
+        "label": "Configure call routing",
+        "items": [
+          "Configure dial plans, routes, and trunks",
+          "Apply voice policies, pstn usages, and emergency dialing",
+          "Call via work"
+        ]
+      },
+      {
+        "label": "Configure unified messaging (UM) for Skype for Business and Cloud Voicemail",
+        "items": [
+          "Configure um dial plans, the normalization rules, um auto-attendant, subscriber access, and call answering rules",
+          "Configure dns records",
+          "Configure edge server for integration with office 365",
+          "Manage and assign hosted voice mail policies",
+          "Enable users for hosted voice mail",
+          "Create contact objects for hosted voice mail",
+          "Configure skype for business online enterprise voice users to have cloud voicemail"
+        ]
+      },
+      {
+        "label": "Configure Enterprise Voice client features",
+        "items": [
+          "Configure delegation, simultaneous ring, team calling, and group call pickup, shared line appearance, call via work"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and troubleshoot Enterprise Voice (30-35%)",
+    "skills": [
+      {
+        "label": "Troubleshoot call setup and teardown",
+        "items": [
+          "Troubleshoot skype for business server and skype for business online internal phone calls (pc to pc), external phone calls (pc to public switched telephone network [pstn]), inbound and outbound routing, network configuration, and internal and external clients",
+          "Call via work"
+        ]
+      },
+      {
+        "label": "Troubleshoot Enterprise Voice quality issues",
+        "items": [
+          "Analyze call detail recording/ quality of experience (cdr/qoe) logs, analyze call flow by using snooper, analyze call data quality using call quality methodology (cqm), troubleshoot third-party devices, qos, and network bandwidth",
+          "Analyze rate my call results",
+          "Analyze and troubleshoot issues with skype for business online enterprise voice users"
+        ]
+      },
+      {
+        "label": "Troubleshoot Enterprise Voice configuration",
+        "items": [
+          "Analyze dial plans (normalization, translation), analyze session management (trunk routing)",
+          "Analyze policies, routes, and usages",
+          "Troubleshoot external connectivity (gateways, sba, pbx, sbc, pstn) and media bypass",
+          "Call admission control (cac)",
+          "Call via work",
+          "Troubleshoot delegation, simultaneous ring, team calling, and group call pickup",
+          "Number porting"
+        ]
+      },
+      {
+        "label": "Troubleshoot and analyze Enterprise Voice applications",
+        "items": [
+          "Troubleshoot call park, response groups, unassigned numbers, exchange voicemail, and lis and emergency calling implementation"
+        ]
+      },
+      {
+        "label": "Troubleshoot universal communications (UC) devices and peripherals",
+        "items": [
+          "Troubleshoot device update issues, device connectivity issues (lpe + 3pip), pin authentication issues, peripherals, and vdi plug-in device pairing"
+        ]
+      },
+      {
+        "label": "Monitor and manage Skype for Business",
+        "items": [
+          "Monitor call quality dashboard, monitoring server reports, qoe, synthetic transactions, and server health",
+          "Monitor rate my call results"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "label": "Determine Workload Requirements (10-15%)",
+    "skills": [
+      {
+        "label": "Gather Information and Requirements",
+        "items": [
+          "May include but not limited to: identify compliance requirements, identity and access management infrastructure, and service-oriented architectures (e.g., integration patterns, service design, service discoverability)",
+          "Identify accessibility (e.g. web content accessibility guidelines), availability (e.g. service level agreement), capacity planning and scalability, deploy-ability (e.g., repositories, failback, slot-based deployment), configurability, governance, maintainability (e.g. logging, debugging, troubleshooting, recovery, training), security (e.g. authentication, authorization, attacks), and sizing (e.g. support costs, optimization) requirements",
+          "Recommend changes during project execution (ongoing)",
+          "Evaluate products and services to align with solution",
+          "Create testing scenarios"
+        ]
+      },
+      {
+        "label": "Optimize Consumption Strategy",
+        "items": [
+          "May include but not limited to: optimize app service, compute, identity, network, and storage costs"
+        ]
+      },
+      {
+        "label": "Design an Auditing and Monitoring Strategy",
+        "items": [
+          "May include but not limited to: define logical groupings (tags) for resources to be monitored",
+          "Determine levels and storage locations for logs",
+          "Plan for integration with monitoring tools",
+          "Recommend appropriate monitoring tool(s) for a solution",
+          "Specify mechanism for event routing and escalation",
+          "Design auditing for compliance requirements",
+          "Design auditing policies and traceability requirements"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design for Identity and Security (20-25%)",
+    "skills": [
+      {
+        "label": "Design Identity Management",
+        "items": [
+          "May include but not limited to: choose an identity management approach",
+          "Design an identity delegation strategy, identity repository (including directory, application, systems, etc.)",
+          "Design self-service identity management and user and persona provisioning",
+          "Define personas and roles",
+          "Recommend appropriate access control strategy (e.g., attribute-based, discretionary access, history-based, identity-based, mandatory, organization-based, role-based, rule-based, responsibility-based)"
+        ]
+      },
+      {
+        "label": "Design Authentication",
+        "items": [
+          "May include but not limited to: choose an authentication approach",
+          "Design a single-sign on approach",
+          "Design for ipsec, logon, multi-factor, network access, and remote authentication"
+        ]
+      },
+      {
+        "label": "Design Authorization",
+        "items": [
+          "May include but not limited to: choose an authorization approach",
+          "Define access permissions and privileges",
+          "Design secure delegated access (e.g., oauth, openid, etc.)",
+          "Recommend when and how to use api keys."
+        ]
+      },
+      {
+        "label": "Design for Risk Prevention for Identity",
+        "items": [
+          "May include but not limited to: design a risk assessment strategy (e.g., access reviews, rbac policies, physical access)",
+          "Evaluate agreements involving services or products from vendors and contractors",
+          "Update solution design to address and mitigate changes to existing security policies, standards, guidelines and procedures"
+        ]
+      },
+      {
+        "label": "Design a Monitoring Strategy for Identity and Security",
+        "items": [
+          "May include but not limited to: design for alert notifications",
+          "Design an alert and metrics strategy",
+          "Recommend authentication monitors"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design a Data Platform Solution (15-20%)",
+    "skills": [
+      {
+        "label": "Design a Data Management Strategy",
+        "items": [
+          "May include but not limited to: choose between managed and unmanaged data store",
+          "Choose between relational and non-relational databases",
+          "Design data auditing and caching strategies",
+          "Identify data attributes (e.g., relevancy, structure, frequency, size, durability, etc.)",
+          "Recommend database transaction unit (dtu) sizing",
+          "Design a data retention policy",
+          "Design for data availability, consistency, and durability",
+          "Design a data warehouse strategy"
+        ]
+      },
+      {
+        "label": "Design a Data Protection Strategy",
+        "items": [
+          "May include but not limited to: recommend geographic data storage",
+          "Design an encryption strategy for data at rest, for data in transmission, and for data in use",
+          "Design a scalability strategy for data",
+          "Design secure access to data",
+          "Design a data loss prevention (dlp) policy"
+        ]
+      },
+      {
+        "label": "Design and Document Data Flows",
+        "items": [
+          "May include but not limited to: identify data flow requirements",
+          "Create a data flow diagram",
+          "Design a data flow to meet business requirements",
+          "Design a data import and export strategy"
+        ]
+      },
+      {
+        "label": "Design a Monitoring Strategy for the Data Platform",
+        "items": [
+          "May include but not limited to: design for alert notifications",
+          "Design an alert and metrics strategy"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design a Business Continuity Strategy (15-20%)",
+    "skills": [
+      {
+        "label": "Design a Site Recovery Strategy",
+        "items": [
+          "May include but not limited to: design a recovery solution",
+          "Design a site recovery replication policy",
+          "Design for site recovery capacity and for storage replication",
+          "Design site failover and failback (planned/unplanned)",
+          "Design the site recovery network",
+          "Recommend recovery objectives (e.g., azure, on-prem, hybrid, recovery time objective (rto), recovery level objective (rlo), recovery point objective (rpo))",
+          "Identify resources that require site recovery",
+          "Identify supported and unsupported workloads",
+          "Recommend a geographical distribution strategy"
+        ]
+      },
+      {
+        "label": "Design for High Availability",
+        "items": [
+          "May include but not limited to: design for application redundancy, autoscaling, data center and fault domain redundancy, and network redundancy",
+          "Identify resources that require high availability",
+          "Identify storage types for high availability"
+        ]
+      },
+      {
+        "label": "Design a disaster recovery strategy for individual workloads",
+        "items": [
+          "May include but not limited to: design failover/failback scenario(s)",
+          "Document recovery requirements",
+          "Identify resources that require backup",
+          "Recommend a geographic availability strategy"
+        ]
+      },
+      {
+        "label": "Design a Data Archiving Strategy",
+        "items": [
+          "May include but not limited to: recommend storage types and methodology for data archiving",
+          "Identify requirements for data archiving and business compliance requirements for data archiving",
+          "Identify sla(s) for data archiving"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design for Deployment, Migration, and Integration (10-15%)",
+    "skills": [
+      {
+        "label": "Design Deployments",
+        "items": [
+          "May include but not limited to: design a compute, container, data platform, messaging solution, storage, and web app and service deployment strategy"
+        ]
+      },
+      {
+        "label": "Design Migrations",
+        "items": [
+          "May include but not limited to: recommend a migration strategy",
+          "Design data import/export strategies during migration",
+          "Determine the appropriate application migration, data transfer, and network connectivity method",
+          "Determine migration scope, including redundant, related, trivial, and outdated data",
+          "Determine application and data compatibility"
+        ]
+      },
+      {
+        "label": "Design an API Integration Strategy",
+        "items": [
+          "May include but not limited to: design an api gateway strategy",
+          "Determine policies for internal and external consumption of apis",
+          "Recommend a hosting structure for api management"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design an Infrastructure Strategy (15-20%)",
+    "skills": [
+      {
+        "label": "Design a Storage Strategy",
+        "items": [
+          "May include but not limited to: design a storage provisioning strategy",
+          "Design storage access strategy",
+          "Identify storage requirements",
+          "Recommend a storage solution and storage management tools"
+        ]
+      },
+      {
+        "label": "Design a Compute Strategy",
+        "items": [
+          "May include but not limited to: design compute provisioning and secure compute strategies",
+          "Determine appropriate compute technologies (e.g., virtual machines, functions, service fabric, container instances, etc.)",
+          "Design an azure hpc environment",
+          "Identify compute requirements",
+          "Recommend management tools for compute"
+        ]
+      },
+      {
+        "label": "Design a Networking Strategy",
+        "items": [
+          "May include but not limited to: design network provisioning and network security strategies",
+          "Determine appropriate network connectivity technologies",
+          "Identify networking requirements",
+          "Recommend network management tools"
+        ]
+      },
+      {
+        "label": "Design a Monitoring Strategy for Infrastructure",
+        "items": [
+          "May include but not limited to: design for alert notifications",
+          "Design an alert and metrics strategy"
+        ]
+      }
+    ]
+  }
+]

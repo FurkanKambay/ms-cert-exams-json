@@ -1,0 +1,140 @@
+[
+  {
+    "label": "Manage Microsoft Dynamics CRM components and the product catalog (24%)",
+    "skills": [
+      {
+        "label": "Manage Dynamics CRM sales management components",
+        "items": [
+          "Understand different record types",
+          "Create, maintain, and use sales literature",
+          "Create, maintain, and use competitors",
+          "Understand sales territories",
+          "Manage currency configurations",
+          "Understand social engagement"
+        ]
+      },
+      {
+        "label": "Manage the product catalog",
+        "items": [
+          "Understand the role of the product catalog and price lists",
+          "Manage unit groups",
+          "Manage products",
+          "Manage price lists",
+          "Manage discount lists",
+          "Manage currencies",
+          "Create product families and properties",
+          "Manage product bundles",
+          "View products in hierarchical charts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage leads, opportunities, and sales (30%)",
+    "skills": [
+      {
+        "label": "Manage leads",
+        "items": [
+          "Understand the role of lead and opportunity records",
+          "Understand the lead to the opportunity process flow",
+          "Use the lead to the opportunity process form and the process ribbon",
+          "Track leads",
+          "Convert activity records to leads"
+        ]
+      },
+      {
+        "label": "Manage opportunities",
+        "items": [
+          "Create and manage opportunities",
+          "Manage opportunity records",
+          "Connect competitors to opportunities",
+          "View resolution activities",
+          "Work with opportunities from views",
+          "Add a contact to an opportunity"
+        ]
+      },
+      {
+        "label": "Manage the sales order process",
+        "items": [
+          "Add line items to opportunities",
+          "Create and add write-in products and opportunities",
+          "Select alternate price lists for opportunities",
+          "Understand the process of the quotes life cycle",
+          "Manage quotes",
+          "Work with orders",
+          "Work with invoices",
+          "Convert quotes to orders and convert orders to invoices"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage metrics and perform sales analysis (23%)",
+    "skills": [
+      {
+        "label": "Manage metrics and goals",
+        "items": [
+          "Configure sales metrics",
+          "Configure fiscal periods",
+          "Create and assign goal records",
+          "Define parent and child records",
+          "Create and recalculate parent and child goal records",
+          "Create rollup queries"
+        ]
+      },
+      {
+        "label": "Perform sales analysis",
+        "items": [
+          "Use built-in reports",
+          "Export sales information to microsoft excel",
+          "Work with charts and dashboards",
+          "Work with system charts from an opportunity list",
+          "Create dashboards",
+          "Share dashboards and charts",
+          "Perform advanced find queries",
+          "Work with microsoft power bi dashboards"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Integrate Microsoft Dynamics CRM with other products (22%)",
+    "skills": [
+      {
+        "label": "Configure email integration",
+        "items": [
+          "Configure email server synchronization",
+          "Configure server settings, server profiles, and mailbox configurations",
+          "Migrate to server-side synchronization",
+          "Configure synchronization options",
+          "Configure email client integration",
+          "Use folder tracking",
+          "Use the dynamics crm app for outlook"
+        ]
+      },
+      {
+        "label": "Configure collaboration",
+        "items": [
+          "Configure microsoft sharepoint integration",
+          "Set up sharepoint documents",
+          "Use sharepoint documents",
+          "Use skype and skype for business with dynamics crm",
+          "Use microsoft yammer with dynamics crm",
+          "Use office groups with dynamics crm"
+        ]
+      },
+      {
+        "label": "Configure Office productivity",
+        "items": [
+          "Work with excel",
+          "Export to excel",
+          "Work with power bi",
+          "Analyze data with power bi",
+          "Visualize data with excel and power bi to create an immersive experience",
+          "Configure onenote integration",
+          "Use onenote with dynamics crm"
+        ]
+      }
+    ]
+  }
+]

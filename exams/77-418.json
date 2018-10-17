@@ -1,0 +1,123 @@
+[
+  {
+    "label": "Create and manage documents",
+    "skills": [
+      {
+        "label": "Create a document",
+        "items": [
+          "Creating new blank documents, creating new documents using templates, importing files, opening non-native files directly in word, opening a pdf in word for editing"
+        ]
+      },
+      {
+        "label": "Navigate through a document",
+        "items": [
+          "Searching for text within document, inserting hyperlinks, creating bookmarks, using go to"
+        ]
+      },
+      {
+        "label": "Format a document",
+        "items": [
+          "Modifying page setup, changing document themes, changing document style sets, inserting simple headers and footers, inserting watermarks, inserting page numbers"
+        ]
+      },
+      {
+        "label": "Customize options and views for documents",
+        "items": [
+          "Changing document views, using zoom, customizing the quick access toolbar, customizing the ribbon, splitting the window, adding values to document properties, using show/hide, recording simple macros, assigning shortcut keys, managing macro security"
+        ]
+      },
+      {
+        "label": "Configure documents to print or save",
+        "items": [
+          "Configuring documents to print, saving documents in alternate file formats, printing document sections, saving files to remote locations, protecting documents with passwords, setting print scaling, maintaining backward compatibility"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Format text, paragraphs, and sections",
+    "skills": [
+      {
+        "label": "Insert text and paragraphs",
+        "items": [
+          "Appending text to documents, finding and replacing text, copying and pasting text, inserting text via autocorrect, removing blank paragraphs, inserting built-in fields, inserting special characters"
+        ]
+      },
+      {
+        "label": "Format text and paragraphs",
+        "items": [
+          "Changing font attributes, using find and replace to format text, using format painter, setting paragraph spacing, setting line spacing, clearing existing formatting, setting indentation, highlighting text selections, adding styles to text, changing text to wordart, modifying existing style attributes"
+        ]
+      },
+      {
+        "label": "Order and group text and paragraphs",
+        "items": [
+          "Preventing paragraph orphans, inserting breaks to create sections, creating multiple columns within sections, adding titles to sections, forcing page breaks"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create tables and lists",
+    "skills": [
+      {
+        "label": "Create a table",
+        "items": [
+          "Converting text to tables, converting tables to text, defining table dimensions, setting autofit options, using quick tables, establishing titles"
+        ]
+      },
+      {
+        "label": "Modify a table",
+        "items": [
+          "Applying styles to tables, modifying fonts within tables, sorting table data, configuring cell margins, using formulas, modifying table dimensions, merging cells"
+        ]
+      },
+      {
+        "label": "Create and modify a list",
+        "items": [
+          "Adding numbering or bullets, creating custom bullets, modifying list indentation, modifying line spacing, increasing and decreasing list levels, modifying numbering"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Apply references",
+    "skills": [
+      {
+        "label": "Create endnotes, footnotes, and citations",
+        "items": [
+          "Inserting endnotes, managing footnote locations, configuring endnote formats, modifying footnote numbering, inserting citation placeholders, inserting citations, inserting bibliography, changing citation styles"
+        ]
+      },
+      {
+        "label": "Create captions",
+        "items": [
+          "Inserting endnotes, managing footnote locations, configuring endnote formats, modifying footnote numbering, inserting citation placeholders, inserting citations, inserting bibliography, changing citation styles"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Insert and format objects",
+    "skills": [
+      {
+        "label": "Insert and format building blocks",
+        "items": [
+          "Inserting quick parts, inserting textboxes, utilizing building locks organizer, customizing building blocks"
+        ]
+      },
+      {
+        "label": "Insert and format shapes and SmartArt",
+        "items": [
+          "Inserting simple shapes, inserting smartart, modifying smartart properties (color, size, shape), wrapping text around shapes, positioning shapes"
+        ]
+      },
+      {
+        "label": "Insert and format images",
+        "items": [
+          "Inserting images, applying artistic effects, applying picture effects, modifying image properties (color, size, shape), adding uick styles to images, wrapping text around images, positioning images"
+        ]
+      }
+    ]
+  }
+]

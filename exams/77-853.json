@@ -1,0 +1,102 @@
+[
+  {
+    "label": "Manage the OneNote environment (25–30%)",
+    "skills": [
+      {
+        "label": "Manage page layout",
+        "items": [
+          "Combine containers, collapse and expand paragraphs, set an image as a background, save current page as template"
+        ]
+      },
+      {
+        "label": "Configure OneNote notebook Backstage",
+        "items": [
+          "Configure notebook settings and properties, pin recently opened notebook to list"
+        ]
+      },
+      {
+        "label": "Create new OneNote notebook",
+        "items": [
+          "Create a new notebook on onedrive, create a new notebook on a network, create a new notebook on my computer"
+        ]
+      },
+      {
+        "label": "Personalize OneNote",
+        "items": [
+          "Default font and size, display settings, proofing settings, language settings, research and translation options"
+        ]
+      },
+      {
+        "label": "Personalize page setup",
+        "items": [
+          "Page color, rule lines, grid lines, page title, paper size, full page view, dock to desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Share and collaborate (15–20%)",
+    "skills": [
+      {
+        "label": "Share OneNote notebooks",
+        "items": [
+          "Share notebook on: onedrive, sharepoint document library, network drive"
+        ]
+      },
+      {
+        "label": "Share OneNote content via email",
+        "items": [
+          "Email others about the notebook and configure email options, invite others to view a notebook, email page in shareable formats"
+        ]
+      },
+      {
+        "label": "Collaborate in OneNote",
+        "items": [
+          "Mark coauthor edits as read, view recent edits, find notes by author, hide author initials"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Organize and find notes (30–35%)",
+    "skills": [
+      {
+        "label": "Use OneNote notebook organization tools",
+        "items": [
+          "Merge sections, create new section group, color code notebooks and sections, protect with password, group and collapse subpages, use side notes"
+        ]
+      },
+      {
+        "label": "Search OneNote",
+        "items": [
+          "Search for content across notebooks, sections, or pages",
+          "Display search results pane"
+        ]
+      },
+      {
+        "label": "Use History and Backups in OneNote",
+        "items": [
+          "Page versions, notebook recycle bin, open backup notebook"
+        ]
+      },
+      {
+        "label": "Save Notebook As",
+        "items": [
+          "Save current page, save as alternate file types"
+        ]
+      },
+      {
+        "label": "Use Quick Filing",
+        "items": [
+          "Send to email messages, meetings notes, contact notes, tasks, webpages, screenshots, print to onenote"
+        ]
+      },
+      {
+        "label": "Use and manage tags",
+        "items": [
+          "Apply tags to paragraphs, create new tags, modify existing tags, create tag summary page, configure tag options, find tags"
+        ]
+      }
+    ]
+  }
+]

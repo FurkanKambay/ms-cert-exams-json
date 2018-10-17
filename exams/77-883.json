@@ -1,0 +1,275 @@
+[
+  {
+    "label": "Manage the PowerPoint environment",
+    "skills": [
+      {
+        "label": "Adjust views",
+        "items": [
+          "Adjust views by using ribbon or status bar commands"
+        ]
+      },
+      {
+        "label": "Manipulate the PowerPoint window",
+        "items": [
+          "Work with multiple presentation windows simultaneously"
+        ]
+      },
+      {
+        "label": "Configure the Quick Access Toolbar (QAT)",
+        "items": [
+          "Show the qat below the ribbon"
+        ]
+      },
+      {
+        "label": "Configure PowerPoint file options",
+        "items": [
+          "Use powerpoint, proofing, and save options"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create a slide presentation",
+    "skills": [
+      {
+        "label": "Construct and edit photo albums",
+        "items": [
+          "Add captions to pictures, insert text, insert images in black and white, reorder pictures in an album, and adjust image rotation, brightness, and contrast"
+        ]
+      },
+      {
+        "label": "Apply slide size and orientation settings",
+        "items": [
+          "Set up a custom size, and change the orientation"
+        ]
+      },
+      {
+        "label": "Add and remove slides",
+        "items": [
+          "Insert an outline, reuse slides from a saved presentation, reuse slides from a slide library, duplicate selected slides, delete multiple slides simultaneously, and include non-contiguous slides in a presentation"
+        ]
+      },
+      {
+        "label": "Format slides",
+        "items": [
+          "Format sections",
+          "Modify themes",
+          "Switch to a different slide layout",
+          "Apply a fill color, gradient, picture, texture, or pattern to a slide",
+          "And set up slide footers"
+        ]
+      },
+      {
+        "label": "Enter and format text",
+        "items": [
+          "Use text effects",
+          "Change the indentation, alignment, line spacing, and direction of text",
+          "Change the formatting of bulleted and numbered lists",
+          "Enter text in a placeholder text box",
+          "Convert text to smartart",
+          "Copy and paste text",
+          "Use paste special, and use format painter"
+        ]
+      },
+      {
+        "label": "Format text boxes",
+        "items": [
+          "Apply a fill color, gradient, picture, texture, or pattern to a text box",
+          "Change the outline color, weight, or style",
+          "Change the shape of the text box",
+          "Apply effects",
+          "Set the alignment",
+          "Create columns in a text box",
+          "Set internal margins",
+          "Set the current text box formatting as the default for new text boxes",
+          "Adjust text wrapping",
+          "Size and position a text box and use autofit"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Work with graphical and multimedia elements",
+    "skills": [
+      {
+        "label": "Manipulate graphical elements",
+        "items": [
+          "Arrange, position, and resize graphical elements",
+          "Apply effects, styles, and borders",
+          "And add hyperlinks"
+        ]
+      },
+      {
+        "label": "Manipulate images",
+        "items": [
+          "Apply color adjustments and image corrections (sharpen, soften, brightness, contrast), add artistic effects to an image, remove a background, crop a picture, compress selected pictures or all pictures, change a picture, and reset a picture"
+        ]
+      },
+      {
+        "label": "Modify WordArt and shapes",
+        "items": [
+          "Set the formatting of the current shape as the default for future shapes, change the fill color or texture, change the wordart, convert to smartart"
+        ]
+      },
+      {
+        "label": "Manipulate SmartArt",
+        "items": [
+          "Add and remove shapes, change smartart styles, change the smartart layout, reorder shapes, convert a smartart graphic to text, convert smartart to shapes, make shapes larger or smaller, and promote or demote bullet levels"
+        ]
+      },
+      {
+        "label": "Edit video and audio content",
+        "items": [
+          "Apply a style to video or audio content",
+          "Adjust, arrange, and size video or audio content",
+          "And adjust playback options"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create charts and tables",
+    "skills": [
+      {
+        "label": "Construct and modify tables",
+        "items": [
+          "Draw a table",
+          "Insert an excel spreadsheet",
+          "Set table style options",
+          "Add shading, borders, and effects",
+          "Change the alignment",
+          "Resize, merge, or split columns and rows",
+          "Distribute and arrange columns and rows"
+        ]
+      },
+      {
+        "label": "Insert and modify charts",
+        "items": [
+          "Select a chart type, enter chart data, change the chart type, change the chart layout, switch row and column, select and edit data"
+        ]
+      },
+      {
+        "label": "Apply chart elements",
+        "items": [
+          "Use chart labels, axes, gridlines, and backgrounds"
+        ]
+      },
+      {
+        "label": "Manipulate chart layouts",
+        "items": [
+          "Select chart elements, and format selections"
+        ]
+      },
+      {
+        "label": "Manipulate chart elements",
+        "items": [
+          "Arrange chart elements, specify a precise position, apply effects, resize chart elements, apply quick styles, apply a border, and add hyperlinks"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Apply transitions and animations",
+    "skills": [
+      {
+        "label": "Apply built-in and custom animations",
+        "items": [
+          "Use more entrance, more emphasis, and more exit effects, and use more motion paths"
+        ]
+      },
+      {
+        "label": "Apply effect and path options",
+        "items": [
+          "Set timing and start options"
+        ]
+      },
+      {
+        "label": "Apply and modify transitions between slides",
+        "items": [
+          "Modify a transition effect, add a sound to a transition, modify transition duration, and set up manual or automatically timed advance options"
+        ]
+      },
+      {
+        "label": "Manipulate animations",
+        "items": [
+          "Change the direction of an animation, attach a sound to an animation, use animation painter, reorder animations, and select text options"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Collaborate on presentations",
+    "skills": [
+      {
+        "label": "Manage comments in presentations",
+        "items": [
+          "Insert and edit comments, show or hide markup, move to the previous or next comment, and delete comments"
+        ]
+      },
+      {
+        "label": "Apply proofing tools",
+        "items": [
+          "Use spelling and thesaurus features, compare and combine presentations"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Prepare presentations for delivery",
+    "skills": [
+      {
+        "label": "Save presentations",
+        "items": [
+          "Save the presentation as a picture presentation, portable document format (pdf) file, xml paper specification (xps), outline, or opendocument presentation, save a slide or object as a picture file, and save a presentation as a show (.ppsx)"
+        ]
+      },
+      {
+        "label": "Share presentations",
+        "items": [
+          "Package a presentation for cd delivery, create video, create handouts (send to word), and compress media"
+        ]
+      },
+      {
+        "label": "Print presentations",
+        "items": [
+          "Adjust print settings"
+        ]
+      },
+      {
+        "label": "Protect presentations",
+        "items": [
+          "Set a password, change a password, and mark a presentation as final"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deliver presentations",
+    "skills": [
+      {
+        "label": "Apply presentation tools",
+        "items": [
+          "Add pen and highlighter annotations, change the ink color, erase an annotation, and discard or retain annotations upon closing"
+        ]
+      },
+      {
+        "label": "Set up slide shows",
+        "items": [
+          "Set up slide show, play narrations, set up presenter view, use timings, show media controls, broadcast presentations, and create a custom slide show"
+        ]
+      },
+      {
+        "label": "Set presentation timing",
+        "items": [
+          "Rehearse and keep timings, adjust a slide's timing"
+        ]
+      },
+      {
+        "label": "Record presentations",
+        "items": [
+          "Start recording from the beginning of a slide show, start recording from the current slide of the slide show"
+        ]
+      }
+    ]
+  }
+]

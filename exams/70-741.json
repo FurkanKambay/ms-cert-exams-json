@@ -1,0 +1,209 @@
+[
+  {
+    "label": "Implement Domain Name System (DNS) (15-20%)",
+    "skills": [
+      {
+        "label": "Install and configure DNS servers",
+        "items": [
+          "Determine dns installation requirements",
+          "Determine supported dns deployment scenarios on nano server",
+          "Install dns",
+          "Configure forwarders",
+          "Configure root hints",
+          "Configure delegation",
+          "Implement dns policies",
+          "Configure dns server settings using windows powershell",
+          "Configure domain name system security extensions (dnssec)",
+          "Configure dns socket pool",
+          "Configure cache locking",
+          "Enable response rate limiting",
+          "Configure dns-based authentication of named entities (dane)",
+          "Configure dns logging",
+          "Configure delegated administration",
+          "Configure recursion settings",
+          "Implement dns performance tuning",
+          "Configure global settings"
+        ]
+      },
+      {
+        "label": "Create and configure DNS zones and records",
+        "items": [
+          "Create primary zones",
+          "Configure active directory primary zones",
+          "Create and configure secondary zones",
+          "Create and configure stub zones",
+          "Configure a globalnames zone",
+          "Analyze zone-level statistics",
+          "Create and configure dns resource records (rr), including a, aaaa, ptr, soa, ns, srv, cname, and mx records",
+          "Configure zone scavenging",
+          "Configure record options, including time to live (ttl) and weight",
+          "Configure round robin",
+          "Configure secure dynamic updates",
+          "Configure unknown record support",
+          "Use dns audit events and analytical (query) events for auditing and troubleshooting",
+          "Configure zone scopes",
+          "Configure records in zone scopes",
+          "Configure policies for zones"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement DHCP and IPAM (25-30%)",
+    "skills": [
+      {
+        "label": "Install and configure DHCP",
+        "items": [
+          "Install and configure dhcp servers",
+          "Authorize a dhcp server",
+          "Create and configure scopes",
+          "Create and configure superscopes and multicast scopes",
+          "Configure a dhcp reservation",
+          "Configure dhcp options",
+          "Configure dns options from within dhcp",
+          "Configure policies",
+          "Configure client and server for pxe boot",
+          "Configure dhcp relay agent",
+          "Implement ipv6 addressing using dhcpv6",
+          "Perform export and import of a dhcp server",
+          "Perform dhcp server migration"
+        ]
+      },
+      {
+        "label": "Manage and maintain DHCP",
+        "items": [
+          "Configure a lease period",
+          "Back up and restore the dhcp database",
+          "Configure high availability using dhcp failover",
+          "Configure dhcp name protection",
+          "Troubleshoot dhcp"
+        ]
+      },
+      {
+        "label": "Implement and Maintain IP Address Management (IPAM)",
+        "items": [
+          "Provision ipam manually or by using group policy",
+          "Configure server discovery",
+          "Create and manage ip blocks and ranges",
+          "Monitor utilization of ip address space",
+          "Migrate existing workloads to ipam",
+          "Configure ipam database storage using sql server",
+          "Determine scenarios for using ipam with system center virtual machine manager for physical and virtual ip address space management",
+          "Manage dhcp server properties using ipam",
+          "Configure dhcp scopes and options",
+          "Configure dhcp policies and failover",
+          "Manage dns server properties using ipam",
+          "Manage dns zones and records",
+          "Manage dns and dhcp servers in multiple active directory forests",
+          "Delegate administration for dns and dhcp using role-based access control (rbac)",
+          "Audit the changes performed on the dns and dhcp servers",
+          "Audit the ipam address usage trail",
+          "Audit dhcp lease events and user logon events"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Network Connectivity and Remote Access Solutions (20-25%)",
+    "skills": [
+      {
+        "label": "Implement network connectivity solutions",
+        "items": [
+          "Implement network address translation (nat)",
+          "Configure routing"
+        ]
+      },
+      {
+        "label": "Implement virtual private network (VPN) and DirectAccess solutions",
+        "items": [
+          "Implement remote access and site-to-site (s2s) vpn solutions using remote access gateway",
+          "Configure different vpn protocol options",
+          "Configure authentication options",
+          "Configure vpn reconnect",
+          "Create and configure connection profiles",
+          "Determine when to use remote access vpn and site-to-site vpn and configure appropriate protocols",
+          "Install and configure directaccess",
+          "Implement server requirements",
+          "Implement client configuration",
+          "Troubleshoot directaccess"
+        ]
+      },
+      {
+        "label": "Implement Network Policy Server (NPS)",
+        "items": [
+          "Configure a radius server including radius proxy",
+          "Configure radius clients",
+          "Configure nps templates",
+          "Configure radius accounting",
+          "Configure certificates",
+          "Configure connection request policies",
+          "Configure network policies for vpn and wireless and wired clients",
+          "Import and export nps policie"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Core and Distributed Network Solutions (15-20%) ",
+    "skills": [
+      {
+        "label": "Implement IPv4 and IPv6 addressing",
+        "items": [
+          "Configure ipv4 addresses and options",
+          "Determine and configure appropriate ipv6 addresses",
+          "Configure ipv4 or ipv6 subnetting",
+          "Implement ipv6 stateless addressing",
+          "Configure interoperability between ipv4 and ipv6 by using isatap, 6to4, and teredo scenarios",
+          "Configure border gateway protocol (bgp)",
+          "Configure ipv4 and ipv6 routing"
+        ]
+      },
+      {
+        "label": "Implement Distributed File System (DFS) and Branch Office solutions",
+        "items": [
+          "Install and configure dfs namespaces",
+          "Configure dfs replication targets",
+          "Configure replication scheduling",
+          "Configure remote differential compression (rdc) settings",
+          "Configure staging",
+          "Configure fault tolerance",
+          "Clone a distributed file system replication (dfsr) database",
+          "Recover dfsr databases",
+          "Optimize dfs replication",
+          "Install and configure branchcache",
+          "Implement distributed and hosted cache modes",
+          "Implement branchcache for web, file, and application servers",
+          "; troubleshoot branchcache"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement an Advanced Network Infrastructure (15-20%)",
+    "skills": [
+      {
+        "label": "Implement high performance network solutions",
+        "items": [
+          "Implement nic teaming or the switch embedded teaming (set) solution and identify when to use each",
+          "Enable and configure receive side scaling (rss)",
+          "Enable and configure network quality of service (qos) with data center bridging (dcb)",
+          "Enable and configure smb direct on remote direct memory access (rdma) enabled network adapters",
+          "Configure smb multichannel",
+          "Enable and configure virtual receive side scaling (vrss) on a virtual machine queue (vmq) capable network adapter",
+          "Enable and configure virtual machine multi-queue (vmmq)",
+          "Enable and configure single-root i/o virtualization (sr-iov) on a supported network adapter"
+        ]
+      },
+      {
+        "label": "Determine scenarios and requirements for implementing Software Defined Networking (SDN)",
+        "items": [
+          "Determine deployment scenarios and network requirements for deploying sdn",
+          "Determine requirements and scenarios for implementing hyper-v network virtualization (hnv) using network virtualization generic route encapsulation (nvgre) encapsulation or virtual extensible lan (vxlan) encapsulation",
+          "Determine scenarios for implementation of software load balancer (slb) for north-south and east-west load balancing",
+          "Determine implementation scenarios for various types of windows server gateways, including l3, gre, and s2s, and their use",
+          "Determine requirements and scenarios for datacenter firewall policies and network security groups"
+        ]
+      }
+    ]
+  }
+]

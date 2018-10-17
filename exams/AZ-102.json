@@ -1,0 +1,163 @@
+[
+  {
+    "label": "Manage Azure subscriptions and resources (5-10%)",
+    "skills": [
+      {
+        "label": "Analyze resource utilization and consumption",
+        "items": [
+          "May include but not limited to: configure diagnostic settings on resources",
+          "Create baseline for resources",
+          "Create and rest alerts",
+          "Analyze alerts across subscription",
+          "Analyze metrics across subscription",
+          "Create action groups",
+          "Monitor for unused resources",
+          "Monitor spend",
+          "Report on spend",
+          "Utilize log search query functions",
+          "View alerts in log analytics"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and manage storage (5-10%)",
+    "skills": [
+      {
+        "label": "Configure Azure files",
+        "items": [
+          "May include but not limited to: create azure file share",
+          "Create azure file sync service",
+          "Create azure sync group",
+          "Troubleshoot azure file sync"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and manage virtual networks (15-20%)",
+    "skills": [
+      {
+        "label": "Create connectivity between virtual networks",
+        "items": [
+          "May include but not limited to: create and configure vnet peering",
+          "Create and configure vnet to vnet",
+          "Verify virtual network connectivity",
+          "Create virtual network gateway"
+        ]
+      },
+      {
+        "label": "Configure name resolution",
+        "items": [
+          "May include but not limited to: configure azure dns",
+          "Configure custom dns settings",
+          "Configure dns zones"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage identities (15-20%)",
+    "skills": [
+      {
+        "label": "Manage Azure Active Directory (AD)",
+        "items": [
+          "May include but not limited to: add custom domains",
+          "Configure azure ad identity protection, azure ad join, and enterprise state roaming",
+          "Configure self-service password reset",
+          "Implement conditional access policies",
+          "Manage multiple directories",
+          "Perform an access review"
+        ]
+      },
+      {
+        "label": "Implement and manage hybrid identities",
+        "items": [
+          "May include but not limited to: install and configure azure ad connect",
+          "Configure federation and single sign-on",
+          "Manage azure ad connect",
+          "Manage password sync and writeback"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Evaluate and perform server migration to Azure (15-20%)",
+    "skills": [
+      {
+        "label": "Evaluate migration scenarios by using Azure Migrate",
+        "items": [
+          "May include but not limited to: discover and assess environment",
+          "Identify workloads that can and cannot be deployed",
+          "Identify ports to open",
+          "Identify changes to network",
+          "Identify if target environment is supported",
+          "Setup domain accounts and credentials"
+        ]
+      },
+      {
+        "label": "Migrate servers to Azure",
+        "items": [
+          "May include but not limited to: migrate by using azure site recovery (asr)",
+          "Migrate using p2v",
+          "Configure storage",
+          "Create a backup vault",
+          "Prepare source and target environments",
+          "Backup and restore data",
+          "Deploy azure site recovery (asr) agent",
+          "Prepare virtual network"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and manage application services (5-10%)",
+    "skills": [
+      {
+        "label": "Configure serverless computing",
+        "items": [
+          "May include but not limited to: create and manage objects",
+          "Manage a logic app resource",
+          "Manage azure function app settings",
+          "Manage event grid",
+          "Manage service bus"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement advanced virtual networking (5-10%)",
+    "skills": [
+      {
+        "label": "Monitor and manage networking",
+        "items": [
+          "May include but not limited to: monitor on-premises connectivity",
+          "Use network resource monitoring and network watcher",
+          "Manage external networking and virtual network connectivity"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Secure identities (5-10%)",
+    "skills": [
+      {
+        "label": "Implement Multi-Factor Authentication (MFA)",
+        "items": [
+          "May include but not limited to: enable mfa for an azure tenant",
+          "Configure user accounts for mfa",
+          "Configure fraud alerts",
+          "Configure bypass options",
+          "Configure trusted ips",
+          "Configure verification methods",
+          "Manage role-based access control (rbac)",
+          "Implement rbac policies",
+          "Assign rbac roles",
+          "Create a custom role",
+          "Configure access to azure resources by assigning roles",
+          "Configure management access to azure"
+        ]
+      }
+    ]
+  }
+]

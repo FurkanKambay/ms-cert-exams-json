@@ -1,0 +1,95 @@
+[
+  {
+    "label": "Manage document options and settings (35-40%)",
+    "skills": [
+      {
+        "label": "Manage documents and templates",
+        "items": [
+          "Modify existing templates",
+          "Copy custom styles, macros, and building blocks to other documents or templates",
+          "Manage document versions",
+          "Compare and combine multiple documents",
+          "Link to external document content",
+          "Enable macros in a document",
+          "Display hidden ribbon tabs",
+          "Change the application default font"
+        ]
+      },
+      {
+        "label": "Prepare documents for review",
+        "items": [
+          "Restrict editing, mark a document as final, protect a document with a password"
+        ]
+      },
+      {
+        "label": "Manage document changes",
+        "items": [
+          "Track changes, manage tracked changes, lock or unlock tracking, add comments, manage comments"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design advanced documents (20-25%)",
+    "skills": [
+      {
+        "label": "Perform advanced editing and formatting",
+        "items": [
+          "Find and replace text by using wildcards and special characters, find and replace formatting and styles, set advanced page setup layout options, link text boxes, set paragraph pagination options, resolve style conflicts by using paste options"
+        ]
+      },
+      {
+        "label": "Create styles",
+        "items": [
+          "Create paragraph and character styles, modify existing styles"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create advanced references (20-25%)",
+    "skills": [
+      {
+        "label": "Create and manage indexes",
+        "items": [
+          "Mark index entries, create indexes, update indexes"
+        ]
+      },
+      {
+        "label": "Create and manage references",
+        "items": [
+          "Customize a table of contents, insert and modify captions, create and modify a table of figures"
+        ]
+      },
+      {
+        "label": "Manage forms, fields, and Mail Merge operationss",
+        "items": [
+          "Add custom fields, modify field properties, perform mail merges, manage recipient lists, insert merged fields, preview merge results"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create custom Word elements (15-20%)",
+    "skills": [
+      {
+        "label": "Create and modify building blocks, macros, and controls",
+        "items": [
+          "Create quick parts, manage building blocks, create and modify simple macros, insert and configure content controls"
+        ]
+      },
+      {
+        "label": "Create custom style sets and templates",
+        "items": [
+          "Create custom color sets, create custom font sets, create custom themes, create custom style sets"
+        ]
+      },
+      {
+        "label": "Prepare a document for internationalization and accessibility",
+        "items": [
+          "Configure language options in documents, add alt text to document elements, manage multiple options for +body and +heading fonts, utilize global content standards"
+        ]
+      }
+    ]
+  }
+]

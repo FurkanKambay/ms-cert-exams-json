@@ -1,0 +1,135 @@
+[
+  {
+    "label": "Create and manage a database (20–25%)",
+    "skills": [
+      {
+        "label": "Create a new database",
+        "items": [
+          "Create new databases, create databases using templates, create databases in older formats, create databases using wizards"
+        ]
+      },
+      {
+        "label": "Manage relationships and keys",
+        "items": [
+          "Edit references between tables, create and modify relationships, set primary key fields, enforce referential integrity, set foreign keys, view relationships"
+        ]
+      },
+      {
+        "label": "Navigate through a database",
+        "items": [
+          "Navigate to specific records, set a form as the startup option, use navigation forms, set navigation options, change views"
+        ]
+      },
+      {
+        "label": "Protect and maintain a database",
+        "items": [
+          "Compact databases, repair databases, back up databases, split databases, encrypt databases with a password, merge databases, recover data from backups"
+        ]
+      },
+      {
+        "label": "Print and export a database",
+        "items": [
+          "Print reports, print records, maintain backward compatibility, save databases as templates, save databases to external locations, export to alternate formats"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build tables (25–30%)",
+    "skills": [
+      {
+        "label": "Create a table",
+        "items": [
+          "Create new tables, import external data into tables, create linked tables from external sources, import tables from other database, create tables from templates and application parts"
+        ]
+      },
+      {
+        "label": "Format a table",
+        "items": [
+          "Hide fields in tables, change data formats, add total rows, add table descriptions, rename tables"
+        ]
+      },
+      {
+        "label": "Manage records",
+        "items": [
+          "Update records, add new records, delete records, append records from external data, find and replace data, sort records, filter records, group records"
+        ]
+      },
+      {
+        "label": "Create and modify fields",
+        "items": [
+          "Add fields to tables, add a validation rules to fields, change field captions, change field sizes, change field data types, configure fields to auto-increment, set default values, use input masks, delete fields"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create queries (15–20%)",
+    "skills": [
+      {
+        "label": "Create a query",
+        "items": [
+          "Run queries, create crosstab queries, create parameter queries, create action queries, create multi-table queries, save queries, delete queries"
+        ]
+      },
+      {
+        "label": "Modify a query",
+        "items": [
+          "Rename queries, add new fields, remove fields, hide fields, sort data within queries, format fields within queries"
+        ]
+      },
+      {
+        "label": "Utilize calculated fields and grouping within a query",
+        "items": [
+          "Add calculated fields, add conditional logic, group and summarize data, use comparison operators, use basic operators"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create forms (15–20%)",
+    "skills": [
+      {
+        "label": "Create a form",
+        "items": [
+          "Create new forms, create forms with application parts, save forms, delete forms"
+        ]
+      },
+      {
+        "label": "Set form controls",
+        "items": [
+          "Move form controls, add form controls, modify data sources, remove form controls, set form control properties, manage labels"
+        ]
+      },
+      {
+        "label": "Format a form",
+        "items": [
+          "Modify tab order in forms, format print layouts, sort records, apply themes, change margins, insert backgrounds, auto-order forms, insert headers and footers, insert images, modify existing forms"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create reports (15–20%)",
+    "skills": [
+      {
+        "label": "Create a report",
+        "items": [
+          "Create new reports, create reports with application parts, delete reports"
+        ]
+      },
+      {
+        "label": "Set report controls",
+        "items": [
+          "Group data by fields, sort data, add sub-forms, modify data sources, add report controls, manage labels"
+        ]
+      },
+      {
+        "label": "Format a report",
+        "items": [
+          "Format reports into multiple columns, add calculated fields, set margins, add backgrounds, change report orientation, change sort order, insert headers and footers, insert images, insert page numbers, apply themes, modify existing reports"
+        ]
+      }
+    ]
+  }
+]

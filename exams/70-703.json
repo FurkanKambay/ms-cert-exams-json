@@ -1,0 +1,214 @@
+[
+  {
+    "label": "Configure and Maintain a Configuration Manager Management Infrastructure (35-40%)",
+    "skills": [
+      {
+        "label": "Configure the management infrastructure to support clients and devices",
+        "items": [
+          "This objective may include but is not limited to: configure boundaries and boundary groups",
+          "Configure active directory discovery methods",
+          "Create a device collection",
+          "Create a user collection",
+          "Configure a maintenance window",
+          "Configure resource discovery",
+          "Configure mobile device management using the exchange server connector",
+          "Organize resources by using device and user collections."
+        ]
+      },
+      {
+        "label": "Configure the management infrastructure to distribute content",
+        "items": [
+          "This objective may include but is not limited to: install a new distribution point",
+          "Manage content distribution",
+          "Relationships, prepare the infrastructure for content management",
+          "Distribute and manage content on distribution points."
+        ]
+      },
+      {
+        "label": "Configure the management infrastructure to use queries and reports",
+        "items": [
+          "This objective may include but is not limited to: configure microsoft sql server reporting services (ssrs)",
+          "Create data queries",
+          "Create subselect queries",
+          "Create status message queries",
+          "Configure a reporting services point",
+          "Deploy and configure a data warehouse service point",
+          "Create a report by using report builder",
+          "Create and configure data and status message queries."
+        ]
+      },
+      {
+        "label": "Configure the management infrastructure to deploy operating systems",
+        "items": [
+          "This objective may include but is not limited to: prepare the site for operating system deployment",
+          "Manage the site system roles used to support operating system deployments."
+        ]
+      },
+      {
+        "label": "Maintain the management infrastructure",
+        "items": [
+          "This objective may include but is not limited to: configure role-based administration",
+          "Configure scopes",
+          "Configure administrative users",
+          "Configure the remote tools client settings and permissions",
+          "Manage desktops by using remote control",
+          "Maintain a configuration manager site",
+          "Configure maintenance tasks in configuration manager",
+          "Configure the backup site server maintenance task",
+          "Recover a site from a backup",
+          "Perform configuration manager site maintenance tasks",
+          "Back up and recover a configuration manager site",
+          "Monitor the site and component status",
+          "Review log files by using the configuration manager trace log tool."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Inventory by Using Configuration Manager (10-15%)",
+    "skills": [
+      {
+        "label": "Deploy and manage the Configuration Manager client",
+        "items": [
+          "This objective may include but is not limited to: prepare the site for client installation",
+          "Deploy the configuration manager client software by using client push installation",
+          "Manage client settings",
+          "Configure and monitor the client status",
+          "Configure and monitor client health."
+        ]
+      },
+      {
+        "label": "Configure and manage inventory collection",
+        "items": [
+          "This objective may include but is not limited to: configure and manage the hardware inventory",
+          "Configure software metering",
+          "Prepare the site for asset intelligence",
+          "Configure and manage asset intelligence",
+          "Monitor license agreements by using asset intelligence",
+          "Review asset intelligence reports",
+          "Manage inventory collection and software metering."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Applications by Using Configuration Manager (15-20%)",
+    "skills": [
+      {
+        "label": "Create and deploy applications",
+        "items": [
+          "This objective may include but is not limited to: install and configure the application catalog roles",
+          "Create applications that have requirements",
+          "Deploy applications",
+          "Deploy powershell scripts",
+          "Manage application supersedence and removal."
+        ]
+      },
+      {
+        "label": "Manage and deploy virtual applications",
+        "items": [
+          "This objective may include but is not limited to: configure support for microsoft application virtualization (app-v)",
+          "Deploy virtual applications."
+        ]
+      },
+      {
+        "label": "Manage and deploy Microsoft Store apps, Microsoft Store for Business apps, and Microsoft Office 365 apps",
+        "items": [
+          "This objective may include but is not limited to: configure support for sideloading",
+          "Configure a microsoft store app",
+          "Sideload an app",
+          "Deploy microsoft store for business apps",
+          "Assign office 365 proplus licenses to users",
+          "Modify office 365 proplus options for manual downloads",
+          "Configure infrastructure requirements",
+          "Deploy office 365 proplus",
+          "Configure software updates to support office 365, deploying office 365 packages"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deploy and Maintain Operating Systems by using Configuration Manager (20-25%)",
+    "skills": [
+      {
+        "label": "Deploy operating systems",
+        "items": [
+          "This objective may include but is not limited to: prepare operating system images",
+          "Deploy operating system images for bare-metal installation",
+          "Manage packages to support operating system deployment",
+          "Create a task sequence to deploy an image",
+          "Manage windows as a service",
+          "Upgrade analytics by using microsoft operations management suite (oms)."
+        ]
+      },
+      {
+        "label": "Deploy software updates",
+        "items": [
+          "This objective may include but is not limited to: configure the site for software updates",
+          "Configure and synchronize the software update point",
+          "Determine software update compliance",
+          "Configure automatic deployment rules",
+          "Prepare the configuration manager site for software updates",
+          "Evaluate software updates",
+          "Monitor and troubleshoot software updates."
+        ]
+      },
+      {
+        "label": "Manage compliance and access control",
+        "items": [
+          "This objective may include but is not limited to: manage configuration items and baselines",
+          "View compliance settings and reports",
+          "View compliance results",
+          "Configure remediation in the compliance settings",
+          "Use compliance information to create collections",
+          "Configure the compliance settings",
+          "Manage resource and data access",
+          "Manage device guard",
+          "Manage conditional access to the services in configuration manager",
+          "Configure an endpoint protection point and client settings",
+          "Configure, deploy, and manage endpoint protection policies",
+          "Monitor endpoint protection",
+          "Configure endpoint protection to detect and remediate malware and security vulnerabilities."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Extend the Management Scope of Configuration Manager (10-15%)",
+    "skills": [
+      {
+        "label": "Implement support for Internet-based clients and devices",
+        "items": [
+          "This objective may include but is not limited to: implement pki for site systems and clients",
+          "Deploy certificates to configuration manager",
+          "Create and export a microsoft azure management certificate for cloud-based distribution points",
+          "Create and configure cloud-based distribution points",
+          "Configure systems to support internet-based client management (ibcm)",
+          "Verify the client settings for ibcm",
+          "Prepare for cloud integration",
+          "Configure and enable directory syncing",
+          "Implement a cloud management gateway",
+          "Manage mobile devices by using the exchange server connector",
+          "Configure security permissions for microsoft exchange server integration",
+          "Configure the exchange server connector",
+          "Manage mobile devices, enable co-management for windows 10 devices, manage windows 10 devices using co-management."
+        ]
+      },
+      {
+        "label": "Implement on-premises mobile device management (MDM)",
+        "items": [
+          "This objective may include but is not limited to: manage mobile devices from an on-premises infrastructure",
+          "Configure pki for on-premises mdm",
+          "Validate and configure prerequisites for on-premises mdm",
+          "Enroll a standalone windows 10 device in on-premises mdm as a mobile client."
+        ]
+      },
+      {
+        "label": "Migrating from Hybrid MDM to Intune standalone",
+        "items": [
+          "This objective may include: import configuration data to microsoft intune, prepare intune for data migration, change the mdm authority for specific users, change the organization to intune standalone, using the intune data importer tool."
+        ]
+      }
+    ]
+  }
+]

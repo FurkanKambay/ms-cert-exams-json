@@ -1,0 +1,147 @@
+[
+  {
+    "label": "Create and manage presentations",
+    "skills": [
+      {
+        "label": "Create a presentation",
+        "items": [
+          "Create blank presentations, create presentations using templates, import text files into presentations, import word document outlines into presentations"
+        ]
+      },
+      {
+        "label": "Format a presentation using slide masters",
+        "items": [
+          "Apply a slide master, add new layouts, modify existing layouts, add background images, control page numbers, insert headers and footers, modify presentation themes"
+        ]
+      },
+      {
+        "label": "Customize presentation options and views",
+        "items": [
+          "Change page setup options, change to view in color/grayscale, use views to navigate through presentations, modify presentation properties"
+        ]
+      },
+      {
+        "label": "Configure presentations to print or save",
+        "items": [
+          "Set handout print options, print selections from presentations, package presentations for cd, save presentations as webpages, print presentations in grayscale, print speaker notes, maintain backward compatibility"
+        ]
+      },
+      {
+        "label": "Configure and present slideshows",
+        "items": [
+          "Create custom slideshows, configure slideshow options, rehearse timing, configure slideshow resolution, use presenter view, navigate within slideshows, annotate slideshows"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Insert and format shapes and slides",
+    "skills": [
+      {
+        "label": "Insert and format slides",
+        "items": [
+          "Add slide layouts, duplicate existing slides, hide slides, delete slides, modify slide backgrounds, apply styles to slides"
+        ]
+      },
+      {
+        "label": "Insert and format shapes",
+        "items": [
+          "Modify shape backgrounds, apply borders to shapes, resize shapes, insert shapes, create custom shapes, apply styles to shapes"
+        ]
+      },
+      {
+        "label": "Order and group shapes and slides",
+        "items": [
+          "Insert section headers, modify slide order, align and group shapes, display gridlines"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create slide content ",
+    "skills": [
+      {
+        "label": "Insert and format text",
+        "items": [
+          "Change text to wordart, create multiple columns in a single shape, insert hyperlinks, apply formatting and styles to text, create bulleted and numbered lists"
+        ]
+      },
+      {
+        "label": "Insert and format tables",
+        "items": [
+          "Create new tables, modify number of rows and columns, apply table styles, import tables from external sources"
+        ]
+      },
+      {
+        "label": "Insert and format charts",
+        "items": [
+          "Create and modify chart styles, insert charts, modify chart type, add legends to charts, modify chart parameters, import charts from external sources"
+        ]
+      },
+      {
+        "label": "Insert and format SmartArt",
+        "items": [
+          "Add shapes to smartart, change color of smartart, move text within smartart shapes, reverse direction, convert lists to smartart"
+        ]
+      },
+      {
+        "label": "Insert and format images",
+        "items": [
+          "Resize images, crop images, apply effects, apply styles"
+        ]
+      },
+      {
+        "label": "Insert and format media",
+        "items": [
+          "Adjust media window size, trim timing on media clips, set start/stop times, set media options, link to external media"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Apply transitions and animations",
+    "skills": [
+      {
+        "label": "Apply transitions between slides",
+        "items": [
+          "Insert transitions between slides, manage multiple transitions, modify transition effect options"
+        ]
+      },
+      {
+        "label": "Animate slide content",
+        "items": [
+          "Apply animations to shapes, apply animations to text strings, add paths to animations, modify animation options"
+        ]
+      },
+      {
+        "label": "Set timing for transitions and animations",
+        "items": [
+          "Modify duration of effects, configure start and finish options, reorder animations, use the animation pane"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage multiple presentations",
+    "skills": [
+      {
+        "label": "Merge content from multiple presentations",
+        "items": [
+          "Merge multiple presentations, reuse slides from other presentations, view multiple presentations"
+        ]
+      },
+      {
+        "label": "Track changes and resolve differences",
+        "items": [
+          "Set track changes, modify options for track changes, discard changes from specific users, manage comments"
+        ]
+      },
+      {
+        "label": "Protect and share presentations",
+        "items": [
+          "Encrypt presentations with a password, proof presentations, mark as final, compress media, embed fonts, restrict permissions, remove presentation metadata, check for accessibility issues, check for compatibility issues"
+        ]
+      }
+    ]
+  }
+]

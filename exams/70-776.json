@@ -1,0 +1,170 @@
+[
+  {
+    "label": "Design and Implement Complex Event Processing By Using Azure Stream Analytics (15-20%)",
+    "skills": [
+      {
+        "label": "Ingest data for real-time processing",
+        "items": [
+          "Select appropriate data ingestion technology based on specific constraints",
+          "Design partitioning scheme and select mechanism for partitioning",
+          "Ingest and process data from a twitter stream",
+          "Connect to stream processing entities",
+          "Estimate throughput, latency needs, and job footprint",
+          "Design reference data streams"
+        ]
+      },
+      {
+        "label": "Design and implement Azure Stream Analytics",
+        "items": [
+          "Configure thresholds, use the azure machine learning udf, create alerts based on conditions, use a machine learning model for scoring, train a model for continuous learning, use common stream processing scenarios"
+        ]
+      },
+      {
+        "label": "Implement and manage the streaming pipeline",
+        "items": [
+          "Stream data to a live dashboard, archive data as a storage artifact for batch processing, enable consistency between stream processing and batch processing logic"
+        ]
+      },
+      {
+        "label": "Query real-time data by using the Azure Stream Analytics query language",
+        "items": [
+          "Use built-in functions, use data types, identify query language elements, control query windowing by using time management, guarantee event delivery"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and Implement Analytics by Using Azure Data Lake (25-30%)",
+    "skills": [
+      {
+        "label": "Ingest data into Azure Data Lake Store",
+        "items": [
+          "Create an azure data lake store (adls) account, copy data to adls, secure data within adls by using access control, leverage end-user or service-to-service authentication appropriately, tune the performance of adls, access diagnostic logs"
+        ]
+      },
+      {
+        "label": "Manage Azure Data Lake Analytics",
+        "items": [
+          "Create an azure data lake analytics (adla) account, manage users, manage data sources, manage, monitor, and troubleshoot jobs, access diagnostic logs, optimize jobs by using the vertex view, identify historical job information"
+        ]
+      },
+      {
+        "label": "Extract and transform data by using U-SQL",
+        "items": [
+          "Schematize data on read at scale",
+          "Generate outputter files",
+          "Use the u-sql data types, use c# and u-sql expression language",
+          "Identify major differences between t-sql and u-sql",
+          "Perform joins, pivot, unpivot, cross apply, and windowing functions in u-sql",
+          "Share data and code through u-sql catalog",
+          "Define benefits and use of structured data in u-sql",
+          "Manage and secure the catalog"
+        ]
+      },
+      {
+        "label": "Extend U-SQL programmability",
+        "items": [
+          "Use user-defined functions, aggregators, and operators, scale out user-defined operators, call python, r, and cognitive capabilities, use u-sql user-defined types, perform federated queries, share data and code across adla and adls"
+        ]
+      },
+      {
+        "label": "Integrate Azure Data Lake Analytics with other services",
+        "items": [
+          "Integrate with azure data factory, azure hdinsight, azure data catalog, and azure event hubs, ingest data from azure sql data warehouse"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and Implement Azure SQL Data Warehouse Solutions (15-20%)",
+    "skills": [
+      {
+        "label": "Design tables in Azure SQL Data Warehouse",
+        "items": [
+          "Choose the optimal type of distribution column to optimize workflows, select a table geometry, limit data skew and process skew through the appropriate selection of distributed columns, design columnstore indexes, identify when to scale compute nodes, calculate the number of distributions for a given workload"
+        ]
+      },
+      {
+        "label": "Query data in Azure SQL Data Warehouse",
+        "items": [
+          "Implement query labels, aggregate functions, create and manage statistics in distributed tables, monitor user queries to identify performance issues, change a user resource class"
+        ]
+      },
+      {
+        "label": "Integrate Azure SQL Data Warehouse with other services",
+        "items": [
+          "Ingest data into azure sql data warehouse by using azcopy, polybase, bulk copy program (bcp), azure data factory, sql server integration services (ssis), create-table-as-select (ctas), and create-external-table-as-select (cetas)",
+          "Export data from azure sql data warehouse",
+          "Provide connection information to access azure sql data warehouse from azure machine learning",
+          "Leverage polybase to access a different distributed store",
+          "Migrate data to azure sql data warehouse",
+          "Select the appropriate ingestion method based on business needs"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and Implement Cloud-Based Integration by using Azure Data Factory (15-20%)",
+    "skills": [
+      {
+        "label": "Implement datasets and linked services",
+        "items": [
+          "Implement availability for the slice, create dataset policies, configure the appropriate linked service based on the activity and the dataset"
+        ]
+      },
+      {
+        "label": "Move, transform, and analyze data by using Azure Data Factory activities",
+        "items": [
+          "Copy data between on-premises and the cloud, create different activity types, extend the data factory by using custom processing steps, move data to and from azure sql data warehouse"
+        ]
+      },
+      {
+        "label": "Orchestrate data processing by using Azure Data Factory pipelines",
+        "items": [
+          "Identify data dependencies and chain multiple activities, model schedules based on data dependencies, provision and run data pipelines, design a data flow"
+        ]
+      },
+      {
+        "label": "Monitor and manage Azure Data Factory",
+        "items": [
+          "Identify failures and root causes, create alerts for specified conditions, perform a redeploy, use the microsoft azure portal monitoring tool"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and Maintain Azure SQL Data Warehouse, Azure Data Lake, Azure Data Factory, and Azure Stream Analytics (20-25%)",
+    "skills": [
+      {
+        "label": "Provision Azure SQL Data Warehouse, Azure Data Lake, Azure Data Factory, and Azure Stream Analytics",
+        "items": [
+          "Provision azure sql data warehouse, azure data lake, and azure data factory, implement azure stream analytics"
+        ]
+      },
+      {
+        "label": "Implement authentication, authorization, and auditing",
+        "items": [
+          "Integrate services with azure active directory (azure ad), use the local security model in azure sql data warehouse, configure firewalls, implement auditing, integrate services with azure data factory"
+        ]
+      },
+      {
+        "label": "Manage data recovery for Azure SQL Data Warehouse, Azure Data Lake, and Azure Data Factory, Azure Stream Analytics",
+        "items": [
+          "Backup and recover services, plan and implement geo-redundancy for azure storage, migrate from an on-premises data warehouse to azure sql data warehouse"
+        ]
+      },
+      {
+        "label": "Monitor Azure SQL Data Warehouse, Azure Data Lake, and Azure Stream Analytics",
+        "items": [
+          "Manage concurrency, manage elastic scale for azure sql data warehouse, monitor workloads by using dynamic management views (dmvs) for azure sql data warehouse, troubleshoot azure data lake performance by using the vertex execution view"
+        ]
+      },
+      {
+        "label": "Design and implement storage solutions for big data implementations",
+        "items": [
+          "Optimize storage to meet performance needs, select appropriate storage types based on business requirements, use azcopy, storage explorer and redgate azure explorer to migrate data, design cloud solutions that integrate with on-premises data"
+        ]
+      }
+    ]
+  }
+]

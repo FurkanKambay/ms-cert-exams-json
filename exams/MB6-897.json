@@ -1,0 +1,298 @@
+[
+  {
+    "label": "Set up and configure organizational parameters (20 – 25%)",
+    "skills": [
+      {
+        "label": "Model an organization",
+        "items": [
+          "This objective may include but is not limited to: create models of organizations",
+          "Create and configure organization hierarchies",
+          "Create and modify retail operating units"
+        ]
+      },
+      {
+        "label": "Configure retail parameters",
+        "items": [
+          "This objective may include but is not limited to: set up a retail store set up info codes and sub codes",
+          "Assign and translate info codes",
+          "Configure units of measure and conversion",
+          "Define retail parameters",
+          "Set up sales tax and sales tax overrides",
+          "Describe and configure payment methods",
+          "Configure payment connectors",
+          "Set up credit card payment services",
+          "Configure full-text search"
+        ]
+      },
+      {
+        "label": "Configure workflows",
+        "items": [
+          "This objective may include but is not limited to: describe retail workflow features",
+          "Configure workflow prerequisites",
+          "Create and configure workflows, activate a workflow",
+          "Associate workflows with an organization",
+          "Monitor workflow status"
+        ]
+      },
+      {
+        "label": "Integrate stores",
+        "items": [
+          "This objective may include but is not limited to: configure and monitor commerce data exchange services",
+          "Test and troubleshoot async client and server connectivity",
+          "View retail channel transactions",
+          "Set up up store locator groups"
+        ]
+      },
+      {
+        "label": "Manage retail channels",
+        "items": [
+          "This objective may include but is not limited to: build an online store",
+          "Synchronize online store sales orders",
+          "Create a call center"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Set up and Configure Point of Sale (10 - 15%)",
+    "skills": [
+      {
+        "label": "Perform Point of Sale (POS) set up processes",
+        "items": [
+          "This objective may include but is not limited to: set up offline, functionality, receipt, hardware, visual, email notification, and channel integration pos profiles",
+          "Configure a receipt format",
+          "Set up data distribution"
+        ]
+      },
+      {
+        "label": "Configure POS terminals",
+        "items": [
+          "This objective may include but is not limited to: set up keyboard mapping groups",
+          "Configure pos permission groups",
+          "Create registers and pos devices",
+          "Create screen layouts that use button grids and images",
+          "Manage drawer operations"
+        ]
+      },
+      {
+        "label": "Configure barcodes and labels",
+        "items": [
+          "This objective may include but is not limited to: create and view barcodes for specific products",
+          "Print shelf labels",
+          "Create barcode masks"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Set up and Configure Products (15 – 20%)",
+    "skills": [
+      {
+        "label": "Configure basic product parameters",
+        "items": [
+          "This objective may include but is not limited to: create product dimensions and dimension groups",
+          "Create a product",
+          "Create and modify product attributes",
+          "Create product features and assortments",
+          "Create product relationship types and product relationships",
+          "Create a product master or variant",
+          "Create, assemble, disassemble, and sell product kits"
+        ]
+      },
+      {
+        "label": "Build product category hierarchies",
+        "items": [
+          "This objective may include but is not limited to: describe hierarchy types",
+          "Create a category hierarchy",
+          "Maintain hierarchies",
+          "Bulk edit a category"
+        ]
+      },
+      {
+        "label": "Create and manage catalogs",
+        "items": [
+          "This objective may include but is not limited to: create a catalog",
+          "Configure and analyze catalog layout",
+          "Update, validate, approve and publish catalogs",
+          "Create source codes"
+        ]
+      },
+      {
+        "label": "Manage delivery modes",
+        "items": [
+          "This objective may include but is not limited to: set up delivery modes",
+          "Add channels to delivery modes",
+          "Add products to delivery modes"
+        ]
+      },
+      {
+        "label": "Manage direct delivery",
+        "items": [
+          "This objective may include but is not limited to: set up direct delivery",
+          "Configure products and sales orders for direct delivery",
+          "Confirm direct delivery orders",
+          "Create pick waves",
+          "Set up the picking process",
+          "Create a workbench",
+          "Generate picking workbench sessions"
+        ]
+      },
+      {
+        "label": "Manage pricing discounts",
+        "items": [
+          "This objective may include but is not limited to: create catgory pricing rules",
+          "Discount products based on catalogs",
+          "Set up affiliated pricing",
+          "Adjust prices",
+          "Create price groups",
+          "Configure mix and match discounts",
+          "Create quantity discounts"
+        ]
+      },
+      {
+        "label": "Connect vendor information to products",
+        "items": [
+          "This objective may include but is not limited to: create a vendor catalog",
+          "Set up price margin alerts on a product",
+          "Define price points for products",
+          "Add vendor product numbers to a product"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Retail Operations (15 – 20%)",
+    "skills": [
+      {
+        "label": "Manage workers",
+        "items": [
+          "This objective may include but is not limited to: create jobs",
+          "Create positions",
+          "Set up a worker",
+          "Create and link address books",
+          "Implement role-based security",
+          "View and manage shifts"
+        ]
+      },
+      {
+        "label": "Generate retail information reports",
+        "items": [
+          "This objective may include but is not limited to: identify available reports",
+          "Identify available workspaces",
+          "Perform recency, frequency, and monetary (rfm) analysis"
+        ]
+      },
+      {
+        "label": "Implement customer loyalty schemes and gift cards",
+        "items": [
+          "This objective may include but is not limited to: describe the loyalty setup process",
+          "Configure prerequisite components",
+          "Create a customer loyalty scheme and program",
+          "Process loyalty transactions",
+          "Resolve loyalty card number conflicts",
+          "Add products to loyalty schemes",
+          "Set up physical and virtual gift cards",
+          "Add funds to a gift card"
+        ]
+      },
+      {
+        "label": "Manage journals",
+        "items": [
+          "This objective may include but is not limited to: describe post statement actions",
+          "Create and calculate a statement",
+          "View posted statements",
+          "Configure batch processes for statements"
+        ]
+      },
+      {
+        "label": "Manage inventory replenishment",
+        "items": [
+          "This objective may include but is not limited to: build replenishment rules",
+          "Implement cross docking for product distribution",
+          "Create a buyer’s push",
+          "Create a replenishment hierarchy",
+          "Create service categories"
+        ]
+      },
+      {
+        "label": "Manage a call center",
+        "items": [
+          "This objective may include but is not limited to: create fraud rules",
+          "Create a continuity program",
+          "Create continuity orders",
+          "Implement credit card and refund workbenches",
+          "Configure check holds",
+          "Set up credit limit checking",
+          "Create rules for up-selling and cross-selling",
+          "Set up target markets",
+          "Create and use scripts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Conduct Retail Activities (25 – 30%)",
+    "skills": [
+      {
+        "label": "Perform POS operations",
+        "items": [
+          "This objective may include but is not limited to: conduct a transaction",
+          "Override a price",
+          "Identify reason codes and hold codes",
+          "Hold and recall a transaction",
+          "Clear a hold"
+        ]
+      },
+      {
+        "label": "Manage sale orders",
+        "items": [
+          "This objective may include but is not limited to: view detailed status information for a sales order",
+          "Identify sales order cancellation constraints",
+          "Configure price matching",
+          "Configure prepayment"
+        ]
+      },
+      {
+        "label": "Manage customers",
+        "items": [
+          "This objective may include but is not limited to: create a customer",
+          "Check for duplicate customers",
+          "Merge and unmerge customer records",
+          "Create and configure cases",
+          "Search for a customer"
+        ]
+      },
+      {
+        "label": "Manage drawer operations and daily operations",
+        "items": [
+          "This objective may include but is not limited to: perform opening procedures",
+          "Conduct tender operations",
+          "Perform overrides",
+          "Perform closing procedures",
+          "Open, pause, resume, and close shifts",
+          "Clock in and out",
+          "Create sales with cash or credit card payments",
+          "Void transactions",
+          "Accept returns"
+        ]
+      },
+      {
+        "label": "Manage installment billing",
+        "items": [
+          "This objective may include but is not limited to: set up and configure installment billing",
+          "Create payment schedules",
+          "Add installments to a sales order",
+          "Process installment billing payments"
+        ]
+      },
+      {
+        "label": "Manage returns and Return Merchandise Authorization (RMA) processing",
+        "items": [
+          "This objective may include but is not limited to: identify steps in the rma process",
+          "Create an rma",
+          "Configure process return options"
+        ]
+      }
+    ]
+  }
+]

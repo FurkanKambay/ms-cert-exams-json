@@ -1,0 +1,237 @@
+[
+  {
+    "label": "Program with JavaScript Operators, Methods, and Keywords (20-25%)",
+    "skills": [
+      {
+        "label": "Complete or debug code that uses assignment and arithmetic operators",
+        "items": [
+          "Assignment",
+          "Increment",
+          "Decrement",
+          "Addition",
+          "Subtraction",
+          "Division",
+          "Multiplication",
+          "Modulus",
+          "Compound assignment operators"
+        ]
+      },
+      {
+        "label": "Apply JavaScript best practices",
+        "items": [
+          "Comments",
+          "Indentations",
+          "Naming conventions",
+          "Noscript",
+          "Constants",
+          "Reserved keywords",
+          "Debugger keyword",
+          "Setting breakpoints",
+          "Console.log"
+        ]
+      },
+      {
+        "label": "Evaluate the use of inline and external scripts",
+        "items": [
+          "When to use, how to use, and what happens when both are used"
+        ]
+      },
+      {
+        "label": "Implement exception handling",
+        "items": [
+          "Try",
+          "Catch",
+          "Finally"
+        ]
+      },
+      {
+        "label": "Complete and debug code that interacts with the Browser Object Model (BOM)",
+        "items": [
+          "Manage state",
+          "Display dialogs",
+          "Determine screen size"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Program with Variables, Data Types, and Functions (25-30%)",
+    "skills": [
+      {
+        "label": "Declare and use variables of primitive data types",
+        "items": [
+          "Number",
+          "Boolean",
+          "String",
+          "Null",
+          "Undefined",
+          "Typeof operator",
+          "Type checking functions",
+          "Use strict",
+          "Converting between data types",
+          "Formatting numbers",
+          "String operations",
+          "Single quote vs double quote (nesting)",
+          "Initialization"
+        ]
+      },
+      {
+        "label": "Declare and use arrays",
+        "items": [
+          "Single-dimensional arrays",
+          "Multi-dimensional arrays",
+          "Iteration",
+          "Initialization",
+          "Define an array",
+          "Sort and search an array",
+          "Use push, pop, shift, and unshift methods",
+          "Use the length property",
+          "Access an array element"
+        ]
+      },
+      {
+        "label": "Complete and debug code that uses objects",
+        "items": [
+          "Properties",
+          "Methods",
+          "Instantiation",
+          "Date object",
+          "Retrieve date and time parts",
+          "Localize date format (mm/dd vs dd/mm)",
+          "Add and subtract dates"
+        ]
+      },
+      {
+        "label": "Complete and debug code that uses built-in Math functions",
+        "items": [
+          "Random",
+          "Round",
+          "Abs",
+          "Floor",
+          "Ceiling",
+          "Min",
+          "Max",
+          "Pow",
+          "Sqrt"
+        ]
+      },
+      {
+        "label": "Complete and debug a function that accepts parameters and returns a value",
+        "items": [
+          "Reusable code",
+          "Local versus global scope, redefine variables, pass parameters, value versus reference, return values"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and Analyze Decisions and Loops (20-25%)",
+    "skills": [
+      {
+        "label": "Evaluate expressions that use logical and comparison operators",
+        "items": [
+          "==",
+          "!=",
+          "<, >",
+          "<=",
+          ">=",
+          "!",
+          "&&",
+          "||"
+        ]
+      },
+      {
+        "label": "Complete and debug decision statements",
+        "items": [
+          "If",
+          "Else if",
+          "Switch",
+          "Nested if"
+        ]
+      },
+      {
+        "label": "Complete and debug loops",
+        "items": [
+          "For",
+          "While",
+          "Do",
+          "Break",
+          "Continue"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Interact with the Document Object Model (15-20%)",
+    "skills": [
+      {
+        "label": "Identify and construct the Document Object Model (DOM) tree",
+        "items": [
+          "Window",
+          "Document",
+          "Body",
+          "Other html elements"
+        ]
+      },
+      {
+        "label": "Identify and handle HTML events",
+        "items": [
+          "Onchange",
+          "Onmouseover",
+          "Onload",
+          "Onclick",
+          "Onmouseout",
+          "Onkeydown"
+        ]
+      },
+      {
+        "label": "Complete and debug code that  outputs to an HTML document",
+        "items": [
+          "Innerhtml",
+          "Document.write"
+        ]
+      },
+      {
+        "label": "Complete and debug code that locates, modifies, and adds HTML elements and attributes",
+        "items": [
+          "Getelementbyld",
+          "Getelementsbytagname",
+          "Getelementsbyclassname",
+          "Setattribute",
+          "Createelement"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Interact with HTML Forms (5-10%)",
+    "skills": [
+      {
+        "label": "Complete and debug code that retrieves input from forms and sets form field values",
+        "items": [
+          "Retrieve form values",
+          "Identify the dom path",
+          "Get values from different types of elements",
+          "Prepopulate values",
+          "Mask values"
+        ]
+      },
+      {
+        "label": "Complete and debug code that performs input validation",
+        "items": [
+          "Case",
+          "String comparisons",
+          "Not-a-number (nan)"
+        ]
+      },
+      {
+        "label": "Describe the form submission process",
+        "items": [
+          "Onsubmit",
+          "Post versus get",
+          "Potential targets for submission"
+        ]
+      }
+    ]
+  }
+]

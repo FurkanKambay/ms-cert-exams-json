@@ -1,0 +1,129 @@
+[
+  {
+    "label": "Manage Cases, the Knowledge Base, and the Interactive Service Hub  (25% - 30%)",
+    "skills": [
+      {
+        "label": "Create and manage cases",
+        "items": [
+          "Manage case lists and views, search for case records, create a new case record, convert activities to cases, perform case resolution processes, implement case routing rules",
+          "Set up and configure case creation and update rules, implement parent/child cases, merge cases"
+        ]
+      },
+      {
+        "label": "Create and manage the knowledge base",
+        "items": [
+          "Search for articles",
+          "Associate an article with a case",
+          "Use knowledge base articles to help resolve cases",
+          "Create, manage, and maintain knowledge base article templates",
+          "Create, modify, and publish knowledge base articles",
+          "Format articles",
+          "Attach knowledge base articles to email messages"
+        ]
+      },
+      {
+        "label": "Install and configure Microsoft Dynamics CRM Server",
+        "items": [
+          "Install sample data",
+          "Install and configure language packs, install the email router, configure server synchronization, configure sharepoint integration, install the ssrs data connector"
+        ]
+      },
+      {
+        "label": "Manage the Interactive Service Hub",
+        "items": [
+          "Implement single-stream and multi-stream dashboards, manage queues and cases from streams"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Queues, Entitlements, and Service Level Agreements (SLAs) (20% - 25%)",
+    "skills": [
+      {
+        "label": "Create and manage queues",
+        "items": [
+          "Differentiate between queue types, create and maintain queues, add cases and activities to queues, reconfigure queue items, implement case routing"
+        ]
+      },
+      {
+        "label": "Create and manage entitlements",
+        "items": [
+          "Define entitlements, create and maintain entitlement templates, create and configure a new entitlement, create entitlements and add entitlement lines, apply entitlements to cases, associate products, associate entitlement channels, associate an sla, activate and deactivate entitlements, renew an entitlement"
+        ]
+      },
+      {
+        "label": "Create and manage SLAs",
+        "items": [
+          "Define standard and enhanced slas, implement sla actions and details, use slas on-demand, manage cases with standard and enhanced slas"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Service Management Analysis and Voice of the Customer Surveys (15% - 20%)",
+    "skills": [
+      {
+        "label": "Perform service management analysis",
+        "items": [
+          "Create microsoft power bi dashboards, create service dashboards, design and create system charts, identify goal management components, define goals, implement and configure advanced find, create editable grids, identify service report types, design reports, export content to microsoft excel"
+        ]
+      },
+      {
+        "label": "Upgrade Microsoft Dynamics CRM and other components",
+        "items": [
+          "Identify voc features and components, install and configure voc, create survey forms, create surveys by using the survey designer, create and configure surveys, link survey questions, pipe data into surveys, route responses, configure survey distribution options, identify and configure survey result options"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage the Unified Service Desk (USD)  (15% - 20%)",
+    "skills": [
+      {
+        "label": "Install and configure the USD application",
+        "items": [
+          "This topic may include: install and configure the usd application",
+          "Define user interface integration (uii) actions and calls",
+          "Create an action call",
+          "Manage connections by using connection manager, global manager, and debugger"
+        ]
+      },
+      {
+        "label": "Implement hosted controls",
+        "items": [
+          "Create hosted controls, implement toolbars, identify and declare common events, implement window navigation rules, create and configure default and specific rules, implement data and replacement parameters"
+        ]
+      },
+      {
+        "label": "Configure server-side synchronization",
+        "items": [
+          "Manage usd sessions, configure user settings and options, create agent scripts, identify debugger capabilities and components, view page data and parameters in the debugger"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Dynamics Field Service and the Interacitve Services Hub (15% - 20%)",
+    "skills": [
+      {
+        "label": "Install and configure Dynamics 365 Field Service",
+        "items": [
+          "Plan a field service implementation",
+          "Identify field service security roles and administration tasks",
+          "View and configure the schedule board",
+          "Implement the schedule assistant",
+          "Identify work order relationships",
+          "Identify accounts, incident types, and service task types",
+          "Identify agreement options",
+          "Configure agreement bookings and invoices"
+        ]
+      },
+      {
+        "label": "Manage the Field Service mobile app and other Field Service features",
+        "items": [
+          "Identify features and limitations of the mobile app, configure the field service mobile app, review customer assets, manage the purchase order process, manage inventory, process returns"
+        ]
+      }
+    ]
+  }
+]

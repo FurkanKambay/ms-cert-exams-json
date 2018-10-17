@@ -1,0 +1,102 @@
+[
+  {
+    "label": "Manage data with Transact-SQL (40–45%)",
+    "skills": [
+      {
+        "label": "Create Transact-SQL SELECT queries",
+        "items": [
+          "Identify proper select query structure, write specific queries to satisfy business requirements, construct results from multiple queries using set operators, distinguish between union and union all behaviour, identify the query that would return expected results based on provided table structure and/or data"
+        ]
+      },
+      {
+        "label": "Query multiple tables by using joins",
+        "items": [
+          "Write queries with join statements based on provided tables, data, and requirements",
+          "Determine proper usage of inner join, left/right/full outer join, and cross join",
+          "Construct multiple join operators using and and or",
+          "Determine the correct results when presented with multi-table select statements and source data",
+          "Write queries with nulls on joins"
+        ]
+      },
+      {
+        "label": "Implement functions and aggregate data",
+        "items": [
+          "Construct queries using scalar-valued and table-valued functions",
+          "Identify the impact of function usage to query performance and where clause sargability",
+          "Identify the differences between deterministic and non-deterministic functions",
+          "Use built-in aggregate functions",
+          "Use arithmetic functions, date-related functions, and system functions"
+        ]
+      },
+      {
+        "label": "Modify data",
+        "items": [
+          "Write insert, update, and delete statements",
+          "Determine which statements can be used to load data to a table based on its structure and constraints",
+          "Construct data manipulation language (dml) statements using the output statement",
+          "Determine the results of data definition language (ddl) statements on supplied tables and data"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Query data with advanced Transact-SQL components (30–35%)",
+    "skills": [
+      {
+        "label": "Query data by using subqueries and APPLY",
+        "items": [
+          "Determine the results of queries using subqueries and table joins, evaluate performance differences between table joins and correlated subqueries based on provided data and query plans, distinguish between the use of cross apply and outer apply, write apply statements that return a given data set based on supplied data"
+        ]
+      },
+      {
+        "label": "Query data by using table expressions",
+        "items": [
+          "Identify basic components of table expressions, define usage differences between table expressions and temporary tables, construct recursive table expressions to meet business requirements"
+        ]
+      },
+      {
+        "label": "Group and pivot data by using queries",
+        "items": [
+          "Use windowing functions to group and rank the results of a query",
+          "Distinguish between using windowing functions and group by",
+          "Construct complex group by clauses using grouping sets, and cube",
+          "Construct pivot and unpivot statements to return desired results based on supplied data",
+          "Determine the impact of null values in pivot and unpivot queries"
+        ]
+      },
+      {
+        "label": "Query temporal data and non-relational data",
+        "items": [
+          "Query historic data by using temporal tables, query and output json data, query and output xml data"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Program databases by using Transact-SQL (25–30%)",
+    "skills": [
+      {
+        "label": "Create database programmability objects by using Transact-SQL",
+        "items": [
+          "Create stored procedures, table-valued and scalar-valued user-defined functions, and views",
+          "Implement input and output parameters in stored procedures",
+          "Identify whether to use scalar-valued or table-valued functions",
+          "Distinguish between deterministic and non-deterministic functions",
+          "Create indexed views"
+        ]
+      },
+      {
+        "label": "Implement error handling and transactions",
+        "items": [
+          "Determine results of data definition language (ddl) statements based on transaction control statements, implement try…catch error handling with transact-sql, generate error messages with throw and raiserror, implement transaction control in conjunction with error handling in stored procedures"
+        ]
+      },
+      {
+        "label": "Implement data types and NULLs",
+        "items": [
+          "Evaluate results of data type conversions, determine proper data types for given data elements or table columns, identify locations of implicit data type conversions in queries, determine the correct results of joins and functions in the presence of null values, identify proper usage of isnull and coalesce functions"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "label": "Set up and configure Microsoft Dynamics 365 for Marketing (10 – 15%)",
+    "skills": [
+      {
+        "label": "Set up Microsoft Dynamics 365 for Marketing",
+        "items": [
+          "Perform initial set up steps",
+          "Configure organizational, business management, and customization settings",
+          "Define default matching strategies",
+          "View quota limits"
+        ]
+      },
+      {
+        "label": "Configure other settings",
+        "items": [
+          "Configure event settings",
+          "Configure customer insights synchronization",
+          "Upload images to file storage",
+          "View and manage keywords for an organization",
+          "Create templates, including activity templates"
+        ]
+      },
+      {
+        "label": "Manage data quality and privacy",
+        "items": [
+          "Identify gdpr rules for individuals and organizations",
+          "Identify how microsoft dynamics 365 supports gdpr",
+          "Configure permission-based marketing",
+          "Track online behavior",
+          "Manage email unsubscribe requests",
+          "Manage data imports and deduplication"
+        ]
+      },
+      {
+        "label": "Integrate Microsoft Dynamics 365 for Marketing with other services",
+        "items": [
+          "Integrate with the customer insights service",
+          "Use power bi to view microsoft dynamics 365 for marketing data",
+          "Identify how custom channels work with microsoft dynamics 365 for marketing"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage segments and lists (10 – 15%)",
+    "skills": [
+      {
+        "label": "Create and manage segments",
+        "items": [
+          "Identify segment types",
+          "Create market segments including dynamic, static, and suppression segments",
+          "Implement segment naming rules",
+          "View segment entities and relationships by using the explore hyperlink",
+          "Configure dynamic segments by using the designer",
+          "Combine segments using union, exclude, or intersect logic"
+        ]
+      },
+      {
+        "label": "Create and manage subscription centers and lists",
+        "items": [
+          "Identify usage scenarios for subscription lists",
+          "Create a subscription list",
+          "Add a subscription list to a form",
+          "Create a segment based on a subscription list"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and manage marketing forms and pages (10 – 15%)",
+    "skills": [
+      {
+        "label": "Create marketing forms",
+        "items": [
+          "Identify types of marketing forms",
+          "Identify form requirements and limitations",
+          "Create a marketing form by using a template",
+          "Create landing forms, subscription centers, and forward to a friend pages"
+        ]
+      },
+      {
+        "label": "Create and manage marketing pages",
+        "items": [
+          "Create marketing pages",
+          "Add form blocks to marketing pages",
+          "Add forms to form blocks",
+          "Apply a style to marketing pages",
+          "Integrate marketing pages with marketing emails",
+          "Create and use dynamic tests links",
+          "Implement dedicated marketing page blocks",
+          "Preview and validate marketing pages",
+          "Publish a marketing page"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage leads (10 – 15%)",
+    "skills": [
+      {
+        "label": "Create and manage leads",
+        "items": [
+          "Identify and describe stages in the lead life cycle",
+          "Create leads manually or automatically",
+          "Synchronize leads from linkedin by using the linkedin connector",
+          "Create segments by using microsoft dynamics customer insights integration"
+        ]
+      },
+      {
+        "label": "Assess sales readiness",
+        "items": [
+          "Create fixed rule and behavior rule scoring conditions",
+          "Create compound conditions",
+          "Set up single and multiple condition models",
+          "Configure advanced lead scoring",
+          "Configure sales readiness thresholds",
+          "Review lead conversion metrics"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and manage marketing emails (10 – 15%)",
+    "skills": [
+      {
+        "label": "Create email messages",
+        "items": [
+          "Create an email message by using a template",
+          "Use basic html markup to create email messages",
+          "Identify mandatory dynamic fields",
+          "Add dynamic content to email messages"
+        ]
+      },
+      {
+        "label": "Publish and manage email messages",
+        "items": [
+          "Identify message requirements",
+          "Preview messages by using the basic and inbox options",
+          "Validate messages",
+          "Publish messages"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage customer journeys (10 – 15%)",
+    "skills": [
+      {
+        "label": "Create journeys",
+        "items": [
+          "Identify and describe journey template types",
+          "Identify content types",
+          "Set up a customer journey",
+          "Implement activity and launch workflow options",
+          "Implement targets",
+          "Identify flow control components",
+          "Implement flow control for journeys"
+        ]
+      },
+      {
+        "label": "Publish and manage journeys",
+        "items": [
+          "Configure required options for publishing journeys",
+          "Check campaigns for errors",
+          "Publish a campaign",
+          "Display customer journey insights"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage events (5 – 10%)",
+    "skills": [
+      {
+        "label": "Create events and webinars",
+        "items": [
+          "Create an event team",
+          "Set up sessions, including internal and external tracks",
+          "Set up speakers",
+          "Create event passes",
+          "Set up venues",
+          "Manage sponsors",
+          "Manage vendors, logistics, and accommodations",
+          "Identify webinar types",
+          "Configure webinar options"
+        ]
+      },
+      {
+        "label": "Manage webinars",
+        "items": [
+          "Configure the event portal",
+          "Create event invitations, banners, and social media posts",
+          "Register and check in attendees",
+          "Gather event feedback",
+          "Review events"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and distribute surveys (5 – 10%)",
+    "skills": [
+      {
+        "label": "Create surveys",
+        "items": [
+          "Create a theme and upload images",
+          "Add pages to a survey and personalize data",
+          "Identify survey question types",
+          "Add survey questions",
+          "Identify respondent types",
+          "Configure responsive routing"
+        ]
+      },
+      {
+        "label": "Preview, test, and publish surveys",
+        "items": [
+          "Add surveys to emails",
+          "Add surveys to customer journeys",
+          "Clone, import, and translate surveys"
+        ]
+      },
+      {
+        "label": "Manage survey responses",
+        "items": [
+          "Interpret survey results",
+          "Identify report types",
+          "Run reports",
+          "View data in the survey dashboard",
+          "Create leads from surveys"
+        ]
+      }
+    ]
+  }
+]

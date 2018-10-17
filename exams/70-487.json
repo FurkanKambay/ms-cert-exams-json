@@ -1,0 +1,291 @@
+[
+  {
+    "label": "Accessing Data (20-25%)",
+    "skills": [
+      {
+        "label": "Choose data access technologies",
+        "items": [
+          "Choose a data access technology, including ado.net, entity framework, wcf data services, and azure cosmos db, based on application requirements"
+        ]
+      },
+      {
+        "label": "Implement caching",
+        "items": [
+          "Cache static data, apply cache policies, including policy expirations",
+          "Use cachedependency to refresh cache data",
+          "Query notifications",
+          "Implement caching using redis"
+        ]
+      },
+      {
+        "label": "Implement transactions",
+        "items": [
+          "Manage transactions by using the api from system.transactions namespace",
+          "Implement distributed transactions including distributed transaction on sql azure",
+          "Specify a transaction isolation level"
+        ]
+      },
+      {
+        "label": "Implement data storage in Microsoft Azure",
+        "items": [
+          "Access data storage in windows azure",
+          "Choose a data storage mechanism in microsoft azure. including blobs, tables, queues, azure sql, and cosmos db",
+          "Distribute data by using the content delivery network (cdn) and azure file sync",
+          "Handle exceptions by using retries",
+          "Use elastic client library with azure sql"
+        ]
+      },
+      {
+        "label": "Create and implement a WCF Data Services service",
+        "items": [
+          "Address resources",
+          "Implement filtering",
+          "Create a query expression",
+          "Access payload formats, including json",
+          "Use data service interceptors and service operators",
+          "Version a data service",
+          "Implement data services providers",
+          "Host the dataservice",
+          "Use actions to implement server-side behavior"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Querying and Manipulating Data by Using the Entity Framework (20-25%)",
+    "skills": [
+      {
+        "label": "Query and manipulate data by using the Entity Framework",
+        "items": [
+          "Query, update, and delete data by using dbcontext",
+          "Build a query that uses deferred execution",
+          "Implement lazy loading and eager loading",
+          "Create and run compiled queries",
+          "Query data by using entity sql",
+          "Create global query filters"
+        ]
+      },
+      {
+        "label": "Query and manipulate data by using Data Provider for Entity Framework",
+        "items": [
+          "Query and manipulate data by using connection, datareader, and command objects from the system.data.entityclient namespace",
+          "Perform synchronous and asynchronous operations",
+          "Manage transactions (api)"
+        ]
+      },
+      {
+        "label": "Query data by using LINQ to Entities",
+        "items": [
+          "Query data by using linq operators, including project, skip, aggregate, filter, and join",
+          "Log queries",
+          "Implement query boundaries"
+        ]
+      },
+      {
+        "label": "Query and manipulate data by using ADO.NET",
+        "items": [
+          "Query and manipulate data by using connection, datareader, and command objects",
+          "Perform synchronous and asynchronous operations",
+          "Manage transactions"
+        ]
+      },
+      {
+        "label": "Create an Entity Framework data model",
+        "items": [
+          "Structure a data model using table per type, table per class, and table per hierarchy",
+          "Select and implement an approach to manage a data model, including code first, model first, and database first",
+          "Implement poco objects",
+          "Describe a data model by using conceptual schema definitions, storage schema definitions, and mapping languages, including csdl, ssdl, and msl"
+        ]
+      },
+      {
+        "label": "Implement Entity Framework with third party databases",
+        "items": [
+          "Implement entity framework using mysql and sqlite databases",
+          "Design a strategy to manage differences between database capabilities",
+          "Leverage database specific technologies, including on duplicate key using entity framework"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Creating and Consuming Web API-based services (20-25%)",
+    "skills": [
+      {
+        "label": "Design a Web API",
+        "items": [
+          "Define http resources with http actions",
+          "Plan appropriate uri space, and map uri space using routing",
+          "Choose appropriate http method to meet requirements",
+          "Choose appropriate web api formats for responses to meet requirements",
+          "Plan when to make http actions asynchronous"
+        ]
+      },
+      {
+        "label": "Implement a Web API",
+        "items": [
+          "Accept data in json format",
+          "Use content negotiation to deliver different data formats to clients",
+          "Define actions and parameters to handle data binding",
+          "Implement dependency injection to create more flexible applications",
+          "Implement action filters and exception filters to manage controller execution",
+          "Implement asynchronous and synchronous actions",
+          "Implement streaming actions",
+          "Implement middleware"
+        ]
+      },
+      {
+        "label": "Secure a Web API",
+        "items": [
+          "Implement identity for authentication",
+          "Implement authorization using roles, claims, and custom authorization",
+          "Implement data protection apis",
+          "Enable cross-domain requests (cors)",
+          "Prevent cross-site request forgery (xsrf)",
+          "Implement and extend authorization filters to control access to applications"
+        ]
+      },
+      {
+        "label": "Host and manage Web API",
+        "items": [
+          "Host web api in iis",
+          "Self-host a web api in your own process",
+          "Host web api in kestrel",
+          "Host services in a windows azure web app",
+          "Host services in docker containers",
+          "Configure the host server for streaming",
+          "Work with a hosting environment"
+        ]
+      },
+      {
+        "label": "Consume Web API web services",
+        "items": [
+          "Consume web api services by using httpclient",
+          "Send and receive requests in different formats",
+          "Handle retry logic",
+          "Implement content negotiation",
+          "Use swagger to construct uris and payloads",
+          "Use autorest to build clients"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Designing and Implementing Web Services (15-20%)",
+    "skills": [
+      {
+        "label": "Consume a WCF service",
+        "items": [
+          "Generate proxies by using svcutil",
+          "Generate proxies by creating a service reference",
+          "Create and implement channel factories",
+          "Configure wcf services by using configuration settings",
+          "Create and configure bindings for wcf services",
+          "Relay bindings to azure using service bus endpoints",
+          "Integrate with the azure service bus relay"
+        ]
+      },
+      {
+        "label": "Implement serverless Azure Web Services",
+        "items": [
+          "Host web services using app services, including logic apps and api apps",
+          "Design and implement azure function based services",
+          "Design and implement azure web jobs",
+          "Design and implement service fabric based web services",
+          "Implement schedule-based processing in a serverless environment"
+        ]
+      },
+      {
+        "label": "Implement traffic management in Azure",
+        "items": [
+          "Implement azure load balancer, including scaling",
+          "Implement azure application gateway",
+          "Implement azure traffic manager",
+          "Design for multiple regions",
+          "Leverage azure cdn for caching web services",
+          "Implement log analytics"
+        ]
+      },
+      {
+        "label": "Implement Azure API Management",
+        "items": [
+          "Secure web services using certificates, azure active directory, and oauth",
+          "Define and implement policies, including secrets, caching, external services, monitoring and throttling",
+          "Define api interface using the azure portal and swagger",
+          "Manage running services using logging, disaster recovery, and multiple regions"
+        ]
+      },
+      {
+        "label": "Monitor web services",
+        "items": [
+          "Collect logs and metrics using azure event hubs",
+          "Process logs and metrics using azure event hubs, stream analytics, and machine learning",
+          "Use azure app insights to monitor and troubleshoot web services"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deploying Web Applications and Services (15-20%)",
+    "skills": [
+      {
+        "label": "Design a deployment strategy",
+        "items": [
+          "Deploy using web deploy",
+          "Deploy using web publishing in visual studio",
+          "Deploy a web application by using xcopy",
+          "Automate a deployment from vsts or tfs build server",
+          "Deploy a web application to a docker container",
+          "Design a continuous deployment pipeline",
+          "Deploy using cloud sync"
+        ]
+      },
+      {
+        "label": "Choose a deployment strategy for Azure",
+        "items": [
+          "Determine appropriate service",
+          "Perform an in-place upgrade and deployment slot swap",
+          "Create staging environments",
+          "Configure an upgrade domain",
+          "Create and configure input and internal endpoints",
+          "Specify operating system configuration",
+          "Implement arm templates to customize deployment",
+          "Deploy to service fabric",
+          "Deploy to azure stack"
+        ]
+      },
+      {
+        "label": "Configure a web application for deployment",
+        "items": [
+          "Switch from production or release mode to debug mode",
+          "Transform configuration files",
+          "Configure azure configuration settings",
+          "Configure azure key vault for application secrets",
+          "Configure deployment credentials for azure app service"
+        ]
+      },
+      {
+        "label": "Manage packages by using NuGet",
+        "items": [
+          "Create and configure a nuget package",
+          "Install and update an existing nuget package",
+          "Resolve versioning conflict issues",
+          "Connect to a local repository cache for nuget, set up your own package repository",
+          "Manage nuget dependencies"
+        ]
+      },
+      {
+        "label": "Share assemblies between multiple applications and servers",
+        "items": [
+          "Prepare the environment for use of assemblies across multiple servers",
+          "Sign assemblies by using a strong name",
+          "Deploy assemblies to the global assembly cache",
+          "Implement assembly versioning",
+          "Create an assembly manifest",
+          "Configure assembly binding redirects",
+          "Target netstandard for cross platform libraries"
+        ]
+      }
+    ]
+  }
+]

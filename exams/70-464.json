@@ -1,0 +1,219 @@
+[
+  {
+    "label": "Implement database objects (30–35%)",
+    "skills": [
+      {
+        "label": "Create and alter tables",
+        "items": [
+          "Develop an optimal strategy for using temporary objects, including table variables and temporary tables",
+          "Define alternatives to triggers",
+          "Define data version control and management",
+          "Implement @table and #table appropriately",
+          "Create calculated columns",
+          "Implement partitioned tables, schemas, and functions",
+          "Implement column collation",
+          "Implement online transaction processing (oltp)",
+          "Implement columnstore and sparse columns"
+        ]
+      },
+      {
+        "label": "Design, implement, and troubleshoot security",
+        "items": [
+          "Implement data control language statements appropriately, troubleshoot connection issues, implement execute as statements, implement certificate-based security, create loginless users, define appropriate database roles and permissions, implement contained users, implement cross db ownership chaining, implement schema security, implement server roles"
+        ]
+      },
+      {
+        "label": "Design the locking granularity level",
+        "items": [
+          "Choose the right lock mechanism for a given task",
+          "Handle deadlocks",
+          "Design index locking properties",
+          "Fix locking and blocking issues",
+          "Analyze a deadlock scenario",
+          "Design appropriate isolation level, including microsoft activex data objects defaults",
+          "Design for locks and lock escalation",
+          "Design transactions that minimize locking",
+          "Reduce locking contention",
+          "Identify bottlenecks in data design",
+          "Design appropriate concurrency control, such as pessimistic or optimistic"
+        ]
+      },
+      {
+        "label": "Implement indexes",
+        "items": [
+          "Inspect physical characteristics of indexes and perform index maintenance",
+          "Identify unused indexes",
+          "Implement indexes",
+          "Optimize indexes, including full, filter, statistics, and force"
+        ]
+      },
+      {
+        "label": "Implement data types",
+        "items": [
+          "Select appropriate data types, including blobs, guids, xml, and spatial data",
+          "Develop a common language runtime (clr) data type",
+          "Implement appropriate use of @table and #table",
+          "Determine values based on implicit and explicit conversions"
+        ]
+      },
+      {
+        "label": "Create and modify constraints",
+        "items": [
+          "Create constraints on tables, define constraints, modify constraints according to performance implications, implement cascading deletes, configure constraints for bulk inserts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement programming objects (15-20%)",
+    "skills": [
+      {
+        "label": "Design and implement stored procedures",
+        "items": [
+          "Create stored procedures and other programmatic objects",
+          "Implement different types of stored procedure results",
+          "Create a stored procedure for the data access layer",
+          "Analyze and rewrite procedures and processes",
+          "Program stored procedures by using t-sql and clr",
+          "Implement parameters, including table valued, input, and output",
+          "Implement error handling, including try…catch",
+          "Configure appropriate connection settings"
+        ]
+      },
+      {
+        "label": "Design T-SQL table-valued and scalar functions",
+        "items": [
+          "Modify scripts that use cursors and loops into a set-based operation, design deterministic and non-deterministic functions"
+        ]
+      },
+      {
+        "label": "Create, use, and alter user-defined functions (UDFs)",
+        "items": [
+          "Implement deterministic or non-deterministic functions",
+          "Implement cross apply by using udfs",
+          "Implement clr functions"
+        ]
+      },
+      {
+        "label": "Create and alter views",
+        "items": [
+          "Set up and configure partitioned tables and partitioned views",
+          "Create indexed views"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design database objects (25–30%)",
+    "skills": [
+      {
+        "label": "Design tables",
+        "items": [
+          "Apply data design patterns",
+          "Develop appropriately normalized and de-normalized sql tables",
+          "Design transactions",
+          "Design views",
+          "Implement guid as a clustered index appropriately",
+          "Design temp tables appropriately, including # vs. @",
+          "Design an encryption strategy",
+          "Design table partitioning",
+          "Design a blob storage strategy, including filestream and filetable",
+          "Design tables for in-memory oltp"
+        ]
+      },
+      {
+        "label": "Design for concurrency",
+        "items": [
+          "Develop a strategy to maximize concurrency",
+          "Define a locking and concurrency strategy",
+          "Design a transaction isolation strategy, including server database and session",
+          "Design triggers for concurrency"
+        ]
+      },
+      {
+        "label": "Design indexes",
+        "items": [
+          "Design indexes and data structures",
+          "Design filtered indexes",
+          "Design an indexing strategy, including column store, semantic indexes, and include",
+          "Design statistics",
+          "Assess which indexes on a table are likely to be used, given different search arguments (sarg)",
+          "Design spatial and xml indexes"
+        ]
+      },
+      {
+        "label": "Design data integrity",
+        "items": [
+          "Design a table data integrity policy, including checks, primary key, foreign key, uniqueness, xml schema, and nullability",
+          "Select a primary key"
+        ]
+      },
+      {
+        "label": "Design for implicit and explicit transactions",
+        "items": [
+          "Manage transactions",
+          "Ensure data integrity by using transactions",
+          "Manage distributed transaction escalations",
+          "Design savepoints",
+          "Design error handling for transactions, including try, catch, and throw"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Optimize and troubleshoot queries (25–30%)",
+    "skills": [
+      {
+        "label": "Optimize and tune queries",
+        "items": [
+          "Tune a poorly performing query, including avoiding unnecessary data type conversions",
+          "Identify long-running queries",
+          "Review and optimize code",
+          "Analyze execution plans to optimize queries",
+          "Tune queries using execution plans and microsoft database tuning advisor (dta)",
+          "Optimize queries using pivots and common table expressions (cte)",
+          "Design database layout to optimize queries",
+          "Implement query hints",
+          "Tune query workloads",
+          "Implement recursive cte",
+          "Implement full text and semantic search",
+          "Analyze execution plans",
+          "Implement plan guides"
+        ]
+      },
+      {
+        "label": "Troubleshoot and resolve performance problems",
+        "items": [
+          "Interpret performance monitor data",
+          "Integrate performance monitor data with sql traces"
+        ]
+      },
+      {
+        "label": "Optimize indexes",
+        "items": [
+          "Develop an optimal strategy for clustered indexes",
+          "Analyze index usage",
+          "Optimize indexes for workload, including data warehousing and oltp",
+          "Generate appropriate indexes and statistics by using include columns",
+          "Create filtered indexes",
+          "Implement full-text indexing",
+          "Implement columnstore indexes",
+          "Optimize online index maintenance"
+        ]
+      },
+      {
+        "label": "Capture and analyze execution plans",
+        "items": [
+          "Collect and read execution plans, create an index based on an execution plan, batch or split implicit transactions, split large queries, consolidate smaller queries, review and optimize parallel plans"
+        ]
+      },
+      {
+        "label": "Collect performance and system information",
+        "items": [
+          "Monitor performance using dynamic management views, collect output from the database engine tuning advisor, design extended events sessions, review and interpret extended event logs",
+          "Optimize extended event session settings, use activity monitor to minimize server impact and determine io bottlenecks, monitor in-memory oltp resources"
+        ]
+      }
+    ]
+  }
+]

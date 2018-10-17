@@ -1,0 +1,193 @@
+[
+  {
+    "label": "Understand the architecture and development environment (20-25%)",
+    "skills": [
+      {
+        "label": "Describe the Microsoft Dynamics 365 for Finance and Operations architecture",
+        "items": [
+          "Describe the development environment",
+          "Describe the components in the application stack",
+          "Identify cloud architecture components",
+          "Explain the server architecture",
+          "Describe the layer architecture"
+        ]
+      },
+      {
+        "label": "Describe the Microsoft Dynamics 365 for Retail architecture",
+        "items": [
+          "Identify components of the retail solutions and their purpose",
+          "Describe differences and uses for the retail server and the retail store scale unit (rssu)",
+          "Describe hardware components",
+          "Describe and create components for the modern point of sale (mpos) and the cloud point of sale (cloud pos)"
+        ]
+      },
+      {
+        "label": "Manage development with Microsoft Visual Studio and Lifecycle Services (LCS)",
+        "items": [
+          "Identify the windows and basic navigation of visual studio",
+          "Describe differences between and uses for projects, models, solutions, and packages",
+          "Describe and perform the build process",
+          "Describe the features of lcs",
+          "Use lcs to deploy hotfixes, manage assets, and complete the build process"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop new elements by using Application Explorer (20-25%)",
+    "skills": [
+      {
+        "label": "Create and manage labels and resources",
+        "items": [
+          "Create new label files",
+          "Create and use labels",
+          "Describe elements and uses for labels",
+          "Identify best practices for labels",
+          "Identify uses for resources"
+        ]
+      },
+      {
+        "label": "Create and manage data types",
+        "items": [
+          "Describe uses for base enumerations",
+          "Create new base enumerations",
+          "Identify best practices for base enumerations",
+          "Describe primitive and extended data types",
+          "Create new extended data types",
+          "Identify key properties for extended data types",
+          "Implement best practices for extended data types"
+        ]
+      },
+      {
+        "label": "Create and manage tables",
+        "items": [
+          "Identify the components of a table",
+          "Describe various types of table relationships",
+          "Describe various types of table indexes",
+          "Implement best practices for tables, relationships, and indexes"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Read and Write Basic X++ (20-25%)",
+    "skills": [
+      {
+        "label": "Describe the X++ environment",
+        "items": [
+          "Identify the characteristics of x++",
+          "Use the code editor to write x++",
+          "Describe the features of intellisense",
+          "Identify basic syntax for x++",
+          "Describe the use of common key words in x++",
+          "Describe the features of the debugger",
+          "Use the comparison tool",
+          "Use the best practice checker"
+        ]
+      },
+      {
+        "label": "Work with X++ control statements",
+        "items": [
+          "Work with variables, operators, conditional statements, and loops",
+          "Use built-in functions",
+          "Use communication tools"
+        ]
+      },
+      {
+        "label": "Work with classes",
+        "items": [
+          "Create new classes",
+          "Describe scoping events and parameters",
+          "Describe inheritance",
+          "Identify key best practices when writing x++"
+        ]
+      },
+      {
+        "label": "Manipulate data with X++",
+        "items": [
+          "Identify techniques for data retrieval",
+          "Explain uses for transaction integrity checking",
+          "Insert, update, and delete records using x++",
+          "Identify best practices for manipulating data with x++"
+        ]
+      },
+      {
+        "label": "Manage exceptions in X++",
+        "items": [
+          "Identify exception types",
+          "Use try/catch statements",
+          "Describe the features of optimistic concurrency control",
+          "Describe best practices for exception handling with x++"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage the User Interface and Security for Developers (20-25%)",
+    "skills": [
+      {
+        "label": "Manage the user interface",
+        "items": [
+          "Identify components of various form patterns",
+          "Identify common form patterns and sub patterns",
+          "Identify key properties for form elements",
+          "Apply and validate form patterns",
+          "Describe uses for tiles",
+          "Describe how to join data in forms",
+          "Implement best practices for form development"
+        ]
+      },
+      {
+        "label": "Manage the user navigation",
+        "items": [
+          "Identify types of menu items",
+          "Create menu items and menus",
+          "Identify key properties for menu items",
+          "Describe uses for menu items",
+          "Implement best practices for menus and menu items"
+        ]
+      },
+      {
+        "label": "Manage security in the development environment",
+        "items": [
+          "Describe the security architecture",
+          "Describe the components of role-based security",
+          "Create new privileges, duties, and roles in the application explorer",
+          "Describe the extensible data security framework"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop and extend retail components (15-20%)",
+    "skills": [
+      {
+        "label": "Modify retail components",
+        "items": [
+          "Describe the components of the commerce runtime (crt) and how to extend the crt",
+          "Describe the components of the commerce data exchange (cdx) and how to extend the cdx",
+          "Identify components of the retail architecture that can be extended",
+          "Describe how to extend various components of the retail architecture."
+        ]
+      },
+      {
+        "label": "Deploy retail modifications",
+        "items": [
+          "Describe how to package and deploy retail modifications into a source environment",
+          "Review and apply retail hot fixes",
+          "Create and deploy packages for retail",
+          "Resolve conflicts and rebuild packages"
+        ]
+      },
+      {
+        "label": "Monitor retail components",
+        "items": [
+          "Identify, use and extend diagnostics and monitoring tools for retail components",
+          "Identify, setup, and monitor data distribution and offline databases",
+          "Understand hot, warm, and cold paths for diagnostics and monitoring",
+          "Use events logs, and lcs to monitor and diagnose issues with retail components"
+        ]
+      }
+    ]
+  }
+]

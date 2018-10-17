@@ -1,0 +1,268 @@
+[
+  {
+    "label": "Manage Identity (10-15%)",
+    "skills": [
+      {
+        "label": "Support Microsoft Store, Microsoft Store for Education, Microsoft Store for Business, and cloud apps.",
+        "items": [
+          "Install and manage software by using microsoft office 365, microsoft store for business apps, or microsoft store for education apps",
+          "Sideload apps by using microsoft intune",
+          "Sideload apps into online and offline images",
+          "Deeplink apps by using microsoft intune",
+          "Integrate microsoft account, including personalization settings"
+        ]
+      },
+      {
+        "label": "Support authentication and authorization.",
+        "items": [
+          "Identify and resolve issues related to multi-factor authentication, windows hello for business, virtual smart cards, picture passwords, and biometrics",
+          "Implement workgroup and domain authentication",
+          "Implement homegroup",
+          "Configure computer and user authentication using secure channel, account policies, credential caching, and credential manager",
+          "Implement local accounts and microsoft accounts",
+          "Configure windows hello for business",
+          "Implement azure ad join",
+          "Connect microsoft accounts to domain accounts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan Desktop and Device Deployment (10-15%)",
+    "skills": [
+      {
+        "label": "Migrate and configure user data.",
+        "items": [
+          "Migrate user profiles",
+          "Configure folder location",
+          "Configure profiles, including profile version, local, roaming, and mandatory"
+        ]
+      },
+      {
+        "label": "Configure Hyper-V.",
+        "items": [
+          "Create and configure virtual machines including integration services",
+          "Create and manage checkpoints",
+          "Create and configure virtual switches",
+          "Create and configure virtual disks",
+          "Move a virtual machine’s storage"
+        ]
+      },
+      {
+        "label": "Configure mobility options.",
+        "items": [
+          "Configure offline file policies, power policies (powercfg), windows to go, sync options, sync center, and wi-fi direct"
+        ]
+      },
+      {
+        "label": "Configure security for mobile devices.",
+        "items": [
+          "Configure bitlocker",
+          "Configure startup key storage"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan and Implement a Microsoft 365 Solution (10-15%)",
+    "skills": [
+      {
+        "label": "Support mobile devices.",
+        "items": [
+          "Support mobile device policies including security policies, remote access, and remote wipe",
+          "Support mobile access and data synchronization including work folders and sync center",
+          "Support broadband connectivity including broadband tethering and metered networks",
+          "Support mobile device management by using microsoft intune including, windows 10, windows 10 mobile, ios, and android"
+        ]
+      },
+      {
+        "label": "Deploy software updates by using Microsoft Intune.",
+        "items": [
+          "Use reports and in-console monitoring to identify required updates",
+          "Approve or decline updates",
+          "Configure automatic approval settings",
+          "Configure deadlines for update installations",
+          "Deploy third-party updates"
+        ]
+      },
+      {
+        "label": "Manage devices with Microsoft 365 Solution.",
+        "items": [
+          "Provision user accounts",
+          "Enroll devices",
+          "View and manage all managed devices",
+          "Configure the microsoft intune subscriptions",
+          "Configure the microsoft service connection point role",
+          "Manage user and computer groups",
+          "Configure monitoring and alerts",
+          "Manage policies",
+          "Manage remote computers"
+        ]
+      },
+      {
+        "label": "Configure information protection.",
+        "items": [
+          "Manage and configure office 365 data loss prevention, windows information protection and bitlocker, azure information protection, microsoft cloud app security, office 365 advanced security management"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Networking (10-15%)",
+    "skills": [
+      {
+        "label": "Configure IP settings.",
+        "items": [
+          "Configure name resolution",
+          "Connect to a network",
+          "Configure network locations"
+        ]
+      },
+      {
+        "label": "Configure networking settings.",
+        "items": [
+          "Connect to a wireless network",
+          "Manage preferred wireless networks",
+          "Configure network adapters"
+        ]
+      },
+      {
+        "label": "Configure and maintain network security.",
+        "items": [
+          "Configure windows firewall",
+          "Configure windows firewall with advanced security",
+          "Configure connection security rules (ipsec)",
+          "Configure authenticated exceptions",
+          "Configure network discovery"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Storage (10-15%)",
+    "skills": [
+      {
+        "label": "Support data storage.",
+        "items": [
+          "Identify and resolve issues related to the following: dfs client including caching settings",
+          "Storage spaces including capacity and fault tolerance",
+          "Onedrive"
+        ]
+      },
+      {
+        "label": "Support data security.",
+        "items": [
+          "Identify and resolve issues related to the following: permissions including share, ntfs, and dynamic access control (dac)",
+          "Encrypting file system (efs) including data recovery agent",
+          "Access to removable media",
+          "Bitlocker and bitlocker to go including data recovery agent and microsoft bitlocker administration and monitoring (mbam)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Data Access and Protection (10-15%)",
+    "skills": [
+      {
+        "label": "Configure shared resources.",
+        "items": [
+          "Configure shared folder permissions",
+          "Configure homegroup settings",
+          "Configure libraries",
+          "Configure shared printers",
+          "Configure onedrive"
+        ]
+      },
+      {
+        "label": "Configure file and folder access.",
+        "items": [
+          "Encrypt files and folders by using efs",
+          "Configure ntfs permissions",
+          "Configure disk quotas",
+          "Configure file access auditing configure authentication and authorization."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Remote Access (10-15%)",
+    "skills": [
+      {
+        "label": "Configure remote connections.",
+        "items": [
+          "Configure remote authentication",
+          "Configure remote desktop settings",
+          "Configure vpn connections and authentication",
+          "Enable vpn reconnect",
+          "Configure broadband tethering",
+          "Configure remote desktop client for windows 10 mobile, ios, and android",
+          "Protect remote desktop credentials with remote credential guard",
+          "Enable restricted admin mode for rdp in windows 8.1 and windows 2012 r2"
+        ]
+      },
+      {
+        "label": "Configure mobility options.",
+        "items": [
+          "Configure offline file policies",
+          "Configure power policies",
+          "Configure windows to go",
+          "Configure sync options",
+          "Configure wi-fi direct."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Apps (10-15%)",
+    "skills": [
+      {
+        "label": "Deploy and manage RemoteApp",
+        "items": [
+          "Configure remoteapp and desktop connections settings, configure group policy objects (gpos) for signed packages, subscribe to the desktop connections feeds, export and import remoteapp configurations, support ios and android, configure remote desktop web access for distribution"
+        ]
+      },
+      {
+        "label": "Support desktop apps.",
+        "items": [
+          "Support desktop app compatibility using windows assessment and deployment kit (adk)",
+          "Desktop application co-existence using hyper-v and app-v",
+          "Configuration of user experience virtualization (ue-v)",
+          "Deploy desktop apps by using microsoft intune"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Updates and Recovery (10-15%)",
+    "skills": [
+      {
+        "label": "Configure system recovery.",
+        "items": [
+          "Configure a recovery drive",
+          "Configure system restore",
+          "Perform a refresh or recycle",
+          "Perform a driver rollback",
+          "Configure restore points"
+        ]
+      },
+      {
+        "label": "Configure file recovery.",
+        "items": [
+          "Restore previous versions of files and folders",
+          "Configure file history",
+          "Recover files from onedrive"
+        ]
+      },
+      {
+        "label": "Configure and manage updates.",
+        "items": [
+          "Configure update settings",
+          "Configure windows update policies",
+          "Manage update history",
+          "Roll back updates",
+          "Update microsoft store apps"
+        ]
+      }
+    ]
+  }
+]

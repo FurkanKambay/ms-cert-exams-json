@@ -1,0 +1,119 @@
+[
+  {
+    "label": "Manage workbook options and settings (10-15%)",
+    "skills": [
+      {
+        "label": "Manage workbooks",
+        "items": [
+          "Save a workbook as a template, copy macros between workbooks, reference data in another workbook, reference data by using structured references, enable macros in a workbook, display hidden ribbon tabs"
+        ]
+      },
+      {
+        "label": "Manage workbook review",
+        "items": [
+          "Restrict editing, protect a worksheet, configure formula calculation options, protect workbook structure, manage workbook versions, encrypt a workbook with a password"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Apply custom data formats and layouts (20-25%)",
+    "skills": [
+      {
+        "label": "Apply custom data formats and validation",
+        "items": [
+          "Create custom number formats, populate cells by using advanced fill series options, configure data validation"
+        ]
+      },
+      {
+        "label": "Apply advanced conditional formatting and filtering",
+        "items": [
+          "Create custom conditional formatting rules, create conditional formatting rules that use formulas, manage conditional formatting rules"
+        ]
+      },
+      {
+        "label": "Create and modify custom workbook elements",
+        "items": [
+          "Create custom color formats, create and modify cell styles, create and modify custom themes, create and modify simple macros, insert and configure form controls"
+        ]
+      },
+      {
+        "label": "Prepare a workbook for internationalization",
+        "items": [
+          "Display data in multiple international formats, apply international currency formats, manage multiple options for +body and +heading fonts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create advanced formulas (35-40%)",
+    "skills": [
+      {
+        "label": "Apply functions in formulas",
+        "items": [
+          "Perform logical operations by using and, or, and not functions",
+          "Perform logical operations by using nested functions",
+          "Perform statistical operations by using sumifs, averageifs, and countifs functions"
+        ]
+      },
+      {
+        "label": "Look up data by using functions",
+        "items": [
+          "Look up data by using the vlookup function, look up data by using the hlookup function, look up data by using the match function, look up data by using the index function"
+        ]
+      },
+      {
+        "label": "Apply advanced date and time functions",
+        "items": [
+          "Reference the date and time by using the now and today functions, serialize numbers by using date and time functions"
+        ]
+      },
+      {
+        "label": "Perform data analysis and business intelligence",
+        "items": [
+          "Reference the date and time by using the now and today functions",
+          "Import, transform, combine, display, and connect to data",
+          "Consolidate data",
+          "Perform what-if analysis by using goal seek and scenario manager",
+          "Use cube functions to get data out of the excel data model",
+          "Calculate data by using financial functions"
+        ]
+      },
+      {
+        "label": "Troubleshoot formulas",
+        "items": [
+          "Trace precedence and dependence, monitor cells and formulas by using the watch window, validate formulas by using error checking rules, evaluate formulas"
+        ]
+      },
+      {
+        "label": "Define named ranges and objects",
+        "items": [
+          "Name cells, name data ranges, name tables, manage named ranges and objects"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create advanced charts and tables (25-30%)",
+    "skills": [
+      {
+        "label": "Create advanced charts",
+        "items": [
+          "Add trendlines to charts, create dual-axis charts, save a chart as a template"
+        ]
+      },
+      {
+        "label": "Create and manage PivotTables",
+        "items": [
+          "Create pivottables, modify field selections and options, create slicers, group pivottable data, reference data in a pivottable by using the getpivotdata function, add calculated fields, format data"
+        ]
+      },
+      {
+        "label": "Create and manage PivotCharts",
+        "items": [
+          "Create pivotcharts, manipulate options in existing pivotcharts, apply styles to pivotcharts, drill down into pivotchart details"
+        ]
+      }
+    ]
+  }
+]

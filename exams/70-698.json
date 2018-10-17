@@ -1,0 +1,220 @@
+[
+  {
+    "label": "Implement Windows (30–35%)",
+    "skills": [
+      {
+        "label": "Prepare for installation requirements",
+        "items": [
+          "Determine hardware requirements and compatibility",
+          "Choose between an upgrade and a clean installation",
+          "Determine appropriate editions according to device type",
+          "Determine requirements for particular features such as hyper-v, cortana, miracast, virtual smart cards, and secure boot",
+          "Determine and create appropriate installation media",
+          "Configure upgrade readiness"
+        ]
+      },
+      {
+        "label": "Install Windows",
+        "items": [
+          "Perform clean installations",
+          "Upgrade using installation media",
+          "Configure native boot scenarios",
+          "Identify valid upgrade paths",
+          "Migrate from previous versions of windows",
+          "Install to virtual hard disk (vhd)",
+          "Boot from vhd",
+          "Install on bootable usb",
+          "Install additional windows features",
+          "Configure windows for additional regional and language support"
+        ]
+      },
+      {
+        "label": "Configure devices and device drivers",
+        "items": [
+          "Install, update, disable, and roll back drivers",
+          "Resolve driver issues",
+          "Configure driver settings including signed and unsigned drivers",
+          "Manage driver packages",
+          "Download and import driver packages",
+          "Use the deployment image servicing and management (dism) tool to add packages"
+        ]
+      },
+      {
+        "label": "Perform post-installation configuration",
+        "items": [
+          "Configure and customize start menu, desktop, taskbar, and notification settings according to device type",
+          "Configure accessibility options",
+          "Configure cortana",
+          "Configure microsoft edge",
+          "Configure internet explorer",
+          "Configure client hyper-v",
+          "Configure power settings"
+        ]
+      },
+      {
+        "label": "Implement Windows in an enterprise environment",
+        "items": [
+          "Provision with the windows configuration designer tool",
+          "Implement active directory–based activation",
+          "Implement volume activation using a key management service (kms)",
+          "Query and configure activation states using the command line",
+          "Configure active directory including group policies",
+          "Configure and optimize user account control (uac)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Support Core Services (30–35%)",
+    "skills": [
+      {
+        "label": "Configure networking",
+        "items": [
+          "Configure and support ipv4 and ipv6 network settings",
+          "Configure name resolution",
+          "Connect to a network",
+          "Configure network locations",
+          "Configure windows firewall",
+          "Configure windows firewall with advanced security",
+          "Configure network discovery",
+          "Configure wi-fi settings",
+          "Configure wi-fi direct",
+          "Troubleshoot network issues",
+          "Configure vpn such as app-triggered vpn, traffic filters, and lockdown vpn",
+          "Configure ipsec",
+          "Configure direct access"
+        ]
+      },
+      {
+        "label": "Configure storage",
+        "items": [
+          "Configure disks, volumes and file system options using disk management, and windows powershell",
+          "Create and configure vhds",
+          "Configure removable devices",
+          "Create and configure storage spaces",
+          "Troubleshoot storage and removable devices issue"
+        ]
+      },
+      {
+        "label": "Configure data access and usage",
+        "items": [
+          "Configure file and printer sharing and homegroup connections",
+          "Configure folder shares, public folders, and onedrive",
+          "Configure file system permissions",
+          "Configure onedrive usage including files on demand",
+          "Troubleshoot data access and usage"
+        ]
+      },
+      {
+        "label": "Implement Apps",
+        "items": [
+          "Configure desktop apps",
+          "Configure startup options",
+          "Configure windows features",
+          "Configure windows store",
+          "Implement windows store apps",
+          "Implement windows store for business",
+          "Implement windows store for education",
+          "Provision packages",
+          "Create packages",
+          "Use deployment tools",
+          "Use the windows assessment and deployment kit (adk)"
+        ]
+      },
+      {
+        "label": "Configure remote management",
+        "items": [
+          "Choose the appropriate remote management tools",
+          "Configure remote management settings",
+          "Modify settings remotely by using the microsoft management console (mmc) or windows powershell",
+          "Configure remote assistance including easy connect",
+          "Configure remote desktop",
+          "Configure remote powershell"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and Maintain Windows (30–35%)",
+    "skills": [
+      {
+        "label": "Configure updates",
+        "items": [
+          "Configure windows update options",
+          "Implement insider preview, current branch (cb), current branch for business (cbb), and long term servicing branch (ltsb) scenarios",
+          "Manage update history",
+          "Roll back updates",
+          "Update windows store apps"
+        ]
+      },
+      {
+        "label": "Monitor Windows",
+        "items": [
+          "Configure and analyze event viewer logs",
+          "Configure event subscriptions",
+          "Monitor performance using task manager",
+          "Monitor performance using resource monitor",
+          "Monitor performance using performance monitor and data collector sets",
+          "Monitor system resources",
+          "Monitor and manage printers",
+          "Configure indexing options",
+          "Manage client security by using windows defender",
+          "Evaluate system stability using reliability monitor",
+          "Troubleshoot performance issues",
+          "Manage security using the windows defender security center",
+          "Configure windows defender advanced threat detection"
+        ]
+      },
+      {
+        "label": "Configure system and data recovery",
+        "items": [
+          "Configure a recovery drive",
+          "Configure a system restore",
+          "Perform a refresh or recycle",
+          "Perform a driver rollback",
+          "Configure restore points",
+          "Resolve hardware and device issues",
+          "Interpret data from device manager",
+          "Restore previous versions of files and folders",
+          "Configure file history",
+          "Recover files from onedrive",
+          "Use windows backup and restore",
+          "Perform a backup and restore with wbadmin",
+          "Perform recovery operations using windows recovery"
+        ]
+      },
+      {
+        "label": "Configure authorization and authentication",
+        "items": [
+          "Configure microsoft passport",
+          "Configure picture passwords and biometrics",
+          "Configure workgroups",
+          "Configure domain settings",
+          "Configure azure ad domain join",
+          "Configure homegroup settings",
+          "Configure credential manager",
+          "Configure local accounts",
+          "Configure microsoft accounts",
+          "Configure device registration",
+          "Configure windows hello for business",
+          "Configure device guard",
+          "Configure credential guard",
+          "Configure device health attestation",
+          "Configure uac behaviour",
+          "Configure dynamic lock"
+        ]
+      },
+      {
+        "label": "Configure advanced management tools",
+        "items": [
+          "Configure services",
+          "Configure device manager",
+          "Configure and use the mmc",
+          "Configure task scheduler",
+          "Configure automation of management tasks using windows powershell",
+          "Convert group policy objects to mdm policies using the mdm migration analysis tool"
+        ]
+      }
+    ]
+  }
+]

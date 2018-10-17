@@ -1,0 +1,202 @@
+[
+  {
+    "label": "Manage and maintain a server infrastructure (25–30%)",
+    "skills": [
+      {
+        "label": "Design an administrative model",
+        "items": [
+          "Design considerations, including user rights and built-in groups",
+          "Design a delegation of administration structure for microsoft system center 2012 r2",
+          "Design self-service portals by using system center service manager",
+          "Delegate rights for managing private cloud by using appcontroller and system center virtual machine manager"
+        ]
+      },
+      {
+        "label": "Design a monitoring strategy",
+        "items": [
+          "Design considerations including monitoring servers using audit collection services (acs) and system center global service monitor, performance monitoring, application monitoring, centralized monitoring, and centralized reporting",
+          "Implement and optimize system center 2012 – operations manager management packs",
+          "Plan for monitoring active directory"
+        ]
+      },
+      {
+        "label": "Plan and implement automated remediation",
+        "items": [
+          "Create an update baseline in virtual machine manager",
+          "Implement a desired configuration management (dcm) baseline",
+          "Implement virtual machine manager integration with operations manager",
+          "Configure virtual machine manager to move a vm dynamically based on policy",
+          "Integrate system center 2012 for automatic remediation into your existing enterprise infrastructure",
+          "Design and implement a windows powershell desired state configuration (dsc) solution"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan and implement a highly available enterprise infrastructure (25–30%)",
+    "skills": [
+      {
+        "label": "Plan and implement failover clustering",
+        "items": [
+          "Plan for and implement multi-node and multi-site clustering including the use of networking storage, name resolution, and global update manager (gum)",
+          "Design considerations including redundant networks, network priority settings, resource failover and failback, heartbeat and dns settings, quorum configuration, storage placement and replication, and cluster aware updates"
+        ]
+      },
+      {
+        "label": "Plan and implement highly available network services",
+        "items": [
+          "Plan for and configure network load balancing (nlb)",
+          "Design considerations including fault-tolerant networking, multicast vs. unicast configuration, state management, and automated deployment of nlb using virtual machine manager service templates"
+        ]
+      },
+      {
+        "label": "Plan and implement highly available storage solutions",
+        "items": [
+          "Plan for and configure storage spaces and storage pools",
+          "Design highly available, multi-replica dfs namespaces",
+          "Plan for and configure multi-path i/o (mpio)",
+          "Configure highly available iscsi target and isns server",
+          "Plan for and implement storage using rdma and smb multi-channel"
+        ]
+      },
+      {
+        "label": "Plan and implement highly available roles",
+        "items": [
+          "Plan for a highly available dynamic host configuration protocol (dhcp) server, hyper-v clustering, continuously available file shares, and a dfs namespace server",
+          "Plan for and implement highly available applications, services, and scripts using generic application, generic script, and generic service clustering roles"
+        ]
+      },
+      {
+        "label": "Plan and implement a business continuity and disaster recovery solution",
+        "items": [
+          "Plan a backup and recovery strategy",
+          "Planning considerations including active directory domain and forest recovery, hyper-v replica including using microsoft azure site recovery, domain controller restore and cloning, and active directory object and container restore using authoritative restore and recycle bin",
+          "Plan for and implement backup and recovery by using system center data protection manager (dpm)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan and implement a server virtualization infrastructure (25–30%)",
+    "skills": [
+      {
+        "label": "Plan and implement virtualization hosts",
+        "items": [
+          "Plan for and implement delegation of virtualization environment (hosts, services, and vms), including self-service capabilities",
+          "Plan and implement multi-host libraries including equivalent objects",
+          "Plan for and implement host resource optimization",
+          "Integrate third-party virtualization platforms",
+          "Deploying hyper-v hosts to bare metal"
+        ]
+      },
+      {
+        "label": "Plan and implement virtual machines",
+        "items": [
+          "Plan for and implement highly available vms",
+          "Plan for and implement guest resource optimization including shared vhdx",
+          "Configure placement rules",
+          "Create virtual machine manager templates"
+        ]
+      },
+      {
+        "label": "Plan and implement virtualization networking",
+        "items": [
+          "Plan for and configure virtual machine manager logical networks, including virtual switch extensions and logical switches",
+          "Plan for and configure ip address and mac address settings across multiple hyper-v hosts, including network virtualization",
+          "Plan for and configure virtual network optimization",
+          "Plan and implement windows server gateway",
+          "Plan and implement vlans and pvlans",
+          "Plan and implement virtual machine (vm) networks",
+          "Plan and implement converged networks"
+        ]
+      },
+      {
+        "label": "Plan and implement virtualization storage",
+        "items": [
+          "Plan for and configure hyper-v host clustered storage",
+          "Plan for and configure hyper-v virtual machine storage including virtual fibre channel, iscsi, and shared vhdx",
+          "Plan for storage optimization",
+          "Plan and implement storage using smb 3.0 file shares"
+        ]
+      },
+      {
+        "label": "Plan and implement virtual machine movement",
+        "items": [
+          "Plan for and configure live and storage migration between hyper-v hosts",
+          "Plan for and manage p2v and v2v",
+          "Plan and implement virtual machine migration between clouds"
+        ]
+      },
+      {
+        "label": "Manage and maintain a server virtualization infrastructure",
+        "items": [
+          "Manage dynamic optimization and resource optimization",
+          "Integrate operations manager with system center virtual machine manager and system center service manager",
+          "Update virtual machine images in libraries",
+          "Plan for and implement backup and recovery of virtualization infrastructure by using system center data protection manager (dpm)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and implement identity and access solutions (20–25%)",
+    "skills": [
+      {
+        "label": "Design a Certificate Services infrastructure",
+        "items": [
+          "Design a multi-tier certificate authority (ca) hierarchy with offline root ca",
+          "Plan for multi-forest ca deployment",
+          "Plan for certificate enrollment web services and certificate enrollment policy web services",
+          "Plan for network device enrollment services (ndes)",
+          "Plan for certificate validation and revocation",
+          "Plan for disaster recovery",
+          "Plan for trust between organizations including certificate trust lists (ctl), cross certifications, and bridge cas"
+        ]
+      },
+      {
+        "label": "Implement and manage a Certificate Services infrastructure",
+        "items": [
+          "Configure and manage offline root ca",
+          "Configure and manage certificate enrollment web services and certificate enrollment policy web services",
+          "Configure and manage network device enrollment services",
+          "Configure online certificates status protocol (ocsp) responders",
+          "Migrate ca",
+          "Implement administrator role separation",
+          "Implement and manage trust between organizations including certificate trust lists (ctl), cross certifications, and bridge cas",
+          "Monitor ca health"
+        ]
+      },
+      {
+        "label": "Implement and manage certificates",
+        "items": [
+          "Manage certificate templates",
+          "Implement and manage certificate deployment, validation, renewal, revocation, and publishing including internet-based clients, cas, and network devices",
+          "Configure and manage key archival and recovery"
+        ]
+      },
+      {
+        "label": "Design and implement a federated identity solution",
+        "items": [
+          "Plan for and implement claims-based authentication including planning and implementing relying party trusts",
+          "Plan for and configure claims provider and relying party trust claim rules",
+          "Plan for and configure attribute stores including active directory lightweight directory services (ad lds)",
+          "Plan for and manage active directory federation services (ad fs) certificates",
+          "Plan for and implement identity integration with cloud services",
+          "Integrate web application proxy with ad fs"
+        ]
+      },
+      {
+        "label": "Design and implement Active Directory Rights Management Services (AD RMS",
+        "items": [
+          "Plan for highly available ad rms deployment",
+          "Plan for ad rms client deployment",
+          "Manage trusted user domains",
+          "Manage trusted publishing domains",
+          "Manage federated identity support",
+          "Upgrade or migrate ad rms",
+          "Decommission ad rms"
+        ]
+      }
+    ]
+  }
+]

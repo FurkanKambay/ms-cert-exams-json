@@ -1,0 +1,213 @@
+[
+  {
+    "label": "Define an effective end-to-end Software Development Lifecycle (SDLC) (15‒20%)",
+    "skills": [
+      {
+        "label": "Understand the value of an end-to-end view of Application Lifecycle Management (ALM) tools and practices",
+        "items": [
+          "Understand that an observable problem may be indicative of a more general process issue",
+          "Explain the difference between optimizing a piece of the alm process, such as manual testing, and optimizing the entire alm process"
+        ]
+      },
+      {
+        "label": "Explain the benefits of fast feedback",
+        "items": [
+          "Explain the importance of fast feedback related to communicating requirements, explain the benefits of end customer feedback to early software iterations"
+        ]
+      },
+      {
+        "label": "Implement strategies to reduce end-to-end cycle time",
+        "items": [
+          "Identify bottlenecks in the delivery process, identify metrics that highlight bottlenecks, create potential solutions whose effectiveness can be validated, understand the relationship between work in process (wip) and cycle time"
+        ]
+      },
+      {
+        "label": "Implement strategies to improve software quality",
+        "items": [
+          "Identify process steps that introduce defects, understand the end-to-end quality process, bring quality efforts early in the development cycle"
+        ]
+      },
+      {
+        "label": "Implement strategies to reduce waste",
+        "items": [
+          "Identify wasteful activities, create strategies to eliminate waste, measure the effectiveness of waste removal activities"
+        ]
+      },
+      {
+        "label": "Create a process improvement plan",
+        "items": [
+          "Create strategies for implementing organizational change, identify key metrics to be tracked during the improvement effort, create consensus for the change"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Define the ALM process (15‒20%)",
+    "skills": [
+      {
+        "label": "Role of different ALM processes",
+        "items": [
+          "Understand the cost and benefits of the key alm processes, including agile, scrum, waterfall, and capability maturity model integration (cmmi)"
+        ]
+      },
+      {
+        "label": "Implement a scrum/agile process",
+        "items": [
+          "Establish self-organizing teams",
+          "Holding a scrum/agile planning meeting, hold daily scrums/stand-up meetings, hold retrospective meetings, hold scrum review meetings"
+        ]
+      },
+      {
+        "label": "Define a scrum/agile process for a team",
+        "items": [
+          "Establish criteria on when to cancel a sprint/iteration, establish tooling and process for scrum/agile artifacts, establish the scrum definition of \"done,\" determine sprint/iteration length, determine how to handle backlog items/user stories not completed in a sprint/iteration, determine how to monitor sprint/iteration progress, use collaborative tools"
+        ]
+      },
+      {
+        "label": "Implement Microsoft Solution Framework (MSF) for CMMI process improvement",
+        "items": [
+          "Establish project drivers (scope-driven, date-driven), assign product requirements to iterations, manage changes, manage issues"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Define a software iteration (15‒20%)",
+    "skills": [
+      {
+        "label": "Plan a release",
+        "items": [
+          "Identify a flexibility matrix, identify releases based on priority items in flexibility matrix and release criteria, resource planning (scrum team is responsible for allocating team members), identify techniques to optimize a team that is geographically distributed, select a project methodology, risk management"
+        ]
+      },
+      {
+        "label": "Define a project-tracking process",
+        "items": [
+          "Plan and manage a portfolio of multiple projects, identify a project tracking tool and an associated process (triage process, bug management), define how to manage effort, determine team forecast management, define a prioritization scheme, determine how to validate project health"
+        ]
+      },
+      {
+        "label": "Scope a project",
+        "items": [
+          "Scope the effort for a release, define an architecture design process, define scope boundaries (is/is not list), determine the definition of “done,” define a process when effort estimates are significantly inaccurate"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Define end value for the software iteration (15‒20%)",
+    "skills": [
+      {
+        "label": "Elicit requirements",
+        "items": [
+          "Define project requirements, review and clarify requirements, define acceptance criteria, define ui platform requirements (web, mobile), assign a business value"
+        ]
+      },
+      {
+        "label": "Estimate requirements",
+        "items": [
+          "Manage and assign effort estimates (assign story points)",
+          "Resize user requirements into smaller, manageable pieces",
+          "Execute task breakdown",
+          "Estimate the requirements baseline"
+        ]
+      },
+      {
+        "label": "Document requirements",
+        "items": [
+          "Define acceptance criteria, list requirements, add requirement details, design ui storyboards"
+        ]
+      },
+      {
+        "label": "Prioritize requirements",
+        "items": [
+          "Identify requirements that are critical path, identify must-have requirements, enable the entire team (including customers) to participate in requirements prioritization, identify dependencies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop customer value with high quality (15‒20%)",
+    "skills": [
+      {
+        "label": "Define code quality indicators",
+        "items": [
+          "Perform code review, including security and performance analysis",
+          "Analyze code for common defects",
+          "Calculate code coverage",
+          "Perform architecture validation"
+        ]
+      },
+      {
+        "label": "Incorporate unit testing",
+        "items": [
+          "Establish unit test standards, develop a strategy for adding unit tests to existing applications, select the unit test type, establish the code coverage target, use shims and stubs to isolate your application"
+        ]
+      },
+      {
+        "label": "Develop code",
+        "items": [
+          "Develop maintainable code",
+          "Define coding standards",
+          "Define application architecture",
+          "Define configuration management process and tooling, including source control tree, branching strategy, solution structure, source control/check-in policy",
+          "Manage multiple repositories using git",
+          "Use architecture, model, and design tools",
+          "Use quality and diagnostic tools"
+        ]
+      },
+      {
+        "label": "Validate quality",
+        "items": [
+          "Organize test artifacts, such as test cases, suites, plans, and requirements",
+          "Define test strategy",
+          "Manage test execution",
+          "Perform cloud-based load testing",
+          "Identify test types and associated tools",
+          "Identify and configure environments",
+          "Analyze test runs"
+        ]
+      },
+      {
+        "label": "Customize a team project",
+        "items": [
+          "Customize a work item, customize work item queries, customize team portal, identify areas and iterations, manage roles and associated permissions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Integrate development and operations (15‒20%)",
+    "skills": [
+      {
+        "label": "Implement an automated deployment process",
+        "items": [
+          "Architect an automated build and deploy workflow, integrate automated tests, automate deployment into both test and production environments, review diagnostic logs for builds, manage releases including release management"
+        ]
+      },
+      {
+        "label": "Implement pre-production environments",
+        "items": [
+          "Automate the creation of virtual test lab environments, automate deployment into virtual test environments"
+        ]
+      },
+      {
+        "label": "Manage feedback between development and operations",
+        "items": [
+          "Implement tools to simplify communication",
+          "Identify, measure, and report key analytics and performance indicators, such as cycle time and mean time to repair (mttr)",
+          "Create appropriate shared artifacts and process to facilitate communication",
+          "Standardize required artifacts for defect reports",
+          "Create strategies for test case reuse (both automated and manual) in production",
+          "Monitor an application in production to optimize usage and performance"
+        ]
+      },
+      {
+        "label": "Troubleshoot production issues",
+        "items": [
+          "Gather defect data from bugs in a production setting, provide actionable data to the development team, monitor applications running in production for potential issues, manage incident response times collaboratively between development and operations, use application insights appropriately"
+        ]
+      }
+    ]
+  }
+]

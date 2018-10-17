@@ -1,0 +1,138 @@
+[
+  {
+    "label": "Configure Microsoft Dynamics 365 (20% - 25%)",
+    "skills": [
+      {
+        "label": "Configure Microsoft Dynamics 365 settings",
+        "items": [
+          "Configure auditing, document management, and collaboration",
+          "Configure administration settings",
+          "Perform data management tasks",
+          "Perform user management",
+          "Implement themes"
+        ]
+      },
+      {
+        "label": "Manage Microsoft Dynamics 365 security",
+        "items": [
+          "Identify security roles, define permissions and privileges, configure access levels, configure security roles, assign security roles, implement multiple security roles, manage access, implement the standard security model and hierarchy security, configure business units, manage teams"
+        ]
+      },
+      {
+        "label": "Configure email services",
+        "items": [
+          "Identify integration options, configure email server profiles and default organization email settings, enable server-side email synchronization, enable folder tracking, map exchange folders, set up and configure the crm app for outlook"
+        ]
+      },
+      {
+        "label": "Integrate Microsoft Dynamics 365 with other Office 365 offerings",
+        "items": [
+          "Select the appropriate office 365 group integration, create and configure office 365 groups, integrate microsoft dynamics 365 and sharepoint, enable linking to onenote files, set up and configure onenote integration, configure onedrive integration"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Microsoft Dynamics 365 entities, entity relationships, and fields (20% - 25%)",
+    "skills": [
+      {
+        "label": "Manage Microsoft Dynamics 365 entities",
+        "items": [
+          "Manage entity ownership, manage entity properties, configure system entities, describe activity entities, configure entity ownership and entity properties, implement managed properties, configure custom entities and security roles, delete entities"
+        ]
+      },
+      {
+        "label": "Implement entity relationships",
+        "items": [
+          "Define relationship types, create relationships, configure cascading rules, identify types of cascading behavior, work with hierarchical data, configure entity mapping, create connections and connection roles"
+        ]
+      },
+      {
+        "label": "Define and configure Microsoft Dynamics 365 fields",
+        "items": [
+          "Identify field types, define field naming requirements, configure field properties and field display formats, implement option sets and two option fields, configure lookup fields and customer fields"
+        ]
+      },
+      {
+        "label": "Configure field customizations",
+        "items": [
+          "Configure fields, configure field properties, use calculated fields, use rollup fields, configure global option sets, create alternate keys, configure field security and security roles, use status and status reasons, identify status reason transitions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and manage Microsoft Dynamics 365 solutions, forms, views, and visualizations (25% - 30%)",
+    "skills": [
+      {
+        "label": "Create and manage Microsoft Dynamics 365 solutions",
+        "items": [
+          "Recommend usage patterns for microsoft dynamics 365 solutions, identify solution components, identify solution types, create managed and unmanaged solutions, configure publishers and versions, manage multiple solutions, import and export solutions"
+        ]
+      },
+      {
+        "label": "Customize Microsoft Dynamics 365 forms",
+        "items": [
+          "Identify microsoft dynamics 365 form types, build a form, use specialized form components, implement access teams and subgrids, create editable grids, work with navigation, use multiple forms"
+        ]
+      },
+      {
+        "label": "Implement Microsoft Dynamics 365 views and visualizations",
+        "items": [
+          "Identify view types",
+          "Create, modify, manage, and delete views",
+          "Customize views",
+          "Create system and personal charts",
+          "Identify chart types that can be combined",
+          "Use available series aggregation types",
+          "Customize charts",
+          "Import and export charts",
+          "Create dashboards and dashboard components",
+          "Customize dashboards",
+          "Control access to dashboards"
+        ]
+      },
+      {
+        "label": "Configure Microsoft Dynamics 365 for mobile devices",
+        "items": [
+          "Deploy the mobile client, identify available entities for the mobile client, configure mobile navigation, design mobile form layout, create custom controls, hide mobile form content, create multiple forms, create mobile views and activity lists"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement business rules, workflows, and business process flows (20% - 25%)",
+    "skills": [
+      {
+        "label": "Implement and manage business rules",
+        "items": [
+          "Determine when to use business rules",
+          "Describe business rule scopes",
+          "Identify actions that trigger business rules",
+          "Configure business rules, conditions, and actions"
+        ]
+      },
+      {
+        "label": "Implement and manage workflows, dialogs, and custom actions",
+        "items": [
+          "Implement workflows",
+          "Identify workflow types",
+          "Implement dialogs and custom actions",
+          "Identify when to use business process flows, workflow dialogs, and custom actions"
+        ]
+      },
+      {
+        "label": "Implement and manage business process flows",
+        "items": [
+          "Identify business flow components",
+          "Enable business process flows",
+          "Implement steps, stages, and categories",
+          "Implement flows that use multiple entities",
+          "Use conditional branching",
+          "Implement role-driven business process flows",
+          "Run workflows"
+        ]
+      }
+    ]
+  }
+]

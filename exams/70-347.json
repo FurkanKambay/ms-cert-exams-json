@@ -1,0 +1,236 @@
+[
+  {
+    "label": "Manage clients and end-user devices (20–25%)",
+    "skills": [
+      {
+        "label": "Manage user-driven client deployments",
+        "items": [
+          "Restrict self-provisioning of office 365 proplus, windows store apps and mobile apps, and office for mac"
+        ]
+      },
+      {
+        "label": "Manage IT deployments of Office 365 ProPlus",
+        "items": [
+          "Manage deployment",
+          "Manage streaming updates",
+          "Manage deployments using the office deployment tool",
+          "Customize deployment",
+          "Manage deployment channels",
+          "Create a pilot group for testing office 365 proplus updates"
+        ]
+      },
+      {
+        "label": "Set up telemetry and reporting",
+        "items": [
+          "Enable telemetry through group policy",
+          "Set up telemetry service",
+          "Analyze issues reported by telemetry dashboard",
+          "Deploy telemetry agents to legacy office clients"
+        ]
+      },
+      {
+        "label": "Plan for Office clients",
+        "items": [
+          "Configure outlook, skype for business client, office online, and visio online",
+          "Choosing between click-to-run or windows installer (msi)",
+          "Implement modern authentication for office 365 clients"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Provision SharePoint Online site collections (20–25%)",
+    "skills": [
+      {
+        "label": "Configure external user sharing",
+        "items": [
+          "Enable external user sharing globally",
+          "Enable per site collection",
+          "Share with external users",
+          "Remove external user access using the web ui and windows powershell"
+        ]
+      },
+      {
+        "label": "Create SharePoint site collections",
+        "items": [
+          "Set sharepoint online site collection administrator",
+          "Set resource quota and warning level",
+          "Set automatic adjustment of site collection sizes",
+          "Set storage quota for site collection",
+          "Configure name and url of site collection using the web ui and windows powershell",
+          "Deploy communication sites"
+        ]
+      },
+      {
+        "label": "Plan a collaboration solution",
+        "items": [
+          "Configure yammer, yammer groups, coauthoring, office 365 groups, and allow/block list",
+          "Access files across multiple client devices",
+          "Migrate files to onedrive for business",
+          "Implement enterprise ediscovery using the web ui and windows powershell",
+          "Implement microsoft stream",
+          "Utilize delve for collaboration",
+          "Configure data loss prevention"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Exchange Online and Skype for Business Online for end users (20–25%)",
+    "skills": [
+      {
+        "label": "Configure additional email addresses for users",
+        "items": [
+          "Change default reply to email address",
+          "Bulk add or remove for new domain",
+          "Manage secondary email aliases and sip addresses using the web ui and windows powershell"
+        ]
+      },
+      {
+        "label": "Create and manage external contacts, resources, and groups",
+        "items": [
+          "Create and manage resource mailboxes",
+          "Create shared mailboxes",
+          "Create office 365 groups (previously site mailboxes)",
+          "Create external contacts",
+          "Assign additional email address to contacts",
+          "Create and manage distribution list and members",
+          "Delegate permissions using the web ui and windows powershell, migrate public folders"
+        ]
+      },
+      {
+        "label": "Configure personal archive policies",
+        "items": [
+          "Enable personal archive for mailboxes",
+          "Create custom retention policy",
+          "Create retention tags",
+          "Apply retention policy to mailboxes",
+          "Review and modify default retention policy using the web ui and windows powershell"
+        ]
+      },
+      {
+        "label": "Configure Skype for Business Online end-user communication settings",
+        "items": [
+          "Turn off non-archived features for compliance",
+          "Configure presence",
+          "Configure available services",
+          "Configure per user external communication using the web ui and windows powershell"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan for Exchange Online and Skype for Business Online (20–25%)",
+    "skills": [
+      {
+        "label": "Manage anti-malware and anti-spam policies",
+        "items": [
+          "Release quarantine",
+          "Configure spam settings",
+          "Configure lists",
+          "Configure notifications using the web ui and windows powershell",
+          "Implement advanced threat protection, configure exchange online protection (eop) phishing protection"
+        ]
+      },
+      {
+        "label": "Recommend a mailbox migration strategy",
+        "items": [
+          "Select the appropriate migration method from remote move, staged, cutover, or imap using the web ui and windows powershell",
+          "Utilize the import service for data migration"
+        ]
+      },
+      {
+        "label": "Plan for Exchange Online",
+        "items": [
+          "Plan client requirements for archiving",
+          "Manage office 365 security and compliance center",
+          "Enable legal hold",
+          "Configure owa access",
+          "Configure activesync and mobile device management using the web ui and windows powershell",
+          "Configure data loss prevention and keyword dictionary",
+          "Configure advanced threat protection (atp) safe attachments and safe links",
+          "Customize malware and spam protection",
+          "Enable external mail flow topologies for partners, applications and internal devices",
+          "Configure client access rules."
+        ]
+      },
+      {
+        "label": "Manage Skype for Business Online",
+        "items": [
+          "Enable external access",
+          "Manage domains",
+          "Manage skype consumer connectivity",
+          "Customize meeting invitations",
+          "Disable push notification service using the web ui and windows powershell",
+          "Configure cloud pbx, pstn conferencing, skype meeting broadcast, and microsoft pulse"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and secure Office 365 services (20–25%)",
+    "skills": [
+      {
+        "label": "Implement Microsoft Teams",
+        "items": [
+          "Manage licenses",
+          "Manage teams",
+          "Configure teams and office 365 connectors",
+          "Manage external apps",
+          "Manage external conferencing, including audio conferencing"
+        ]
+      },
+      {
+        "label": "Configure and manage OneDrive for Business",
+        "items": [
+          "Migrate files to onedrive for business",
+          "Configure alerts",
+          "Configure permissions",
+          "Configure document deletion policies",
+          "Configure file activity reports",
+          "Control network bandwidth",
+          "Manage onedrive for business by using onedrive admin center",
+          "Configure storage",
+          "Configure device access",
+          "Deploy clients, configure onedrive files on-demand",
+          "Implement file handlers 2.0"
+        ]
+      },
+      {
+        "label": "Implement Microsoft Flow and PowerApps",
+        "items": [
+          "Create flows",
+          "Create automated approval workflows",
+          "Create flow actions",
+          "Create powerapps",
+          "Create data loss prevention policies",
+          "Publish templates",
+          "Connect to on-premises services through an on-premises data gateway"
+        ]
+      },
+      {
+        "label": "Configure and manage Microsoft StaffHub",
+        "items": [
+          "Manage teams",
+          "Manage members and account provisioning",
+          "Connect to kronos"
+        ]
+      },
+      {
+        "label": "Configure security and governance for Office 365 services",
+        "items": [
+          "Configure ediscovery",
+          "Configure advanced ediscovery settings",
+          "Implement advanced data governance",
+          "Enable and configure secure store",
+          "Protect data and enforce data compliance by using the office 365 compliance and security center, manage compliance with compliance manager",
+          "Manage compliance policies with conditional access",
+          "Manage message encryption",
+          "Enable b2c to read protected messages",
+          "Manage customer key",
+          "Configure, assign and validate data encryption policies (dep)"
+        ]
+      }
+    ]
+  }
+]

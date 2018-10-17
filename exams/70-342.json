@@ -1,0 +1,260 @@
+[
+  {
+    "label": "Configure, Manage, and Migrate Unified Messaging (20-25%)",
+    "skills": [
+      {
+        "label": "Configure Unified Messaging (UM)",
+        "items": [
+          "Configure an ip gateway",
+          "Configure a um call router",
+          "Create and configure an auto attendant",
+          "Configure a call answering rule",
+          "Design um for high availability",
+          "Create a dial plan"
+        ]
+      },
+      {
+        "label": "Manage Unified Messaging",
+        "items": [
+          "Assign a dial plan to a user",
+          "Move users between dial plans",
+          "Enable and disable um features for a user",
+          "Set up protected voicemail",
+          "Configure um mailbox policy",
+          "Manage um language packs"
+        ]
+      },
+      {
+        "label": "Troubleshoot Unified Messaging",
+        "items": [
+          "Troubleshoot and configure mutual transport layer security (mtls)",
+          "Monitor calls and call statistics",
+          "Troubleshoot and configure qos",
+          "Troubleshoot sip communication"
+        ]
+      },
+      {
+        "label": "Migrate Unified Messaging",
+        "items": [
+          "Prepare to migrate",
+          "Plan a migration strategy",
+          "Plan a coexistence strategy",
+          "Move um mailboxes between sites",
+          "Redirect the sip gateway to exchange server 2013",
+          "Decommission the legacy system"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design, Configure, and Manage Site Resiliency (20-25%) ",
+    "skills": [
+      {
+        "label": "Manage a site-resilient Database Availability Group (DAG)",
+        "items": [
+          "Plan and implement datacenter activation coordination (dac)",
+          "Given customer node requirements, recommend quorum options",
+          "Plan cross-site dag configuration",
+          "Configure dag networks",
+          "Plan a microsoft azure virtual machine as a witness server"
+        ]
+      },
+      {
+        "label": "Design, deploy, and manage a site resilient CAS solution",
+        "items": [
+          "Plan site-resilient namespaces",
+          "Configure site-resilient namespace urls",
+          "Perform steps for site *over",
+          "Plan certificate requirements for site failovers",
+          "Predict client behavior during a *over"
+        ]
+      },
+      {
+        "label": "Design, deploy, and manage site resilience for transport",
+        "items": [
+          "Configure mx records for failover scenarios",
+          "Manage resubmission and reroute queues",
+          "Plan and configure send/receive connectors for site resiliency",
+          "Perform steps for transport *over"
+        ]
+      },
+      {
+        "label": "Troubleshoot site resiliency issues",
+        "items": [
+          "Resolve quorum issues",
+          "Troubleshoot proxy redirection issues",
+          "Troubleshoot client connectivity",
+          "Troubleshoot mail flow",
+          "Troubleshoot datacenter activation",
+          "Troubleshoot dag replication"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design, Configure, and Manage Advanced Security (20-25%) ",
+    "skills": [
+      {
+        "label": "Select an appropriate security strategy",
+        "items": [
+          "Evaluate rbac",
+          "Evaluate bitlocker",
+          "Evaluate smart cards",
+          "Evaluate irm",
+          "Evaluate s/mime",
+          "Evaluate domain secure/tls",
+          "Evaluate adfs claimed based authentication"
+        ]
+      },
+      {
+        "label": "Deploy and manage Information Rights Management (IRM) with Active Directory Rights Management Services (AD RMS)",
+        "items": [
+          "Create an ad rms template",
+          "Create transport protection rules",
+          "Create microsoft outlook protection rules",
+          "Configure transport decryption",
+          "Configure irm for discovery",
+          "Configure prelicensing for client access"
+        ]
+      },
+      {
+        "label": "Configure and interpret mailbox and administrative auditing",
+        "items": [
+          "Configure mailbox audit logging",
+          "Configure administrative audit logging",
+          "Configure mailbox access logging",
+          "Interpret all audit logs"
+        ]
+      },
+      {
+        "label": "Troubleshoot security-related issues",
+        "items": [
+          "Determine certificate validity",
+          "Ensure proper certificate revocation list (crl) access and placement",
+          "Ensure private key availability",
+          "Troubleshoot failed irm protection",
+          "Troubleshoot rbac"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Manage Compliance, Archiving, and Discovery Solutions (20-25%)",
+    "skills": [
+      {
+        "label": "Configure and manage an archiving solution",
+        "items": [
+          "Set up online archiving (microsoft office 365)",
+          "Create archive policies",
+          "Set up on-premises archiving",
+          "Plan storage for an archiving solution."
+        ]
+      },
+      {
+        "label": "Design and configure Data Loss Prevention (DLP) solutions",
+        "items": [
+          "Set up pre-built rules",
+          "Set up custom rules",
+          "Design a dlp solution to meet business requirements",
+          "Set up custom policies"
+        ]
+      },
+      {
+        "label": "Configure and administer Message Records Management (MRM)",
+        "items": [
+          "Design retention policies",
+          "Configure retention policies",
+          "Create and configure custom tags",
+          "Assign policies to users",
+          "Configure the managed folder assistant",
+          "Remove and delete tags"
+        ]
+      },
+      {
+        "label": "Perform eDiscovery",
+        "items": [
+          "Plan and delegate rbac roles for ediscovery",
+          "Enable a legal/litigation hold",
+          "Perform a querybased inplace hold",
+          "Design and configure journaling",
+          "Perform multi-mailbox searches in exchange administration center (eac)",
+          "Evaluate how to integrate inplace federated searches with microsoft sharepoint"
+        ]
+      },
+      {
+        "label": "Implement a compliance solution",
+        "items": [
+          "Design and configure transport rules for ethical walls",
+          "Configure mailtips",
+          "Create, configure, and deploy message classifications",
+          "Design and configure transport rules to meet specified compliance requirements"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and Manage Coexistence, Hybrid Scenarios, Migration, and Federation (15-20%) ",
+    "skills": [
+      {
+        "label": "Establish coexistence with Exchange Online",
+        "items": [
+          "Deploy and manage hybrid configuration",
+          "Evaluate limitations of the hybrid configuration wizard",
+          "Configure requirements for single sign-on (sso)",
+          "Design and configure active directory federation services (ad fs)"
+        ]
+      },
+      {
+        "label": "Deploy and manage Exchange federation",
+        "items": [
+          "Manage federation trusts with microsoft federation gateways",
+          "Manage hybrid deployment oauth-based authentication",
+          "Manage sharing policies",
+          "Design certificate and firewall requirements",
+          "Manage organization relationships"
+        ]
+      },
+      {
+        "label": "Implement on-premises coexistence with legacy systems",
+        "items": [
+          "Plan namespaces for coexistence",
+          "Configure proxy redirect",
+          "Plan firewall configuration for coexistence",
+          "Plan for mail flow requirements"
+        ]
+      },
+      {
+        "label": "Set up a cross-forest coexistence solution",
+        "items": [
+          "Set up cross-forest availability",
+          "Design certificate and firewall requirements",
+          "Set up crossforest mail flow",
+          "Design and configure autodiscover",
+          "Set up shared namespaces"
+        ]
+      },
+      {
+        "label": "Migrate legacy systems",
+        "items": [
+          "Determine transition paths to exchange server 2013",
+          "Migrate public folders to exchange server 2013 and office 365",
+          "Migrate mailboxes",
+          "Upgrade policies",
+          "Plan to account for discontinued features",
+          "Transition and decommission server roles"
+        ]
+      },
+      {
+        "label": "Troubleshoot issues associated with Hybrid scenarios, coexistence, migration, and Federation",
+        "items": [
+          "Troubleshoot mail flow",
+          "Troubleshoot exchange federation trust and organization relationships",
+          "Troubleshoot client access",
+          "Troubleshoot sso/ad fs",
+          "Troubleshoot aadconnect",
+          "Troubleshoot cross-forest availability"
+        ]
+      }
+    ]
+  }
+]

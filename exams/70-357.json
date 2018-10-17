@@ -1,0 +1,219 @@
+[
+  {
+    "label": "Develop a XAML page layout for an adaptive UI (10–15%)",
+    "skills": [
+      {
+        "label": "Construct a page layout",
+        "items": [
+          "Configure a relativepanel layout",
+          "Select the appropriate xaml layout panel based on the ui requirement",
+          "Configure a grid with appropriate column and row properties",
+          "Configure alignment, margins, and padding"
+        ]
+      },
+      {
+        "label": "Implement responsive and adaptive UI behaviors",
+        "items": [
+          "Differentiate between responsive and adaptive ui behaviors, create responsive and adaptive uis by using visualstatemanager and adaptivetriggers, implement settings syntax for element properties and attached properties"
+        ]
+      },
+      {
+        "label": "Create and use custom controls within an adaptive UI",
+        "items": [
+          "Evaluate when to create a custom control",
+          "Create a custom control",
+          "Implement styles, themes, and resource dictionaries",
+          "Apply styles to custom controls by using generic.xaml"
+        ]
+      },
+      {
+        "label": "Optimize a page layout",
+        "items": [
+          "Reduce complexity for performance gains, reduce unnecessary nesting"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement page navigation and lifecycle events (10–15%)",
+    "skills": [
+      {
+        "label": "Choose the appropriate navigation structure for an app",
+        "items": [
+          "Evaluate when to implement the hub, master/details, tabs and pivot, and nav pane navigation patterns",
+          "Evaluate when to implement a custom navigation pattern"
+        ]
+      },
+      {
+        "label": "Implement Nav Pane navigation",
+        "items": [
+          "Load page content by using frame.navigate, implement page navigation by using the nav pane pattern",
+          "Implement a splitview control for use as a navigation pane",
+          "Support accessibility requirements within navigation by implementing key based navigation, ui automation, and narrator",
+          "Handle back button behavior for different windows 10 device families"
+        ]
+      },
+      {
+        "label": "Manage app activation",
+        "items": [
+          "Launch an app, activate an app on startup, implement activation from a deep link, implement activation based on search integration, implement activation from a secondary tile"
+        ]
+      },
+      {
+        "label": "Manage app suspension and resuming",
+        "items": [
+          "Prepare an app for suspension, resume from suspension or termination, extend execution and monitor suspension errors"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement data access and data binding (20–25%)",
+    "skills": [
+      {
+        "label": "Access data by using Entity Framework (EF)",
+        "items": [
+          "Access data by using efcore with sqlite, implement a local sqlite database"
+        ]
+      },
+      {
+        "label": "Implement the {Binding} extension",
+        "items": []
+      },
+      {
+        "label": "Implement the {x:Bind} extension",
+        "items": []
+      },
+      {
+        "label": "Implement MVVM classes and class interactions",
+        "items": [
+          "Implement event binding by applying command patterns, implement a dispatcher to update the ui thread with async return data"
+        ]
+      },
+      {
+        "label": "Implement app-to-app communications",
+        "items": [
+          "Integrate a share contract to share content with another app, integrate drag-and-drop, launch an app for results, implement app extensions, implement app services"
+        ]
+      },
+      {
+        "label": "Implement REST Web Services",
+        "items": [
+          "Implement json and data serialization, access cloud data and web apis by using httpclient"
+        ]
+      },
+      {
+        "label": "Implement file system access",
+        "items": [
+          "Manage storage by using storagefile, storagefolder, and storageitem",
+          "Access a file location by using filepickers",
+          "Implement data roaming and roaming folders"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement feature detection for adaptive coding (10–15%)",
+    "skills": [
+      {
+        "label": "Implement API detection within adaptive code",
+        "items": []
+      },
+      {
+        "label": "Implement Type detection within adaptive code",
+        "items": []
+      },
+      {
+        "label": "Implement supported capabilities",
+        "items": [
+          "Implement support for a microphone, implement support for a webcam, implement support for location, implement support for enterprise authentication"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage user input and custom user interactions (10–15%)",
+    "skills": [
+      {
+        "label": "Implement command bars, flyouts, and dialogs",
+        "items": [
+          "Implement command bars and appbarbutton buttons, implement context menus and menu flyouts, implement content dialogs, display a tooltip by using tooltipservice, display a pop-up menu, implement control over app settings"
+        ]
+      },
+      {
+        "label": "Implement support for traditional and touch input devices",
+        "items": [
+          "Support touch input, support mouse input, support keyboard and virtual keyboard input"
+        ]
+      },
+      {
+        "label": "Implement speech and voice commands",
+        "items": [
+          "Support speech synthesis, support speech recognition, support cortana integration, support personal assistant launch capability, support voice commands"
+        ]
+      },
+      {
+        "label": "Implement alternative forms of input",
+        "items": [
+          "Implement inking, implement camera input, implement location services and gps input"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage authentication and identity management (10–15%)",
+    "skills": [
+      {
+        "label": "Implement authentication using Web Authentication Broker",
+        "items": [
+          "Implement web service authentication, implement oauth, implement azure active directory authentication"
+        ]
+      },
+      {
+        "label": "Manage credentials securely with Credential Locker",
+        "items": []
+      },
+      {
+        "label": "Implement two-factor authentication",
+        "items": [
+          "Implement two-factor authentication using microsoft passport, implement two-factor authentication using windows hello"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement notifications, background tasks, and reusable components (15–20%)",
+    "skills": [
+      {
+        "label": "Create and consume class libraries and Windows Runtime components",
+        "items": [
+          "Develop windows runtime components, develop class libraries, integrate class libraries and windows runtime components"
+        ]
+      },
+      {
+        "label": "Implement tile and toast notifications",
+        "items": [
+          "Implement adaptive and interactive toast notifications, implement local tile notifications"
+        ]
+      },
+      {
+        "label": "Create and register a background task",
+        "items": [
+          "Create a background task project and reference the background task within a project, implement background task event triggers and conditions"
+        ]
+      },
+      {
+        "label": "Implement and manage a background task",
+        "items": [
+          "Monitor background task progress and completion, manage task lifecycle, share data and events between an app and its background tasks, call a background task directly"
+        ]
+      },
+      {
+        "label": "Create and consume a Universal Windows Platform (UWP) app service",
+        "items": [
+          "Specify the appservice extension, implement app service as a background task, deploy the app service provider, call app services"
+        ]
+      }
+    ]
+  }
+]

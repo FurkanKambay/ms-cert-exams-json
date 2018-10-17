@@ -1,0 +1,100 @@
+[
+  {
+    "label": "Install and configure Microsoft Dynamics CRM (30–35%)",
+    "skills": [
+      {
+        "label": "Identify system requirements and required technologies",
+        "items": [
+          "Identify editions and licensing options for microsoft dynamics crm on-premises",
+          "Identify required and optional technologies (active directory, iis, sql server, microsoft sharepoint, exchange server, secure token service)",
+          "Identify sharepoint, web application, and mobile device requirements",
+          "Identify language and currency support",
+          "Identify microsoft dynamics crm server roles and role groups",
+          "Active directory modes",
+          "Explore surestep planning"
+        ]
+      },
+      {
+        "label": "Install Microsoft Dynamics CRM Server",
+        "items": [
+          "Identify microsoft dynamics crm server hardware and software requirements and sql server and sql server reporting services requirements, identify components installed during server setup (folders, web components, services, active directory groups, sql server components), identify other software installed, identify iis considerations, install required rights, perform install on a single server and multiple servers (front-end and back-end server roles), troubleshoot installation, perform post-installation tasks, install microsoft dynamics crm server by using the command line, load sample data, install language packs, uninstall microsoft dynamics crm server"
+        ]
+      },
+      {
+        "label": "Install Microsoft Dynamics CRM reporting extensions",
+        "items": [
+          "Explore sql-based and fetch-based reports, identify installation requirements, install reporting and report authoring extensions"
+        ]
+      },
+      {
+        "label": "Upgrade to Microsoft Dynamics CRM 2015",
+        "items": [
+          "Identify upgrade strategy, planning, and paths",
+          "Identify components supported for upgrade and not supported for upgrade",
+          "Identify microsoft dynamics crm editions and versions supported for direct upgrade",
+          "Plan for merging of base and extension tables",
+          "Upgrade editions of microsoft dynamics crm not supported for direct upgrade",
+          "Upgrade other components (email router, microsoft dynamics crm client for outlook)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and manage Microsoft Dynamics CRM (30–35%)",
+    "skills": [
+      {
+        "label": "Manage Microsoft Dynamics CRM with the Deployment Manager",
+        "items": [
+          "Identify deployment administrators, manage organizations (create, disable, delete, edit, and import), manage servers in the deployment, modify web addresses, identify the redeployment process and active directory considerations, manage microsoft dynamics crm by using windows powershell"
+        ]
+      },
+      {
+        "label": "Configure email management",
+        "items": [
+          "Explore the role of the email router",
+          "Identify email router components and hardware and software requirements",
+          "Configure supported email systems, automatic email tracking (smart-matching and tracking token), incoming and outgoing message options, and individual mailbox and forward mailbox monitoring",
+          "Install the email router and the rule deployment wizard",
+          "Configure the email router",
+          "Perform email router administration tasks (approve email addresses)",
+          "Explore supported scenarios for server-side synchronization",
+          "Configure server-side synchronization"
+        ]
+      },
+      {
+        "label": "Implement Microsoft Dynamics CRM for Outlook",
+        "items": [
+          "Identify client for outlook hardware and software requirements, identify deployment methods (manual, group policy, system center configuration manager), configure microsoft dynamics crm for outlook, install by using the command line, configure offline capability, identify compatibility of microsoft dynamics crm client with microsoft dynamics crm server"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Maintain and extend Microsoft Dynamics CRM deployments (30–35%)",
+    "skills": [
+      {
+        "label": "Configure an Internet-facing deployment",
+        "items": [
+          "Identify ifd and ssl certificate requirements",
+          "Configure required dns entries",
+          "Explore claims-based authentication",
+          "Use ad fs as the secure token service",
+          "Configure claims-based authentication, an internet-facing deployment, and service principal names (spns)",
+          "Establish federation across domains"
+        ]
+      },
+      {
+        "label": "Maintain and troubleshoot a deployment",
+        "items": [
+          "Manage service accounts and system jobs, manage disaster recovery, implement volume shadow copy service (vss) support, manage sql databases and data encryption, identify troubleshooting steps, configure tracing, install update rollups, use the best practices analyzer"
+        ]
+      },
+      {
+        "label": "Implement high-availability options",
+        "items": [
+          "Deploy multiple microsoft dynamics crm servers, implement network load balancing (nlb), install a sql server cluster"
+        ]
+      }
+    ]
+  }
+]

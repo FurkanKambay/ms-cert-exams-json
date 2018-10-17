@@ -1,0 +1,170 @@
+[
+  {
+    "label": "Understand Java fundamentals (15-20%)",
+    "skills": [
+      {
+        "label": "Describe the use of main in a Java application",
+        "items": [
+          "Signature of main, why it is static",
+          "How to consume an instance of your own class",
+          "Command-line arguments"
+        ]
+      },
+      {
+        "label": "Perform basic input and output using standard packages",
+        "items": [
+          "Print statements",
+          "Import and use the scanner class"
+        ]
+      },
+      {
+        "label": "Evaluate the scope of a variable",
+        "items": [
+          "Declare a variable within a block, class, or method"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Work with data types, variables, and expressions (40-45%)",
+    "skills": [
+      {
+        "label": "Declare and use primitive data type variables",
+        "items": [
+          "Data types, including byte, char, int, double, short, long, float, boolean",
+          "Identify when precision is lost",
+          "Initialization",
+          "How primitives differ from wrapper object types such as integer and boolean"
+        ]
+      },
+      {
+        "label": "Construct and evaluate code that manipulates strings",
+        "items": [
+          "String class and string literals, comparisons, concatenation, case and length",
+          "String.format methods",
+          "String operators",
+          "Converting a primitive data type to a string",
+          "The immutable nature of strings",
+          "Initialization",
+          "Null"
+        ]
+      },
+      {
+        "label": "Construct and evaluate code that creates, iterates, and manipulates arrays and array lists",
+        "items": [
+          "One- and two-dimensional arrays, including initialization, null, size, iterating elements, accessing elements",
+          "Array lists, including adding and removing elements, traversing the list"
+        ]
+      },
+      {
+        "label": "Construct and evaluate code that performs parsing, casting and conversion",
+        "items": [
+          "Implementing code that casts between primitive data types, converts primitive types to equivalent object types, or parses strings to numbers"
+        ]
+      },
+      {
+        "label": "Construct and evaluate arithmetic expressions",
+        "items": [
+          "Arithmetic operators, assignment, compound assignment operators, operator precedence"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement flow control (15-20%)",
+    "skills": [
+      {
+        "label": "Construct and evaluate code that uses branching statements",
+        "items": [
+          "If, else, else if, switch",
+          "Single-line versus block",
+          "Nesting",
+          "Logical and relational operators"
+        ]
+      },
+      {
+        "label": "Construct and evaluate code that uses loops",
+        "items": [
+          "While, for, for each, do while",
+          "Break and continue",
+          "Nesting",
+          "Logical, relational, and unary operators"
+        ]
+      }
+    ]
+  },
+  {
+    "label": " Perform object-oriented programming (10-15%)",
+    "skills": [
+      {
+        "label": "Construct and evaluate a class definition",
+        "items": [
+          "Constructors",
+          "Constructor overloading",
+          "One class per .java file",
+          "This keyword",
+          "Inheritance and overriding at a basic level"
+        ]
+      },
+      {
+        "label": "Declare, implement, and access data members in a class",
+        "items": [
+          "Private, public, protected",
+          "Instance data members",
+          "Static data members",
+          "Using static final to create constants",
+          "Describe encapsulation"
+        ]
+      },
+      {
+        "label": "Declare, implement, and access methods",
+        "items": [
+          "Private, public, protected",
+          "Method parameters",
+          "Return type",
+          "Void",
+          "Return value",
+          "Instance methods",
+          "Static methods",
+          "Overloading"
+        ]
+      },
+      {
+        "label": "Instantiate and use a class object in a program",
+        "items": [
+          "Instantiation",
+          "Initialization",
+          "Null",
+          "Accessing and modifying data members",
+          "Accessing methods",
+          "Accessing and modifying static members",
+          "Importing packages and classes"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Compile and debug code (5-10%)",
+    "skills": [
+      {
+        "label": "Troubleshoot syntax errors, logic errors, and runtime errors",
+        "items": [
+          "Print statement debugging",
+          "Output from the javac command",
+          "Analyzing code for logic errors",
+          "Console exceptions after running the program",
+          "Evaluating a stack trace"
+        ]
+      },
+      {
+        "label": "Implement exception handling",
+        "items": [
+          "Try catch finally",
+          "Exception class",
+          "Exception class types",
+          "Display exception information"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "label": "Design a SharePoint topology (20–25%)",
+    "skills": [
+      {
+        "label": "Design information architecture",
+        "items": [
+          "Design an inter-site navigational taxonomy",
+          "Design site columns and content types",
+          "Design keywords, synonyms, best bets, and managed properties",
+          "Plan information management policies",
+          "Plan managed site structures",
+          "Plan term sets",
+          "Plan hybrid cloud integration requirements"
+        ]
+      },
+      {
+        "label": "Design a logical architecture",
+        "items": [
+          "Plan application pools",
+          "Plan web applications",
+          "Plan for software boundaries",
+          "Plan content databases",
+          "Plan host-header site collections",
+          "Plan zones and alternate access mapping"
+        ]
+      },
+      {
+        "label": "Design a physical architecture",
+        "items": [
+          "Design a storage architecture",
+          "Configure basic request management",
+          "Define individual server requirements",
+          "Define service topologies",
+          "Plan server load balancing",
+          "Plan a network infrastructure"
+        ]
+      },
+      {
+        "label": "Plan a SharePoint Online (Microsoft Office 365) deployment",
+        "items": [
+          "Evaluate service offerings",
+          "Plan service applications",
+          "Plan site collections",
+          "Plan customizations and solutions",
+          "Plan security for sharepoint online",
+          "Plan networking services for sharepoint online"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan security (20–25%)",
+    "skills": [
+      {
+        "label": "Plan and configure authentication",
+        "items": [
+          "Plan and configure windows authentication",
+          "Plan and configure identity federation",
+          "Configure claims providers",
+          "Configure site-to-site (s2s) intra-server and oauth authentication",
+          "Plan and configure anonymous authentication",
+          "Configure connections to access control service",
+          "Configure authentication for hybrid cloud deployments"
+        ]
+      },
+      {
+        "label": "Plan and configure authorization",
+        "items": [
+          "Plan and configure sharepoint users and groups",
+          "Plan and configure people picker",
+          "Plan and configure sharing",
+          "Plan and configure permission inheritance",
+          "Plan and configure anonymous access",
+          "Plan web application policies"
+        ]
+      },
+      {
+        "label": "Plan and configure platform security",
+        "items": [
+          "Plan and configure security isolation",
+          "Plan and configure services lockdown",
+          "Plan and configure general firewall security",
+          "Plan and configure antivirus settings",
+          "Plan and configure certificate management"
+        ]
+      },
+      {
+        "label": "Plan and configure farm-level security",
+        "items": [
+          "Plan rights management",
+          "Plan and configure delegated farm administration",
+          "Plan and configure delegated service application administration",
+          "Plan and configure managed accounts",
+          "Plan and configure blocked file types",
+          "Plan and configure web part security"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Install and configure SharePoint farms (20–25%)",
+    "skills": [
+      {
+        "label": "Plan installation",
+        "items": [
+          "Identify and configure installation prerequisites",
+          "Implement scripted deployment",
+          "Implement patch slipstreaming",
+          "Plan and install language packs",
+          "Plan and configure service connection points",
+          "Plan installation tracking and auditing",
+          "Implement managed paths for office 365 migrations",
+          "Configure sharepoint hybrid cloud settings"
+        ]
+      },
+      {
+        "label": "Plan and configure farm-wide settings",
+        "items": [
+          "Configure incoming and outgoing email",
+          "Plan and configure proxy groups",
+          "Configure sharepoint designer settings",
+          "Plan and configure a corporate catalog",
+          "Configure office web apps integration",
+          "Configure microsoft azure workflow server integration"
+        ]
+      },
+      {
+        "label": "Create and configure enterprise search",
+        "items": [
+          "Plan and configure a search topology",
+          "Plan and configure content sources",
+          "Plan and configure crawl schedules",
+          "Plan and configure crawl rules",
+          "Plan and configure crawl performance",
+          "Plan and configure security trimming"
+        ]
+      },
+      {
+        "label": "Create and configure a Managed Metadata Service (MMS) application",
+        "items": [
+          "Configure proxy settings for managed service applications",
+          "Configure content type hub settings",
+          "Configure sharing term sets",
+          "Plan and configure content type propagation schedules",
+          "Configure custom properties",
+          "Configure term store permissions",
+          "Configure managed metadata service (mms) imports"
+        ]
+      },
+      {
+        "label": "Create and configure a User Profile Service (UPA) application",
+        "items": [
+          "Configure a upa application",
+          "Set up my sites and my site hosts",
+          "Configure social permissions",
+          "Plan and configure sync connections",
+          "Configure profile properties, configure audiences"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and Configure web applications and site collections (15–20%)",
+    "skills": [
+      {
+        "label": "Provision and configure web applications",
+        "items": [
+          "Create managed paths",
+          "Configure http throttling",
+          "Configure list throttling",
+          "Configure alternate access mappings (aam)",
+          "Configure an authentication provider",
+          "Configure sharepoint designer settings"
+        ]
+      },
+      {
+        "label": "Create and maintain site collections",
+        "items": [
+          "Configure host header site collections",
+          "Configure self-service site creation",
+          "Maintain site owners",
+          "Maintain site quotas",
+          "Configure site policies",
+          "Configure a team mailbox"
+        ]
+      },
+      {
+        "label": "Manage site and site collection security",
+        "items": [
+          "Manage site access requests",
+          "Manage app permissions",
+          "Manage anonymous access",
+          "Manage permission inheritance",
+          "Configure permission levels",
+          "Configure html field security"
+        ]
+      },
+      {
+        "label": "Manage search",
+        "items": [
+          "Manage result sources",
+          "Manage query rules",
+          "Manage display templates",
+          "Manage search engine optimization (seo) settings",
+          "Manage result types",
+          "Manage a search schema"
+        ]
+      },
+      {
+        "label": "Manage taxonomy",
+        "items": [
+          "Manage site collection term set access",
+          "Manage term set navigation",
+          "Manage topic catalog pages",
+          "Configure custom properties",
+          "Configure search refinement",
+          "Configure list refinement"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Maintain a core SharePoint environment (15–20%)",
+    "skills": [
+      {
+        "label": "Monitor a SharePoint environment",
+        "items": [
+          "Define monitoring requirements",
+          "Configure performance counter capture",
+          "Configure page performance monitoring",
+          "Configure usage and health providers",
+          "Monitor and forecast storage needs",
+          "Monitor sharepoint hybrid cloud deployments"
+        ]
+      },
+      {
+        "label": "Tune and optimize a SharePoint environment",
+        "items": [
+          "Plan and configure sql optimization",
+          "Execute database maintenance rules",
+          "Plan for capacity software boundaries",
+          "Estimate storage requirements",
+          "Plan and configure caching",
+          "Tune network performance"
+        ]
+      },
+      {
+        "label": "Troubleshoot a SharePoint environment",
+        "items": [
+          "Establish baseline performance",
+          "Perform client-side tracing",
+          "Perform server-side tracing",
+          "Analyze usage data",
+          "Enable a developer dashboard",
+          "Analyze diagnostic logs",
+          "Troubleshoot sharepoint hybrid cloud issues"
+        ]
+      }
+    ]
+  }
+]

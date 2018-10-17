@@ -1,0 +1,366 @@
+[
+  {
+    "label": "Design and Implement Azure App Service Apps (10-15%)",
+    "skills": [
+      {
+        "label": "Deploy Web Apps",
+        "items": [
+          "Define deployment slots",
+          "Roll back deployments",
+          "Implement pre- and post-deployment actions",
+          "Create, configure, and deploy packages",
+          "Create app service plans",
+          "Migrate web apps between app service plans",
+          "Create an app within an app service plan",
+          "Determine when to use app service environment (ase)",
+          "Select and use appropriate deployment methods including git, ftp, and cloud sync"
+        ]
+      },
+      {
+        "label": "Configure Apps",
+        "items": [
+          "Define and use app settings, connection strings, handlers, and virtual directories",
+          "Configure certificates and custom domains",
+          "Configure ssl bindings and runtime configurations",
+          "Manage apps by using azure powershell and azure-cli",
+          "Manage app service backups",
+          "Configure authentication and authorization for apps",
+          "Configure app notifications"
+        ]
+      },
+      {
+        "label": "Configure diagnostics, monitoring, and analytics",
+        "items": [
+          "Retrieve diagnostics data",
+          "View streaming logs",
+          "Configure endpoint monitoring",
+          "Configure alerts",
+          "Configure diagnostics",
+          "Use remote debugging",
+          "Monitor web app resources",
+          "Use microsoft operations management suite (oms) workspaces"
+        ]
+      },
+      {
+        "label": "Configure Web Apps for scale and resilience",
+        "items": [
+          "Configure auto-scale using built-in and custom schedules",
+          "Configure by metric",
+          "Change the size of an instance",
+          "Configure azure traffic manager"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and Manage Azure Resource Manager Virtual Machines (20-25%)",
+    "skills": [
+      {
+        "label": "Deploy workloads on Azure Resource Manager (ARM) virtual machines (VMs)",
+        "items": [
+          "Identify workloads that can and cannot be deployed",
+          "Run workloads that use microsoft or linux operating systems",
+          "Create vms",
+          "Connect to a windows/linux vm",
+          "Deploy workloads",
+          "Deploy bring your own license (byol) images"
+        ]
+      },
+      {
+        "label": "Perform configuration management",
+        "items": [
+          "Automate configuration management by using powershell desired state configuration (dsc) and vm agent (custom script extensions)",
+          "Enable remote debugging"
+        ]
+      },
+      {
+        "label": "Design and implement VM storage",
+        "items": [
+          "Configure disk caching",
+          "Plan storage capacity",
+          "Configure operating system disk redundancy",
+          "Configure shared storage using azure file service",
+          "Configure azure file share snapshots",
+          "Configure geo-replication",
+          "Encrypt disks",
+          "Implement arm vms with standard and premium storage",
+          "Configure blob-level tiering (hot, cool, archive)",
+          "Manage storage encryption keys"
+        ]
+      },
+      {
+        "label": "Monitor ARM VMs",
+        "items": [
+          "Configure arm vm monitoring",
+          "Configure alerts",
+          "Configure diagnostic and monitoring storage location"
+        ]
+      },
+      {
+        "label": "Manage ARM VM availability",
+        "items": [
+          "Configure multiple arm vms in an availability set for redundancy",
+          "Configure each application tier into separate availability sets",
+          "Combine the load balancer with availability sets",
+          "Configure fault domains and update domains",
+          "Leverage availability zones"
+        ]
+      },
+      {
+        "label": "Scale ARM VMs",
+        "items": [
+          "Scale up and scale down vm sizes",
+          "Deploy arm vm scale sets (vmss)",
+          "Configure arm vmss auto-scale"
+        ]
+      },
+      {
+        "label": "Manage Containers with Azure Container Services (AKS)",
+        "items": [
+          "Deploy a kubernetes cluster in aks",
+          "Create and manage container images",
+          "Scale applications using docker, dc/os, swarm, or kubernetes",
+          "Configure for open-source tooling",
+          "Migrate container workloads to and from azure",
+          "Monitor kubernetes by using microsoft operations management suite (oms)",
+          "Implement azure container registry"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and Implement a Storage Strategy (10-15%)",
+    "skills": [
+      {
+        "label": "Implement Azure Storage blobs and Azure Files",
+        "items": [
+          "Identify appropriate blob type for specific storage requirements",
+          "Read data",
+          "Change data",
+          "Set metadata on a container",
+          "Store data using block and page blobs",
+          "Stream data using blobs",
+          "Access blobs securely",
+          "Implement async blob copy",
+          "Configure content delivery network (cdn)",
+          "Design blob hierarchies",
+          "Configure custom domains",
+          "Scale blob storage",
+          "Manage smb file storage",
+          "Implement azure storsimple"
+        ]
+      },
+      {
+        "label": "Manage access",
+        "items": [
+          "Create and manage shared access signatures",
+          "Use stored access policies",
+          "Regenerate keys",
+          "Encrypt keys by using azure key vault integration"
+        ]
+      },
+      {
+        "label": "Configure diagnostics, monitoring, and analytics",
+        "items": [
+          "Set retention policies and logging levels",
+          "Access, add, and remove logs",
+          "Analyze logs"
+        ]
+      },
+      {
+        "label": "Implement storage encryption",
+        "items": [
+          "Encrypt data as written to azure storage by using azure storage service encryption (sse)",
+          "Implement encrypted and role-based security for data managed by azure data lake store"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Virtual Networks (15-20%)",
+    "skills": [
+      {
+        "label": "Configure virtual networks",
+        "items": [
+          "Deploy a vm into a virtual network",
+          "Configure external and internal load balancing",
+          "Implement application gateway",
+          "Design subnets",
+          "Configure static, public, and private ip addresses",
+          "Set up network security groups (nsgs), dns at the virtual network level, http and tcp health probes, public ips, user defined routes (udrs), firewall rules, and direct server return",
+          "Connect vnets by virtual network peering",
+          "Configure vms using a configuration management tool such as puppet or chef"
+        ]
+      },
+      {
+        "label": "Design and implement multi-site or hybrid network connectivity",
+        "items": [
+          "Choose the appropriate solution between azure expressroute, site-to-site, and point-to-site",
+          "Choose the appropriate gateway",
+          "Identify supported devices and software vpn solutions",
+          "Identify networking prerequisites",
+          "Configure virtual networks and multi-site virtual networks",
+          "Implement virtual network peering and service chaining",
+          "Implement hybrid connections to access on-premises data sources, leverage s2s vpns to connect to on-premises infrastructure",
+          "Monitor expressroute"
+        ]
+      },
+      {
+        "label": "Configure ARM VM networking",
+        "items": [
+          "Configure static ip addresses, network security groups (nsgs), dns, user defined routes (udrs), external and internal load balancing with http and tcp health probes, public ips, firewall rules, and direct server return",
+          "Design and implement application gateway",
+          "Configure accelerated networking",
+          "Configure virtual network service endpoints"
+        ]
+      },
+      {
+        "label": "Design and implement a connection strategy",
+        "items": [
+          "Implement hybrid connections to access data sources on-premises",
+          "Leverage s2s vpn to connect to an on-premises infrastructure"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and Deploy ARM Templates (10-15%)",
+    "skills": [
+      {
+        "label": "Implement ARM templates",
+        "items": [
+          "Author arm templates",
+          "Create arm templates to deploy multiple arm resource providers resources of different types with count loops and marketplace items",
+          "Deploy templates with powershell, azure cli, azure portal and rest api"
+        ]
+      },
+      {
+        "label": "Control access",
+        "items": [
+          "Leverage service principals with arm authentication",
+          "Use azure active directory authentication with arm",
+          "Set management policies",
+          "Configure lock policies",
+          "Lock resources"
+        ]
+      },
+      {
+        "label": "Design role-based access control (RBAC)",
+        "items": [
+          "Secure resource scopes such as the ability to create vms and azure web apps",
+          "Implement azure rbac standard roles",
+          "Design azure rbac custom roles"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Azure Security and Recovery Services (25-30%)",
+    "skills": [
+      {
+        "label": "Manage data protection and security compliance",
+        "items": [
+          "Create and import encryption keys with key vault",
+          "Automate tasks for ssl/tls certificates",
+          "Prevent and respond to security threats with azure security center",
+          "Configure single sign-on with saas applications using federation and password based authentication",
+          "Add users and groups to applications",
+          "Revoke access to saas applications",
+          "Configure access",
+          "Configure federation with public consumer identity providers such as facebook and google"
+        ]
+      },
+      {
+        "label": "Implement recovery services",
+        "items": [
+          "Create a backup vault",
+          "Deploy a backup agent",
+          "Backup and restore data, use snapshots and geo-replication for recovery",
+          "Implement dr as service",
+          "Deploy azure site recovery (asr) agent, configure asr",
+          "Configure asr one-click failover"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Azure Operations (5-10%)",
+    "skills": [
+      {
+        "label": "Enhance cloud management with automation",
+        "items": [
+          "Implement powershell runbooks",
+          "Integrate azure automation with web apps",
+          "Create and manage powershell desired state configurations (dsc)",
+          "Import dsc resources",
+          "Generate dsc node configurations",
+          "Monitor and automatically update machine configurations with azure automation dsc",
+          "Implement serverless computing, including azure functions, event grid, and service bus"
+        ]
+      },
+      {
+        "label": "Collect and analyze data generated by resources in cloud and on-premises environments",
+        "items": [
+          "Collect and search across data sources from multiple systems",
+          "Build custom visualizations",
+          "Visualize azure resources across multiple subscriptions",
+          "Transform azure activity data and managed resource data into an insight with flexible search queries",
+          "Monitor system updates and malware status",
+          "Track server configuration changes by using azure log analytics",
+          "Configure the it service management connector (itsmc)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Azure Identities (5-10%)",
+    "skills": [
+      {
+        "label": "Monitor on-premises identity infrastructure and synchronization services with Azure AD Connect Health",
+        "items": [
+          "Monitor ad fs proxy and web application proxy servers",
+          "Setup email notifications for critical alerts",
+          "Generate utilization reports",
+          "Monitor sync engine",
+          "Monitor domain controllers",
+          "Monitor replication"
+        ]
+      },
+      {
+        "label": "Manage domains with Azure Active Directory Domain Services",
+        "items": [
+          "Join azure virtual machines to a domain, securely administer domain-joined virtual machines by using group policy",
+          "Migrate on-premises apps to azure",
+          "Handle traditional directory-aware apps along with saas apps"
+        ]
+      },
+      {
+        "label": "Integrate with Azure Active Directory (Azure AD)",
+        "items": [
+          "Implement azure ad connect and single sign-on with on-premises windows server 2016",
+          "Add custom domains",
+          "Monitor azure ad",
+          "Configure mfa",
+          "Configure windows 10 with azure ad join",
+          "Implement enterprise state roaming, implement azure ad integration in web and desktop applications",
+          "Leverage microsoft graph api",
+          "Implement azure managed service identity",
+          "Implement privileged identity management, implement azure ad identity management, enable self-service password reset"
+        ]
+      },
+      {
+        "label": "Implement Azure AD B2C and Azure AD B2B",
+        "items": [
+          "Create an azure ad b2c directory",
+          "Register an application",
+          "Implement social identity provider authentication",
+          "Enable multi-factor authentication",
+          "Set up self-service password reset",
+          "Implement b2b collaboration",
+          "Configure partner users",
+          "Integrate with applications"
+        ]
+      }
+    ]
+  }
+]

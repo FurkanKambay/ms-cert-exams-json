@@ -1,0 +1,169 @@
+[
+  {
+    "label": "Understanding server installation (10–15%)",
+    "skills": [
+      {
+        "label": "Understand device drivers",
+        "items": [
+          "Installation, removal, disabling, update/upgrade, rollback, troubleshooting, plug & play, irq, interrupts, driver signing, managing through group policy"
+        ]
+      },
+      {
+        "label": "Understand services",
+        "items": [
+          "Which statuses a service can be in, startup types, recovery options, delayed startup, run as settings for a service, stopping or pausing a service, service accounts, dependencies"
+        ]
+      },
+      {
+        "label": "Understand server installation options",
+        "items": [
+          "Choose the correct operating system version options",
+          "Server core vs. desktop experience, nano server installation, interactive installs",
+          "Automated install using wds",
+          "Vhd/vhdx installation source, perform unattended installs",
+          "Perform upgrades, clean installs, and migrations"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding server roles (25–30%)",
+    "skills": [
+      {
+        "label": "Identify application servers",
+        "items": [
+          "Mail servers, database servers, collaboration servers, monitoring servers, threat management"
+        ]
+      },
+      {
+        "label": "Understand Web services",
+        "items": [
+          "Iis, www, and ftp, installing from server manager, separate worker processes, adding components, sites, ports, ssl, certificates"
+        ]
+      },
+      {
+        "label": "Understand remote access",
+        "items": [
+          "Remote assistance, remote administration tools, remote desktop services, multipoint services, licensing, rd gateway, vpn, application virtualization, multiple ports"
+        ]
+      },
+      {
+        "label": "Understand the file and print services",
+        "items": [
+          "Local printers, network printers, printer pools, web printing, web management, driver deployment, file, folder, and share permissions vs. rights, auditing, print job management"
+        ]
+      },
+      {
+        "label": "Understand server virtualization",
+        "items": [
+          "Virtual memory, virtual networks, snapshots and saved states, physical to virtual conversions, virtual to physical conversions, vhd and vhdx formats, nested virtualization"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding Active Directory (20–25%)",
+    "skills": [
+      {
+        "label": "Understand accounts and groups",
+        "items": [
+          "Domain accounts, local accounts, user profiles, computer accounts, group types, default groups, group scopes, group nesting, understand agdlp and agudlp processes to help implement nesting"
+        ]
+      },
+      {
+        "label": "Understand organizational units and containers",
+        "items": [
+          "Purpose of ous, purpose of containers, delegation, default containers, uses for different container objects, default hidden and visible containers"
+        ]
+      },
+      {
+        "label": "Understand Active Directory infrastructure",
+        "items": [
+          "Domain controllers. forests, child domains, operation master roles, domain vs. workgroup, trust relationships, functional levels, deprecated functional levels, namespace, sites, replication, schema, passport"
+        ]
+      },
+      {
+        "label": "Understand group policy",
+        "items": [
+          "Group policy processing, group policy management console, computer policies, user policies, local policies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding storage (10–15%)",
+    "skills": [
+      {
+        "label": "Identify storage technologies and their typical usage scenarios",
+        "items": [
+          "Advantages and disadvantages of different storage topologies, local storage, network storage, fibre channel, iscsi hardware"
+        ]
+      },
+      {
+        "label": "Understand RAID redundancy",
+        "items": [
+          "Raid 0, raid 1, raid 5, raid 10 and combinations, hardware and software raid"
+        ]
+      },
+      {
+        "label": "Understand disk types",
+        "items": [
+          "Solid state drive (ssd) and hard disk drive (hdd) types and comparisons, ata basic disk, dynamic disk, mount points, file systems, mounting a virtual hard disk, distributed file systems"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding server performance management (10–15%)",
+    "skills": [
+      {
+        "label": "Identify major server hardware components",
+        "items": [
+          "Memory, disk, processor, network, 32-bit and 64-bit architecture, removable drives, graphic cards, cooling, power usage, ports"
+        ]
+      },
+      {
+        "label": "Understand performance monitoring",
+        "items": [
+          "Methodology, procedures, effect of network, cpu, memory and disk, creating a baseline, performance monitor, resource monitor, task manager, performance counters, data collector sets"
+        ]
+      },
+      {
+        "label": "Understand logs and alerts, Event Viewer",
+        "items": [
+          "Purpose of performance logs and alerts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understanding server maintenance (15–20%)",
+    "skills": [
+      {
+        "label": "Identify steps in the startup process",
+        "items": [
+          "Bios, uefi, tpm, bootsector, bootloader, mbr, boot.ini, post, safe mode"
+        ]
+      },
+      {
+        "label": "Understand business continuity",
+        "items": [
+          "Backup and restore, disaster recovery planning, clustering, ad restore, folder redirection, data redundancy, uniterruptible power supply (ups)"
+        ]
+      },
+      {
+        "label": "Understand updates",
+        "items": [
+          "Software, driver, operating systems, applications, windows update, windows server update service (wsus)"
+        ]
+      },
+      {
+        "label": "Understand troubleshooting methodology",
+        "items": [
+          "Processes, procedures, best practices",
+          "Systematic vs. specific approach, performance monitor, event viewer, resource monitor, information technology infrastructure library, central logging, event filtering, default logs"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "label": "Design Compute Infrastructure (20-25%)",
+    "skills": [
+      {
+        "label": "Design solutions using virtual machines (VMs)",
+        "items": [
+          "Design vm deployments by leveraging availability sets, fault domains, and update domains in azure",
+          "Use web app for containers",
+          "Design vm scale sets",
+          "Design for compute-intensive tasks using azure batch and azure batch ai",
+          "Define a migration strategy from cloud services",
+          "Determine when to use reserved instances",
+          "Design for vms in a devtest lab environment (including formulas, images, artifacts, claiming and un-claiming vms)",
+          "Determine when to use accelerated networking",
+          "Recommend use of azure backup and azure site recovery including support for linux in azure backup and integrating azure backup in the vm creation process",
+          "Recommend when to use availability zones"
+        ]
+      },
+      {
+        "label": "Design solutions for serverless computing",
+        "items": [
+          "Use azure functions to implement event-driven actions",
+          "Design data storage solutions for serverless computing",
+          "Design for serverless computing using azure container instances",
+          "Design application solutions by using azure logic apps, azure functions, or both",
+          "Determine when to use api management service",
+          "Design event routing solutions using azure event grid",
+          "Design solutions that integrate stream processing and bot messaging"
+        ]
+      },
+      {
+        "label": "Design microservices-based solutions",
+        "items": [
+          "Determine when a container-based solution is appropriate",
+          "Determine when container-orchestration is appropriate",
+          "Determine when azure service fabric (asf) is appropriate",
+          "Determine when azure functions is appropriate",
+          "Determine when to use api management service",
+          "Determine when web api is appropriate",
+          "Determine which platform is appropriate for container orchestration",
+          "Consider migrating existing assets versus cloud native deployment",
+          "Design lifecycle management strategies"
+        ]
+      },
+      {
+        "label": "Design web applications",
+        "items": [
+          "Design azure app service web apps",
+          "Design custom web api",
+          "Secure web api",
+          "Design web apps for scalability and performance",
+          "Design for high availability using azure web apps in multiple regions",
+          "Determine which app service plan to use",
+          "Design web apps for business continuity",
+          "Determine when to use azure app service isolated",
+          "Design for api apps",
+          "Determine when to use api management service",
+          "Determine when to use web apps on linux",
+          "Determine when to use a cdn",
+          "Determine when to use a cache, including azure redis cache"
+        ]
+      },
+      {
+        "label": "Create compute-intensive applications",
+        "items": [
+          "Design high-performance computing (hpc) and other compute-intensive applications using azure services",
+          "Determine when to use azure batch",
+          "Design stateless components to accommodate scale",
+          "Design lifecycle strategy for azure batch",
+          "Design solution that implement low priority batching and job task counting"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design Data Implementation (15-20%)",
+    "skills": [
+      {
+        "label": "Design for Azure Storage solutions",
+        "items": [
+          "Determine when to use azure blob storage, blob tiers (hot, cool, archive), azure files, disks, azure data box, azure storage service encryption, and azure storsimple"
+        ]
+      },
+      {
+        "label": "Design for Azure Data Services",
+        "items": [
+          "Determine when to use azure data catalog, azure data factory, azure sql data warehouse, azure data lake analytics, azure analysis services, and azure hdinsight"
+        ]
+      },
+      {
+        "label": "Design for relational database storage",
+        "items": [
+          "Determine when to use azure sql database and sql server stretch database",
+          "Design for scalability and features",
+          "Determine when to use azure database for mysql and azure database for postgresql",
+          "Design for ha/dr, geo-replication",
+          "Design a backup and recovery strategy",
+          "Design optimization strategies for azure sql data warehouse columnar storage"
+        ]
+      },
+      {
+        "label": "Design for NoSQL storage",
+        "items": [
+          "Determine when to use azure redis cache, azure table storage, azure data lake, azure search, time series insights",
+          "Design pipelines for managing recurring jobs"
+        ]
+      },
+      {
+        "label": "Design for CosmosDB storage",
+        "items": [
+          "Determine when to use mongodb api, azure cosmos db sql api, graph api, azure tables api",
+          "Design for cost, performance, data consistency, availability, and business continuity"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design Networking Implementation (15-20%)",
+    "skills": [
+      {
+        "label": "Design Azure virtual networks",
+        "items": [
+          "Design solutions that use azure networking services: design for load balancing using azure load balancer and azure traffic manager",
+          "Define dns, dhcp, and ip strategies",
+          "Determine when to use azure application gateway",
+          "Determine when to use virtual network (vnet) service endpoints",
+          "Determine when to use multi-node application gateways, traffic manager and load balancers"
+        ]
+      },
+      {
+        "label": "Design external connectivity for Azure Virtual Networks",
+        "items": [
+          "Determine when to use azure vpn, azure expressroute and virtual network peering architecture and design",
+          "Determine when to use user defined routes (udrs)",
+          "Determine when to use vpn gateway site-to-site failover for expressroute",
+          "Determine when to use the container networking interface (cni) plugin",
+          "Design solutions that use global vnet peering"
+        ]
+      },
+      {
+        "label": "Design security strategies",
+        "items": [
+          "Determine when to use network virtual appliances",
+          "Design a perimeter network (dmz)",
+          "Determine when to use a web application firewall (waf), network security group (nsg), and virtual network service tunneling",
+          "Organize resources by designing solutions that use service tags"
+        ]
+      },
+      {
+        "label": "Design connectivity for hybrid applications",
+        "items": [
+          "Design connectivity to on-premises data from azure applications using azure relay service, azure data management gateway for data factory, azure on-premises data gateway, hybrid connections, or azure web app’s virtual private network (vpn) capability",
+          "Identify constraints for connectivity with vpn",
+          "Identify options for joining vms to domains"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design Security and Identity Solutions (20-25%)",
+    "skills": [
+      {
+        "label": "Design an identity solution",
+        "items": [
+          "Design ad connect synchronization",
+          "Design federated identities using active directory federation services (ad fs)",
+          "Design solutions for multi-factor authentication (mfa)",
+          "Design an architecture using active directory on-premises and azure active directory (aad)",
+          "Determine when to use azure ad domain services",
+          "Design security for mobile apps using aad"
+        ]
+      },
+      {
+        "label": "Secure resources by using identity providers",
+        "items": [
+          "Design solutions that use external or consumer identity providers such as microsoft account, facebook, google, and yahoo",
+          "Determine when to use azure ad b2c and azure ad b2b",
+          "Design mobile apps using aad b2c or aad b2b"
+        ]
+      },
+      {
+        "label": "Design a data security solution",
+        "items": [
+          "Design data security solutions for azure services",
+          "Determine when to use azure storage encryption, azure disk encryption, azure sql database security capabilities, and azure key vault",
+          "Design for protecting secrets in arm templates using azure key vault",
+          "Design for protecting application secrets using azure key vault",
+          "Design a solution for managing certificates using azure key vault",
+          "Design solutions that use azure ad managed service identity"
+        ]
+      },
+      {
+        "label": "Design a mechanism of governance and policies for administering Azure resources",
+        "items": [
+          "Determine when to use azure rbac standard roles and custom roles",
+          "Define an azure rbac strategy",
+          "Determine when to use azure resource policies",
+          "Determine when to use azure ad privileged identity management",
+          "Design solutions that use azure ad managed service identity",
+          "Determine when to use hsm-backed keys"
+        ]
+      },
+      {
+        "label": "Manage security risks by using an appropriate security solution",
+        "items": [
+          "Identify, assess, and mitigate security risks by using azure security center, operations management suite security and audit solutions, and other services",
+          "Determine when to use azure ad identity protection",
+          "Determine when to use advanced threat detection",
+          "Determine an appropriate endpoint protection strategy"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design Solutions by using Platform Services (10-15%)",
+    "skills": [
+      {
+        "label": "Design for Artificial Intelligence Services",
+        "items": [
+          "Determine when to use the appropriate cognitive services, azure bot service, azure machine learning, and other categories that fall under cognitive ai"
+        ]
+      },
+      {
+        "label": "Design for IoT",
+        "items": [
+          "Determine when to use azure stream analytics, azure iot hubs, azure event hubs, real-time analytics, azure time series insights, azure iot edge, azure notification hubs, event grid, and other services that fall under iot"
+        ]
+      },
+      {
+        "label": "Design messaging solution architectures",
+        "items": [
+          "Design a messaging architecture",
+          "Determine when to use azure storage queues, azure service bus, azure event hubs, azure event grid, azure relay, azure functions, and azure logic apps",
+          "Design a push notification strategy for mobile apps",
+          "Design for performance and scale"
+        ]
+      },
+      {
+        "label": "Design for media service solutions",
+        "items": [
+          "Define solutions using azure media services, video indexer, video api, computer vision api, preview, and other media related services",
+          "Design solutions that use file-based encoding or azure media analytics"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design for Operations (10-15%)",
+    "skills": [
+      {
+        "label": "Design an application monitoring and alerting strategy",
+        "items": [
+          "Determine the appropriate microsoft products and services for monitoring applications on azure",
+          "Define solutions for analyzing logs and enabling alerts using azure log analytics",
+          "Define solutions for analyzing performance metrics and enabling alerts using azure monitor",
+          "Define a solution for monitoring applications and enabling alerts using application insights"
+        ]
+      },
+      {
+        "label": "Design a platform monitoring and alerting strategy",
+        "items": [
+          "Determine the appropriate microsoft products and services for monitoring azure platform solutions",
+          "Define a monitoring solution using azure health, azure advisor, and activity log",
+          "Define a monitoring solution for azure networks using log analytics and network watcher service",
+          "Monitor security with azure security center",
+          "Design tcp connections"
+        ]
+      },
+      {
+        "label": "Design an operations automation strategy",
+        "items": [
+          "Determine when to use azure automation, chef, puppet, powershell, azure automation (dsc), event grid, and azure logic apps",
+          "Define a strategy for auto-scaling",
+          "Define a strategy for enabling periodic processes and tasks",
+          "Define an update management strategy"
+        ]
+      }
+    ]
+  }
+]

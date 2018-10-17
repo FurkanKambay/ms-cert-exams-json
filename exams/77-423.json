@@ -1,0 +1,100 @@
+[
+  {
+    "label": "Manage the Outlook environment (25–30%)",
+    "skills": [
+      {
+        "label": "Customize Outlook settings",
+        "items": [
+          "Include original messages with all reply messages, change text formats for all outgoing messages, customize the navigation pane, block specific addresses, configure views, manage multiple accounts, set outlook options"
+        ]
+      },
+      {
+        "label": "Automate Outlook",
+        "items": [
+          "Change quoted text colors, create and assign signatures, use quick steps, create and manage rules, create auto-replies"
+        ]
+      },
+      {
+        "label": "Print and save information in Outlook",
+        "items": [
+          "Print messages, print calendars, save message attachments, preview attachments, print contacts, print tasks, save messages in alternate formats, create data files"
+        ]
+      },
+      {
+        "label": "Search in Outlook",
+        "items": [
+          "Create new search folders, search for messages, search for tasks, search for contacts, search calendars, use advanced find, use search by location"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage messages (25–30%)",
+    "skills": [
+      {
+        "label": "Create a message",
+        "items": [
+          "Create messages, forward messages, delete messages, add/remove message attachments, add cc and bcc to messages, add voting options to messages, reply to all, reply to sender only, prioritize messages, mark as private, request delivery/read receipt, redirect replies, delegate access"
+        ]
+      },
+      {
+        "label": "Format a message",
+        "items": [
+          "Format text, insert hyperlinks, apply themes and styles, insert images, add a signature to specific messages, format signatures, create and use quick parts"
+        ]
+      },
+      {
+        "label": "Organize and manage messages",
+        "items": [
+          "Sort messages, move messages between folders, add new local folders, apply categories, configure junk email settings, clean up messages, mark as read/unread, flag messages, ignore messages, sort by conversation, set attachment reminder options"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage schedules (30–35%)",
+    "skills": [
+      {
+        "label": "Create and manage calendars",
+        "items": [
+          "Adjust viewing details for calendars, modify calendar time zones, delete calendars, set calendar work times, use multiple calendars, manage calendar groups, overlay calendars, share calendars"
+        ]
+      },
+      {
+        "label": "Create appointments, meetings, and events",
+        "items": [
+          "Create calendar items, create recurring calendar items, cancel calendar items, create calendar items from messages, set calendar item times, categorize calendar items, use the scheduling assistant, change availability status, schedule resources, utilize room finder"
+        ]
+      },
+      {
+        "label": "Organize and manage appointments, meetings, and events",
+        "items": [
+          "Set calendar item importance, forward calendar items, configure reminders, add participants, respond to invitations, update calendar items, share meeting notes"
+        ]
+      },
+      {
+        "label": "Create and manage notes, tasks, and journals",
+        "items": [
+          "Create and manage tasks, create and manage notes, attach notes to contacts, create journal entries, update task status"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage contacts and groups (15–20%)",
+    "skills": [
+      {
+        "label": "Create and manage contacts",
+        "items": [
+          "Create new contacts, delete contacts, import contacts from external sources, edit contact information, attach an image to contacts, add tags to contacts, share contacts, manage multiple address books"
+        ]
+      },
+      {
+        "label": "Create and manage groups",
+        "items": [
+          "Create new contact groups, add contacts to existing groups, add notes to a group, update contacts within groups, delete groups, delete group members"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "label": "Create and format content (25–30%)",
+    "skills": [
+      {
+        "label": "Navigate the SharePoint hierarchy",
+        "items": [
+          "Use quick launch, use all site content, use breadcrumb trails, add content to quick launch, use content and structure for navigation"
+        ]
+      },
+      {
+        "label": "Manage lists and libraries",
+        "items": [
+          "Create lists or libraries, edit properties for new items, enable email notifications on lists or libraries, provide shortcuts to a mobile site url, manage document templates, manage list views, create alerts on lists or libraries, use ratings, add columns, add content validation, manage column properties"
+        ]
+      },
+      {
+        "label": "Manage list items",
+        "items": [
+          "Create new list items, edit content, delete list items or documents, version list items, publish assets, manage existing workflows, upload documents, create and manage announcements, collaborate with microsoft office assets (calendars, spreadsheets, web apps)"
+        ]
+      },
+      {
+        "label": "Manage document sets",
+        "items": [
+          "Add documents to document sets, create document sets, activate and deactivate document sets"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage SharePoint sites (30–35%)",
+    "skills": [
+      {
+        "label": "Manage pages",
+        "items": [
+          "Create new site pages, use templates, edit and delete existing site pages"
+        ]
+      },
+      {
+        "label": "Perform administrative tasks on sites and workspaces",
+        "items": [
+          "Create new sites or workspaces using templates, configure site or workspace structures, configure the content organizer, display a list of all user alerts, modify look and feel, recover assets (lists, libraries, documents, list items), use document and meeting workspaces, view site web analytics, view detailed reports"
+        ]
+      },
+      {
+        "label": "Manage Web Parts on a page",
+        "items": [
+          "Add web parts, configure web parts, hide or remove web parts, export or import web parts"
+        ]
+      },
+      {
+        "label": "Manage content types",
+        "items": [
+          "Associate content types to lists, extend the columns of content types, create custom content types"
+        ]
+      },
+      {
+        "label": "Manage users and groups",
+        "items": [
+          "Create groups, manage groups, manage user access, manage group permissions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Participate in user communities (15–20%)",
+    "skills": [
+      {
+        "label": "Configure My Site",
+        "items": [
+          "Add keywords, add colleagues, select themes, configure the colleague tracker web part, configure rss feeds, configure my profile"
+        ]
+      },
+      {
+        "label": "Collaborate through My Site",
+        "items": [
+          "Update profile status, share pictures in my site, manage personal documents, share documents in my site, browse the organization hierarchy, add web parts to my site"
+        ]
+      },
+      {
+        "label": "Add tags and notes to content",
+        "items": [
+          "Add notes to the note board for lists or libraries, add tags for lists or libraries, rate items, use tag clouds, review tags on my site"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and consume site search results (15–20%)",
+    "skills": [
+      {
+        "label": "Perform search administration at the site level",
+        "items": [
+          "Configure searchable columns, configure list searches, configure site search visibility"
+        ]
+      },
+      {
+        "label": "View search results",
+        "items": [
+          "Browse search results, use best bet results, use the refinement panel, use alerts and rss feeds with search results, preview documents"
+        ]
+      },
+      {
+        "label": "Perform advanced searches",
+        "items": [
+          "Use boolean operators in searches, use wild cards in searches, use property searches, use phonetic searches, use people search, use advanced searches"
+        ]
+      }
+    ]
+  }
+]

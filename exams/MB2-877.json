@@ -1,0 +1,268 @@
+[
+  {
+    "label": "Set up and configure Field Service (15 – 20%)",
+    "skills": [
+      {
+        "label": "Perform initial configuration steps",
+        "items": [
+          "This objective may include but is not limited to: identify key security roles, identify resource scheduling options",
+          "Identify entities that can be customized with administrative settings, identify product and service categories."
+        ]
+      },
+      {
+        "label": "Configure product and service pricing",
+        "items": [
+          "This objective may include but is not limited to: configure product and service pricing features including minimum charge amount, minimum charge duration, and the flat fee option",
+          "Add products and services to incidents",
+          "Determine when a product has a default list price and a work order price list",
+          "Associate products and services with price lists",
+          "Define tax codes."
+        ]
+      },
+      {
+        "label": "Configure bookable resources",
+        "items": [
+          "This objective may include but is not limited to: identify fields for bookable resources",
+          "Enable mapping functionality",
+          "Identify entities that are geocoded",
+          "Define start and end locations for resources",
+          "Identify differences between address types."
+        ]
+      },
+      {
+        "label": "Configure additional options",
+        "items": [
+          "This objective may include but is not limited to: configure territories and organizational units",
+          "Identify skills types",
+          "Configure characteristics and skills",
+          "Configure proficiency models",
+          "Implement resource roles and categories",
+          "Explain differences between organizational units and business units."
+        ]
+      },
+      {
+        "label": "Integrate other tools with Field Service",
+        "items": [
+          "This objective may include but is not limited to: automate processes by using microsoft flow",
+          "Build flows using visual designer",
+          "Identify uses for the twilio solution",
+          "Identify opportunities to integrate glympse with the connected field service solution."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage work orders (15 – 20%)",
+    "skills": [
+      {
+        "label": "Describe the work order lifecycle",
+        "items": [
+          "This objective may include but is not limited to: describe work order fields",
+          "Describe work order life cycle stages",
+          "Identify booking status and work order status values for values for work order stages",
+          "Describe uses and capabilities for billing accounts, service accounts, and sub-accounts."
+        ]
+      },
+      {
+        "label": "Create and manage work orders",
+        "items": [
+          "This objective may include but is not limited to: create a work order from an incident",
+          "Add status and substatus information to a work order",
+          "Configure work order type and priority",
+          "Organize work orders and resources by geography",
+          "Describe the process for closing work orders",
+          "Close a work order."
+        ]
+      },
+      {
+        "label": "Manage incidents",
+        "items": [
+          "This objective may include but is not limited to: describe incident types and incident type fields",
+          "Create and configure incident types",
+          "Add service tasks."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Schedule and dispatch work orders (15-20%)",
+    "skills": [
+      {
+        "label": "Manage scheduling options",
+        "items": [
+          "This objective may include but is not limited to: describe options for scheduling work orders including the schedule board and schedule assistant",
+          "Determine when to use each scheduling option",
+          "Describe the stages of the scheduling process and steps that occur during each stage."
+        ]
+      },
+      {
+        "label": "Implement the Schedule Board",
+        "items": [
+          "This objective may include but is not limited to: identify features and uses of the booking requirements view",
+          "Implement the integrated map feature",
+          "Manually schedule work orders",
+          "Reassign and reschedule work orders",
+          "Move incomplete work orders",
+          "Generate driving instructions for field agents",
+          "Create additional schedule boards",
+          "Configure schedule boards",
+          "Customize the schedule board",
+          "Create web resources to define custom booking rules"
+        ]
+      },
+      {
+        "label": "Implement the Schedule Assistant.",
+        "items": [
+          "This objective may include but is not limited to: apply constraints to resource queries",
+          "Filter data",
+          "Specify a search radius",
+          "Troubleshoot schedule assistant."
+        ]
+      },
+      {
+        "label": "Optimize resource scheduling",
+        "items": [
+          "This objective may include but is not limited to: identify licensing requirements for resource scheduling add-on",
+          "Create optimization profiles",
+          "Define objectives and constraints",
+          "Configure resource optimization."
+        ]
+      },
+      {
+        "label": "Configure universal scheduling",
+        "items": [
+          "This objective may include but is not limited to: describe the uses and limitations of universal scheduling",
+          "Describe prerequisites for enabling an entity for scheduling",
+          "Identify entities that can be enabled for scheduling",
+          "Create workflows to populate data in requirement records",
+          "Create requirement views",
+          "Schedule an entity."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Field Service mobility (10 – 15%)",
+    "skills": [
+      {
+        "label": "Install and configure the mobile app",
+        "items": [
+          "This objective may include but is not limited to: identify supported mobility options",
+          "Identify unique mobile app features",
+          "Describe differences between online and offline modes",
+          "Identify tasks that field agents can perform",
+          "Perform initial configuration steps for mobile app."
+        ]
+      },
+      {
+        "label": "Customize the mobile app",
+        "items": [
+          "This objective may include but is not limited to: import the field service project",
+          "Assign security roles",
+          "Administer connected devices."
+        ]
+      },
+      {
+        "label": "Manage mobile projects",
+        "items": [
+          "This objective may include but is not limited to: identify project artifacts that you can modify",
+          "Edit a project",
+          "Modify configuration settings",
+          "Publish a mobile project."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage inventory and purchasing (10 – 15%)",
+    "skills": [
+      {
+        "label": "Manage customer assets",
+        "items": [
+          "This objective may include but is not limited to: identify uses for customer assets",
+          "Create and register customer assets",
+          "Configure products to auto-create customer assets",
+          "Associate work orders with customer assets",
+          "Create child assets."
+        ]
+      },
+      {
+        "label": "Manage inventory",
+        "items": [
+          "This objective may include but is not limited to: set up inventory and warehouses",
+          "View product inventory",
+          "Compare and contrast inventory levels and inventory transfers adjust inventory levels",
+          "Transfer inventory."
+        ]
+      },
+      {
+        "label": "Managing purchasing and product returns",
+        "items": [
+          "This objective may include but is not limited to: describe the purchase order process",
+          "Create purchase orders",
+          "Display a list of receivable products for a purchase order",
+          "Describe the ways that a product can be returned",
+          "Create return merchandise authorizations",
+          "Finalize returns."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage the Connected Field Service solution (5 – 10%)",
+    "skills": [
+      {
+        "label": "Configure the Connected Field Service solution",
+        "items": [
+          "This objective may include but is not limited to: describe connected field service",
+          "Identify key benefits of connected field service",
+          "Install prerequisite components",
+          "Install and configure connected field service",
+          "Identify components created during solution installation",
+          "Implement the solution."
+        ]
+      },
+      {
+        "label": "Manage devices",
+        "items": [
+          "This objective may include but is not limited to: use connections to configure multiple parts as one asset",
+          "Categorize devices",
+          "Resolve registration errors",
+          "View data from devices",
+          "Remotely send commands to devices",
+          "Extend connected field service solutions."
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Agreements (10 – 15%)",
+    "skills": [
+      {
+        "label": "Create and manage agreements",
+        "items": [
+          "This objective may include but is not limited to: describe the framework required to use or create agreements",
+          "Identify key elements of agreements and information needed to set up an agreement",
+          "Define and configure agreement settings",
+          "Configure agreement preferences."
+        ]
+      },
+      {
+        "label": "Define and create bookings",
+        "items": [
+          "This objective may include but is not limited to: identify the purpose, uses, and limitations of bookings",
+          "Describe options automatic generation of bookings",
+          "Set up agreement bookings."
+        ]
+      },
+      {
+        "label": "Define and create invoices",
+        "items": [
+          "This objective may include but is not limited to: describe the purposes and uses for agreement invoices",
+          "Identify options for generating invoices",
+          "Create invoices."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "label": "Share and maintain documents (15–20%)",
+    "skills": [
+      {
+        "label": "Configure Word options",
+        "items": [
+          "This objective may include but is not limited to: change default program, spell and grammar check options"
+        ]
+      },
+      {
+        "label": "Apply protection to a document",
+        "items": [
+          "This objective may include but is not limited to: restrict editing and apply controls or restrictions to document access"
+        ]
+      },
+      {
+        "label": "Apply a template to a document",
+        "items": [
+          "This objective may include but is not limited to: modify an existing template, create a new template, apply a template to an existing document, and manage templates by using the organizer"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Format content (25–30%)",
+    "skills": [
+      {
+        "label": "Apply advanced font and paragraph attributes",
+        "items": [
+          "This objective may include but is not limited to: use character attributes and character-specific styles"
+        ]
+      },
+      {
+        "label": "Create tables and charts",
+        "items": [
+          "This objective may include but is not limited to: insert tables by using microsoft excel data in tables, apply formulas or calculations on a table, modify chart data, save a chart as a template, and use the chart layout tab"
+        ]
+      },
+      {
+        "label": "Construct reusable content in a document",
+        "items": [
+          "This objective may include but is not limited to: create customized building blocks, save a selection as a quick part, save quick parts after a document is saved, insert text as a quick part, and add content to a header or footer"
+        ]
+      },
+      {
+        "label": "Link sections",
+        "items": [
+          "This objective may include but is not limited to: link text boxes, break links between text boxes, and link different sections"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Track and reference documents (20–25%)",
+    "skills": [
+      {
+        "label": "Review, compare, and combine documents",
+        "items": [
+          "This objective may include but is not limited to: apply tracking, merge different versions of a document, track changes in a combined document, and review comments in a combined document"
+        ]
+      },
+      {
+        "label": "Create a reference page",
+        "items": [
+          "This objective may include but is not limited to: add citations, manage sources, compile a bibliography, and apply cross references"
+        ]
+      },
+      {
+        "label": "Create a Table of Authorities in a document",
+        "items": [
+          "This objective may include but is not limited to: apply default formats, adjust alignment, apply a tab leader, modify styles, mark citations, and use passim (short form)"
+        ]
+      },
+      {
+        "label": "Create an index in a document",
+        "items": [
+          "This objective may include but is not limited to: specify index type, columns, and language",
+          "Modify an index",
+          "And mark index entries"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Perform mail merge operations (15–20%)",
+    "skills": [
+      {
+        "label": "Execute mail merge",
+        "items": [
+          "This objective may include but is not limited to: merge rules and send personalized email messages to multiple recipients"
+        ]
+      },
+      {
+        "label": "Create a mail merge by using other data sources",
+        "items": [
+          "This objective may include but is not limited to: use microsoft outlook, access, excel, or word tables as data source for a mail merge operation"
+        ]
+      },
+      {
+        "label": "Create labels and forms",
+        "items": [
+          "This objective may include but is not limited to: prepare data and create mailing labels, envelope forms, and label forms"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage macros and forms (25–30%)",
+    "skills": [
+      {
+        "label": "Apply and manipulate macros",
+        "items": [
+          "This objective may include but is not limited to: record a macro, run a macro, and apply macro security"
+        ]
+      },
+      {
+        "label": "Apply and manipulate macro options",
+        "items": [
+          "This objective may include but is not limited to: run macros when a document is opened, run macros when a button is clicked, assign a macro to a command button, and create a custom macro button on the quick access toolbar"
+        ]
+      },
+      {
+        "label": "Create forms",
+        "items": [
+          "This objective may include but is not limited to: use the controls group, add help content to form fields, link a form to a database, and lock a form"
+        ]
+      },
+      {
+        "label": "Manipulate forms",
+        "items": [
+          "Unlock a form, add fields to a form, and remove fields from a form"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "label": "Manage solutions (10–15%)",
+    "skills": [
+      {
+        "label": "Plan for customization",
+        "items": [
+          "Define xrm",
+          "Differentiate configuration, customization, extending, and development",
+          "Design appropriate customizations",
+          "Identify documents in the microsoft dynamics crm implementation guide"
+        ]
+      },
+      {
+        "label": "Manage solutions",
+        "items": [
+          "Understand business requirements, understand the benefits of solutions, create solutions, export managed and unmanaged solutions, import solutions, describe default solution, specify a publisher, work with multiple solutions, describe solution components"
+        ]
+      },
+      {
+        "label": "Manage customizations",
+        "items": [
+          "Describe component dependencies",
+          "Describe customization concepts for entities, fields, forms, views, and charts",
+          "Publish customizations"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage security (10–15%)",
+    "skills": [
+      {
+        "label": "Understand security concepts",
+        "items": [
+          "Describe business units, describe microsoft dynamics crm security features, identify privileges and access levels for security roles, describe security role interaction with business units"
+        ]
+      },
+      {
+        "label": "Manage access",
+        "items": [
+          "Create and maintain users, create owner teams, describe owner teams and sharing, manage security roles for users and teams, differentiate owner teams and access teams, create access team templates, add access team subgrids to forms"
+        ]
+      },
+      {
+        "label": "Work with field-level security",
+        "items": [
+          "Identify entities for which field-level security is available, create field security profiles, define field permissions, add field permissions, assign field security profiles to users and teams"
+        ]
+      },
+      {
+        "label": "Manage auditing",
+        "items": [
+          "Enable entity-level auditing, enable field-level auditing"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Customize entities (10–15%)",
+    "skills": [
+      {
+        "label": "Create custom entities",
+        "items": [
+          "Describe entity customization concepts",
+          "Create custom entities",
+          "Configure display names, plural names, and schema names",
+          "Configure entity ownership",
+          "Create custom activity entities",
+          "Set primary fields"
+        ]
+      },
+      {
+        "label": "Manage custom entities",
+        "items": [
+          "Configure entity properties including display areas, communication and collaboration options, fixed properties, data services options, microsoft outlook options, mobile options",
+          "Modify custom entities",
+          "Delete custom entities",
+          "Identify dependencies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Customize fields (10–15%)",
+    "skills": [
+      {
+        "label": "Create and maintain fields",
+        "items": [
+          "Describe field customization concepts, create fields, describe ways new fields can be created, delete custom fields"
+        ]
+      },
+      {
+        "label": "Configure field properties",
+        "items": [
+          "Identify field data types",
+          "Identify field display formats",
+          "Configure the requirement level field property",
+          "Configure searchable, audit, and field security field properties",
+          "Identify properties that can be changed for existing fields"
+        ]
+      },
+      {
+        "label": "Manage special fields",
+        "items": [
+          "Configure local and global option sets, configure status and status reason fields, describe dependencies, create calculated fields, describe the purpose of rollup fields, create rollup fields"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage relationships (10–15%)",
+    "skills": [
+      {
+        "label": "Describe entity relationships",
+        "items": [
+          "Identify different relationship types",
+          "Describe one-to-many, many-to-many, and manual many-to-many relationships",
+          "Describe special many-to-many relationships such as marketing list members, queue items, and follows",
+          "Identify supported and unsupported relationships",
+          "Identify cascading behaviors such as assign, share, unshare, re-parent, delete"
+        ]
+      },
+      {
+        "label": "Manage entity relationships",
+        "items": [
+          "Create entity relationships, map fields, manage connections and connection roles, work with relationship hierarchy visualization"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Customize forms (10–15%)",
+    "skills": [
+      {
+        "label": "Understand form customizations",
+        "items": [
+          "Describe tab and section structure",
+          "Add form fields",
+          "Add subgrids",
+          "Add social, activity, and notes controls",
+          "Add other components and controls",
+          "Preview form customizations"
+        ]
+      },
+      {
+        "label": "Create and edit forms",
+        "items": [
+          "Copy existing forms or create new forms, configure quick create forms, create nested quick create forms, create quick view forms"
+        ]
+      },
+      {
+        "label": "Manage multiple forms",
+        "items": [
+          "Identify scenarios where multiple forms are useful, specify form order, assign roles to forms"
+        ]
+      },
+      {
+        "label": "Manage mobile forms",
+        "items": [
+          "Describe mobile forms for microsoft dynamics crm for tablets, describe how forms are displayed to the user in the microsoft dynamics crm for tablets app, describe considerations when designing mobile forms"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Customize views (10–15%)",
+    "skills": [
+      {
+        "label": "Work with system views",
+        "items": [
+          "Differentiate between system, public, and personal views",
+          "Describe view columns and view filtering",
+          "Configure multi-entity search",
+          "Differentiate between multi-entity, advanced find, and quick find search",
+          "Identify associated views",
+          "Configure lookup views",
+          "Configure quick find views"
+        ]
+      },
+      {
+        "label": "Create and configure custom views",
+        "items": [
+          "Copy existing views, create custom views, build queries, add fields to views, arrange fields, configure field properties, sort fields, set the default public view, share views, disable views, delete views"
+        ]
+      },
+      {
+        "label": "Manage custom views",
+        "items": [
+          "Set the default public view, share views, identify entities for which hierarchical views are available, create hierarchical views"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Customize charts and dashboards (5–10%)",
+    "skills": [
+      {
+        "label": "Understand chart concepts",
+        "items": [
+          "Identify design considerations for charts, differentiate between personal and system charts, identify limitations of the chart designer tools in the user interface"
+        ]
+      },
+      {
+        "label": "Create and configure charts",
+        "items": [
+          "Create system charts and personal charts, describe chart types and options, add series and categories, choose chart views for chart preview, identify fields available for use in charts, include fields from parent entities in charts"
+        ]
+      },
+      {
+        "label": "Reuse charts",
+        "items": [
+          "Export and import charts, identify steps to update chart xml, convert personal charts to system charts, convert system charts to personal charts"
+        ]
+      },
+      {
+        "label": "Create, configure, and manage dashboards",
+        "items": [
+          "Differentiate between personal and system dashboards, configure dashboard components, create lists (views), display charts on dashboards, manage security roles for dashboards"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure business process flows and business rules (10–15%)",
+    "skills": [
+      {
+        "label": "Understand business process flow concepts",
+        "items": [
+          "Describe the purpose of business process flows",
+          "Differentiate between different types of processes",
+          "Identify business process flow components including steps and stages, built-in business processes, custom business processes, entities that participate in business processes, and spanning entities"
+        ]
+      },
+      {
+        "label": "Create and manage business process flows",
+        "items": [
+          "Create business process flows, define stages and steps, describe role-based business processes, describe branching logic for guided processes, describe use cases for the client api for business process flows"
+        ]
+      },
+      {
+        "label": "Create and manage business rules",
+        "items": [
+          "Identify use cases for business rules",
+          "Differentiate between client-side and server-side logic",
+          "Create business rules",
+          "Configure business rule conditions",
+          "Apply and/or, if…else, if….then logic in business rules",
+          "Identify business rule actions",
+          "Enable business rules for forms"
+        ]
+      }
+    ]
+  }
+]

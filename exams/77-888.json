@@ -1,0 +1,127 @@
+[
+  {
+    "label": "Sharing and maintaining workbooks",
+    "skills": [
+      {
+        "label": "Apply workbook settings, properties, and data options",
+        "items": [
+          "Setting advanced properties",
+          "Saving a workbook as a template",
+          "Importing and exporting xml data"
+        ]
+      },
+      {
+        "label": "Apply protection and sharing properties to workbooks and worksheets",
+        "items": [
+          "Protecting the current sheet",
+          "Protecting the workbook structure",
+          "Restricting permissions",
+          "Requiring a password to open a workbook"
+        ]
+      },
+      {
+        "label": "Maintain shared workbooks",
+        "items": [
+          "Merging workbooks",
+          "Setting track changes options"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Applying formulas and functions",
+    "skills": [
+      {
+        "label": "Audit formulas",
+        "items": [
+          "Tracing formula precedents, dependents, and errors",
+          "Locating invalid data or formulas",
+          "Correcting errors in formulas"
+        ]
+      },
+      {
+        "label": "Manipulate formula options",
+        "items": [
+          "Setting iterative calculation options",
+          "Enabling or disabling automatic workbook calculation"
+        ]
+      },
+      {
+        "label": "Perform data summary tasks",
+        "items": [
+          "Using an array formula",
+          "Using a sumifs function"
+        ]
+      },
+      {
+        "label": "Apply functions in formulas",
+        "items": [
+          "Finding and correcting errors in functions",
+          "Applying arrays to functions",
+          "Using statistical, date and time, financial, text, and cube functions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Presenting data visually",
+    "skills": [
+      {
+        "label": "Apply advanced chart features",
+        "items": [
+          "Using trend lines, dual axes, chart templates, and sparklines"
+        ]
+      },
+      {
+        "label": "Apply data analysis",
+        "items": [
+          "Using automated analysis tools",
+          "Performing what-if analysis"
+        ]
+      },
+      {
+        "label": "Apply and manipulate PivotTables",
+        "items": [
+          "Manipulating pivottable data",
+          "Using the slicer to filter and segment your pivottable data in multiple layers"
+        ]
+      },
+      {
+        "label": "Apply and manipulate PivotCharts",
+        "items": [
+          "Creating, manipulating, and analyzing pivotchart data"
+        ]
+      },
+      {
+        "label": "Demonstrate how to use the slicer",
+        "items": [
+          "Choosing data sets from external data connections"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Working with macros and forms",
+    "skills": [
+      {
+        "label": "Create and manipulate macros",
+        "items": [
+          "Running a macro",
+          "Running a macro when a workbook is opened",
+          "Running a macro when a button is clicked",
+          "Recording an action macro",
+          "Assigning a macro to a command button",
+          "Creating a custom macro button on the quick access toolbar",
+          "Applying modifications to a macro"
+        ]
+      },
+      {
+        "label": "Insert and manipulate form controls",
+        "items": [
+          "Inserting form controls",
+          "Setting form properties"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "label": "Determine Workload Requirements (15-20%)",
+    "skills": [
+      {
+        "label": "Determine Feasibility and Refine Requirements",
+        "items": [
+          "May include but not limited to: recommend changes during project execution (ongoing)",
+          "Create proof of concept (poc)",
+          "Determine whether a pilot is needed",
+          "Evaluate products and services to align with solution",
+          "Create testing scenarios",
+          "Refine user stories"
+        ]
+      },
+      {
+        "label": "Optimize Consumption Strategy",
+        "items": [
+          "May include but not limited to: optimize app service, compute, identity, network, and storage costs"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design for Identity and Security (5-10%)",
+    "skills": [
+      {
+        "label": "Design Authorization",
+        "items": [
+          "May include but not limited to: choose an authorization approach",
+          "Define access permissions and privileges",
+          "Design secure delegated access (e.g., oauth, openid, etc.)",
+          "Recommend when and how to use api keys"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design a Business Continuity Strategy (15-20%)",
+    "skills": [
+      {
+        "label": "Design a Site Recovery Strategy",
+        "items": [
+          "May include but not limited to: design a recovery solution",
+          "Design a site recovery replication policy",
+          "Design for site recovery capacity and for storage replication",
+          "Design site failover and failback (planned/unplanned)",
+          "Design the site recovery network",
+          "Recommend recovery objectives (e.g., azure, on-prem, hybrid, recovery time objective (rto), recovery level objective (rlo), recovery point objective (rpo))",
+          "Identify resources that require site recovery",
+          "Identify supported and unsupported workloads",
+          "Recommend a geographical distribution strategy"
+        ]
+      },
+      {
+        "label": "Design for High Availability",
+        "items": [
+          "May include but not limited to: design for application redundancy, autoscaling, data center and fault domain redundancy, and network redundancy",
+          "Identify resources that require high availability",
+          "Identify storage types for high availability"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Workloads and Security (5-10%)",
+    "skills": [
+      {
+        "label": "Configure serverless computing",
+        "items": [
+          "May include but not limited to: create and manage objects",
+          "Manage a logic app resource",
+          "Manage azure function app settings",
+          "Manage event grid",
+          "Manage service bus"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Authentication and Secure Data (5-10%)",
+    "skills": [
+      {
+        "label": "Implement secure data solutions",
+        "items": [
+          "May include but not limited to: encrypt and decrypt data at rest",
+          "Encrypt data with always encrypted",
+          "Implement azure confidential compute and ssl/tls communications",
+          "Manage cryptographic keys in the azure key vault"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop for the Cloud (45-50%)",
+    "skills": [
+      {
+        "label": "Develop long-running tasks",
+        "items": [
+          "May include but not limited to: implement large-scale, parallel, and high-performance apps by using batches",
+          "Implement resilient apps by using queues",
+          "Implement code to address application events by using web hooks",
+          "Address continuous processing tasks by using web jobs"
+        ]
+      },
+      {
+        "label": "Configure a message-based integration architecture",
+        "items": [
+          "May include but not limited to: configure an app or service to send emails, event grid, and the azure relay service",
+          "Create and configure a notification hub, an event hub, and a service bus",
+          "Configure queries across multiple products",
+          "Configure an app or service with microsoft graph"
+        ]
+      },
+      {
+        "label": "Develop for asynchronous processing",
+        "items": [
+          "May include but not limited to: implement parallelism, multithreading, processing, durable functions, azure logic apps, interfaces with storage, interfaces to data access, and appropriate asynchronous compute models"
+        ]
+      },
+      {
+        "label": "Develop for autoscaling",
+        "items": [
+          "May include but not limited to: implement autoscaling rules and patterns (schedule, operational/system metrics, code that addresses singleton application instances, and code that addresses transient state"
+        ]
+      },
+      {
+        "label": "Implement distributed transactions",
+        "items": [
+          "May include but not limited to: identify tools to implement distributed transactions (e.g., ado.net, elastic transactions, multi-database transactions)",
+          "Manage transaction scope",
+          "Manage transactions across multiple databases and servers"
+        ]
+      },
+      {
+        "label": "Develop advanced cloud workloads",
+        "items": [
+          "May include but not limited to: develop solutions by using intelligent algorithms that identify items from images and videos",
+          "Develop solutions by using intelligent algorithms related to speech, natural language processing, bing search, and recommendations and decision making",
+          "Create and integrate bots",
+          "Integrate machine learning solutions in an app",
+          "Create and implement iot solutions"
+        ]
+      }
+    ]
+  }
+]

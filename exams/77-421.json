@@ -1,0 +1,123 @@
+[
+  {
+    "label": "Manage the OneNote environment (25–30%)",
+    "skills": [
+      {
+        "label": "Manage page layout",
+        "items": [
+          "Combine and rearrange containers, collapse and expand paragraphs and lists, insert background images, work with templates, set page layout options"
+        ]
+      },
+      {
+        "label": "Configure OneNote Backstage",
+        "items": [
+          "Configure notebook settings and properties, pin notebooks to lists"
+        ]
+      },
+      {
+        "label": "Create a OneNote notebook",
+        "items": [
+          "Create new notebooks, create notebooks on onedrive, create notebooks on a network, create local notebooks"
+        ]
+      },
+      {
+        "label": "Personalize OneNote",
+        "items": [
+          "Set default fonts and sizes, change display settings, manage proofing and language settings, set research and translation options, set page format options, customize workspaces, customize the ribbon, expand/collapse panels"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Share and collaborate with other users (15–20%)",
+    "skills": [
+      {
+        "label": "Share OneNote notebooks",
+        "items": [
+          "Share notebooks on onedrive, share notebooks on sharepoint, share notebooks on a network, synchronize shared notebooks across devices"
+        ]
+      },
+      {
+        "label": "Share OneNote content via email",
+        "items": [
+          "Send notebooks via email, configure onenote email options, invite others to view notebooks, send pages via email in shareable formats, send to a blog"
+        ]
+      },
+      {
+        "label": "Collaborate with other users in OneNote",
+        "items": [
+          "Mark coauthor edits as read, view recent edits, find notes by author, hide author initials, mark notes as read or unread"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Organize and find notes (20–25%)",
+    "skills": [
+      {
+        "label": "Organize notebooks",
+        "items": [
+          "Merge sections, create new section groups, use color to group notebooks and sections, protect with passwords, group and display sub-pages, use quick notes, add new pages"
+        ]
+      },
+      {
+        "label": "Search for content in OneNote",
+        "items": [
+          "Search for content across notebooks, sections, and pages",
+          "Display search results panes, search indexed recordings"
+        ]
+      },
+      {
+        "label": "Save and manage OneNote history and backups",
+        "items": [
+          "Manage page versions, manage notebook recycle bins, manage backups, save notebooks, save current pages, save pages as alternate file types, convert for backward compatibility"
+        ]
+      },
+      {
+        "label": "Configure Quick Filing",
+        "items": [
+          "Send email messages, insert notes from outlook (messages, meetings, contacts, and tasks), insert webpages, insert screenshots, print to onenote, insert media, set default locations"
+        ]
+      },
+      {
+        "label": "Create and manage tags",
+        "items": [
+          "Apply tags, create new tags, modify existing tags, create tag summary pages, configure tag options, find tags"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Edit and link content in OneNote (25–30%)",
+    "skills": [
+      {
+        "label": "Apply links and linked notes",
+        "items": [
+          "Link quick notes to pages, sections, notebooks, and wiki links",
+          "Create new docked windows",
+          "Link quick notes to web browsers",
+          "Link quick notes to office applications",
+          "Copy links"
+        ]
+      },
+      {
+        "label": "Insert files in OneNote",
+        "items": [
+          "Insert links to files, embed files, embed a spreadsheet or visio document"
+        ]
+      },
+      {
+        "label": "Edit text in OneNote",
+        "items": [
+          "Use the format painter, use styles, manage paste options, use format options, insert tables"
+        ]
+      },
+      {
+        "label": "Insert and modify visual elements",
+        "items": [
+          "Insert images, insert symbols, work with the drawing tools, manage the pen options"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "label": "Manage and share workbooks",
+    "skills": [
+      {
+        "label": "Manage multiple workbooks",
+        "items": [
+          "Modify existing templates, merge multiple workbooks, manage versions of a workbook, copy styles from template to template, copy macros from workbook to workbook, link to external data"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Apply custom formats and layouts",
+    "skills": [
+      {
+        "label": "Apply custom data formats",
+        "items": [
+          "Create custom formats (number, time, date), create custom accounting formats, use advanced fill series options"
+        ]
+      },
+      {
+        "label": "Apply custom styles and templates",
+        "items": [
+          "Create custom color formats, create and modify cell styles, create and modify custom templates, create form fields"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create advanced formulas",
+    "skills": [
+      {
+        "label": "Apply functions in formulas",
+        "items": [
+          "Utilize the if function in conjunction with other functions, utilize and/or functions, utilize nested functions, utilize sumifs, averageifs, and countifs functions"
+        ]
+      },
+      {
+        "label": "Create scenarios",
+        "items": [
+          "Utilize the watch window, consolidate data, enable iterative calculations, utilize what if analysis tools (including goal seek), utilize the scenario manager, use financial functions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create advanced charts and tables",
+    "skills": [
+      {
+        "label": "Create and manage PivotCharts",
+        "items": [
+          "Create new pivotcharts, manipulate options in existing pivotcharts, apply styles to pivotcharts"
+        ]
+      }
+    ]
+  }
+]

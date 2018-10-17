@@ -1,0 +1,140 @@
+[
+  {
+    "label": "Partition and Model Data",
+    "skills": [
+      {
+        "label": "Plan a partitioning strategy",
+        "items": [
+          "Select a partition key for a container",
+          "Differentiate between partition keys and partition key ranges",
+          "Partition data across multiple containers",
+          "Calculate throughput distribution across partition key ranges",
+          "Control cross-partition queries",
+          "Plan for transactions"
+        ]
+      },
+      {
+        "label": "Model data based on business use cases",
+        "items": [
+          "Identify when to co-locate data within the same container or across multiple containers",
+          "Identify when to co-locate data within the same partition key or across multiple partition keys",
+          "Identify when to co-locate data within the same document or across multiple documents",
+          "Share properties between documents"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Replicate Data Across the World",
+    "skills": [
+      {
+        "label": "Implement global distribution and high availability",
+        "items": [
+          "Replicate data to additional regions",
+          "Define automatic failover policies for disaster recovery",
+          "Perform manual failovers to change the write region",
+          "Set the preferred location of applications for low-latency access",
+          "Design patterns for multi-write regions",
+          "Resolve conflicts surfaced by the conflict feed"
+        ]
+      },
+      {
+        "label": "Select a data consistency approach based on business use cases",
+        "items": [
+          "Identify use cases for consistencies",
+          "Differentiate between consistencies by using characteristics",
+          "Differentiate between consistencies by using trade-offs between performance and consistency",
+          "Use session tokens"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Tune and Debug Azure Cosmos DB Solutions",
+    "skills": [
+      {
+        "label": "Estimate and provision request units",
+        "items": [
+          "Differentiate requests and request units",
+          "Retrieve request unit cost of an operation",
+          "Estimate request unit allocation for a container",
+          "Tune throughput for uneven workloads and manage throttling",
+          "Monitor azure portal metrics",
+          "Recommend solutions based on query metrics"
+        ]
+      },
+      {
+        "label": "Tune container settings",
+        "items": [
+          "Manage lifecycle of data by using ttl",
+          "Tune an index policy",
+          "Include and exclude properties from index paths"
+        ]
+      },
+      {
+        "label": "Implement security",
+        "items": [
+          "Secure access to data",
+          "Rotate keys",
+          "Understand encryption at rest and in transit",
+          "Configure ip firewalls",
+          "Create and manage users",
+          "Configure fine-grained access to resources"
+        ]
+      },
+      {
+        "label": "Debug a Cosmos DB solution",
+        "items": [
+          "Configure diagnostic logging",
+          "Recommend solutions based on data retrieved from logs",
+          "Evaluate response status code categories",
+          "Throttle",
+          "Review metrics and performance tips"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Perform Integration and Develop Solutions",
+    "skills": [
+      {
+        "label": "Develop applications with the SQL API",
+        "items": [
+          "Optimize sdk and concurrency control",
+          "Tune request options for crud and queries",
+          "Examine response headers",
+          "Implement optimistic concurrency control with etag",
+          "Query geospatial data",
+          "Use advanced sql query operators for complex documents (nested objects and arrays)",
+          "Perform intra-document joins",
+          "Perform sql queries",
+          "Implement user-defined functions",
+          "Use multi-record transactions with stored procedures",
+          "Implement a continuation model for bounded execution with stored procedures",
+          "Implement server-side logic and transactions"
+        ]
+      },
+      {
+        "label": "Migrate from MongoDB to MongoDB API in Cosmos DB",
+        "items": [
+          "Choose appropriate tools to migrate data",
+          "Transfer data"
+        ]
+      },
+      {
+        "label": "Implement event-driven applications by using Azure functions, triggers and Cosmos DB change feed",
+        "items": [
+          "Use cosmos db triggers for azure functions",
+          "Change feed mechanics"
+        ]
+      },
+      {
+        "label": "Analyze Cosmos DB data with Apache Spark connector",
+        "items": [
+          "Set up and configure a cosmos db spark connector",
+          "Push down predicates"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "label": "Manage and share documents (25–30%)",
+    "skills": [
+      {
+        "label": "Prepare documents for review",
+        "items": [
+          "Set tracking options, limit authors, restrict editing, delete document draft version, remove document metadata, mark as final, protect a document with a password"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design advanced documents (25–30%)",
+    "skills": [
+      {
+        "label": "Apply advanced formatting",
+        "items": [
+          "Use wildcards in find and replace searches, create custom field formats, set advanced layout options, set character space options, set advanced character attributes, create and break section links, link text boxes"
+        ]
+      },
+      {
+        "label": "Apply advanced styles",
+        "items": [
+          "Create custom styles, customize settings for existing styles, create character-specific styles, assign keyboard shortcuts to styles"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create advanced references (25–30%)",
+    "skills": [
+      {
+        "label": "Manage forms, fields, and mail merge operations",
+        "items": [
+          "Add custom fields, modify field properties, add controls, modify control properties, perform mail merges, manage recipient lists, insert merged fields, preview results"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create custom Word elements (20–25%)",
+    "skills": [
+      {
+        "label": "Create and modify building blocks",
+        "items": [
+          "Create custom building blocks, save selections as quick parts, edit building block properties, delete building blocks"
+        ]
+      },
+      {
+        "label": "Create custom style sets and templates",
+        "items": [
+          "Create custom color themes, create custom font themes, create custom templates, create and manage style sets"
+        ]
+      }
+    ]
+  }
+]

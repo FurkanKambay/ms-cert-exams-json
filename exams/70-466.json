@@ -1,0 +1,272 @@
+[
+  {
+    "label": "Build an analysis services multidimensional database (35-40%)",
+    "skills": [
+      {
+        "label": "Design dimensions and measures",
+        "items": [
+          "Given a requirement, identify the dimension/measure group relationship that should be selected",
+          "Design patterns for representing business facts and dimensions (many-to-many relationships)",
+          "Design dimensions to support multiple related measure groups (many related fact tables)",
+          "Handle degenerate dimensions in a cube",
+          "Identify the attributes for dimensions",
+          "Identify the measures",
+          "Aggregation behavior for the measures",
+          "Build hierarchies",
+          "Define granularity of dimension relationships"
+        ]
+      },
+      {
+        "label": "Implement and configure dimensions in a cube",
+        "items": [
+          "Translations, define attribute relationships, implement hierarchies, implement sql server analysis services (ssas) dimensions and cubes, create the attribute relationships that should be made for a given set of attributes in a dimension, develop new custom attributes on dimensions, detect possible design flaws in attribute relationships, implement time dimensions in cubes, manage ssas parent-child dimensions, dimension type"
+        ]
+      },
+      {
+        "label": "Design a schema to support cube architecture",
+        "items": [
+          "Multidimensional modeling starting from a star schema, relational modeling for a data source view, choose or create a topology, identify the appropriate data types with correct precision and size"
+        ]
+      },
+      {
+        "label": "Create and configure measures",
+        "items": [
+          "Logically group measures and configure measure group properties, select appropriate aggregation functions, format measures, design the measure group for the correct granularity"
+        ]
+      },
+      {
+        "label": "Implement a cube",
+        "items": [
+          "Use sql server data tools - business intelligence (ssdt-bi) to build the cube",
+          "Use ssdt-bi to do non-additive or semi-additive measures in a cube, define measures, specify perspectives, define translations, define dimension usage, define cube-specific dimension properties, define measure groups, implement reference dimensions, implement many-to-many relationships, implement fact relationships, implement role-playing relationships, create and manage linked measure groups and linked dimensions, create actions"
+        ]
+      },
+      {
+        "label": "Create Multidimensional Expressions (MDX) and Data Analysis Expressions (DAX) queries",
+        "items": [
+          "Identify the structures of mdx and the common functions (tuples, sets, topcount, scope, and more)",
+          "Identify which mdx statement would return the required result",
+          "Implement a custom mdx or logical solution for a pre-prepared case task",
+          "Identify the structure of dax and common functions, including calculate, evaluate, and filter",
+          "Identify which dax query would return the required result"
+        ]
+      },
+      {
+        "label": "Implement custom logic in a data model",
+        "items": [
+          "Define key performance indicators (kpis)",
+          "Define calculated members",
+          "Create relative measures (growth, yoy, same period last year), percentage of total using mdx",
+          "Named sets",
+          "Add time intelligence",
+          "Implement ranking and percentile",
+          "Define mdx script to import partial powerpivot model"
+        ]
+      },
+      {
+        "label": "Implement storage design in a multidimensional model",
+        "items": [
+          "Create aggregations, create partitions, storage modes, define proactive caching, manage write-back partitions, implement linked cubes, implement distributed cubes"
+        ]
+      },
+      {
+        "label": "Select an appropriate model for data analysis",
+        "items": [
+          "Select tabular versus multidimensional based on scalability needs, traditional hierarchical, data volume",
+          "Select appropriate organizational bi, such as corporate bi, and team and personal bi needs and data status"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage, maintain, and troubleshoot a SQL Server Analysis Services (SSAS) database (15-20%)",
+    "skills": [
+      {
+        "label": "Analyze data model performance",
+        "items": [
+          "Identify performance consequences of data source view design, optimize performance by changing the design of the cube or dimension, analyze and optimize performances of an mdx/dax query, optimize queries for huge data sets, optimize mdx in the calculations, performance monitor counters, select appropriate dynamic management views for analysis services, analyze and define performance counters, monitor growth of the cache, define and view logging options"
+        ]
+      },
+      {
+        "label": "Process data models",
+        "items": [
+          "Define processing of tables or partitions for tabular and multidimensional models",
+          "Define processing of databases, cubes, and dimensions for multidimensional models",
+          "Select full processing versus incremental processing",
+          "Define remote processing",
+          "Define lazy aggregations",
+          "Automate with analysis management objects (amo) or xml for analysis (xmla)",
+          "Process and manage partitions by using powershell"
+        ]
+      },
+      {
+        "label": "Troubleshoot data analysis issues",
+        "items": [
+          "Use sql profiler",
+          "Troubleshoot duplicate key dimension processing errors",
+          "Error logs and event viewer logs of ssas, mismatch of data: incorrect relationships or aggregations",
+          "Dynamic security issues",
+          "Validate logic and calculations"
+        ]
+      },
+      {
+        "label": "Deploy SSAS databases",
+        "items": [
+          "Deployment wizard, implement ssdt-bi, deploy ssms",
+          "Test solution post deployment, decide whether or not to process, test different roles"
+        ]
+      },
+      {
+        "label": "Install and maintain an SSAS instance",
+        "items": [
+          "Install ssas",
+          "Install development tools",
+          "Identify development and production installation considerations",
+          "Upgrade ssas instance",
+          "Define data file and program file location",
+          "Plan for administrator accounts",
+          "Define server and database level security",
+          "Support scale-out read-only",
+          "Update ssas (service packs)",
+          "Install and maintain each instance type of analysis services, including powerpivot",
+          "Restore and import powerpivot",
+          "Back up and restore by using powershell"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build a tabular data model (15-20%)",
+    "skills": [
+      {
+        "label": "Configure permissions and roles in a tabular model",
+        "items": [
+          "Configure server roles, configure ssas database roles, implement dynamic security (custom security approaches), role-based access, test security permissions, implement cell-level permissions"
+        ]
+      },
+      {
+        "label": "Implement a tabular data model",
+        "items": [
+          "Define tables, import data, define calculated columns, define relationships, define hierarchies and perspectives, manage visibility of columns and tables, embed links, optimize bism for power view, mark a date table, sort a column by another column"
+        ]
+      },
+      {
+        "label": "Implement business logic in a tabular data model",
+        "items": [
+          "Implement measures and kpis, implement data analysis expressions (dax), define relationship navigation, implement time intelligence, implement context modification"
+        ]
+      },
+      {
+        "label": "Implement data access for a tabular data model",
+        "items": [
+          "Manage partitions, processing, select xvelocity versus directquery for data access"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Build a report with SQL Server Reporting Services (SSRS) (25-30%)",
+    "skills": [
+      {
+        "label": "Design a report",
+        "items": [
+          "Select report components (crosstab report, tablix, design chart, data visualization components), design report templates (report definition language), identify the data source and parameters",
+          "Design a grouping structure",
+          "Drill-down reports, drill-through reports",
+          "Determine if any expressions are required to display data that is not coming directly from the data source"
+        ]
+      },
+      {
+        "label": "Implement a report layout",
+        "items": [
+          "Formatting",
+          "Apply conditional formatting",
+          "Page configuration",
+          "Implement headers and footers",
+          "Implement matrixes, table, chart, images, list, indicators, maps, and groupings in reports",
+          "Use report builder to implement a report layout",
+          "Create a range of reports using different data regions",
+          "Define custom fields (implementing different parts of the report)",
+          "Implement collections (global collections)",
+          "Define expressions",
+          "Implement data visualization components",
+          "Identify report parts",
+          "Implement group variables and report variables",
+          "Design for multiple delivery extension formats"
+        ]
+      },
+      {
+        "label": "Configure authentication and authorization for a reporting solution",
+        "items": [
+          "Configure server-level and item-level role-based security, configure reporting service security (setup or addition of role), authenticate against data source, store credential information, describe report server security architecture and site level security, create system level roles, item level security, create a new role assignment, assign windows users to roles, secure reports using roles, configure sharepoint groups and permissions, define varying content for different role memberships"
+        ]
+      },
+      {
+        "label": "Implement interactivity in a report",
+        "items": [
+          "Drilldown",
+          "Drillthrough",
+          "Interactive sorting",
+          "Parameters: (databound parameters, multi-value parameters)",
+          "Create dynamic reports in ssrs using parameters",
+          "Implement show/hide property",
+          "Actions (jump to report)",
+          "Filters",
+          "Parameter list",
+          "Fixed headers",
+          "Document map, embedded html"
+        ]
+      },
+      {
+        "label": "Troubleshoot reporting services issues",
+        "items": [
+          "Query the reportserver database",
+          "View reporting services log files",
+          "Use windows reliability and performance monitor data for troubleshooting",
+          "Use the reportserver: define service and web service objects",
+          "Monitor for long-running reports, rendering, and connectivity issues",
+          "Use sql profiler",
+          "Perform data reconciliation for incorrect relationships or aggregations",
+          "Detect dynamic security issues",
+          "Validate logic and calculations"
+        ]
+      },
+      {
+        "label": "Manage a report environment",
+        "items": [
+          "Manage subscriptions and subscription settings",
+          "Define data-driven subscriptions",
+          "Manage data sources",
+          "Integrate sharepoint server",
+          "Define email delivery settings",
+          "Manage the number of snapshots",
+          "Manage schedules, running jobs, and report server logs",
+          "Manage report server databases",
+          "Manage the encryption keys",
+          "Set up the execution log reporting",
+          "Review the reports",
+          "Configure site-level settings",
+          "Design report lifecycle",
+          "Automate management of reporting services",
+          "Create a report organization structure",
+          "Install and configure reporting services",
+          "Deploy custom assemblies"
+        ]
+      },
+      {
+        "label": "Configure report data sources and datasets",
+        "items": [
+          "Select appropriate query types (stored procedure versus table versus text only)",
+          "Configure parameterized connection strings (dynamic connection strings)",
+          "Define filter location (dataset versus query)",
+          "Configure data source options, for example, extract and connect to multiple data sources",
+          "Shared and embedded data sources and datasets",
+          "Use custom expressions in data sources",
+          "Connect to microsoft azure sql database",
+          "Implement dax and mdx queries to retrieve appropriate data sets",
+          "Work with non-relational data sources, such as xml or sharepoint lists"
+        ]
+      }
+    ]
+  }
+]

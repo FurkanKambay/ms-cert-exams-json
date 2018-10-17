@@ -1,0 +1,179 @@
+[
+  {
+    "label": "Administer and Provision HDInsight Clusters",
+    "skills": [
+      {
+        "label": "Deploy HDInsight clusters",
+        "items": [
+          "Create a cluster in a private virtual network, create a cluster that has a custom metastore, create a domain-joined cluster, select an appropriate cluster type based on workload considerations, customize a cluster by using script actions, provision a cluster by using portal, provision a cluster by using azure cli tools, provision a cluster by using azure resource manager (arm) templates and powershell, manage managed disks, configure vnet peering"
+        ]
+      },
+      {
+        "label": "Deploy and secure multi-user HDInsight clusters",
+        "items": [
+          "Provision users who have different roles",
+          "Manage users, groups, and permissions through apache ambari, powershell, and apache ranger",
+          "Configure kerberos",
+          "Configure service accounts",
+          "Implement ssh tunneling",
+          "Restrict access to data"
+        ]
+      },
+      {
+        "label": "Ingest data for batch and interactive processing",
+        "items": [
+          "Ingest data from cloud or on-premises data",
+          "Store data in azure data lake",
+          "Store data in azure blob storage",
+          "Perform routine small writes on a continuous basis using azure cli tools",
+          "Ingest data in apache hive and apache spark by using apache sqoop, application development framework (adf), azcopy, and adlcopy",
+          "Ingest data from an on-premises hadoop cluster"
+        ]
+      },
+      {
+        "label": "Configure HDInsight clusters",
+        "items": [
+          "Manage metastore upgrades",
+          "View and edit ambari configuration groups",
+          "View and change service configurations through ambari",
+          "Access logs written to azure table storage",
+          "Enable heap dumps for hadoop services",
+          "Manage hdinsight configuration, use hdinsight .net sdk, and powershell",
+          "Perform cluster-level debugging",
+          "Stop and start services through ambari",
+          "Manage ambari alerts and metrics"
+        ]
+      },
+      {
+        "label": "Manage and debug HDInsight jobs",
+        "items": [
+          "Describe yarn architecture and operation",
+          "Examine yarn jobs through resourcemanager ui and review running applications",
+          "Use yarn cli to kill jobs",
+          "Find logs for different types of jobs",
+          "Debug hadoop and spark jobs",
+          "Use azure operations management suite (oms) to monitor and manage alerts, and perform predictive actions"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Big Data Batch Processing Solutions",
+    "skills": [
+      {
+        "label": "Implement batch solutions with Hive and Apache Pig",
+        "items": [
+          "Define external hive tables",
+          "Load data into a hive table",
+          "Use partitioning and bucketing to improve hive performance",
+          "Use semi-structured files such as xml and json with hive",
+          "Join tables with hive using shuffle joins and broadcast joins",
+          "Invoke hive udfs with java and python",
+          "Design scripts with pig",
+          "Identify query bottlenecks using the hive query graph",
+          "Identify the appropriate storage format, such as apache parquet, orc, text, and json"
+        ]
+      },
+      {
+        "label": "Design batch ETL solutions for big data with Spark",
+        "items": [
+          "Share resources between spark applications using yarn queues and preemption, select spark executor and driver settings for optimal performance, use partitioning and bucketing to improve spark performance, connect to external spark data sources, incorporate custom python and scala code in a spark datasets program, identify query bottlenecks using the spark sql query graph"
+        ]
+      },
+      {
+        "label": "Operationalize Hadoop and Spark",
+        "items": [
+          "Create and customize a cluster by using adf",
+          "Attach storage to a cluster and run an adf activity",
+          "Choose between bring-your-own and on-demand clusters",
+          "Use apache oozie with hdinsight",
+          "Choose between oozie and adf",
+          "Share metastore and storage accounts between a hive cluster and a spark cluster to enable the same table across the cluster types",
+          "Select an appropriate storage type for a data pipeline, such as blob storage, azure data lake, and local hadoop distributed file system (hdfs)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Big Data Interactive Processing Solutions",
+    "skills": [
+      {
+        "label": "Implement interactive queries for big data with Spark SQL",
+        "items": [
+          "Execute queries using spark sql, cache spark dataframes for iterative queries, save spark dataframes as parquet files, connect bi tools to spark clusters, optimize join types such as broadcast versus merge joins, manage spark thrift server and change the yarn resources allocation, identify use cases for different storage types for interactive queries"
+        ]
+      },
+      {
+        "label": "Perform exploratory data analysis by using Spark SQL",
+        "items": [
+          "Use jupyter and apache zeppelin for visualization and developing tidy spark dataframes for modeling, use spark sql’s two-table joins to merge dataframes and cache results, save tidied spark dataframes to performant format for reading and analysis (apache parquet), manage interactive livy sessions and their resources"
+        ]
+      },
+      {
+        "label": "Implement interactive queries for big data with Interactive Hive",
+        "items": [
+          "Enable hive llap through hive settings, manage and configure memory allocation for hive llap jobs, connect bi tools to interactive hive clusters"
+        ]
+      },
+      {
+        "label": "Perform exploratory data analysis by using Hive",
+        "items": [
+          "Perform interactive querying and visualization, use ambari views, use hiveql, parse csv files with hive, use orc versus text for caching, use internal and external tables in hive, use zeppelin to visualize data"
+        ]
+      },
+      {
+        "label": "Perform interactive processing by using Apache Phoenix on HBase",
+        "items": [
+          "Use phoenix in hdinsight",
+          "Use phoenix grammar for queries",
+          "Configure transactions, user-defined functions, and secondary indexes",
+          "Identify and optimize phoenix performance",
+          "Select between hive, spark, and phoenix on hbase for interactive processing",
+          "Identify when to share metastore between a hive cluster and a spark cluster"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Big Data Real-Time Processing Solutions",
+    "skills": [
+      {
+        "label": "Create Spark streaming applications using DStream API",
+        "items": [
+          "Define dstreams and compare them to resilient distributed dataset (rdds), start and stop streaming applications, transform dstream (flatmap, reducebykey, updatestatebykey), persist long-term data stores in hbase and sql, persist long term data azure data lake and azure blob storage, stream data from apache kafka or event hub, visualize streaming data in a powerbi real-time dashboard"
+        ]
+      },
+      {
+        "label": "Create Spark structured streaming applications",
+        "items": [
+          "Use dataframes and datasets apis to create streaming dataframes and datasets",
+          "Create window operations on event time",
+          "Define window transformations for stateful and stateless operations",
+          "Stream window functions, reduce by key, and window to summarize streaming data",
+          "Persist long term data hbase and sql",
+          "Persist long term data azure data lake and azure blob storage",
+          "Stream data from kafka or event hub",
+          "Visualize streaming data in a powerbi real-time dashboard"
+        ]
+      },
+      {
+        "label": "Develop big data real-time processing solutions with Apache Storm",
+        "items": [
+          "Create storm clusters for real-time jobs, persist long term data hbase and sql, persist long term data azure data lake and azure blob storage, stream data from kafka or event hub, configure event windows in storm, visualize streaming data in a powerbi real-time dashboard, define storm topologies and describe storm computation graph architecture, create storm streams and conduct streaming joins, run storm topologies in local mode for testing, configure storm applications (workers, debug mode), conduct stream groupings to broadcast tuples across components, debug and monitor storm jobs"
+        ]
+      },
+      {
+        "label": "Build solutions that use Kafka",
+        "items": [
+          "Create spark and storm clusters in the virtual network, manage partitions, configure mirrormaker, start and stop services through ambari, manage topics"
+        ]
+      },
+      {
+        "label": "Build solutions that use HBase",
+        "items": [
+          "Identify hbase use cases in hdinsight, use hbase shell to create updates and drop hbase tables, monitor an hbase cluster, optimize the performance of an hbase cluster, identify uses cases for using phoenix for analytics of real-time data, implement replication in hbase"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "label": "Provision Office 365 (15–20%)",
+    "skills": [
+      {
+        "label": "Provision tenants",
+        "items": [
+          "Configure the tenant name, tenant region, initial global administrator",
+          "Manage tenant subscriptions",
+          "Manage the licensing model",
+          "Configure tenant for new features and updates"
+        ]
+      },
+      {
+        "label": "Add and configure custom domains",
+        "items": [
+          "Specify domain name",
+          "Confirm ownership",
+          "Specify domain purpose",
+          "Set default domain",
+          "Move ownership of dns to office 365",
+          "Update and verify domain settings"
+        ]
+      },
+      {
+        "label": "Plan a pilot",
+        "items": [
+          "Designate pilot users",
+          "Identify workloads that don’t require migration",
+          "Run the office 365 health, readiness, and connectivity checks",
+          "Run idfix",
+          "Create a test plan or use case",
+          "Set up email accounts for pilot users"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan and implement networking and security in Office 365 (15–20%)",
+    "skills": [
+      {
+        "label": "Configure DNS records for services",
+        "items": [
+          "Create dns records for exchange online, skype for business online, and sharepoint online",
+          "Update and verify dns records for office 365 settings"
+        ]
+      },
+      {
+        "label": "Enable client connectivity to Office 365",
+        "items": [
+          "Configure proxy to allow client access to office 365 urls",
+          "Configure firewalls for outbound port access to office 365",
+          "Recommend bandwidth and internet connectivity for clients",
+          "Deploy desktop set up for previous versions of office clients"
+        ]
+      },
+      {
+        "label": "Administer Microsoft Azure Rights Management Service (RMS)",
+        "items": [
+          "Activate rights management",
+          "Set up office integration with rights management",
+          "Assign roles for rights management",
+          "Enable recovery of protected documents",
+          "Set up templates for rights management protected email"
+        ]
+      },
+      {
+        "label": "Manage administrator roles in Office 365",
+        "items": [
+          "Implement a permission model",
+          "Create or revoke assignment of administrative roles or the administrative model",
+          "Assign global administrator, billing administrator, exchange administrator, password administrator, skype for business administrator, service administrator, sharepoint administrator, user management administrator, compliance admin, dynamics 365 service administrator, power bi administrator, and delegated administrator roles, implement scoped admin roles"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage cloud identities (15–20%)",
+    "skills": [
+      {
+        "label": "Configure password management",
+        "items": [
+          "Set expiration policy, password complexity, and password resets in admin center"
+        ]
+      },
+      {
+        "label": "Manage user and security groups",
+        "items": [
+          "Perform a bulk import (csv) and soft delete using the admin center",
+          "Configure multi-factor authentication"
+        ]
+      },
+      {
+        "label": "Manage cloud identities with Windows PowerShell",
+        "items": [
+          "Configure passwords to never expire",
+          "Perform a bulk update of user properties",
+          "Perform bulk user creation using azure active directory cmdlets",
+          "Perform bulk user license management",
+          "Hard delete users"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and Manage Identities by Using Azure AD Connect (15–20%)",
+    "skills": [
+      {
+        "label": "Prepare on-premises Active Directory for Azure AD Connect",
+        "items": [
+          "Plan for non-routable domain names",
+          "Clean up existing objects",
+          "Plan for filtering active directory",
+          "Plan support for multiple forests"
+        ]
+      },
+      {
+        "label": "Set up Azure AD Connect tool",
+        "items": [
+          "Implement soft match filtering",
+          "Identify synchronized attributes, password sync, pass-through authentication, and installation requirements",
+          "Implement multi-forest azure ad connect scenarios"
+        ]
+      },
+      {
+        "label": "Manage Active Directory users and groups with Azure AD Connect in place",
+        "items": [
+          "Create, modify, and soft delete users and groups with azure ad connect",
+          "Perform scheduled synchronization",
+          "Perform forced synchronization"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and manage federated identities for single sign-on (SSO) (15–20%)",
+    "skills": [
+      {
+        "label": "Plan requirements for Active Directory Federation Services (AD FS)",
+        "items": [
+          "Plan namespaces, certificates, ad fs internal topologies, ad fs dependencies, wap topologies, network requirements, and multi-factor authentication",
+          "Plan access filtering using claims rules"
+        ]
+      },
+      {
+        "label": "Install and manage AD FS servers",
+        "items": [
+          "Create ad fs service account",
+          "Configure farm or stand-alone settings",
+          "Add additional servers",
+          "Convert from standard to federated domain",
+          "Manage certificate lifecycle"
+        ]
+      },
+      {
+        "label": "Install and manage WAP servers",
+        "items": [
+          "Set up perimeter network name resolution",
+          "Install required windows roles and features",
+          "Set up certificates",
+          "Configure wap settings",
+          "Set custom proxy forms login page",
+          "Switch between federated authentication and password sync",
+          "Implement password sync temporary fall back"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Monitor and troubleshoot Office 365 availability and usage (15–20%)",
+    "skills": [
+      {
+        "label": "Analyze reports",
+        "items": [
+          "Analyze service reports, mail protection reports, office 365 audit log reports, portal email hygiene reports, azure ad reports, and sharepoint usage reports"
+        ]
+      },
+      {
+        "label": "Monitor service health",
+        "items": [
+          "Set up rss feeds",
+          "Set up service health dashboard with awareness of planned maintenance, service updates, and historical data",
+          "Configure office 365 management pack for system center operations manager, microsoft graph reporting apis, and windows powershell cmdlets"
+        ]
+      },
+      {
+        "label": "Isolate service interruption",
+        "items": [
+          "Create a service request",
+          "Identify connectivity issues using the microsoft remote connectivity analyzer (rca), microsoft lync connectivity analyzer tool, or microsoft connectivity analyzer tool",
+          "Resolve exchange issues with the hybrid free/busy troubleshooter",
+          "Diagnose and fix microsoft outlook issues with microsoft support and recovery assistant for office 365"
+        ]
+      }
+    ]
+  }
+]

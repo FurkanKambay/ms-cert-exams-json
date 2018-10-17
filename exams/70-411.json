@@ -1,0 +1,247 @@
+[
+  {
+    "label": "Deploy, Manage, and Maintain Servers",
+    "skills": [
+      {
+        "label": "Deploy and manage server images",
+        "items": [
+          "Install the windows deployment services (wds) role",
+          "Configure and manage boot, install, and discover images",
+          "Update images with patches, hotfixes, and drivers",
+          "Install features for offline images",
+          "Configure driver groups and packages"
+        ]
+      },
+      {
+        "label": "Implement patch management",
+        "items": [
+          "Install and configure the windows server update services (wsus) role",
+          "Configure group policies for updates",
+          "Configure client-side targeting",
+          "Configure wsus synchronization",
+          "Configure wsus groups",
+          "Manage patch management in mixed environments"
+        ]
+      },
+      {
+        "label": "Monitor servers",
+        "items": [
+          "Configure data collector sets (dcs)",
+          "Configure alerts",
+          "Monitor real-time performance",
+          "Monitor virtual machines (vms)",
+          "Monitor events",
+          "Configure event subscriptions",
+          "Configure network monitoring",
+          "Schedule performance monitoring"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure File and Print Services",
+    "skills": [
+      {
+        "label": "Configure Distributed File System (DFS)",
+        "items": [
+          "Install and configure dfs namespaces",
+          "Configure dfs replication targets",
+          "Configure replication scheduling",
+          "Configure remote differential compression settings",
+          "Configure staging",
+          "Configure fault tolerance",
+          "Clone a dfs database",
+          "Recover dfs databases",
+          "Optimize dfs replication"
+        ]
+      },
+      {
+        "label": "Configure File Server Resource Manager (FSRM)",
+        "items": [
+          "Install the fsrm role service",
+          "Configure quotas",
+          "Configure file screens",
+          "Configure reports",
+          "Configure file management tasks"
+        ]
+      },
+      {
+        "label": "Configure file and disk encryption",
+        "items": [
+          "Configure bitlocker encryption",
+          "Configure the network unlock feature",
+          "Configure bitlocker policies",
+          "Configure the efs recovery agent",
+          "Manage efs and bitlocker certificates including backup and restore"
+        ]
+      },
+      {
+        "label": "Configure advanced audit policies",
+        "items": [
+          "Implement auditing using group policy and auditpol.exe",
+          "Create expression-based audit policies",
+          "Create removable device audit policies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Network Services and Access ",
+    "skills": [
+      {
+        "label": "Configure DNS zones",
+        "items": [
+          "Configure primary and secondary zones",
+          "Configure stub zones",
+          "Configure conditional forwards",
+          "Configure zone and conditional forward storage in active directory",
+          "Configure zone delegation",
+          "Configure zone transfer settings",
+          "Configure notify settings"
+        ]
+      },
+      {
+        "label": "Configure DNS records",
+        "items": [
+          "Create and configure dns resource records (rr) including a, aaaa, ptr, soa, ns, srv, cname, and mx records",
+          "Configure zone scavenging",
+          "Configure record options including time to live (ttl) and weight",
+          "Configure round robin",
+          "Configure secure dynamic updates"
+        ]
+      },
+      {
+        "label": "Configure VPN and routing",
+        "items": [
+          "Install and configure the remote access role",
+          "Implement network address translation (nat)",
+          "Configure vpn settings",
+          "Configure remote dial-in settings for users",
+          "Configure routing",
+          "Configure web application proxy in passthrough mode"
+        ]
+      },
+      {
+        "label": "Configure DirectAccess",
+        "items": [
+          "Implement server requirements",
+          "Implement client configuration",
+          "Configure dns for direct access",
+          "Configure certificates for direct access"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure a Network Policy Server Infrastructure",
+    "skills": [
+      {
+        "label": "Configure Network Policy Server (NPS)",
+        "items": [
+          "Configure a radius server including radius proxy",
+          "Configure radius clients",
+          "Configure nps templates",
+          "Configure radius accounting",
+          "Configure certificates"
+        ]
+      },
+      {
+        "label": "Configure NPS policies",
+        "items": [
+          "Configure connection request policies",
+          "Configure network policies for vpn clients (multilink and bandwidth allocation, ip filters, encryption, ip addressing)",
+          "Import and export nps policies"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Manage Active Directory ",
+    "skills": [
+      {
+        "label": "Configure service authentication",
+        "items": [
+          "Create and configure service accounts",
+          "Create and configure group managed service accounts",
+          "Configure kerberos delegation",
+          "Manage service principal names (spns)",
+          "Configure virtual accounts"
+        ]
+      },
+      {
+        "label": "Configure Domain Controllers",
+        "items": [
+          "Transfer and seize operations master roles",
+          "Install and configure a read-only domain controller (rodc)",
+          "Configure domain controller cloning"
+        ]
+      },
+      {
+        "label": "Maintain Active Directory",
+        "items": [
+          "Back up active directory and sysvol",
+          "Manage active directory offline",
+          "Optimize an active directory database",
+          "Clean up metadata",
+          "Configure active directory snapshots",
+          "Perform object- and container-level recovery",
+          "Perform active directory restore",
+          "Configure and restore objects by using the active directory recycle bin"
+        ]
+      },
+      {
+        "label": "Configure account policies",
+        "items": [
+          "Configure domain and local user password policy settings",
+          "Configure and apply password settings objects (psos)",
+          "Delegate password settings management",
+          "Configure account lockout policy settings",
+          "Configure kerberos policy settings"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Manage Group Policy",
+    "skills": [
+      {
+        "label": "Configure Group Policy processing",
+        "items": [
+          "Configure processing order and precedence",
+          "Configure blocking of inheritance",
+          "Configure enforced policies",
+          "Configure security filtering and wmi filtering",
+          "Configure loopback processing",
+          "Configure and manage slow-link processing and group policy caching",
+          "Configure client-side extension (cse) behavior",
+          "Force group policy update"
+        ]
+      },
+      {
+        "label": "Configure Group Policy settings",
+        "items": [
+          "Configure settings including software installation, folder redirection, scripts, and administrative template settings",
+          "Import security templates",
+          "Import custom administrative template file",
+          "Configure property filters for administrative templates"
+        ]
+      },
+      {
+        "label": "Manage Group Policy objects (GPOs)",
+        "items": [
+          "Back up, import, copy, and restore gpos",
+          "Create and configure migration table",
+          "Reset default gpos",
+          "Delegate group policy management"
+        ]
+      },
+      {
+        "label": "Configure Group Policy Preferences (GPP)",
+        "items": [
+          "Configure gpp settings including printers, network drive mappings, power options, custom registry settings, control panel settings, internet explorer settings, file and folder deployment, and shortcut deployment",
+          "Configure item-level targeting"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "label": "Manage cases and the knowledge base (25-30%)",
+    "skills": [
+      {
+        "label": "Create and manage cases",
+        "items": [
+          "Work with the case list and views",
+          "Search for case records",
+          "Create a new case record",
+          "Understand fields on a default case form",
+          "Analyze business process flows",
+          "Convert activities to cases",
+          "Understand the case resolution process",
+          "Use case routing rules",
+          "Use case creation rules"
+        ]
+      },
+      {
+        "label": "Create and manage the knowledge base",
+        "items": [
+          "Search for articles",
+          "Associate an article with a case",
+          "Use knowledge base articles to help resolve cases",
+          "Create, manage, and maintain knowledge base article templates",
+          "Create, modify, and publish knowledge base articles",
+          "Format articles",
+          "Attach knowledge base articles to email messages"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage queues, entitlements, and service level agreements (SLAs) (25-30%)",
+    "skills": [
+      {
+        "label": "Create and manage queues",
+        "items": [
+          "Understand system queues and personal queues",
+          "Create and maintain queues",
+          "Add cases and activities to queues",
+          "Work with queue items",
+          "Implement case routing"
+        ]
+      },
+      {
+        "label": "Create and manage entitlements",
+        "items": [
+          "Create and maintain entitlement templates",
+          "Create a new entitlement",
+          "Add entitlement lines",
+          "Associate products",
+          "Associate entitlement channels",
+          "Associate an sla",
+          "Activate an entitlement",
+          "Renew an entitlement"
+        ]
+      },
+      {
+        "label": "Create and manage SLAs",
+        "items": [
+          "Understand standard and enhanced slas",
+          "Create sla actions and details",
+          "Use slas on-demand",
+          "Manage cases with slas",
+          "Manage service scheduling, interactive service hub, and the unified service desk"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage service scheduling, interactive service hub, and the unified help desk (20-25%)",
+    "skills": [
+      {
+        "label": "Implement and manage service scheduling",
+        "items": [
+          "Understand service scheduling scenarios",
+          "Understand the service scheduling process flow",
+          "Define and manage resources",
+          "Implement customer service schedules",
+          "Create and manage resource groups",
+          "Define sites, holiday schedules, and services",
+          "Schedule service activities in the service calendar",
+          "Manage service activities"
+        ]
+      },
+      {
+        "label": "Work with the interactive service hub and the unified service desk",
+        "items": [
+          "Work with single-stream and multi-stream dashboards",
+          "Manage queues and cases from streams",
+          "Create interactive dashboards",
+          "Understand the unified service desk",
+          "Understand integrated agent desktop components"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Work with FieldOne and surveys and perform service management analysis (20-25%)",
+    "skills": [
+      {
+        "label": "Perform service management analysis",
+        "items": [
+          "Use microsoft power bi service dashboards",
+          "Work with the service calendar",
+          "Work with service reports",
+          "Work with service dashboards",
+          "Work with system charts for cases",
+          "Understand service metrics and goals",
+          "Create goals for case records"
+        ]
+      },
+      {
+        "label": "Use FieldOne with service management",
+        "items": [
+          "Understand fieldone functionality",
+          "Identify reasons to automate the field service organization",
+          "Identify the benefits of using fieldone"
+        ]
+      },
+      {
+        "label": "Work with surveys",
+        "items": [
+          "Understand survey distribution options",
+          "Create and configure surveys",
+          "Capture responses"
+        ]
+      }
+    ]
+  }
+]

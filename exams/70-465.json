@@ -1,0 +1,208 @@
+[
+  {
+    "label": "Design a database structure (25–30%)",
+    "skills": [
+      {
+        "label": "Design for business requirements",
+        "items": [
+          "Translate business needs to data structures",
+          "De-normalize a database by using sql server features, including materialization using indexed views, distributed partitioned views, filtered and non-key column indexes, and snapshots"
+        ]
+      },
+      {
+        "label": "Design physical database and object placement",
+        "items": [
+          "Design a physical database, including file placement, filestream, filetable, file groups, and raid",
+          "Configure system database settings"
+        ]
+      },
+      {
+        "label": "Design a table and index partitioning strategy",
+        "items": [
+          "Develop the optimal strategy for indexing, archive using partitions and tables, design columnstore indexes, design xml indexes"
+        ]
+      },
+      {
+        "label": "Design a migration, consolidation, and upgrade strategy",
+        "items": [
+          "Upgrade with minimal downtime",
+          "Design a cross-cluster migration",
+          "Plan a database deployment, including windows powershell, server core, and contained databases",
+          "Migrate query plans",
+          "Design a migration strategy using distributed replay controller",
+          "Design a sql server virtualization strategy"
+        ]
+      },
+      {
+        "label": "Design SQL Server instances",
+        "items": [
+          "Identify hardware for new instances",
+          "Design cpu affinity",
+          "Design clustered instances using microsoft distributed transaction control (msdtc)",
+          "Define instance memory allocation",
+          "Design installation strategies, including sysprep, slipstream, and smb file server",
+          "Define cross db ownership chaining"
+        ]
+      },
+      {
+        "label": "Design backup and recovery",
+        "items": [
+          "Design a backup strategy based on business needs, including differential, file, log, and striped",
+          "Design a database snapshot strategy",
+          "Design appropriate recovery models",
+          "Design a system database backup strategy",
+          "Recover tail-log backups"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design databases and database objects (30–35%)",
+    "skills": [
+      {
+        "label": "Design a database model",
+        "items": [
+          "Design a logical schema",
+          "Design a data access and data layer architecture",
+          "Design a database schema",
+          "Design a security architecture",
+          "Design a cross-server instance database model, including linked servers, security, providers, distributed transactions, distributed partitioned views, and service broker"
+        ]
+      },
+      {
+        "label": "Design tables",
+        "items": [
+          "Design tables appropriately, including physical tables, temp tables, temp table variables, common table expressions, columnstore indexes, user defined table types, filestream, filetable, and in-memory oltp",
+          "Design views and table valued functions",
+          "Design a compression strategy, including row and page",
+          "Select an appropriate data type",
+          "Design computed columns"
+        ]
+      },
+      {
+        "label": "Design for concurrency",
+        "items": [
+          "Develop a strategy to maximize concurrency",
+          "Define a locking and concurrency strategy",
+          "Design a transaction isolation strategy, including server database and session",
+          "Design triggers for concurrency"
+        ]
+      },
+      {
+        "label": "Design T-SQL stored procedures",
+        "items": [
+          "Create stored procedures",
+          "Design a data access strategy using stored procedures",
+          "Design appropriate stored procedure parameters, including input, output, and table valued",
+          "Design error handling",
+          "Design an in-memory oltp strategy for stored procedures"
+        ]
+      },
+      {
+        "label": "Design a management automation strategy",
+        "items": [
+          "Create a data archiving solution",
+          "Design automation and auditing, including jobs, alerts, operators, ssis, cdc, auditing, ddl triggers, and windows powershell",
+          "Automate across multiple databases and instances",
+          "Design data batch processing: design a database load test",
+          "Deploy to different environments, including development, staging, and production"
+        ]
+      },
+      {
+        "label": "Design for transactions",
+        "items": [
+          "Manage transactions, including time, savepoint, and mark",
+          "Design for implicit and explicit transactions",
+          "Ensure data integrity by using transactions",
+          "Design error handling for transactions, including try, catch, and throw"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design database security (10–15%)",
+    "skills": [
+      {
+        "label": "Design an application strategy to support security",
+        "items": [
+          "Design security, including security roles, signed stored procedures, encryption, contained logins, execute as, and credentials",
+          "Implement schemas and schema security",
+          "Design security maintenance, including sql logins, integrated authentication, permissions, and mirroring"
+        ]
+      },
+      {
+        "label": "Design database, schema, and object security permissions",
+        "items": [
+          "Design a database schema that meets security requirements, schema ownership, ownership chaining, cross database chaining"
+        ]
+      },
+      {
+        "label": "Design instance-level security configurations",
+        "items": [
+          "Implement separation of duties using different login roles",
+          "Choose an authentication type, including logon triggers, regulatory requirements, and certificates",
+          "Implement data encryption, including database master key and configuration",
+          "Implement data description language (ddl) triggers",
+          "Define a secure service account"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design a troubleshooting and optimization solution (25–30%)",
+    "skills": [
+      {
+        "label": "Design a maintenance strategy for database servers",
+        "items": [
+          "Design maintenance plans",
+          "Design index maintenance, including rebuild, defragmentation, statistics, online rebuilds, offline rebuilds, and thresholds",
+          "Maintain physical and logical consistency (dbcc)",
+          "Manage database files, including ldf, mdf, in-memory oltp, and garbage collection",
+          "Define a retention policy"
+        ]
+      },
+      {
+        "label": "Troubleshoot and resolve concurrency issues",
+        "items": [
+          "Examine deadlocking issues using sql server logs and trace flags",
+          "Design a reporting database infrastructure, including replicated databases",
+          "Monitor concurrency, including dynamic management views (dmv)",
+          "Diagnose blocking, including live locking and deadlocking",
+          "Diagnose waits",
+          "Use extended events",
+          "Implement query hints to increase concurrency"
+        ]
+      },
+      {
+        "label": "Design and implement a high availability solution",
+        "items": [
+          "Configure failover clustering, including multi-subnet",
+          "Design readable mirrors",
+          "Create a highly available configuration with low recovery time",
+          "Design and ensure uptime requirements, including monitoring and patching",
+          "Design and implement a replication architecture",
+          "Implement alwayson availability groups and alwayson failover clusters"
+        ]
+      },
+      {
+        "label": "Design a solution to monitor performance and concurrency",
+        "items": [
+          "Identify performance monitor counters",
+          "Monitor for performance and bottlenecks, including wait stats",
+          "Design a query monitoring and review strategy",
+          "Monitor for missing statistics"
+        ]
+      },
+      {
+        "label": "Design a monitoring solution at the instance level",
+        "items": [
+          "Design auditing strategies, including extended events, event traces, sql audit, profiler-scheduled or event-based maintenance, performance monitor, and dmv usage",
+          "Set up file and table growth monitoring",
+          "Collect performance indicators and counters",
+          "Create jobs to monitor server health",
+          "Audit using windows logs"
+        ]
+      }
+    ]
+  }
+]

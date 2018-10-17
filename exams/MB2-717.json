@@ -1,0 +1,176 @@
+[
+  {
+    "label": "Create a Customer Organizational Structure (20% - 25%)",
+    "skills": [
+      {
+        "label": "Manage customer records",
+        "items": [
+          "Create and maintain a current customer base organizational structure",
+          "Identify potential sales opportunities by utilizing core records such as accounts, contacts and customers"
+        ]
+      },
+      {
+        "label": "Manage the sales process",
+        "items": [
+          "Create and maintain sales transactional records",
+          "Track the sales progression",
+          "Manage the sales process from lead generation through quote, order, and invoice creation"
+        ]
+      },
+      {
+        "label": "Manage customer communication",
+        "items": [
+          "Create and manage social engagement sources, identify opportunities and generate leads"
+        ]
+      },
+      {
+        "label": "Manage sales literature and competitors",
+        "items": [
+          "Create and maintain a sales literature repository, create an organized methodology for identifying and tracking competitors"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Leads and Opportunities (15% - 20%)",
+    "skills": [
+      {
+        "label": "Manage leads",
+        "items": [
+          "Identify leads and track them throughout the conversion process, reactivate or delete disqualified leads"
+        ]
+      },
+      {
+        "label": "Identify and manage opportunities",
+        "items": [
+          "Identify opportunities to track throughout the sales workflow, create opportunities with a defined status, create records within the opportunity form, assign opportunities to designated sales staff"
+        ]
+      },
+      {
+        "label": "Utilize opportunity functionality",
+        "items": [
+          "Close and document opportunities as won or lost, use quick create to add new information, connect opportunities to other record types, apply connections to a data structure"
+        ]
+      },
+      {
+        "label": "Manage opportunity relationships",
+        "items": [
+          "Analyze lost sales opportunities through resolution activities, utilize multiple opportunity views"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Relationship and Sales Analysis (10% - 15%)",
+    "skills": [
+      {
+        "label": "Manage relationship intelligence",
+        "items": [
+          "Provision and configure relationship insights to integrate with exchange, create and prioritize actions and tasks, track interactions, manage sales communication"
+        ]
+      },
+      {
+        "label": "Manage relationship analysis",
+        "items": [
+          "Provision and configure relationship intelligence, create actionable and productivity cards by using relationship assistant"
+        ]
+      },
+      {
+        "label": "Integrate email with Dynamics 365 Sales",
+        "items": [
+          "Track interactions with a specific email",
+          "Manage sales relationships through statistical analysis of email activity, untracked emails and performance activities",
+          "Manage sales relationships with email engagement",
+          "Use engagement analytics and auto-capture"
+        ]
+      },
+      {
+        "label": "Manage sales by using sales analysis tools",
+        "items": [
+          "Improve sales tracking by using advanced find, editable grids and built-in reports",
+          "Export data to excel in both static and dynamic processes",
+          "Export excel templates"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage the Sale Process (10% - 15%)",
+    "skills": [
+      {
+        "label": "Manage the business process flow",
+        "items": [
+          "Manage the tasks required of each state in the business process flow, create territories and assign them to managers and sales staff, configure currency and exchange rates"
+        ]
+      },
+      {
+        "label": "Manage Products by using the Product Catalog",
+        "items": [
+          "Manage prices lists, discount lists and unit groups",
+          "Create, maintain and clone products",
+          "Manage the product lifecycle"
+        ]
+      },
+      {
+        "label": "Manage price structures",
+        "items": [
+          "Create price lists, create discount list models, assign currencies to products"
+        ]
+      },
+      {
+        "label": "Manage product relationships",
+        "items": [
+          "Identify product relationships, differentiate product relationships by family units, customize properties for all products, identify and bundle related products"
+        ]
+      },
+      {
+        "label": "Manage sales transactional records",
+        "items": [
+          "Create price and revenue structures with inclusion of line items, currency rates, exchange rates, and write-in products",
+          "Manage the quote lifecycle",
+          "Create and manage quotes, orders, and invoices"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Improve Sales Performance (10% - 15%)",
+    "skills": [
+      {
+        "label": "Manage goals",
+        "items": [
+          "Create manageable and measurable goals, delineate goals by fiscal periods, specify definitions and goal metric records, analyze individual and organizational progress by creating goal hierarchies, use rollup queries"
+        ]
+      },
+      {
+        "label": "Manage visual tools with Sales Analysis",
+        "items": [
+          "Create documents and templates, integrate charts and dashboards"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Customer Information (15% - 20%)",
+    "skills": [
+      {
+        "label": "Operate Dynamics 365 sales functions",
+        "items": [
+          "Identify and define the functional areas of dynamics 365 sales, model relationships and records in microsoft dynamics 365, access dynamics 365 sales through various client access methods, utilize the help center"
+        ]
+      },
+      {
+        "label": "Perform data management",
+        "items": [
+          "Create customers and contacts within 365 sales, enforce customer relationship by using activity types, use views and global searches"
+        ]
+      },
+      {
+        "label": "Perform lifecycle management",
+        "items": [
+          "Utilize leads, convert leads into customers in the lead life cycle, perform opportunity management, manage cases"
+        ]
+      }
+    ]
+  }
+]

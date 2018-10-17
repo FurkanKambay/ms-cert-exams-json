@@ -1,0 +1,202 @@
+[
+  {
+    "label": "Manage Azure subscriptions and resources (15-20%)",
+    "skills": [
+      {
+        "label": "Manage Azure subscriptions",
+        "items": [
+          "May include but not limited to: assign administrator permissions",
+          "Configure cost center quotas and tagging",
+          "Configure subscription policies"
+        ]
+      },
+      {
+        "label": "Analyze resource utilization and consumption",
+        "items": [
+          "May include but not limited to: configure diagnostic settings on resources",
+          "Create baseline for resources",
+          "Create and test alerts",
+          "Analyze alerts across subscription",
+          "Analyze metrics across subscription",
+          "Create action groups",
+          "Monitor for unused resources",
+          "Monitor spend",
+          "Report on spend",
+          "Utilize log search query functions",
+          "View alerts in log analytics"
+        ]
+      },
+      {
+        "label": "Manage resource groups",
+        "items": [
+          "May include but not limited to: allocate resource policies",
+          "Configure resource locks",
+          "Configure resource policies",
+          "Implement and set tagging on resource groups",
+          "Move resources across resource groups",
+          "Remove resource groups"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and manage storage (20-25%)",
+    "skills": [
+      {
+        "label": "Create and configure storage accounts",
+        "items": [
+          "May include but not limited to: configure network access to the storage account",
+          "Create and configure storage account",
+          "Generate shared access signature",
+          "Install and use azure storage explorer",
+          "Manage access keys",
+          "Monitor activity log by using log analytics",
+          "Implement azure storage replication"
+        ]
+      },
+      {
+        "label": "Import and export data to Azure",
+        "items": [
+          "May include but not limited to: create export from azure job",
+          "Create import into azure job",
+          "Configure and use azure blob storage",
+          "Configure azure content delivery network (cdn) endpoints"
+        ]
+      },
+      {
+        "label": "Configure Azure files",
+        "items": [
+          "May include but not limited to: create azure file share",
+          "Create azure file sync service",
+          "Create azure sync group",
+          "Troubleshoot azure file sync"
+        ]
+      },
+      {
+        "label": "Implement Azure backup",
+        "items": [
+          "May include but not limited to: configure and review backup reports",
+          "Perform backup operation",
+          "Create recovery services vault",
+          "Create and configure backup policy",
+          "Perform a restore operation"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deploy and manage virtual machines (VMs) (20-25%)",
+    "skills": [
+      {
+        "label": "Create and configure a VM for Windows and Linux",
+        "items": [
+          "May include but not limited to: configure high availability",
+          "Configure monitoring, networking, storage, and virtual machine size",
+          "Deploy and configure scale sets"
+        ]
+      },
+      {
+        "label": "Automate deployment of VMs",
+        "items": [
+          "May include but not limited to: modify azure resource manager (arm) template",
+          "Configure location of new vms",
+          "Configure vhd template",
+          "Deploy from template",
+          "Save a deployment as an arm template",
+          "Deploy windows and linux vms"
+        ]
+      },
+      {
+        "label": "Manage Azure VM",
+        "items": [
+          "May include but not limited to: add data discs",
+          "Add network interfaces",
+          "Automate configuration management by using powershell desired state configuration (dsc) and vm agent by using custom script extensions",
+          "Manage vm sizes",
+          "Move vms from one resource group to another",
+          "Redeploy vms"
+        ]
+      },
+      {
+        "label": "Manage VM backups",
+        "items": [
+          "May include but not limited to: configure vm backup",
+          "Define backup policies",
+          "Implement backup policies",
+          "Perform vm restore"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and manage virtual networks (20-25%)",
+    "skills": [
+      {
+        "label": "Create connectivity between virtual networks",
+        "items": [
+          "May include but not limited to: create and configure vnet peering",
+          "Create and configure vnet to vnet",
+          "Verify virtual network connectivity",
+          "Create virtual network gateway"
+        ]
+      },
+      {
+        "label": "Implement and manage virtual networking",
+        "items": [
+          "May include but not limited to: configure private and public ip addresses, network routes, network interface, subnets, and virtual network"
+        ]
+      },
+      {
+        "label": "Configure name resolution",
+        "items": [
+          "May include but not limited to: configure azure dns",
+          "Configure custom dns settings",
+          "Configure dns zones"
+        ]
+      },
+      {
+        "label": "Create and configure a Network Security Group (NSG)",
+        "items": [
+          "May include but not limited to: create security rules",
+          "Associate nsg to a subnet or network interface",
+          "Identify required ports",
+          "Evaluate effective security rules"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage identities (15-20%)",
+    "skills": [
+      {
+        "label": "Manage Azure Active Directory (AD)",
+        "items": [
+          "May include but not limited to: add custom domains",
+          "Configure azure ad identity protection, azure ad join, and enterprise state roaming",
+          "Configure self-service password reset",
+          "Implement conditional access policies",
+          "Manage multiple directories",
+          "Perform an access review"
+        ]
+      },
+      {
+        "label": "Manage Azure AD objects (users, groups, and devices)",
+        "items": [
+          "May include but not limited to: create users and groups",
+          "Manage user and group properties",
+          "Manage device settings",
+          "Perform bulk user updates"
+        ]
+      },
+      {
+        "label": "Implement and manage hybrid identities",
+        "items": [
+          "May include but not limited to: install and configure azure ad connect",
+          "Configure federation and single sign-on",
+          "Manage azure ad connect",
+          "Manage password sync and writeback"
+        ]
+      }
+    ]
+  }
+]

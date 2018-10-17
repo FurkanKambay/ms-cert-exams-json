@@ -1,0 +1,115 @@
+[
+  {
+    "label": "Design and implement database solutions for Microsoft SQL Server and Microsoft Azure SQL Database (20–25%)",
+    "skills": [
+      {
+        "label": "Design a hybrid SQL Server solution",
+        "items": [
+          "Design a disaster recovery topology for a hybrid deployment, design a data storage architecture, design a security architecture, design a data load strategy, design a data synchronization strategy"
+        ]
+      },
+      {
+        "label": "Implement SQL Server on Azure Virtual Machines (VMs)",
+        "items": [
+          "Provision sql server on an azure vm, configure firewall rules, configure and optimize storage, migrate an on-premises database to microsoft azure, configure and optimize vm sizes by workload"
+        ]
+      },
+      {
+        "label": "Design a database solution on Azure SQL database and SQL Server in Azure",
+        "items": [
+          "Design a solution architecture, design a geo/dr topology, design a security architecture, design a data load strategy, determine the appropriate service tier, determine the appropriate deployment scenario, determine iaas vs paas, determine application access in azure"
+        ]
+      },
+      {
+        "label": "Implement Azure SQL Database",
+        "items": [
+          "Provision azure sql database, configure firewall rules, configure active geo-replication, migrate an on-premises database to sql database, configure for scale and performance"
+        ]
+      },
+      {
+        "label": "Design and implement MySQL and PostgreSQL database solutions in Azure",
+        "items": [
+          "Design security, design a data load strategy, determine the appropriate service tier, provision databases and servers, configure firewall rules, migrate to azure, configure for scale and performance"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design and Implement Security (25–30%)",
+    "skills": [
+      {
+        "label": "Design and implement SQL Server Database security",
+        "items": [
+          "Configure firewalls",
+          "Manage logins, users, and roles",
+          "Assign permissions",
+          "Configure auditing",
+          "Configure transparent database encryption (tde)",
+          "Configure row-level security",
+          "Configure data encryption",
+          "Configure data masking",
+          "Configure always encrypted"
+        ]
+      },
+      {
+        "label": "Design and implement Azure SQL Database security",
+        "items": [
+          "Configure firewalls",
+          "Manage logins, users, and roles",
+          "Assign permissions",
+          "Configure auditing",
+          "Configure row-level security",
+          "Configure data encryption",
+          "Configure data masking",
+          "Configure always encrypted, configure automatic threat detection"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design for high availability, disaster recovery, and scalability (25–30%)",
+    "skills": [
+      {
+        "label": "Design and implement high availability solutions",
+        "items": [
+          "Design a high-availability solution topology, design a high-availability solution for sql on azure vms, implement high-availability solutions"
+        ]
+      },
+      {
+        "label": "Design and implement scalable solutions",
+        "items": [
+          "Design a scale-out solution, implement multi-master scenarios with database replication, implement elastic scale for azure sql database"
+        ]
+      },
+      {
+        "label": "Design and implement Azure SQL Database data recovery",
+        "items": [
+          "Implement self-service restore, copy and export databases, implement long-term retention backups"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Monitor and manage database implementations in Azure (25–30%)",
+    "skills": [
+      {
+        "label": "Monitor and troubleshoot SQL Server VMs on Azure",
+        "items": [
+          "Monitor database and instance activity, monitor by using dmvs and dmfs, monitor performance and scalability"
+        ]
+      },
+      {
+        "label": "Monitor and troubleshoot SQL Database",
+        "items": [
+          "Monitor and troubleshoot sql database, monitor database activity, monitor by using dmvs and dmfs, monitor performance and scalability"
+        ]
+      },
+      {
+        "label": "Automate and manage database implementations on Azure",
+        "items": [
+          "Automate and manage sql server on azure vms, automate and manage azure sql database, configure automation and runbooks"
+        ]
+      }
+    ]
+  }
+]

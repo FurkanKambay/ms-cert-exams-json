@@ -1,0 +1,302 @@
+[
+  {
+    "label": "Deploy and Configure Infrastructure (25-30%)",
+    "skills": [
+      {
+        "label": "Analyze resource utilization and consumption",
+        "items": [
+          "May include but not limited to: configure diagnostic settings on resources",
+          "Create baseline for resources",
+          "Create and rest alerts",
+          "Analyze alerts across subscription",
+          "Analyze metrics across subscription",
+          "Create action groups",
+          "Monitor for unused resources",
+          "Monitor spend",
+          "Report on spend",
+          "Utilize log search query functions",
+          "View alerts in log analytics"
+        ]
+      },
+      {
+        "label": "Create and configure storage accounts",
+        "items": [
+          "May include but not limited to: configure network access to the storage account",
+          "Create and configure storage account",
+          "Generate shared access signature",
+          "Install and use azure storage explorer",
+          "Manage access keys",
+          "Monitor activity log by using log analytics",
+          "Implement azure storage replication"
+        ]
+      },
+      {
+        "label": "Create and configure a Virtual Machine (VM) for Windows and Linux",
+        "items": [
+          "May include but not limited to: configure high availability",
+          "Configure monitoring, networking, storage, and virtual machine size",
+          "Deploy and configure scale sets"
+        ]
+      },
+      {
+        "label": "Automate deployment of Virtual Machines (VMs)",
+        "items": [
+          "May include but not limited to: modify azure resource manager (arm) template",
+          "Configure location of new vms",
+          "Configure vhd template",
+          "Deploy from template",
+          "Save a deployment as an arm template",
+          "Deploy windows and linux vms"
+        ]
+      },
+      {
+        "label": "Create connectivity between virtual networks",
+        "items": [
+          "May include but not limited to: create and configure vnet peering",
+          "Create and configure vnet to vnet",
+          "Verify virtual network connectivity",
+          "Create virtual network gateway"
+        ]
+      },
+      {
+        "label": "Implement and manage virtual networking",
+        "items": [
+          "May include but not limited to: configure private and public ip addresses, network routes, network interface, subnets, and virtual network"
+        ]
+      },
+      {
+        "label": "Manage Azure Active Directory (AD)",
+        "items": [
+          "May include but not limited to: add custom domains",
+          "Configure azure ad identity protection, azure ad join, and enterprise state roaming",
+          "Configure self-service password reset",
+          "Implement conditional access policies",
+          "Manage multiple directories",
+          "Perform an access review"
+        ]
+      },
+      {
+        "label": "Implement and manage hybrid identities",
+        "items": [
+          "May include but not limited to: install and configure azure ad connect",
+          "Configure federation and single sign-on",
+          "Manage azure ad connect",
+          "Manage password sync and writeback"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Workloads and Security (20-25%)",
+    "skills": [
+      {
+        "label": "Migrate servers to Azure",
+        "items": [
+          "May include but not limited to: migrate by using azure site recovery (asr)",
+          "Migrate using p2v",
+          "Configure storage",
+          "Create a backup vault",
+          "Prepare source and target environments",
+          "Backup and restore data",
+          "Deploy azure site recovery (asr) agent",
+          "Prepare virtual network"
+        ]
+      },
+      {
+        "label": "Configure serverless computing",
+        "items": [
+          "May include but not limited to: create and manage objects",
+          "Manage a logic app resource",
+          "Manage azure function app settings",
+          "Manage event grid",
+          "Manage service bus"
+        ]
+      },
+      {
+        "label": "Implement application load balancing",
+        "items": [
+          "May include but not limited to: configure application gateway and load balancing rules",
+          "Implement front end ip configurations",
+          "Manage application load balancing"
+        ]
+      },
+      {
+        "label": "Integrate on premises network with Azure virtual network",
+        "items": [
+          "May include but not limited to: create and configure azure vpn gateway",
+          "Create and configure site to site vpn",
+          "Configure express route",
+          "Verify on premises connectivity",
+          "Manage on-premise connectivity with azure"
+        ]
+      },
+      {
+        "label": "Manage role-based access control (RBAC)",
+        "items": [
+          "May include but not limited to: create a custom role",
+          "Configure access to azure resources by assigning roles",
+          "Configure management access to azure",
+          "Troubleshoot rbac",
+          "Implement rbac policies",
+          "Assign rbac roles"
+        ]
+      },
+      {
+        "label": "Implement Multi-Factor Authentication (MFA)",
+        "items": [
+          "May include but not limited to: enable mfa for an azure tenant",
+          "Configure user accounts for mfa",
+          "Configure fraud alerts",
+          "Configure bypass options",
+          "Configure trusted ips",
+          "Configure verification methods",
+          "Manage role-based access control (rbac)",
+          "Implement rbac policies",
+          "Assign rbac roles",
+          "Create a custom role",
+          "Configure access to azure resources by assigning roles",
+          "Configure management access to azure"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Architect Cloud Technology Solutions (5-10%)",
+    "skills": [
+      {
+        "label": "Select an appropriate compute solution",
+        "items": [
+          "May include but not limited to: leverage appropriate design patterns",
+          "Select appropriate network connectivity options",
+          "Design for hybrid topologies"
+        ]
+      },
+      {
+        "label": "Select an appropriate integration solution",
+        "items": [
+          "May include but not limited to: address computational bottlenecks, state management, and os requirements",
+          "Provide for web hosting if applicable",
+          "Evaluate minimum number of nodes"
+        ]
+      },
+      {
+        "label": "Select an appropriate storage solution",
+        "items": [
+          "May include but not limited to: validate data storage technology capacity limitations",
+          "Address durability of data",
+          "Provide for appropriate throughput of data access",
+          "Evaluate structure of data storage",
+          "Provide for data archiving, retention, and compliance"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create and Deploy Apps (5-10%)",
+    "skills": [
+      {
+        "label": "Create web applications by using PaaS",
+        "items": [
+          "May include but not limited to: create an azure app service web app by using azure cli, powershell, and other tools",
+          "Create documentation for the api by using open source and other tools",
+          "Create an app service web app for containers",
+          "Create an app service background task by using webjobs"
+        ]
+      },
+      {
+        "label": "Create app or service that runs on Service Fabric",
+        "items": [
+          "May include but not limited to: develop a stateful reliable service and a stateless reliable service",
+          "Develop an actor-based reliable service",
+          "Write code to consume reliable collections in your service"
+        ]
+      },
+      {
+        "label": "Design and develop applications that run in containers",
+        "items": [
+          "May include but not limited to: configure diagnostic settings on resources",
+          "Create a container image by using a docker file",
+          "Create an azure container service (acs/aks) cluster by using the azure cli and azure portal",
+          "Publish an image to the azure container registry",
+          "Implement an application that runs on an azure container instance",
+          "Implement container instances by using azure container service (acs/aks), azure service fabric, and other tools",
+          "Manage container settings by using code"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Authentication and Secure Data (5-10%)",
+    "skills": [
+      {
+        "label": "Implement authentication",
+        "items": [
+          "May include but not limited to: implement authentication by using certificates, forms-based authentication, tokens, windows-integrated authentication",
+          "Implement multi-factor authentication by using azure ad options"
+        ]
+      },
+      {
+        "label": "Implement secure data solutions",
+        "items": [
+          "May include but not limited to: encrypt and decrypt data at rest",
+          "Encrypt data with always encrypted",
+          "Implement azure confidential compute and ssl/tls communications",
+          "Manage cryptographic keys in the azure key vault"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop for the Cloud (20-25%)",
+    "skills": [
+      {
+        "label": "Develop long-running tasks",
+        "items": [
+          "May include but not limited to: implement large-scale, parallel, and high-performance apps by using batches",
+          "Implement resilient apps by using queues",
+          "Implement code to address application events by using web hooks",
+          "Address continuous processing tasks by using web jobs"
+        ]
+      },
+      {
+        "label": "Configure a message-based integration architecture",
+        "items": [
+          "May include but not limited to: configure an app or service to send emails, event grid, and the azure relay service",
+          "Create and configure a notification hub, an event hub, and a service bus",
+          "Configure queries across multiple products",
+          "Configure an app or service with microsoft graph"
+        ]
+      },
+      {
+        "label": "Develop for asynchronous processing",
+        "items": [
+          "May include but not limited to: implement parallelism, multithreading, processing, durable functions, azure logic apps, interfaces with storage, interfaces to data access, and appropriate asynchronous compute models"
+        ]
+      },
+      {
+        "label": "Develop for autoscaling",
+        "items": [
+          "May include but not limited to: implement autoscaling rules and patterns (schedule, operational/system metrics, code that addresses singleton application instances, and code that addresses transient state"
+        ]
+      },
+      {
+        "label": "Implement distributed transactions",
+        "items": [
+          "May include but not limited to: identify tools to implement distributed transactions (e.g., ado.net, elastic transactions, multi-database transactions)",
+          "Manage transaction scope",
+          "Manage transactions across multiple databases and servers"
+        ]
+      },
+      {
+        "label": "Develop advanced cloud workloads",
+        "items": [
+          "May include but not limited to: develop solutions by using intelligent algorithms that identify items from images and videos",
+          "Develop solutions by using intelligent algorithms related to speech, natural language processing, bing search, and recommendations and decision making",
+          "Create and integrate bots",
+          "Integrate machine learning solutions in an app",
+          "Create and implement iot solutions"
+        ]
+      }
+    ]
+  }
+]

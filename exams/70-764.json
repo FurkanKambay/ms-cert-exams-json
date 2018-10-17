@@ -1,0 +1,106 @@
+[
+  {
+    "label": "Configure data access and auditing (20–25%)",
+    "skills": [
+      {
+        "label": "Configure encryption",
+        "items": [
+          "Implement cell-level encryption, implement always encrypted, implement backup encryption, configure transparent data encryption, configure encryption for connections, troubleshoot encryption errors"
+        ]
+      },
+      {
+        "label": "Configure data access and permissions",
+        "items": [
+          "Manage database object permissions, create and maintain users, create and maintain custom roles, configure user options for azure sql database, configure row-level security, configure dynamic data masking"
+        ]
+      },
+      {
+        "label": "Configure auditing",
+        "items": [
+          "Configure an audit on sql server, query the sql server audit log, manage a sql server audit, configure an azure sql database audit, analyze audit logs and reports from azure sql database"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage backup and restore of databases (20–25%)",
+    "skills": [
+      {
+        "label": "Develop a backup strategy",
+        "items": [
+          "Back up very large databases, configure alerting for failed backups, back up databases to azure, manage transaction log backups, configure database recovery models, configure backup automation"
+        ]
+      },
+      {
+        "label": "Restore databases",
+        "items": [
+          "Perform piecemeal restores, perform page recovery, perform point-in-time recovery, restore file groups, develop a plan to automate and test restores"
+        ]
+      },
+      {
+        "label": "Manage database integrity",
+        "items": [
+          "Implement database consistency checks, identify database corruption, recover from database corruption"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and monitor SQL Server instances (35–40%)",
+    "skills": [
+      {
+        "label": "Monitor database activity",
+        "items": [
+          "Monitor current sessions, identify sessions that cause blocking activity, identify sessions that consume tempdb resources, configure the data collector"
+        ]
+      },
+      {
+        "label": "Monitor queries",
+        "items": [
+          "Manage the query store, configure extended events and trace events, identify problematic execution plans, troubleshoot server health using extended events"
+        ]
+      },
+      {
+        "label": "Manage indexes",
+        "items": [
+          "Identify and repair index fragmentation, identify and create missing indexes, identify and drop underutilized indexes, manage existing columnstore indexes"
+        ]
+      },
+      {
+        "label": "Manage statistics",
+        "items": [
+          "Identify and correct outdated statistics, implement auto update statistics, implement statistics for large tables"
+        ]
+      },
+      {
+        "label": "Monitor SQL Server instances",
+        "items": [
+          "Create and manage operators, create and manage sql agent alerts, define custom alert actions, define failure actions, configure database mail, configure policy-based management, identify available space on data volumes, identify the cause of performance degradation"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage high availability and disaster recovery (20–25%)",
+    "skills": [
+      {
+        "label": "Implement log shipping",
+        "items": [
+          "Configure log shipping, monitor log shipping"
+        ]
+      },
+      {
+        "label": "Implement AlwaysOn Availability Groups",
+        "items": [
+          "Configure windows clustering, create an availability group, configure read-only routing, manage failover, create distributed availability groups"
+        ]
+      },
+      {
+        "label": "Implement failover cluster instances",
+        "items": [
+          "Manage shared disks, configure cluster shared volumes"
+        ]
+      }
+    ]
+  }
+]

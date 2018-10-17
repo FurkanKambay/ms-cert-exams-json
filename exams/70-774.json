@@ -1,0 +1,115 @@
+[
+  {
+    "label": "Prepare Data for Analysis in Azure Machine Learning and Export from Azure Machine Learning",
+    "skills": [
+      {
+        "label": "Import and export data to and from Azure Machine Learning",
+        "items": [
+          "Import and export data to and from azure blob storage, import and export data to and from azure sql database, import and export data via hive queries, import data from a website, import data from on-premises sql"
+        ]
+      },
+      {
+        "label": "Explore and summarize data",
+        "items": [
+          "Create univariate summaries, create multivariate summaries, visualize univariate distributions, use existing microsoft r or python notebooks for custom summaries and custom visualizations, use zip archives to import external packages for r or python"
+        ]
+      },
+      {
+        "label": "Cleanse data for Azure Machine Learning",
+        "items": [
+          "Apply filters to limit a dataset to the desired rows, identify and address missing data, identify and address outliers, remove columns and rows of datasets"
+        ]
+      },
+      {
+        "label": "Perform feature engineering",
+        "items": [
+          "Merge multiple datasets by rows or columns into a single dataset by columns, merge multiple datasets by rows or columns into a single dataset by rows, add columns that are combinations of other columns, manually select and construct features for model estimation, automatically select and construct features for model estimation, reduce dimensions of data through principal component analysis (pca), manage variable metadata, select standardized variables based on planned analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop Machine Learning Models",
+    "skills": [
+      {
+        "label": "Select an appropriate algorithm or method",
+        "items": [
+          "Select an appropriate algorithm for predicting continuous label data, select an appropriate algorithm for supervised versus unsupervised scenarios, identify when to select r versus python notebooks, identify an appropriate algorithm for grouping unlabeled data, identify an appropriate algorithm for classifying label data, select an appropriate ensemble"
+        ]
+      },
+      {
+        "label": "Initialize and train appropriate models",
+        "items": [
+          "Tune hyperparameters manually",
+          "Tune hyperparameters automatically",
+          "Split data into training and testing datasets, including using routines for cross-validation",
+          "Build an ensemble using the stacking method"
+        ]
+      },
+      {
+        "label": "Validate models",
+        "items": [
+          "Score and evaluate models, select appropriate evaluation metrics for clustering, select appropriate evaluation metrics for classification, select appropriate evaluation metrics for regression, use evaluation metrics to choose between machine learning models, compare ensemble metrics against base models"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Operationalize and Manage Azure Machine Learning Services",
+    "skills": [
+      {
+        "label": "Deploy models using Azure Machine Learning",
+        "items": [
+          "Publish a model developed inside azure machine learning, publish an externally developed scoring function using an azure machine learning package, use web service parameters, create and publish a recommendation model, create and publish a language understanding model"
+        ]
+      },
+      {
+        "label": "Manage Azure Machine Learning projects and workspaces",
+        "items": [
+          "Create projects and experiments, add assets to a project, create new workspaces, invite users to a workspace, switch between different workspaces, create a jupyter notebook that references an intermediate dataset"
+        ]
+      },
+      {
+        "label": "Consume Azure Machine Learning models",
+        "items": [
+          "Connect to a published machine learning web service, consume a published machine learning model programmatically using a batch execution service, consume a published machine learning model programmatically using a request response service, interact with a published machine learning model using microsoft excel, publish models to the marketplace"
+        ]
+      },
+      {
+        "label": "Consume exemplar Cognitive Services APIs",
+        "items": [
+          "Consume vision apis to process images, consume language apis to process text, consume knowledge apis to create recommendations"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Use Other Services for Machine Learning",
+    "skills": [
+      {
+        "label": "Build and use neural networks with the Microsoft Cognitive Toolkit",
+        "items": [
+          "Use n-series vms for gpu acceleration, build and train a three-layer feed forward neural network, determine when to implement a neural network"
+        ]
+      },
+      {
+        "label": "Streamline development by using existing resources",
+        "items": [
+          "Clone template experiments from cortana intelligence gallery, use cortana intelligence quick start to deploy resources, use a data science vm for streamlined development"
+        ]
+      },
+      {
+        "label": "Perform data sciences at scale by using HDInsights",
+        "items": [
+          "Deploy the appropriate type of hdi cluster, perform exploratory data analysis by using spark sql, build and use machine learning models with spark on hdi, build and use machine learning models using mapreduce, build and use machine learning models using microsoft r server"
+        ]
+      },
+      {
+        "label": "Perform database analytics by using SQL Server R Services on Azure",
+        "items": [
+          "Deploy a sql server 2016 azure vm, configure sql server to allow execution of r scripts, execute r scripts inside t-sql statements"
+        ]
+      }
+    ]
+  }
+]

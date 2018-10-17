@@ -1,0 +1,164 @@
+[
+  {
+    "label": "Create and format content (25–30%)",
+    "skills": [
+      {
+        "label": "Navigate the SharePoint hierarchy",
+        "items": [
+          "Use quick launch, all site content, and breadcrumb trails",
+          "Add content to quick launch",
+          "And use content and structure for navigation"
+        ]
+      },
+      {
+        "label": "Manage lists and libraries",
+        "items": [
+          "Create lists or libraries, edit properties for new items, enable email notifications on a library or list, provide a shortcut to a mobile site url, manage document templates, manage list views, create an alert on a list or library, enable rating, add a column, add content validation, manage column properties for various column types, and manage workflows"
+        ]
+      },
+      {
+        "label": "Manage list items",
+        "items": [
+          "Create a new item, edit content, delete a list item or a document, version items, publish assets, manage workflows, and upload documents"
+        ]
+      },
+      {
+        "label": "Manage document sets",
+        "items": [
+          "Create a document set, and add a document to a document set"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage SharePoint sites (15–20%)",
+    "skills": [
+      {
+        "label": "Manage pages",
+        "items": [
+          "Create, edit, and delete pages"
+        ]
+      },
+      {
+        "label": "Administer a site",
+        "items": [
+          "Create a new site, configure the site structure, configure the content organizer, display a list of all user alerts, modify the look and feel of a site, and recover a list, library, document, or list item"
+        ]
+      },
+      {
+        "label": "Manage Web Parts on a page",
+        "items": [
+          "Add a web part, configure a web part, hide or remove a web part, and export or import a web part"
+        ]
+      },
+      {
+        "label": "Manage content types",
+        "items": [
+          "Associate a content type to a list, and extend the columns of a content type"
+        ]
+      },
+      {
+        "label": "Manage users and groups",
+        "items": [
+          "Manage user access, groups, and group permissions"
+        ]
+      },
+      {
+        "label": "Create SharePoint workspace sites",
+        "items": [
+          "Use document and meeting workspaces"
+        ]
+      },
+      {
+        "label": "Analyze site activity",
+        "items": [
+          "View site web analytics, and view detailed reports"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Participate in user communities (15–20%)",
+    "skills": [
+      {
+        "label": "Configure My Site",
+        "items": [
+          "Add keywords, add colleagues, select a theme, configure the colleague tracker web part, configure rss feeds, and configure profiles"
+        ]
+      },
+      {
+        "label": "Collaborate through My Site",
+        "items": [
+          "Update profile status, share pictures in my site, manage personal documents, share documents in my site, browse the organization hierarchy, and add web parts to my site"
+        ]
+      },
+      {
+        "label": "Tag and note content",
+        "items": [
+          "Add notes on the note board for a list or a library, add tags for a list or a library, rate an item, use tag clouds, and review tags on my site"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and consume site search results (20–25%)",
+    "skills": [
+      {
+        "label": "Administer search at the site level",
+        "items": [
+          "Configure searchable columns, configure list search, and configure site search visibility"
+        ]
+      },
+      {
+        "label": "Search SharePoint for content",
+        "items": [
+          "Perform search by using windows internet explorer, windows explorer, office word 2010 research pane, or sharepoint workspace 2010"
+        ]
+      },
+      {
+        "label": "View search results",
+        "items": [
+          "Browse search results, use best bet results, use the refinement panel, use alerts and rss feeds, and view document previews"
+        ]
+      },
+      {
+        "label": "Perform advanced searches",
+        "items": [
+          "Use boolean operators in searches, use wild cards in searches, run property searches, and run phonetic searches"
+        ]
+      },
+      {
+        "label": "Search for people",
+        "items": [
+          "Use people search, refine people searches, and use advanced searches"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Integrate SharePoint 2010 services and Microsoft Office 2010 applications (15–20%)",
+    "skills": [
+      {
+        "label": "Configure SharePoint 2010 services",
+        "items": [
+          "Use form services, excel services, access services, and visio services"
+        ]
+      },
+      {
+        "label": "Run Microsoft Office 2010 applications with SharePoint 2010 services",
+        "items": [
+          "Integrate with microsoft outlook, access content with sharepoint workspace 2010, and integrate with office web apps"
+        ]
+      },
+      {
+        "label": "Create dashboards",
+        "items": [
+          "Create a dashboard page",
+          "Add and configure the key performance indicator (kpi) web part, kpi details web part, chart web part, current user filter web part, and excel web access web part",
+          "Display business data actions",
+          "And create kpi lists"
+        ]
+      }
+    ]
+  }
+]

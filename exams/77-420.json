@@ -1,0 +1,221 @@
+[
+  {
+    "label": "Create and manage worksheets and workbooks",
+    "skills": [
+      {
+        "label": "Create worksheets and workbooks",
+        "items": [
+          "Creating new blank workbooks",
+          "Creating new workbooks using templates",
+          "Importing files",
+          "Opening non-native files directly in excel",
+          "Adding worksheets to existing workbooks",
+          "Copying and moving worksheets"
+        ]
+      },
+      {
+        "label": "Navigate through worksheets and workbooks",
+        "items": [
+          "Searching for data within a workbook",
+          "Inserting hyperlinks",
+          "Changing worksheet order",
+          "Using go to",
+          "Using name box"
+        ]
+      },
+      {
+        "label": "Format worksheets and workbooks",
+        "items": [
+          "Changing worksheet tab color",
+          "Modifying page setup",
+          "Inserting and deleting columns and rows",
+          "Changing workbook themes",
+          "Adjusting row height and column width",
+          "Inserting watermarks",
+          "Inserting headers and footers",
+          "Setting data validation"
+        ]
+      },
+      {
+        "label": "Customize options and views for worksheets and workbooks",
+        "items": [
+          "Hiding worksheets",
+          "Hiding columns and rows",
+          "Customizing the quick access toolbar",
+          "Customizing the ribbon",
+          "Managing macro security",
+          "Changing workbook views",
+          "Recording simple macros",
+          "Adding values to workbook properties",
+          "Using zoom",
+          "Displaying formulas",
+          "Freezing panes",
+          "Assigning shortcut keys",
+          "Splitting the window"
+        ]
+      },
+      {
+        "label": "Configure worksheets and workbooks to print or save",
+        "items": [
+          "Setting a print area",
+          "Saving workbooks in alternate file formats",
+          "Printing individual worksheets",
+          "Setting print scaling",
+          "Repeating headers and footers",
+          "Maintaining backward compatibility",
+          "Configuring workbooks to print",
+          "Saving files to remote locations"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create cells and ranges",
+    "skills": [
+      {
+        "label": "Insert data in cells and ranges",
+        "items": [
+          "Appending data to worksheets",
+          "Finding and replacing data",
+          "Copying and pasting data",
+          "Using autofill tool",
+          "Expanding data across columns",
+          "Inserting and deleting cells"
+        ]
+      },
+      {
+        "label": "Format cells and ranges",
+        "items": [
+          "Merging cells",
+          "Modifying cell alignment and indentation",
+          "Changing font and font styles",
+          "Using format painter",
+          "Wrapping text within cells",
+          "Applying number format",
+          "Applying highlighting",
+          "Applying cell styles",
+          "Changing text to wordart"
+        ]
+      },
+      {
+        "label": "Order and group cells and ranges",
+        "items": [
+          "Applying conditional formatting",
+          "Inserting sparklines",
+          "Transposing columns and rows",
+          "Creating named ranges",
+          "Creating outline",
+          "Collapsing groups of data in outlines",
+          "Inserting subtotals"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create tables",
+    "skills": [
+      {
+        "label": "Create a table",
+        "items": [
+          "Moving between tables and ranges",
+          "Adding and removing cells within tables",
+          "Defining titles"
+        ]
+      },
+      {
+        "label": "Modify a table",
+        "items": [
+          "Applying styles to tables",
+          "Banding rows and columns",
+          "Inserting total rows",
+          "Removing styles from tables"
+        ]
+      },
+      {
+        "label": "Filter and sort a table",
+        "items": [
+          "Filtering records",
+          "Sorting data on multiple columns",
+          "Changing sort order",
+          "Removing duplicates"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Apply formulas and functions",
+    "skills": [
+      {
+        "label": "Utilize cell ranges and references in formulas and functions",
+        "items": [
+          "Utilizing references (relative, mixed, absolute)",
+          "Defining order of operations",
+          "Referencing cell ranges in formulas"
+        ]
+      },
+      {
+        "label": "Summarize data with functions",
+        "items": [
+          "Utilizing the sum function",
+          "Utilizing the min and max functions",
+          "Utilizing the count function",
+          "Utilizing the average function"
+        ]
+      },
+      {
+        "label": "Utilize conditional logic in functions",
+        "items": [
+          "Utilizing the sumif function",
+          "Utilizing the averageif function",
+          "Utilizing the countif function"
+        ]
+      },
+      {
+        "label": "Format and modify text with functions",
+        "items": [
+          "Utilizing the right, left and mid functions",
+          "Utilizing the trim function",
+          "Utilizing the upper and lower functions",
+          "Utilizing the concatenate function"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Create charts and objects",
+    "skills": [
+      {
+        "label": "Create a chart",
+        "items": [
+          "Creating charts and graphs",
+          "Adding additional data series",
+          "Switching between rows and columns in source data",
+          "Using quick analysis"
+        ]
+      },
+      {
+        "label": "Format a chart",
+        "items": [
+          "Adding legends",
+          "Resizing charts and graphs",
+          "Modifying chart and graph parameters",
+          "Applying chart layouts and styles",
+          "Positioning charts and graphs"
+        ]
+      },
+      {
+        "label": "Insert and format an object",
+        "items": [
+          "Inserting text boxes",
+          "Inserting smartart",
+          "Inserting images",
+          "Adding borders to objects",
+          "Adding styles and effects to objects",
+          "Changing object colors",
+          "Modifying object properties",
+          "Positioning objects"
+        ]
+      }
+    ]
+  }
+]
