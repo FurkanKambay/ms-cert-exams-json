@@ -78,7 +78,7 @@
       {
         "label": "Create database programmability objects by using Transact-SQL",
         "items": [
-          "Create stored procedures, table-valued and scalar-valued user-defined functions, and views",
+          "Create stored procedures, table-valued and scalar-valued user-defined functions, triggers, and views",
           "Implement input and output parameters in stored procedures",
           "Identify whether to use scalar-valued or table-valued functions",
           "Distinguish between deterministic and non-deterministic functions",

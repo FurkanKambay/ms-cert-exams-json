@@ -5,7 +5,7 @@
       {
         "label": "Install, upgrade, and migrate servers and workloads",
         "items": [
-          "Determine windows server 2016 installation requirements",
+          "This objective may include but is not limited to: determine windows server 2016 installation requirements",
           "Determine appropriate windows server 2016 editions per workloads",
           "Install windows server 2016",
           "Install windows server 2016 features and roles",
@@ -17,24 +17,14 @@
         ]
       },
       {
-        "label": "Install and configure Nano Server",
-        "items": [
-          "Determine appropriate usage scenarios and requirements for nano server",
-          "Install nano server",
-          "Implement roles and features on nano server",
-          "Using nano server image builder , manage and configure nano server",
-          "Manage nano server remotely using mmc, windows powershell, and server management tools."
-        ]
-      },
-      {
         "label": "Create, manage, and maintain images for deployment",
         "items": [
-          "Plan for windows server virtualization",
+          "This objective may include but is not limited to: plan for windows server virtualization",
           "Assess virtualization workloads using the microsoft assessment and planning (map) toolkit",
           "Determine considerations for deploying workloads into virtualized environments",
           "Update images with patches, hotfixes, last cumulative updates and drivers",
           "Install roles and features in offline images",
-          "Manage and maintain windows server core, nano server images, and vhds using windows powershell"
+          "Manage and maintain windows server core, and vhds using windows powershell"
         ]
       }
     ]
@@ -45,7 +35,7 @@
       {
         "label": "Configure disks and volumes",
         "items": [
-          "Configure sector sizes appropriate for various workloads",
+          "This objective may include but is not limited to: configure sector sizes appropriate for various workloads",
           "Configure guid partition table (gpt) disks",
           "Create vhd and vhdx files using disk management or windows powershell",
           "Mount virtual hard disks",
@@ -59,7 +49,7 @@
       {
         "label": "Implement server storage",
         "items": [
-          "Configure storage pools",
+          "This objective may include but is not limited to: configure storage pools",
           "Implement simple, mirror, and parity storage layout options for disks or enclosures",
           "Expand storage pools",
           "Configure tiered storage",
@@ -68,13 +58,13 @@
           "Configure datacenter bridging (dcb)",
           "Configure multi-path io (mpio)",
           "Determine usage scenarios for storage replica",
-          "Implement storage replica for server-toserver, cluster-to-cluster, and stretch cluster scenarios"
+          "Implement storage replica for server-to-server, cluster-to-cluster, and stretch cluster scenarios"
         ]
       },
       {
         "label": "Implement data deduplication",
         "items": [
-          "Implement and configure deduplication",
+          "This objective may include but is not limited to: implement and configure deduplication",
           "Determine appropriate usage scenarios for deduplication",
           "Monitor deduplication",
           "Implement a backup and restore solution with deduplication"
@@ -88,7 +78,7 @@
       {
         "label": "Install and configure Hyper-V",
         "items": [
-          "Determine hardware and compatibility requirements for installing hyper-v",
+          "This objective may include but is not limited to: determine hardware and compatibility requirements for installing hyper-v",
           "Install hyper-v",
           "Install management tools",
           "Upgrade from existing versions of hyper-v",
@@ -101,9 +91,9 @@
       {
         "label": "Configure virtual machine (VM) settings",
         "items": [
-          "Add or remove memory in a running vm",
+          "This objective may include but is not limited to: add or remove memory in a running vm",
           "Configure dynamic memory",
-          "Configure nonuniform memory access (numa) support",
+          "Configure non-uniform memory access (numa) support",
           "Configure smart paging",
           "Configure resource metering",
           "Manage integration services",
@@ -121,7 +111,7 @@
       {
         "label": "Configure Hyper-V storage",
         "items": [
-          "Create vhds and vhdx files using hyper-v manager",
+          "This objective may include but is not limited to: create vhds and vhdx files using hyper-v manager",
           "Create shared vhdx files",
           "Configure differencing disks",
           "Modify virtual hard disks",
@@ -136,7 +126,7 @@
       {
         "label": "Configure Hyper-V networking",
         "items": [
-          "Add and remove virtual network interface cards (vnics)",
+          "This objective may include but is not limited to: add and remove virtual network interface cards (vnics)",
           "Configure hyper-v virtual switches",
           "Optimize network performance",
           "Configure mac addresses",
@@ -156,12 +146,11 @@
       {
         "label": "Deploy Windows containers",
         "items": [
-          "Determine installation requirements and appropriate scenarios for windows containers",
+          "This objective may include but is not limited to: determine installation requirements and appropriate scenarios for windows containers",
           "Install and configure windows server container host in physical or virtualized environments",
-          "Install and configure windows server container host to windows server core or nano server in a physical or virtualized environment",
-          "Install docker on windows server and nano server",
+          "Install and configure windows server container host to windows server core in a physical or virtualized environment",
+          "Install docker enterprise edition on windows server",
           "Configure docker start-up options",
-          "Install powershell for docker",
           "Install a base container image",
           "Tag an image",
           "Remove a container",
@@ -172,7 +161,7 @@
       {
         "label": "Manage Windows containers",
         "items": [
-          "Manage windows containers by using docker cli and powershell for docker",
+          "This objective may include but is not limited to: manage windows containers by using docker cli",
           "Manage container networking",
           "Manage container data volumes",
           "Manage resource control",
@@ -189,9 +178,8 @@
       {
         "label": "Implement high availability and disaster recovery options in Hyper-V",
         "items": [
-          "Implement hyper-v replica",
-          "Implement live migration",
-          "Including shared nothing live migration",
+          "This objective may include but is not limited to: implement hyper-v replica",
+          "Implement live migration including shared nothing live migration",
           "Configure credssp or kerberos authentication protocol for live migration",
           "Implement storage migration"
         ]
@@ -199,7 +187,7 @@
       {
         "label": "Implement failover clustering",
         "items": [
-          "Implement workgroup, single, and multi domain clusters",
+          "This objective may include but is not limited to: implement workgroup, single, and multi domain clusters",
           "Configure quorum",
           "Configure cluster networking",
           "Restore single node or cluster configuration",
@@ -221,7 +209,7 @@
       {
         "label": "Implement Storage Spaces Direct",
         "items": [
-          "Determine scenario requirements for implementing storage spaces direct",
+          "This objective may include but is not limited to: determine scenario requirements for implementing storage spaces direct",
           "Enable storage spaces direct using windows powershell",
           "Implement a disaggregated storage spaces direct scenario",
           "Implement a hyper-converged storage spaces direct scenario"
@@ -230,7 +218,7 @@
       {
         "label": "Manage failover clustering",
         "items": [
-          "Configure role-specific settings, including continuously available shares",
+          "This objective may include but is not limited to: configure role-specific settings, including continuously available shares",
           "Configure vm monitoring",
           "Configure failover and preference settings",
           "Implement stretch and site-aware failover clusters",
@@ -240,7 +228,7 @@
       {
         "label": "Manage VM movement in clustered nodes",
         "items": [
-          "Perform a live migration",
+          "This objective may include but is not limited to: perform a live migration",
           "Perform a quick migration",
           "Perform a storage migration",
           "Import, export, and copy vms",
@@ -251,7 +239,7 @@
       {
         "label": "Implement Network Load Balancing (NLB)",
         "items": [
-          "Install nlb nodes",
+          "This objective may include but is not limited to: install nlb nodes",
           "Configure nlb prerequisites",
           "Configure affinity",
           "Configure port rules",
@@ -267,7 +255,7 @@
       {
         "label": "Maintain server installations",
         "items": [
-          "Implement windows server update services (wsus) solutions",
+          "This objective may include but is not limited to: implement windows server update services (wsus) solutions",
           "Configure wsus groups",
           "Manage patch management in mixed environments",
           "Implement an antimalware solution with windows defender",
@@ -279,11 +267,11 @@
       {
         "label": "Monitor server installations",
         "items": [
-          "Monitor workloads using performance monitor, server manager, event viewer",
+          "This objective may include but is not limited to: monitor workloads using performance monitor, server manager, event viewer",
           "Configure data collector sets",
           "Determine appropriate cpu, memory, disk, and networking counters for storage and compute workloads",
           "Configure alerts",
-          "Monitor workloads using resource monitor"
+          "Monitor workloads using resource monitor, manage and monitor windows server by using windows admin center"
         ]
       }
     ]

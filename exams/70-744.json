@@ -5,7 +5,7 @@
       {
         "label": "Configure disk and file encryption",
         "items": [
-          "Determine hardware and firmware requirements for secure boot and encryption key functionality",
+          "This objective may include but is not limited to: determine hardware and firmware requirements for secure boot and encryption key functionality",
           "Deploy bitlocker encryption",
           "Deploy bitlocker without a trusted platform module (tpm)",
           "Deploy bitlocker with a tpm only",
@@ -23,7 +23,7 @@
       {
         "label": "Implement malware protection",
         "items": [
-          "Implement antimalware solution with windows defender",
+          "This objective may include but is not limited to: implement antimalware solution with windows defender",
           "Integrate windows defender with wsus and windows update",
           "Configure windows defender using group policy",
           "Configure windows defender scans using windows powershell",
@@ -38,7 +38,7 @@
       {
         "label": "Protect credentials",
         "items": [
-          "Determine requirements for implementing credential guard",
+          "This objective may include but is not limited to: determine requirements for implementing credential guard",
           "Configure credential guard using group policy, wmi, command prompt, and windows powershell",
           "Implement ntlm blocking"
         ]
@@ -46,7 +46,7 @@
       {
         "label": "Create security baselines",
         "items": [
-          "Install and configure microsoft security compliance toolkit",
+          "This objective may include but is not limited to: install and configure microsoft security compliance toolkit",
           "Create, view, and import security baselines",
           "Deploy configurations to domain and non-domain joined servers"
         ]
@@ -59,7 +59,7 @@
       {
         "label": "Implement a Guarded Fabric solution",
         "items": [
-          "Install and configure the host guardian service (hgs)",
+          "This objective may include but is not limited to: install and configure the host guardian service (hgs)",
           "Configure admin-trusted attestation",
           "Configure tpm-trusted attestation",
           "Configure the key protection service using hgs",
@@ -70,7 +70,7 @@
       {
         "label": "Implement Shielded and encryption-supported VMs",
         "items": [
-          "Determine requirements and scenarios for implementing shielded vms",
+          "This objective may include but is not limited to: determine requirements and scenarios for implementing shielded vms",
           "Create a shielded vm using only a hyper-v environment",
           "Enable and configure vtpm to allow an operating system and data disk encryption within a vm",
           "Determine requirements and scenarios for implementing encryption-supported vms",
@@ -85,7 +85,7 @@
       {
         "label": "Configure Windows Firewall",
         "items": [
-          "Configure windows firewall with advanced security",
+          "This objective may include but is not limited to: configure windows firewall with advanced security",
           "Configure network location profiles",
           "Configure and deploy profile rules",
           "Configure firewall rules for multiple profiles using group policy",
@@ -98,7 +98,7 @@
       {
         "label": "Implement a Software Defined Datacenter Firewall",
         "items": [
-          "Determine requirements and scenarios for datacenter firewall implementation with software defined networking",
+          "This objective may include but is not limited to: determine requirements and scenarios for datacenter firewall implementation with software defined networking",
           "Determine usage scenarios for datacenter firewall policies and network security groups",
           "Configure datacenter firewall access control lists"
         ]
@@ -106,7 +106,7 @@
       {
         "label": "Secure network traffic",
         "items": [
-          "Configure ipsec transport and tunnel modes",
+          "This objective may include but is not limited to: configure ipsec transport and tunnel modes",
           "Configure ipsec authentication options",
           "Configure connection security rules",
           "Implement isolation zones",
@@ -128,7 +128,7 @@
       {
         "label": "Implement Just-In-Time (JIT) Administration",
         "items": [
-          "Create a new administrative (bastion) forest in an existing active directory environment using microsoft identity manager (mim)",
+          "This objective may include but is not limited to: create a new administrative (bastion) forest in an existing active directory environment using microsoft identity manager (mim)",
           "Configure trusts between production and bastion forests",
           "Create shadow principals in bastion forest",
           "Configure the mim web portal",
@@ -142,7 +142,7 @@
       {
         "label": "Implement Just-Enough-Administration (JEA)",
         "items": [
-          "Enable a jea solution on windows server 2016",
+          "This objective may include but is not limited to: enable a jea solution on windows server 2016",
           "Create and configure session configuration files",
           "Create and configure role capability files",
           "Create a jea endpoint",
@@ -155,7 +155,7 @@
       {
         "label": "Implement Privileged Access Workstations (PAWs) and User Rights Assignments",
         "items": [
-          "Implement a paws solution",
+          "This objective may include but is not limited to: implement a paws solution",
           "Configure user rights assignment group policies",
           "Configure security options settings in group policy",
           "Enable and configure remote credential guard for remote desktop access",
@@ -166,7 +166,7 @@
       {
         "label": "Implement Local Administrator Password Solution (LAPS)",
         "items": [
-          "Install and configure the laps tool",
+          "This objective may include but is not limited to: install and configure the laps tool",
           "Secure local administrator passwords using laps",
           "Manage password parameters and properties using laps"
         ]
@@ -179,7 +179,7 @@
       {
         "label": "Configure advanced audit policies",
         "items": [
-          "Determine the differences and usage scenarios for using local audit policies and advanced auditing policies",
+          "This objective may include but is not limited to: determine the differences and usage scenarios for using local audit policies and advanced auditing policies",
           "Implement auditing using group policy and auditpol.exe",
           "Implement auditing using windows powershell",
           "Create expression-based audit policies",
@@ -191,7 +191,7 @@
       {
         "label": "Install and configure Microsoft Advanced Threat Analytics (ATA)",
         "items": [
-          "Determine usage scenarios for ata",
+          "This objective may include but is not limited to: determine usage scenarios for ata",
           "Determine deployment requirements for ata",
           "Install and configure ata gateway on a dedicated server",
           "Install and configure ata lightweight gateway directly on a domain controller",
@@ -202,7 +202,7 @@
       {
         "label": "Determine threat detection solutions using Operations Management Suite (OMS)",
         "items": [
-          "Determine usage and deployment scenarios for oms",
+          "This objective may include but is not limited to: determine usage and deployment scenarios for oms",
           "Determine security and auditing functions available for use",
           "Determine log analytics usage scenarios"
         ]
@@ -215,10 +215,7 @@
       {
         "label": "Secure application development and server workload infrastructure",
         "items": [
-          "Determine usage scenarios, supported server workloads, and requirements for deployments",
-          "Install and configure nano server",
-          "Implement security policies on nano servers using desired state configuration (dsc)",
-          "Manage local policy on nano server",
+          "This objective may include but is not limited to: determine usage scenarios, supported server workloads, and requirements for deployments",
           "Determine usage scenarios and requirements for windows server and hyper-v containers",
           "Install and configure containers"
         ]
@@ -226,7 +223,7 @@
       {
         "label": "Implement a secure file services infrastructure and Dynamic Access Control (DAC)",
         "items": [
-          "Install the file server resource manager (fsrm) role service",
+          "This objective may include but is not limited to: install the file server resource manager (fsrm) role service",
           "Configure quotas",
           "Configure file screens",
           "Configure storage reports",

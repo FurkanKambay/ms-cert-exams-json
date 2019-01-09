@@ -1,6 +1,6 @@
 # Microsoft Certification Exams in JSON
 
-> JSON files were automatically generated using [FurkanKambay/ms-cert-exam-parser](https://github.com/FurkanKambay/ms-cert-exam-parser) on October 17, 2018.
+> JSON files were automatically generated using [FurkanKambay/ms-cert-exam-parser](https://github.com/FurkanKambay/ms-cert-exam-parser) on January 9, 2019.
 
 ## Why
 

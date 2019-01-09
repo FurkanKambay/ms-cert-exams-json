@@ -1,0 +1,132 @@
+[
+  {
+    "label": "Understand Cloud Concepts (15-20%)",
+    "skills": [
+      {
+        "label": "Describe the benefits and considerations of using cloud services",
+        "items": [
+          "Understand terms such as high availability, scalability, elasticity, agility, fault tolerance, and disaster recoveryunderstand the principles of economies of scaleunderstand the differences between capital expenditure (capex) and operational expenditure (opex)understand the consumption-based model"
+        ]
+      },
+      {
+        "label": "Describe the differences between Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS)",
+        "items": [
+          "Describe infrastructure-as-a-service (iaas)describe platform-as-a-service (paas)describe software-as-a-service (saas)compare and contrast the three different service types"
+        ]
+      },
+      {
+        "label": "Describe the differences between Public, Private and Hybrid cloud models",
+        "items": [
+          "Describe public clouddescribe private clouddescribe hybrid cloudcompare and contrast the three different cloud models"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand Core Azure Services (30-35%)",
+    "skills": [
+      {
+        "label": "Understand the core Azure architectural components",
+        "items": [
+          "Describe regionsdescribe availability zonesdescribe resource groupsdescribe azure resource managerdescribe the benefits and usage of core azure architectural components"
+        ]
+      },
+      {
+        "label": "Describe some of the core products available in Azure",
+        "items": [
+          "Describe products available for compute such as virtual machines, virtual machine scale sets, app service and functionsdescribe products available for networking such as virtual network, load balancer, vpn gateway, application gateway and content delivery networkdescribe products available for storage such as blob storage, disk storage, file storage, and archive storagedescribe products available for databases such as cosmosdb, azure sql database, azure database migration service, and azure sql data warehousedescribe the azure marketplace and its usage scenarios"
+        ]
+      },
+      {
+        "label": "Describe some of the solutions available on Azure",
+        "items": [
+          "Describe internet of things (iot) and products that are available for iot on azure such as iot fundamentals, iot hub and iot centraldescribe big data and analytics and products that are available for big data and analytics such as sql data warehouse, hdinsight and data lake analyticsdescribe artificial intelligence (ai) and products that are available for ai such as azure machine learning service and studiodescribe serverless computing and azure products that are available for serverless computing such as azure functions, logic apps and app griddescribe the benefits and outcomes of using azure solutions"
+        ]
+      },
+      {
+        "label": "Understand Azure management tools",
+        "items": [
+          "Understand azure tools such as azure cli, powershell, and the azure portalunderstand azure advisor"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand Security, Privacy, Compliance, and Trust (25-30%)",
+    "skills": [
+      {
+        "label": "Understand securing network connectivity in Azure",
+        "items": [
+          "Describe azure firewalldescribe azure ddos protectiondescribe network security group (nsg)choose an appropriate azure security solution"
+        ]
+      },
+      {
+        "label": "Describe core Azure Identity services",
+        "items": [
+          "Understand the difference between authentication and authorizationdescribe azure active directorydescribe azure multi-factor authentication"
+        ]
+      },
+      {
+        "label": "Describe security tools and features of Azure",
+        "items": [
+          "Describe azure securityunderstand azure security center usage scenariosdescribe key vaultdescribe azure information protection (aip)describe azure advanced threat protection (atp)"
+        ]
+      },
+      {
+        "label": "Describe Azure governance methodologies",
+        "items": [
+          "Describe azure policiesdescribe initiativesdescribe role-based access control (rbac)describe locksdescribe azure advisor security assistance"
+        ]
+      },
+      {
+        "label": "Understand monitoring and reporting options in Azure",
+        "items": [
+          "Describe azure monitordescribe azure service healthunderstand the use cases and benefits of azure monitor and azure service health"
+        ]
+      },
+      {
+        "label": "Understand privacy, compliance and data protection standards in Azure",
+        "items": [
+          "Understand industry compliance terms such as gdpr, iso and nistunderstand the microsoft privacy statementdescribe the trust centerdescribe the service trust portaldescribe compliance managerdetermine if azure is compliant for a business needunderstand azure government servicesunderstand azure germany services"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand Azure Pricing and Support (25-30%)",
+    "skills": [
+      {
+        "label": "Understand Azure subscriptions",
+        "items": [
+          "Describe an azure subscriptionunderstand the uses and options with azure subscriptions"
+        ]
+      },
+      {
+        "label": "Understand planning and management of costs",
+        "items": [
+          "Understand options for purchasing azure products and servicesunderstand options around azure free accountunderstand the factors affecting costs such as resource types, services, locations, ingress and egress trafficunderstand zones for billing purposesunderstand the pricing calculatorunderstand the total cost of ownership (tco) calculatorunderstand best practices for minimizing azure costs such as performing cost analysis, creating spending limits and quotas, and using tags to identify cost owners",
+          "Use azure reservations",
+          "Use azure advisor recommendationsdescribe azure cost management"
+        ]
+      },
+      {
+        "label": "Understand the support options available with Azure",
+        "items": [
+          "Understand support plans that are available such as dev, standard, professional direct and premierunderstand how to open a support ticketunderstand available support channels outside of support plan channelsdescribe the knowledge center"
+        ]
+      },
+      {
+        "label": "Describe Azure Service Level Agreements (SLAs)",
+        "items": [
+          "Describe a service level agreement (sla)determine sla for a particular azure product or service"
+        ]
+      },
+      {
+        "label": "Understand service lifecycle in Azure",
+        "items": [
+          "Understand public and private preview featuresunderstand how to access preview featuresunderstand the term general availability (ga)monitor feature updates"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "label": "Deploy and Update Operating Systems (15-20%)",
+    "skills": [
+      {
+        "label": "Plan and implement Windows 10 by using dynamic deployment",
+        "items": [
+          "Evaluate and select an appropriate deployment options",
+          "Pilot deployment",
+          "Manage and troubleshoot provisioning packages"
+        ]
+      },
+      {
+        "label": "Plan and implement Windows 10 by using Windows Autopilot",
+        "items": [
+          "Evaluate and select an appropriate deployment options",
+          "Pilot deployment",
+          "Create, validate, and assign deployment profile",
+          "Extract device hw information to csv file",
+          "Import device hw information to cloud service",
+          "Troubleshoot deployment"
+        ]
+      },
+      {
+        "label": "Upgrade devices to Windows 10",
+        "items": [
+          "Identify upgrade and downgrade paths",
+          "Manage in-place upgrades",
+          "Configure a windows analytics environment",
+          "Perform upgrade readiness assessment",
+          "Migrate user profiles"
+        ]
+      },
+      {
+        "label": "Manage updates",
+        "items": [
+          "Configure windows 10 delivery optimization",
+          "Configure windows update for business",
+          "Deploy windows updates",
+          "Implement feature updates",
+          "Monitor windows 10 updates"
+        ]
+      },
+      {
+        "label": "Manage device authentication",
+        "items": [
+          "Manage authentication policies",
+          "Manage sign-on options",
+          "Perform azure ad join"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Policies and Profiles (35-40%)",
+    "skills": [
+      {
+        "label": "Plan and implement co-management",
+        "items": [
+          "Implement co-management precedence",
+          "Migrate group policy to mdm policies",
+          "Recommend a co-management strategy"
+        ]
+      },
+      {
+        "label": "Implement conditional access and compliance policies for devices",
+        "items": [
+          "Implement conditional access policies",
+          "Manage conditional access policies",
+          "Plan conditional access policies",
+          "Implement device compliance policies",
+          "Manage device compliance policies",
+          "Plan device compliance policies"
+        ]
+      },
+      {
+        "label": "Configure device profiles",
+        "items": [
+          "Implement device profiles",
+          "Manage device profiles",
+          "Plan device profiles"
+        ]
+      },
+      {
+        "label": "Manage user profiles",
+        "items": [
+          "Configure user profiles",
+          "Configure enterprise state roaming in azure ad",
+          "Configure sync settings",
+          "Implement folder redirection (including onedrive)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and Protect Devices (15-20%)",
+    "skills": [
+      {
+        "label": "Manage Windows Defender",
+        "items": [
+          "Implement and manage windows defender application guard",
+          "Implement and manage windows defender credential guard",
+          "Implement and manage windows defender exploit guard",
+          "Implement windows defender advanced threat protection",
+          "Integrate windows defender application control",
+          "Manage windows defender antivirus"
+        ]
+      },
+      {
+        "label": "Manage Intune device enrollment and inventory",
+        "items": [
+          "Configure enrollment settings",
+          "Configure intune automatic enrollment",
+          "Enable device enrollment",
+          "Enroll non-windows devices",
+          "Enroll windows devices",
+          "Generate custom device inventory reports",
+          "Review device inventory"
+        ]
+      },
+      {
+        "label": "Monitor devices",
+        "items": [
+          "Monitor device health (e.g., log analytics, windows analytics, or other cloud-based tools)",
+          "Monitor device security"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Apps and Data (25-30%)",
+    "skills": [
+      {
+        "label": "Deploy and update applications",
+        "items": [
+          "Assign apps to groups",
+          "Deploy apps by using intune",
+          "Deploy apps by using microsoft store for business",
+          "Deploy o365 proplus",
+          "Enable sideloading of apps into images",
+          "Gather office readiness data",
+          "Configure ie enterprise mode",
+          "Configure and implement assigned access or public devices"
+        ]
+      },
+      {
+        "label": "Implement Mobile Application Management (MAM)",
+        "items": [
+          "Implement mam policies",
+          "Manage mam policies",
+          "Plan mam",
+          "Configure windows information protection",
+          "Implement azure information protection templates",
+          "Securing data by using intune"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "label": "Implement and manage identity and access (30-25%)",
+    "skills": [
+      {
+        "label": "Secure Microsoft 365 hybrid environments",
+        "items": [
+          "May include but is not limited to: configure and manage security integration components in microsoft 365 hybrid environments, including connectivity, synchronization services, and authentication, plan azure ad authentication options, plan azure ad synchronization options, monitor and interpret azure ad connect events"
+        ]
+      },
+      {
+        "label": "Secure user accounts",
+        "items": [
+          "May include but is not limited to: implement azure ad dynamic group membership, implement azure ad self-service password reset, manage azure ad access reviews"
+        ]
+      },
+      {
+        "label": "Implement authentication methods",
+        "items": [
+          "May include but is not limited to: plan sign-on security, implement multi-factor authentication (mfa), manage and monitor mfa, implement device sign-on methods, manage authentication methods, monitor authentication methods"
+        ]
+      },
+      {
+        "label": "Implement conditional access",
+        "items": [
+          "May include but is not limited to: plan for compliance and conditional access policies, configure and manage device compliance policy, configure and manage conditional access policy, monitor conditional access and device compliance"
+        ]
+      },
+      {
+        "label": "Implement role-based access control (RBAC)",
+        "items": [
+          "May include but is not limited to: plan for rbac, configure rbac, monitor rbac usage"
+        ]
+      },
+      {
+        "label": "Implement Azure AD Privileged Identity Management (PIM)",
+        "items": [
+          "May include but is not limited to: plan for azure pim, configure and manage azure pim, monitor azure pim"
+        ]
+      },
+      {
+        "label": "Implement Azure AD Identity Protection",
+        "items": [
+          "May include but is not limited to: implement user risk policy, implement sign-in risk policy, configure identity protection alerts, review and respond to risk events"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and manage threat protection (20-25%)",
+    "skills": [
+      {
+        "label": "Implement an enterprise hybrid threat protection solution",
+        "items": [
+          "May include but is not limited to: plan an azure advanced threat protection (atp) solution, install and configure azure atp, manage azure atp workspace health, generate azure atp reports, integrate azure atp with windows defender atp, monitor azure atp, manage suspicious activities"
+        ]
+      },
+      {
+        "label": "Implement device threat protection",
+        "items": [
+          "May include but is not limited to: plan and implement a windows defender atp solution, manage windows defender atp, monitor windows defender atp"
+        ]
+      },
+      {
+        "label": "Implement and manage device and application protection",
+        "items": [
+          "May include but is not limited to: plan for device protection, configure and manage windows defender application guard, configure and manage windows defender application control, configure and manage windows defender exploit guard, configure secure boot, configure and manage windows 10 device encryption, configure and manage non-windows device encryption, plan for securing applications data on devices, define managed apps for mobile application management (mam), protect your enterprise data using windows information protection (wip), configure wip policies, configure intune app protection policies for non-windows devices"
+        ]
+      },
+      {
+        "label": "Implement and manage Office 365 messaging protection",
+        "items": [
+          "May include but is not limited to: configure office 365 atp anti-phishing protection, configure office 365 atp anti-phishing policies, define users and domains to protect with office 365 atp anti-phishing, configure office 365 atp anti-spoofing, configure actions against impersonation, configure office 365 atp anti-spam protection, enable office 365 atp safe-attachments, configure office 365 atp safe attachments policies, configure office 365 atp safe attachments options, configure office 365 atp safe links options, configure office 365 atp safe links blocked urls, configure office 365 atp safe links policies"
+        ]
+      },
+      {
+        "label": "Implement and manage Office 365 threat protection",
+        "items": [
+          "May include but is not limited to: configure office 365 threat intelligence, integrate office 365 threat intelligence with office 365 services, integrate office 365 threat intelligence with windows defender atp, review threats and malware trends on the office 365 atp threat management dashboard, review threats and malware trends with office 365 atp threat explorer and threat tracker, create and review office 365 atp incidents, review quarantined items in atp including microsoft sharepoint online, onedrive for business, exchange online, and microsoft teams, monitor online anti-malware solutions using office 365 atp reports, perform tests using attack simulator"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement and manage information protection (15-20%)",
+    "skills": [
+      {
+        "label": "Secure data access within Office 365",
+        "items": [
+          "May include but is not limited to: plan secure data access within office 365, implement and manage customer lockbox, configure data access in office 365 collaboration workloads, configure b2b sharing for external users"
+        ]
+      },
+      {
+        "label": "Manage Azure information Protection (AIP)",
+        "items": [
+          "May include but is not limited to: plan an aip solution, activate azure rights management, configure usage rights, configure and manage super users, customize policy settings, create and configure labels and conditions, create and configure templates, configure languages, configure and use the aip scanner, deploy the rms connector, manage tenant keys, deploy the aip client, track and revoke protected documents, integrate aip with microsoft online services"
+        ]
+      },
+      {
+        "label": "Manage Data Loss Prevention (DLP)",
+        "items": [
+          "May include but is not limited to: plan a dlp solution, create and manage dlp policies, create and manage sensitive information types, monitor dlp reports, manage dlp notifications, create queries to locate sensitive data"
+        ]
+      },
+      {
+        "label": "Implement and manage Microsoft Cloud App Security",
+        "items": [
+          "May include but is not limited to: plan cloud app security implementation, configure office 365 cloud app security, perform productivity app discovery using cloud app security, manage entries in the cloud app catalog, manage third-party apps in office 365 cloud app security, manage microsoft cloud app security, configure cloud app security connectors, configure cloud app security policies, configure and manage cloud app security templates, configure cloud app security users and permissions, review and respond to cloud app security alerts, review and interpret cloud app security dashboards and reports, review and interpret cloud app security activity log and governance log"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage governance and compliance features in Microsoft 365 (25-30%)",
+    "skills": [
+      {
+        "label": "Configure and analyze security reporting",
+        "items": [
+          "May include but is not limited to: interpret windows analytics, configure windows telemetry options, configure office telemetry options, review and interpret security reports and dashboards, plan for custom security reporting with intelligent security graph, review office 365 secure score action and recommendations, configure reports and dashboards in azure log analytics, review and interpret reports and dashboards in azure log analytics, configure alert policies in the office 365 security and compliance center"
+        ]
+      },
+      {
+        "label": "Manage and analyze audit logs and reports",
+        "items": [
+          "May include but is not limited to: plan for auditing and reporting, configure office 365 auditing and reporting, perform audit log search, review and interpret compliance reports and dashboards, configure audit alert policy"
+        ]
+      },
+      {
+        "label": "Configure Office 365 classification and labeling",
+        "items": [
+          "May include but is not limited to: plan for data governance classification and labels, search for personal data, apply labels to personal data, monitor for leaks of personal data, create and publish office 365 labels, configure label policies"
+        ]
+      },
+      {
+        "label": "Manage data governance and retention",
+        "items": [
+          "May include but is not limited to: plan for data governance and retention, review and interpret data governance reports and dashboards, configure retention policies, define data governance event types, define data governance supervision policies, configure information holds, find and recover deleted office 365 data, import data in the security and compliance center, configure data archiving, manage inactive mailboxes"
+        ]
+      },
+      {
+        "label": "Manage search and investigation",
+        "items": [
+          "May include but is not limited to: plan for content search and ediscovery, delegate permissions to use search and discovery tools, use search and investigation tools to perform content searches, export content search results, manage ediscovery cases"
+        ]
+      },
+      {
+        "label": "Manage data privacy regulation compliance",
+        "items": [
+          "May include but is not limited to: plan for regulatory compliance in microsoft 365, review and interpret gdpr dashboards and reports, manage data subject requests (dsrs), review compliance manager reports, create and perform compliance manager assessments and action items"
+        ]
+      }
+    ]
+  }
+]

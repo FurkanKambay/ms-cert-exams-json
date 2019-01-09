@@ -17,16 +17,6 @@
         ]
       },
       {
-        "label": "Install and configure Nano Server",
-        "items": [
-          "Determine appropriate usage scenarios and requirements for nano server",
-          "Install nano server",
-          "Implement roles and features on nano server",
-          "Use nano server image builder, manage and configure nano server",
-          "Manage nano server remotely using mmc, windows powershell, and server management tools"
-        ]
-      },
-      {
         "label": "Create, manage, and maintain images for deployment",
         "items": [
           "Plan for windows server virtualization",
@@ -144,10 +134,8 @@
         "items": [
           "Determine installation requirements and appropriate scenarios for windows containers",
           "Install and configure windows server container host in physical or virtualized environments",
-          "Install and configure windows server container host to windows server core or nano server in a physical or virtualized environment",
-          "Install docker on windows server and nano server",
+          "Install and configure windows server container host",
           "Configure docker start-up options",
-          "Install powershell for docker",
           "Install a base container image",
           "Tag an image",
           "Remove a container",
@@ -158,7 +146,7 @@
       {
         "label": "Manage Windows containers",
         "items": [
-          "Manage windows containers by using docker cli and powershell for docker",
+          "Manage windows containers by using docker cli",
           "Manage container networking",
           "Manage container data volumes",
           "Manage resource control",

@@ -1,0 +1,164 @@
+[
+  {
+    "label": "Develop Azure Infrastructure as a Service Compute Solutions (10-15%)",
+    "skills": [
+      {
+        "label": "Implement solutions that use virtual machines (VM)",
+        "items": [
+          "Provision vmscreate arm templatesconfigure azure disk encryption for vms"
+        ]
+      },
+      {
+        "label": "Implement batch jobs by using Azure Batch Services",
+        "items": [
+          "Manage batch jobs by using batch service apirun a batch job by using azure cli, azure portal, and other toolswrite code to run an azure batch services batch job"
+        ]
+      },
+      {
+        "label": "Create containerized solutions",
+        "items": [
+          "Create an azure managed kubernetes service (aks) cluster create container images for solutionspublish an image to the azure container registryrun containers by using azure container instance or aks"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop Azure Platform as a Service Compute Solutions (20-25%)",
+    "skills": [
+      {
+        "label": "Create Azure App Service Web Apps",
+        "items": [
+          "Create an azure app service web appcreate an azure app service background task by using webjobsenable diagnostics logging"
+        ]
+      },
+      {
+        "label": "Create Azure App Service mobile apps",
+        "items": [
+          "Add push notifications for mobile appsenable offline sync for mobile appimplement a remote instrumentation strategy for mobile devices"
+        ]
+      },
+      {
+        "label": "Create Azure App Service API apps",
+        "items": [
+          "Create an azure app service api appcreate documentation for the api by using open source and other tools"
+        ]
+      },
+      {
+        "label": "Implement Azure functions",
+        "items": [
+          "Implement input and output bindings for a function implement function triggers by using data operations, timers, and webhooksimplement azure durable functions create azure function apps by using visual studio"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop for Azure storage (15-20%)",
+    "skills": [
+      {
+        "label": "Develop solutions that use storage tables",
+        "items": [
+          "Design and implement policies for tablesquery table storage by using codeimplement partitioning schemes"
+        ]
+      },
+      {
+        "label": "Develop solutions that use Cosmos DB storage",
+        "items": [
+          "Create, read, update, and delete data by using appropriate apisimplement partitioning schemesset the appropriate consistency level for operations"
+        ]
+      },
+      {
+        "label": "Develop solutions that use a relational database",
+        "items": [
+          "Provision and configure relational databasesconfigure elastic pools for azure sql databasecreate, read, update, and delete data tables by using code"
+        ]
+      },
+      {
+        "label": "Develop solutions that use blob storage",
+        "items": [
+          "Move items in blob storage between storage accounts or containers set and retrieve properties and metadataimplement blob leasingimplement data archiving and retention"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Azure security (10-15%)",
+    "skills": [
+      {
+        "label": "Implement authentication",
+        "items": [
+          "Implement authentication by using certificates, forms-based authentication, or tokensimplement multi-factor or windows authentication by using azure ad implement oauth2 authenticationimplement managed service identity (msi)/service principal authentication"
+        ]
+      },
+      {
+        "label": "Implement access control",
+        "items": [
+          "Implement cbac (claims-based access control) authorizationimplement rbac (role-based access control) authorizationcreate shared access signatures"
+        ]
+      },
+      {
+        "label": "Implement secure data solutions",
+        "items": [
+          "Encrypt and decrypt data at rest and in transitcreate, read, update, and delete keys, secrets, and certificates by using the keyvault api"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Monitor, troubleshoot, and optimize Azure solutions (15-20%)",
+    "skills": [
+      {
+        "label": "Develop code to support scalability of apps and services",
+        "items": [
+          "Implement autoscaling rules and patterns implement code that handles transient faults"
+        ]
+      },
+      {
+        "label": "Integrate caching and content delivery within solutions",
+        "items": [
+          "Store and retrieve data in azure redis cachedevelop code to implement cdns in solutionsinvalidate cache content (cdn or redis)"
+        ]
+      },
+      {
+        "label": "Instrument solutions to support monitoring and logging",
+        "items": [
+          "Configure instrumentation in an app or service by using application insightsanalyze and troubleshoot solutions by using azure monitorimplement application insights web test and alerts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Connect to and Consume Azure Services and Third-party Services (20-25%)",
+    "skills": [
+      {
+        "label": "Develop an App Service Logic App",
+        "items": [
+          "Create a logic appcreate a custom connector for logic appscreate a custom template for logic apps"
+        ]
+      },
+      {
+        "label": "Integrate Azure Search within solutions",
+        "items": [
+          "Create an azure search index import searchable dataquery the azure search index"
+        ]
+      },
+      {
+        "label": "Establish API Gateways",
+        "items": [
+          "Create an apim instanceconfigure authentication for apisdefine policies for apis"
+        ]
+      },
+      {
+        "label": "Develop event-based solutions",
+        "items": [
+          "Implement solutions that use azure event gridimplement solutions that use azure notification hubsimplement solutions that use azure event hub"
+        ]
+      },
+      {
+        "label": "Develop message-based solutions",
+        "items": [
+          "Implement solutions that use azure service busimplement solutions that use azure queue storage queues"
+        ]
+      }
+    ]
+  }
+]

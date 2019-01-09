@@ -1,0 +1,95 @@
+[
+  {
+    "label": "Implement Modern Device Services (30-35%)",
+    "skills": [
+      {
+        "label": "Implement Mobile Device Management (MDM)",
+        "items": [
+          "Plan for mdmconfigure mdm integration with azure adset an mdm authorityset device enrollment limit for users"
+        ]
+      },
+      {
+        "label": "Manage device compliance",
+        "items": [
+          "Plan for device compliancedesign conditional access policiescreate conditional access policiesconfigure device compliance policymanage conditional access policies"
+        ]
+      },
+      {
+        "label": "Plan for devices and apps",
+        "items": [
+          "Create and configure microsoft store for businessplan app deploymentplan device co-managementplan device monitoringplan for device profilesplan for mobile application managementplan mobile device security"
+        ]
+      },
+      {
+        "label": "Plan Windows 10 deployment",
+        "items": [
+          "Plan for windows as a service (waas)plan the appropriate windows 10 enterprise deployment methodanalyze upgrade readiness for windows 10evaluate and deploy additional windows 10 enterprise security features"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Microsoft 365 Security and Threat Management (30-35%)",
+    "skills": [
+      {
+        "label": "Implement Cloud App Security (CAS)",
+        "items": [
+          "Configure cloud app security (cas)configure cloud app security (cas) policiesconfigure connected appsdesign cloud app security (cas) solutionmanage cloud app security (cas) alertsupload cloud app security (cas) traffic logs"
+        ]
+      },
+      {
+        "label": "Implement threat management",
+        "items": [
+          "Plan a threat management solutiondesign azure advanced threat protection (atp) policiesdesign microsoft 365 atp policiesconfigure azure atp policiesconfigure microsoft 365 atp policiesmonitor advanced threat analytics (ata) incidents"
+        ]
+      },
+      {
+        "label": "Implement Windows Defender Advanced Threat Protection (ATP)",
+        "items": [
+          "Plan windows defender atp solutionconfigure preferencesimplement windows defender atp policiesenable and configure security features of windows 10 enterprise"
+        ]
+      },
+      {
+        "label": "Manage security reports and alerts",
+        "items": [
+          "Manage service assurance dashboardmanage tracing and reporting on azure ad identity protectionconfigure and manage microsoft 365 security alertsconfigure and manage azure identity protection dashboard and alerts"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Microsoft 365 Governance and Compliance (35-40%)",
+    "skills": [
+      {
+        "label": "Configure Data Loss Prevention (DLP)",
+        "items": [
+          "Configure dlp policiesdesign data retention policies in microsoft 365manage dlp exceptionsmonitor dlp policy matchesmanage dlp policy matches"
+        ]
+      },
+      {
+        "label": "Implement Azure Information Protection (AIP)",
+        "items": [
+          "Plan aip solutionplan for deployment on-prem rights management connectorplan for windows information protection (wip) implementationplan for classification labelingconfigure information rights management (irm) for workloadsconfigure super userdeploy aip clientsimplement azure information protection policiesimplement aip tenant key"
+        ]
+      },
+      {
+        "label": "Manage data governance",
+        "items": [
+          "Configure information retentionplan for microsoft 365 backupplan for restoring deleted contentplan information retention policies"
+        ]
+      },
+      {
+        "label": "Manage auditing",
+        "items": [
+          "Configure audit log retentionconfigure audit policymonitor unified audit logs"
+        ]
+      },
+      {
+        "label": "Manage eDiscovery",
+        "items": [
+          "Search content by using security and compliance centerplan for in-place and legal holdconfigure ediscovery"
+        ]
+      }
+    ]
+  }
+]

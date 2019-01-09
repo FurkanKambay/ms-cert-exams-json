@@ -1,0 +1,118 @@
+[
+  {
+    "label": "Design and Implement Microsoft 365 Services (25-30%)",
+    "skills": [
+      {
+        "label": "Manage domains",
+        "items": [
+          "Add and configure additional domainsconfigure user identities for new domain nameconfigure workloads for new domain namedesign domain name configurationset primary domain nameverify custom domain"
+        ]
+      },
+      {
+        "label": "Plan a Microsoft 365 implementation",
+        "items": [
+          "Plan for microsoft 365 on-premises infrastructureplan identity and authentication solution"
+        ]
+      },
+      {
+        "label": "Setup Microsoft 365 tenancy and subscription",
+        "items": [
+          "Configure subscription and tenant roles and workload settingsevaluate microsoft 365 for organizationplan and create tenantupgrade existing subscriptions to microsoft 365monitor license allocations"
+        ]
+      },
+      {
+        "label": "Manage Microsoft 365 subscription and tenant health",
+        "items": [
+          "Manage service health alertscreate & manage service requestscreate internal service health response planmonitor service healthconfigure and review reports, including bi, oms, and microsoft 365 reportingschedule and review security and compliance reportsschedule and review usage metrics"
+        ]
+      },
+      {
+        "label": "Plan migration of users and data",
+        "items": [
+          "Identify data to be migrated and methodidentify users and mailboxes to be migrated and methodplan migration of on-prem users and groupsimport pst files"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage User Identity and Roles (35-40%)",
+    "skills": [
+      {
+        "label": "Design identity strategy",
+        "items": [
+          "Evaluate requirements and solution for synchronizationevaluate requirements and solution for identity managementevaluate requirements and solution for authentication"
+        ]
+      },
+      {
+        "label": "Plan identity synchronization by using Azure AD Connect",
+        "items": [
+          "Design directory synchronizationimplement directory synchronization with directory services, federation services, and azure endpoints"
+        ]
+      },
+      {
+        "label": "Manage identity synchronization by using Azure AD Connect",
+        "items": [
+          "Monitor azure ad connect healthmanage azure ad connect synchronizationconfigure object filtersconfigure password syncimplement multi-forest ad connect scenarios"
+        ]
+      },
+      {
+        "label": "Manage Azure AD identities",
+        "items": [
+          "Plan azure ad identitiesimplement and manage azure ad self-service password resetmanage access reviewsmanage groupsmanage passwordsmanage product licensesmanage usersperform bulk user management"
+        ]
+      },
+      {
+        "label": "Manage user roles",
+        "items": [
+          "Plan user rolesallocate roles in workloadsconfigure administrative accountsconfigure rbac within azure addelegate admin rightsmanage admin rolesmanage role allocations by using azure adplan security and compliance roles for microsoft 365"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Access and Authentication (20-25%)",
+    "skills": [
+      {
+        "label": "Manage authentication",
+        "items": [
+          "Design authentication methodconfigure authenticationimplement authentication methodmanage authenticationmonitor authentication"
+        ]
+      },
+      {
+        "label": "Implement Multi-Factor Authentication (MFA)",
+        "items": [
+          "Design an mfa solutionconfigure mfa for apps or usersadminister mfa usersreport mfa utilization"
+        ]
+      },
+      {
+        "label": "Configure application access",
+        "items": [
+          "Configure application registration in azure adconfigure azure ad application proxypublish enterprise apps in azure ad"
+        ]
+      },
+      {
+        "label": "Implement access for external users of Microsoft 365 workloads",
+        "items": [
+          "Create b2b accountscreate guest accountsdesign solutions for external access"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan Office 365 Workloads and Applications (10-15%)",
+    "skills": [
+      {
+        "label": "Plan for Office 365 workload deployment",
+        "items": [
+          "Identify hybrid requirementsplan connectivity and data flow for each workloadplan for microsoft 365 workload connectivityplan migration strategy for workloads"
+        ]
+      },
+      {
+        "label": "Plan Office 365 applications deployment",
+        "items": [
+          "Manage office 365 software downloadsplan for office 365 appsplan for office 365 pro plus apps updatesplan for office 365 pro plus connectivityplan for office onlineplan office 365 pro plus deployment"
+        ]
+      }
+    ]
+  }
+]

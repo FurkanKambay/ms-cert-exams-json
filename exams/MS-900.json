@@ -1,0 +1,120 @@
+[
+  {
+    "label": "Understand Cloud Concepts (15%-20%)",
+    "skills": [
+      {
+        "label": "Detail and understand the benefits and considerations of using cloud services",
+        "items": []
+      },
+      {
+        "label": "Understand the different types of cloud services available",
+        "items": [
+          "May include but is not limited to: position microsoft 365 in a saas scenario, iaas, paas, saas, public, private, and hybrid scenarios"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand Core Microsoft 365 Services and Concepts (30-35%)",
+    "skills": [
+      {
+        "label": "Describe the core Microsoft 365 components",
+        "items": [
+          "May include but is not limited to: windows 10 enterprise, exchange online, sharepoint online, skype for business online, teams, enterprise mobility + security products and technologies"
+        ]
+      },
+      {
+        "label": "Compare core services in Microsoft 365 with corresponding on-premises services",
+        "items": [
+          "May include but is not limited to: identify scenarios when usage of m365 services is more beneficial than on-premise services"
+        ]
+      },
+      {
+        "label": "Understand the concept of Modern Management",
+        "items": [
+          "May include but is not limited to: understand the windows-as-a-service (waas) model, describe the usage of the microsoft 365 admin center and m365 user portal, understand the microsoft deployment and release model for windows and cloud business apps"
+        ]
+      },
+      {
+        "label": "Understand Office 365 ProPlus",
+        "items": [
+          "May include but is not limited to: compare with on-premise office 2016 deployment"
+        ]
+      },
+      {
+        "label": "Understand collaboration and mobility with Microsoft 365",
+        "items": [
+          "May include but is not limited to: understand the concept of effective collaboration with microsoft 365, understand the concept of enterprise mobility, device management, and application management within an organization"
+        ]
+      },
+      {
+        "label": "Describe analytics capabilities in Microsoft 365",
+        "items": []
+      }
+    ]
+  },
+  {
+    "label": "Understand Security, Compliance, Privacy, and Trust in Microsoft 365 (30-35%)",
+    "skills": [
+      {
+        "label": "Understand security and compliance concepts with Microsoft 365",
+        "items": [
+          "May include but is not limited to: understand key components that need to be protected within an organization’s cloud and on-premise infrastructure, understand key security pillars of protection, including identity, documents, network, and devices"
+        ]
+      },
+      {
+        "label": "Understand identity protection and management",
+        "items": [
+          "May include but is not limited to: understand concepts of cloud identity, on-premise identity, and hybrid identity, understand document protection needs and capabilities of azure information protection (aip), understand multi-factor authentication (mfa)"
+        ]
+      },
+      {
+        "label": "Understand security usage scenarios and services",
+        "items": [
+          "May include but is not limited to: compare security usage scenarios and services available with azure active directory p1, p2, and active directory domain services (ad ds), describe usage scenarios and capabilities for directory synchronization and authentication of on-premises ad with azure ad, understand how microsoft 365 services addresses the most common current threats"
+        ]
+      },
+      {
+        "label": "Understand the need for unified platform for device management",
+        "items": [
+          "May include but is not limited to: understand mobile device management (mdm), understand mobile application management (mam), understand capabilities of intune"
+        ]
+      },
+      {
+        "label": "Understand the Service Trust Portal and Compliance Manager",
+        "items": [
+          "May include but is not limited to: understand the trust relationship with microsoft, service locations, confidence in data protection, how to address most common cloud adoption show stoppers"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Understand Microsoft 365 Pricing and Support (25-30%)",
+    "skills": [
+      {
+        "label": "Understand Licensing options available in Microsoft 365",
+        "items": [
+          "May include but is not limited to: describe m365 subscriptions and management options, understand key selling points of m365 in segments of productivity, collaboration, security, and compliance, understand the different licensing and payment models available for m365, understand how to determine and implement best practices"
+        ]
+      },
+      {
+        "label": "Plan, predict, and compare pricing",
+        "items": [
+          "May include but is not limited to: understand the cloud solution provider (csp) pricing model for windows and microsoft cloud services, understand the basics of cost benefit analysis for on-premise vs. cloud, understand billing and bill management options available"
+        ]
+      },
+      {
+        "label": "Describe support offerings for Microsoft 365 services",
+        "items": [
+          "May include but is not limited to: describe how to create a support request for microsoft 365 services, describe service level agreements (slas), understand how to determine service health status"
+        ]
+      },
+      {
+        "label": "Understand the service lifecycle in Microsoft 365",
+        "items": [
+          "May include but is not limited to: understand private, public preview, and general availability (ga) and their correlation to support policy and pricing"
+        ]
+      }
+    ]
+  }
+]

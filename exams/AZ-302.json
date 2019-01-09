@@ -30,7 +30,7 @@
           "May include but not limited to: choose an authorization approach",
           "Define access permissions and privileges",
           "Design secure delegated access (e.g., oauth, openid, etc.)",
-          "Recommend when and how to use api keys"
+          "Recommend when and how to use api keys."
         ]
       }
     ]

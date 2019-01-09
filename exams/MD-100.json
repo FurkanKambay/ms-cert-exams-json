@@ -1,0 +1,117 @@
+[
+  {
+    "label": "Deploy Windows (15-20%)",
+    "skills": [
+      {
+        "label": "Deploy Windows 10",
+        "items": [
+          "Configure language packs",
+          "Migrate user data",
+          "Perform a clean installation",
+          "Perform an in-place upgrade (using tools such as mdt, wds, adk, etc.)",
+          "Select the appropriate windows edition",
+          "Troubleshoot activation issues"
+        ]
+      },
+      {
+        "label": "Perform post-installation configuration",
+        "items": [
+          "Configure edge and internet explorer",
+          "Configure mobility settings",
+          "Configure sign-in options",
+          "Customize the windows desktop"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Devices and Data (35-40%)",
+    "skills": [
+      {
+        "label": "Manage local users, local groups, and devices",
+        "items": [
+          "Manage devices in directories",
+          "Manage local groups",
+          "Manage local users"
+        ]
+      },
+      {
+        "label": "Configure data access and protection",
+        "items": [
+          "Configure ntfs permissions",
+          "Configure shared permissions"
+        ]
+      },
+      {
+        "label": "Configure devices by using local policies",
+        "items": [
+          "Configure local registry",
+          "Implement local policy",
+          "Troubleshoot group policies on devices"
+        ]
+      },
+      {
+        "label": "Manage Windows security",
+        "items": [
+          "Configure user account control (uac)",
+          "Configure windows defender firewall",
+          "Implement encryption"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Connectivity (15-20%)",
+    "skills": [
+      {
+        "label": "Configure networking",
+        "items": [
+          "Configure client ip settings",
+          "Configure mobile networking",
+          "Configure vpn client",
+          "Troubleshoot networking",
+          "Configure wi-fi profiles"
+        ]
+      },
+      {
+        "label": "Configure remote connectivity",
+        "items": [
+          "Configure remote management",
+          "Enable powershell remoting",
+          "Configure remote desktop access"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Maintain Windows (25-30%)",
+    "skills": [
+      {
+        "label": "Configure system and data recovery",
+        "items": [
+          "Perform file recovery (including onedrive)",
+          "Recover windows 10",
+          "Troubleshoot startup/boot process"
+        ]
+      },
+      {
+        "label": "Manage updates",
+        "items": [
+          "Check for updates",
+          "Troubleshoot updates",
+          "Validate and test updates",
+          "Select the appropriate servicing channel",
+          "Configure windows update options"
+        ]
+      },
+      {
+        "label": "Monitor and manage Windows",
+        "items": [
+          "Configure and analyze event logs",
+          "Manage performance",
+          "Manage windows 10 environment"
+        ]
+      }
+    ]
+  }
+]

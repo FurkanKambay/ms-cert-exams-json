@@ -7,7 +7,7 @@
         "items": [
           "May include but not limited to: assign administrator permissions",
           "Configure cost center quotas and tagging",
-          "Configure subscription policies"
+          "Configure azure subscription policies at azure subscription level"
         ]
       },
       {
@@ -29,7 +29,7 @@
       {
         "label": "Manage resource groups",
         "items": [
-          "May include but not limited to: allocate resource policies",
+          "May include but not limited to: use azure policies for resource groups",
           "Configure resource locks",
           "Configure resource policies",
           "Implement and set tagging on resource groups",
@@ -59,6 +59,7 @@
         "items": [
           "May include but not limited to: create export from azure job",
           "Create import into azure job",
+          "Use azure data box",
           "Configure and use azure blob storage",
           "Configure azure content delivery network (cdn) endpoints"
         ]
@@ -151,7 +152,7 @@
         "items": [
           "May include but not limited to: configure azure dns",
           "Configure custom dns settings",
-          "Configure dns zones"
+          "Configure private and public dns zones"
         ]
       },
       {

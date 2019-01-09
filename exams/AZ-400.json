@@ -1,0 +1,193 @@
+[
+  {
+    "label": "Design a DevOps Strategy (20-25%)",
+    "skills": [
+      {
+        "label": "Recommend a migration and consolidation strategy for DevOps tools",
+        "items": [
+          "Analyze existing artifact (e.g. deployment packages, nuget) and container repositoriesanalyze existing test management toolsanalyze existing work management toolsrecommend migration and integration strategies for artifact repositories, source control, test management, and work management"
+        ]
+      },
+      {
+        "label": "Design and implement an Agile work management approach",
+        "items": [
+          "Identify and recommend project metrics, kpis, and devops measurements (e.g. cycle time, lead time, azure kubernetes service, wip limit)implement tools and processes to support agile work managementmentor team members on agile techniques and practicesrecommend an organization structure that supports scaling agile practicesrecommend in-team and cross-team collaboration mechanisms"
+        ]
+      },
+      {
+        "label": "Design a quality strategy",
+        "items": [
+          "Analyze existing quality environmentidentify and recommend quality metricsrecommend a strategy for feature flag lifecyclerecommend a strategy for measuring and managing technical debtrecommend changes to team structure to optimize qualityrecommend performance testing strategy"
+        ]
+      },
+      {
+        "label": "Design a secure development process",
+        "items": [
+          "Inspect and validate code base for complianceinspect and validate infrastructure for compliancerecommend a secure development strategyrecommend tools and practices to integrate code security validation (e.g. static code analysis)recommend tools and practices to integrate infrastructure security validation"
+        ]
+      },
+      {
+        "label": "Design a tool integration strategy",
+        "items": [
+          "Design a license management strategy (e.g. azure devops users, concurrent pipelines, test environments, open source software licensing, devops tools and services, package management licensing)design a strategy for end-to-end traceability from work items to working softwaredesign a strategy for integrating monitoring and feedback to development teamsdesign an authentication and access strategydesign a strategy for integrating on-premises and cloud resources"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement DevOps Development Processes (20-25%)",
+    "skills": [
+      {
+        "label": "Design a version control strategy",
+        "items": [
+          "Recommend branching modelsrecommend version control systemsrecommend code flow strategy"
+        ]
+      },
+      {
+        "label": "Implement and integrate source control",
+        "items": [
+          "Integrate external source controlintegrate source control into third-party continuous integration and continuous deployment (ci/cd) systems"
+        ]
+      },
+      {
+        "label": "Implement and manage build infrastructure",
+        "items": [
+          "Implement private and hosted agentsintegrate third party build systemsrecommend strategy for concurrent pipelinesmanage vsts pipeline configuration (e.g. agent queues, service endpoints, pools, webhooks)"
+        ]
+      },
+      {
+        "label": "Implement code flow",
+        "items": [
+          "Implement pull request strategiesimplement branch and fork strategiesconfigure branch policies"
+        ]
+      },
+      {
+        "label": "Implement a mobile DevOps strategy",
+        "items": [
+          "Manage mobile target device sets and distribution groupsmanage target ui test device setsprovision tester devices for deploymentcreate public and private distribution groups"
+        ]
+      },
+      {
+        "label": "Managing application configuration and secrets",
+        "items": [
+          "Implement a secure and compliant development processimplement general (non-secret) configuration datamanage secrets, tokens, and certificatesimplement applications configurations (e.g. web app, azure kubernetes service, containers)implement secrets management (e.g. web app, azure kubernetes service, containers, azure key vault)implement tools for managing security and compliance in the pipeline"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Continuous Integration (10-15%)",
+    "skills": [
+      {
+        "label": "Manage code quality and security policies",
+        "items": [
+          "Monitor code qualityconfigure build to report on code coveragemanage automated test qualitymanage test suites and categoriesmonitor quality of testsintegrate security analysis tools (e.g. sonarqube, whitesource bolt, open web application security project)"
+        ]
+      },
+      {
+        "label": "Implement a container build strategy",
+        "items": [
+          "Create deployable images (e.g. docker, azure container registry)analyze and integrate docker multi-stage builds"
+        ]
+      },
+      {
+        "label": "Implement a build strategy",
+        "items": [
+          "Design build triggers, tools, integrations, and workflowimplement a hybrid build processimplement multi-agent buildsrecommend build tools and configurationset up an automated build workflow"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Continuous Delivery (10-15%)",
+    "skills": [
+      {
+        "label": "Design a release strategy",
+        "items": [
+          "Recommend release toolsidentify and recommend release approvals and gatesrecommend strategy for measuring quality of release and release processrecommend strategy for release notes and documentationselect appropriate deployment pattern"
+        ]
+      },
+      {
+        "label": "Set up a release management workflow",
+        "items": [
+          "Automate inspection of health signals for release approvals by using release gatesconfigure automated integration and functional test executioncreate a release pipeline (e.g. azure kubernetes service, service fabric, webapp)create multi-phase release pipelinesintegrate secrets with release pipelineprovision and configure environmentsmanage and modularize tasks and templates (e.g. task and variable groups)"
+        ]
+      },
+      {
+        "label": "Implement an appropriate deployment pattern",
+        "items": [
+          "Implement blue-green deploymentsimplement canary deploymentsimplement progressive exposure deploymentsscale a release pipeline to deploy to multiple endpoints (e.g. deployment groups, azure kubernetes service, service fabric)"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Dependency Management (5-10%)",
+    "skills": [
+      {
+        "label": "Design a dependency management strategy",
+        "items": [
+          "Recommend artifact management tools and practicesabstract common packages to enable sharing and reuseinspect codebase to identify code dependencies that can be converted to packagesidentify and recommend standardized package types and versions across the solutionrefactor existing build pipelines to implement version strategy that publishes packages"
+        ]
+      },
+      {
+        "label": "Manage security and compliance",
+        "items": [
+          "Inspect open source software packages for security and license compliance to align with corporate standards (e.g. gplv3)configure build pipeline to access package security and license rating (e.g. black duck, white source)configure secure access to package feeds"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Application Infrastructure (15-20%)",
+    "skills": [
+      {
+        "label": "Design an infrastructure and configuration management strategy",
+        "items": [
+          "Analyze existing and future hosting infrastructureanalyze existing infrastructure as code technologiesdesign a strategy for managing technical debt on templatesdesign a strategy for using transient infrastructure for parts of a delivery lifecycledesign a strategy to mitigate infrastructure state drift"
+        ]
+      },
+      {
+        "label": "Implement Infrastructure as Code",
+        "items": [
+          "Create nested resource templatesmanage secrets in resource templatesprovision azure resourcesrecommend an infrastructure as code (iac) strategyrecommend appropriate technologies for configuration management"
+        ]
+      },
+      {
+        "label": "Manage Azure Kubernetes Service infrastructure",
+        "items": [
+          "Provision azure kubernetes service (e.g. using arm templates, cli)create deployment file for publishing to azure kubernetes service (e.g. kubectl, helm)develop a scaling plan"
+        ]
+      },
+      {
+        "label": "Implement infrastructure compliance and security",
+        "items": [
+          "Implement compliance and security scanningprevent drift by using configuration management toolsset up an automated pipeline to inspect security and compliance"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Continuous Feedback (10-15%)",
+    "skills": [
+      {
+        "label": "Recommend and design system feedback mechanisms",
+        "items": [
+          "Design practices to measure end-user satisfaction (e.g. send a smile, app analytics)design processes to capture and analyze user feedback from external sources (e.g. twitter, reddit, help desk)design routing for client application crash report data (e.g. hockeyapp)recommend monitoring tools and technologiesrecommend system and feature usage tracking tools"
+        ]
+      },
+      {
+        "label": "Implement process for routing system feedback to development teams",
+        "items": [
+          "Configure crash report integration for client applicationsdevelop monitoring and status dashboardsimplement routing for client application crash report data (e.g. hockeyapp)implement tools to track system usage, feature usage, and flowintegrate and configure ticketing systems with development team's work management system (e.g. it service management connector, servicenow cloud management, app insights work items)"
+        ]
+      },
+      {
+        "label": "Optimize feedback mechanisms",
+        "items": [
+          "Analyze alerts to establish a baselineanalyze telemetry to establish a baselineperform live site reviews and capture feedback for system outagesperform ongoing tuning to reduce meaningless or non-actionable alerts"
+        ]
+      }
+    ]
+  }
+]
