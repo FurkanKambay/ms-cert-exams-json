@@ -1,0 +1,77 @@
+[
+  {
+    "label": "Plan and Implement a Hybrid Configuration and Migration (35-40%)",
+    "skills": [
+      {
+        "label": "Plan a hybrid environment",
+        "items": [
+          "May include but not limited to: evaluate federation in hybrid coexistence, evaluate hybrid free/busy access, decide between exchange classic hybrid and exchange modern hybrid"
+        ]
+      },
+      {
+        "label": "Deploy a hybrid environment",
+        "items": [
+          "May include but not limited to: deploy and verify oauth for a hybrid deployment, install and configure edge server role, configure hybrid mail flow, configure federation in hybrid coexistence, configure organization configuration transfer (oct), deploy the exchange hybrid agent to one or more exchange servers, implement advanced hybrid functionality, including on-premises, onedrive access, and outlook for ios"
+        ]
+      },
+      {
+        "label": "Plan and implement migration",
+        "items": [
+          "May include but not limited to: manage mailbox migration request batches, troubleshoot mailbox migration, evaluate migration types, configure migration endpoints in microsoft 365"
+        ]
+      },
+      {
+        "label": "Manage public folders",
+        "items": [
+          "May include but not limited to: troubleshoot public folder coexistence, move content between public folder mailboxes, create additional public folder mailboxes, implement public folder top level hierarchy (tlh), implement mail-enabled public folders, plan and configure public folders, plan a public folder migration to microsoft 365"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Secure the Messaging Environment (40-45%)",
+    "skills": [
+      {
+        "label": "Manage role-based permissions",
+        "items": [
+          "May include but not limited to: manage role groups, assign user accounts to admin roles, manage user roles, manage a delegated role-based access control (rbac) setup, plan rbac roles for ediscovery"
+        ]
+      },
+      {
+        "label": "Manage message hygiene",
+        "items": [
+          "May include but not limited to: plan for message hygiene, manage connection filters, configure malware filters, configure spam filters, monitor action center, monitor quarantined items, manage protection for phishing, plan and configure spam confidence levels (scl)"
+        ]
+      },
+      {
+        "label": "Manage Advanced Threat Protection (ATP) for messaging",
+        "items": [
+          "May include but not limited to: configure and manage atp safe attachments, configure and manage atp safe links, configure and manage atp anti-phishing, manage atp anti-spam, monitor threat protection status"
+        ]
+      },
+      {
+        "label": "Manage compliance",
+        "items": [
+          "May include but not limited to: configure retention policies, configure data loss prevention policies, review and analyze audit logs, manage journal rules, manage content search, manage litigation hold"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Organizational Settings (15-20%)",
+    "skills": [
+      {
+        "label": "Configure organizational settings",
+        "items": [
+          "May include but not limited to: configure sharing, configure workload management, manage email address policies"
+        ]
+      },
+      {
+        "label": "Plan address lists",
+        "items": [
+          "May include but not limited to: manage global address list (gal), manage offline address book (oab), manage address book policies"
+        ]
+      }
+    ]
+  }
+]

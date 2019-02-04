@@ -1,0 +1,106 @@
+[
+  {
+    "label": "Design Azure Data Storage Solutions (30-35%)",
+    "skills": [
+      {
+        "label": "Design an Azure Data solution",
+        "items": [
+          "May include but is not limited to: choose the correct data storage solution to meet the technical and business requirements, calculate the storage capacity of data, recommend tier based on data requirements, decide partition distribution type"
+        ]
+      },
+      {
+        "label": "Design Azure Cloud data warehouses",
+        "items": [
+          "May include but is not limited to: design the data schema, design for scale"
+        ]
+      },
+      {
+        "label": "Design No-SQL Databases",
+        "items": [
+          "May include but is not limited to: design data distribution and partitions, design a cosmosdb solution, select the database platform, model data storage based on use cases, select storage types"
+        ]
+      },
+      {
+        "label": "Design Azure SQL Database",
+        "items": [
+          "May include but is not limited to: design for scale, design data load technologies, design solution architecture"
+        ]
+      },
+      {
+        "label": "Design hybrid data scenarios",
+        "items": [
+          "May include but is not limited to: design hybrid solution, design data replication and synchronization"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design Data Processing Solutions (25-30%)",
+    "skills": [
+      {
+        "label": "Design batch processing solutions",
+        "items": [
+          "May include but is not limited to: design batch processing solutions using spark, design batch processing solutions using azure databricks"
+        ]
+      },
+      {
+        "label": "Design big data real-time processing solutions",
+        "items": [
+          "May include but is not limited to: design for real-time processing, design for lambda architecture, design and provision compute resources"
+        ]
+      },
+      {
+        "label": "Design integration solutions",
+        "items": [
+          "May include but is not limited to: design cloud analytic solutions, design data processing activities, design data migration"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design for Data Security and Compliance (15-20%)",
+    "skills": [
+      {
+        "label": "Design source data access security",
+        "items": [
+          "May include but is not limited to: design network security, choose the appropriate authentication mechanism, choose the appropriate authorization mechanism"
+        ]
+      },
+      {
+        "label": "Design security for data policies and standards",
+        "items": [
+          "May include but is not limited to: design for data encryption, design for data auditing, design for data privacy"
+        ]
+      },
+      {
+        "label": "Design a data retention policy",
+        "items": [
+          "May include but is not limited to: design a backup and recovery policy, evaluate business requirements for data retention"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design for High Availability and Disaster Recovery (20-25%)",
+    "skills": [
+      {
+        "label": "Design for Optimization",
+        "items": [
+          "May include but is not limited to: design for optimized hive processing, design for optimized data lake, design for optimized spark processing, design for optimized azure stream analytics, design for optimized data warehouse, design for optimized sql db, plan for the data life cycle"
+        ]
+      },
+      {
+        "label": "Design and implement a disaster recovery strategy",
+        "items": [
+          "May include but is not limited to: design a backup and recovery policy, design an online disaster recovery strategy, design for multi-region availability, plan for backup and restore"
+        ]
+      },
+      {
+        "label": "Design for High Availability",
+        "items": [
+          "May include but is not limited to: design for multi-region availability, design for read scale, design for multi-master writes"
+        ]
+      }
+    ]
+  }
+]

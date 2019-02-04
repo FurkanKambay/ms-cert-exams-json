@@ -1,0 +1,146 @@
+[
+  {
+    "label": "Perform Discovery, Planning, and Analysis (5-10%)",
+    "skills": [
+      {
+        "label": "Create and Validate Documentation",
+        "items": [
+          "May include but is not limited to: create high-level entity relationship diagram, create and document mock-ups, identify document data for migration and integration, determine out of the box (oob) functionality, validate functional requirements, select artifacts necessary for a proof of concepts (poc) of functional solution designs"
+        ]
+      },
+      {
+        "label": "Perform continuous collaboration with customer",
+        "items": [
+          "May include but is not limited to: identify collaboration tools, perform an audit, identify artifacts to be recorded in change logs, select between managed and unmanaged solutions, identify components for entities"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage user experience design (20-25%)",
+    "skills": [
+      {
+        "label": "Create and Configure Apps",
+        "items": [
+          "May include but is not limited to: configure settings to meet minimal capabilities, configure out of the box and custom items to meet minimal capabilities specified, create and configure dashboards, create and configure forms, create and configure charts, create and manage reports, create and configure views, design site map, export or import field translation, configure mobile settings"
+        ]
+      },
+      {
+        "label": "Create and Configure Templates",
+        "items": [
+          "May include but is not limited to: identify available templates in dynamics 365, create email templates, create excel templates, create word templates"
+        ]
+      },
+      {
+        "label": "Create and manage processes",
+        "items": [
+          "May include but is not limited to: configure a business rule, configure a business process flow, configure a workflow"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Entities and Data (15-20%)",
+    "skills": [
+      {
+        "label": "Modify an existing data model",
+        "items": [
+          "May include but is not limited to: create new or modify an existing entity, create new or modify existing relationships, create new or modify existing fields, manage accounts and contacts"
+        ]
+      },
+      {
+        "label": "Import and export Data",
+        "items": [
+          "May include but is not limited to: import data by using the import data wizard, export data from dynamics 365, create data templates, choose file types to upload into system, identify source fields to dynamics 365 fields mapping, save mappings to template"
+        ]
+      },
+      {
+        "label": "Manage Data",
+        "items": [
+          "May include but is not limited to: perform data cleanup, mitigate data loading risks, mitigate excessive database growth, configure bulk record deletion, configure duplicate detection setting"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Security (5-10%)",
+    "skills": [
+      {
+        "label": "Configure security in Office 365",
+        "items": [
+          "May include but is not limited to: identify dynamics 365 security role assignments, add users to security group administration"
+        ]
+      },
+      {
+        "label": "Configure security settings",
+        "items": [
+          "May include but is not limited to: manage security roles, manage users, manage teams, create and manage field security profiles, configure hierarchy security"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Implement Integration (15-20%)",
+    "skills": [
+      {
+        "label": "Configure Outlook add-in",
+        "items": [
+          "May include but is not limited to: identify required client software requirements, identify required server software requirements, configure server-side sync, develop a plan to deploy outlook app to users, perform unit testing, identify minimum application and operation system environments"
+        ]
+      },
+      {
+        "label": "Configure email integration",
+        "items": [
+          "May include but is not limited to: configure email mailboxes, configure email protocols, configure email settings, enable server-side synchronization, enable dynamics 365 app for outlook"
+        ]
+      },
+      {
+        "label": "Integrate with Office 365",
+        "items": [
+          "May include but is not limited to: determine enabled office 365 capabilities, design sharepoint online folder configuration architecture, create sharepoint sites and document locations, integrate onenote, integrate onedrive for business, configure integration with the office 365 toolset, validate integrity of data in sharepoint, integrate data by using excel data online"
+        ]
+      },
+      {
+        "label": "Create, configure, and maintain Microsoft Flows",
+        "items": [
+          "May include but is not limited to: create service connections, configure source and target fields, create, validate, and execute microsoft flow logic, share flows with other users"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Perform Solutions Deployment and Testing (25-30%)",
+    "skills": [
+      {
+        "label": "Manage environments",
+        "items": [
+          "May include but is not limited to: determine whether to use managed or unmanaged solution, determine subcomponents to include in solution, create or use a custom publisher, migrate from sandbox environments, administer environments, configure environments"
+        ]
+      },
+      {
+        "label": "Manage applications",
+        "items": [
+          "May include but is not limited to: manage applications using the dynamics 365 administration center, manage dynamics 365 applications using solutions"
+        ]
+      },
+      {
+        "label": "Perform system administration",
+        "items": [
+          "May include but is not limited to: configure connection roles, configure language and locales, configure currencies, configure subjects, configure custom help, configure session and inactivity timeouts, manage global audit settings, configure audit user access, manage audit logs, manage entity and field auditing, configure relevant search, configure quickfind settings, configure categorized search"
+        ]
+      },
+      {
+        "label": "Perform quality assurance",
+        "items": [
+          "May include but is not limited to: create system, performance, unit, and regression testing scripts, perform performance tuning, perform optimization testing, verify network capacity and throughput by using the dynamics 365 diagnostics tool, perform data query performance"
+        ]
+      },
+      {
+        "label": "Manage solutions",
+        "items": [
+          "May include but is not limited to: create solutions, export solutions, import solutions, distribute solutions and patches"
+        ]
+      }
+    ]
+  }
+]

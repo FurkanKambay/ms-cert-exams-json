@@ -86,60 +86,26 @@
           "May include but not limited to: encrypt and decrypt data at rest",
           "Encrypt data with always encrypted",
           "Implement azure confidential compute and ssl/tls communications",
-          "Manage cryptographic keys in the azure key vault"
+          "Create, read, update, and delete keys, secrets, and certificates by using the keyvault api"
         ]
       }
     ]
   },
   {
-    "label": "Develop for the Cloud (45-50%)",
+    "label": "Develop for the Cloud (25-30%)",
     "skills": [
-      {
-        "label": "Develop long-running tasks",
-        "items": [
-          "May include but not limited to: implement large-scale, parallel, and high-performance apps by using batches",
-          "Implement resilient apps by using queues",
-          "Implement code to address application events by using web hooks",
-          "Address continuous processing tasks by using web jobs"
-        ]
-      },
       {
         "label": "Configure a message-based integration architecture",
         "items": [
           "May include but not limited to: configure an app or service to send emails, event grid, and the azure relay service",
           "Create and configure a notification hub, an event hub, and a service bus",
-          "Configure queries across multiple products",
-          "Configure an app or service with microsoft graph"
-        ]
-      },
-      {
-        "label": "Develop for asynchronous processing",
-        "items": [
-          "May include but not limited to: implement parallelism, multithreading, processing, durable functions, azure logic apps, interfaces with storage, interfaces to data access, and appropriate asynchronous compute models"
+          "Configure queries across multiple products"
         ]
       },
       {
         "label": "Develop for autoscaling",
         "items": [
           "May include but not limited to: implement autoscaling rules and patterns (schedule, operational/system metrics, code that addresses singleton application instances, and code that addresses transient state"
-        ]
-      },
-      {
-        "label": "Implement distributed transactions",
-        "items": [
-          "May include but not limited to: identify tools to implement distributed transactions (e.g., ado.net, elastic transactions, multi-database transactions)",
-          "Manage transaction scope",
-          "Manage transactions across multiple databases and servers"
-        ]
-      },
-      {
-        "label": "Develop advanced cloud workloads",
-        "items": [
-          "May include but not limited to: develop solutions by using intelligent algorithms that identify items from images and videos",
-          "Develop solutions by using intelligent algorithms related to speech, natural language processing, bing search, and recommendations and decision making",
-          "Create and integrate bots",
-          "Integrate machine learning solutions in an app",
-          "Create and implement iot solutions"
         ]
       }
     ]

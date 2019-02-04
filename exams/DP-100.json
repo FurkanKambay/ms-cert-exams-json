@@ -1,0 +1,100 @@
+[
+  {
+    "label": "Define and prepare the development environment (15-20%)",
+    "skills": [
+      {
+        "label": "Select development environment",
+        "items": [
+          "May include but is not limited to: assess the deployment environment constraints, analyze and recommend tools that meet system requirements, select the development environment"
+        ]
+      },
+      {
+        "label": "Set up development environment",
+        "items": [
+          "May include but is not limited to: create an azure data science environment, configure data science work environments"
+        ]
+      },
+      {
+        "label": "Quantify the business problem",
+        "items": [
+          "May include but is not limited to: define technical success metrics, quantify risks"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Prepare data for modeling (25-30%)",
+    "skills": [
+      {
+        "label": "Transform data into usable datasets",
+        "items": [
+          "May include but is not limited to: develop data structures, design a data sampling strategy, design the data preparation flow"
+        ]
+      },
+      {
+        "label": "Perform Exploratory Data Analysis (EDA)",
+        "items": [
+          "May include but is not limited to: review visual analytics data to discover patterns and determine next steps, identify anomalies, outliers, and other data inconsistencies, create descriptive statistics for a dataset"
+        ]
+      },
+      {
+        "label": "Cleanse and transform data",
+        "items": [
+          "May include but is not limited to: resolve anomalies, outliers, and other data inconsistencies, standardize data formats, set the granularity for data"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Perform Feature Engineering (15-20%)",
+    "skills": [
+      {
+        "label": "Perform feature extraction",
+        "items": [
+          "May include but is not limited to: perform feature extraction algorithms on numerical data, perform feature extraction algorithms on non-numerical data, scale features"
+        ]
+      },
+      {
+        "label": "Perform feature selection",
+        "items": [
+          "May include but is not limited to: define the optimality criteria, apply feature selection algorithms"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Develop models (40-45%)",
+    "skills": [
+      {
+        "label": "Select an algorithmic approach",
+        "items": [
+          "May include but is not limited to: determine appropriate performance metrics, implement appropriate algorithms, consider data preparation steps that are specific to the selected algorithms"
+        ]
+      },
+      {
+        "label": "Split datasets",
+        "items": [
+          "May include but is not limited to: determine ideal split based on the nature of the data, determine number of splits, determine relative size of splits, ensure splits are balanced"
+        ]
+      },
+      {
+        "label": "Identify data imbalances",
+        "items": [
+          "May include but is not limited to: resample a dataset to impose balance, adjust performance metric to resolve imbalances, implement penalization"
+        ]
+      },
+      {
+        "label": "Train the model",
+        "items": [
+          "May include but is not limited to: select early stopping criteria, tune hyper-parameters"
+        ]
+      },
+      {
+        "label": "Evaluate model performance",
+        "items": [
+          "May include but is not limited to: score models against evaluation metrics, implement cross-validation, identify and address overfitting, identify root cause of performance results"
+        ]
+      }
+    ]
+  }
+]

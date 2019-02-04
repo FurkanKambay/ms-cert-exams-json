@@ -1,0 +1,88 @@
+[
+  {
+    "label": "Perform configuration (25-30%)",
+    "skills": [
+      {
+        "label": "Configure Service Management settings",
+        "items": [
+          "May include but is not limited to: describe process of record creation and update rules, configure queues, configure holiday schedule, configure customer service schedule, configure user work hours, configure categories and subjects, configure cases, configure customer service security roles, configure goal management components, create routing rules, configure services"
+        ]
+      },
+      {
+        "label": "Configure processes",
+        "items": [
+          "May include but is not limited to: configure custom business process flows, implement business process flows from microsoft appsource"
+        ]
+      },
+      {
+        "label": "Create and configure customer service visualizations",
+        "items": [
+          "May include but is not limited to: configure customer service content pack for power bi, configure customer service dashboards, design and create customer service charts, execute and analyze customer service reports"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage cases and the knowledge base (30-35%)",
+    "skills": [
+      {
+        "label": "Create and manage cases",
+        "items": [
+          "May include but is not limited to: manage case list, create and search for case records, convert activities to cases, perform case resolution, implement case routing rules, implement parent-child cases, merge cases, configure status reason transitions"
+        ]
+      },
+      {
+        "label": "Create and manage the knowledge base",
+        "items": [
+          "May include but is not limited to: configure entities for knowledge management, link an article with a case, use the knowledge base to resolve cases, create and manage knowledge base article lifecycle, create and manage knowledge base articles, search for articles"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage queues, entitlements, and SLAs (25-30%)",
+    "skills": [
+      {
+        "label": "Create and manage queues",
+        "items": [
+          "May include but is not limited to: differentiate queue types, add cases and activities to queues, implement case routing, configure entities for queues, configure queue email settings, configure record creation and update rules"
+        ]
+      },
+      {
+        "label": "Create and manage entitlements",
+        "items": [
+          "May include but is not limited to: define and create entitlements, manage entitlement templates, activate and deactivate entitlements, renew or cancel an entitlement, assign an entitlement to a case"
+        ]
+      },
+      {
+        "label": "Create and manage SLAs",
+        "items": [
+          "May include but is not limited to: determine sla conditions, define and create slas, implement actions and details, use slas on-demand, manage cases with slas, create and manage sla items"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure Voice of the Customer (15-20%)",
+    "skills": [
+      {
+        "label": "Create surveys",
+        "items": [
+          "May include but is not limited to: create a theme and upload images, add pages to a survey and personalize data, identify survey question types, add survey questions, identify respondent types, configure response routing, configure survey scoring, configure survey unsubscription options"
+        ]
+      },
+      {
+        "label": "Preview, test, and publish surveys",
+        "items": [
+          "May include but is not limited to: distribute survey link using email, embed a survey in a web page, clone, import, and translate surveys"
+        ]
+      },
+      {
+        "label": "Manage survey responses",
+        "items": [
+          "May include but is not limited to: summarize survey results, determine report types, implement workflow conditional logic for survey actions, create business actions based upon survey responses"
+        ]
+      }
+    ]
+  }
+]

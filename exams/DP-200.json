@@ -1,0 +1,147 @@
+[
+  {
+    "label": "Implement Data Storage Solutions (25-30%)",
+    "skills": [
+      {
+        "label": "Implement Azure cloud data warehouses",
+        "items": [
+          "May include but is not limited to: design data lake architecture, design the data schema, provision the data warehouse"
+        ]
+      },
+      {
+        "label": "Implement No-SQL Databases",
+        "items": [
+          "May include but is not limited to: manage data distribution and partitions, select the database platform, model data storage based on use cases, select storage types, provision storage accounts, provision data lake storage, integrate webhdfs applications with data lake storage, provision in cosmosdb"
+        ]
+      },
+      {
+        "label": "Implement Azure SQL Database",
+        "items": [
+          "May include but is not limited to: provision azure sql database, configure elastic pools, configure data backup strategies, configure elastic jobs, provision azure sql database managed instance, configure connections, manage data synchronization"
+        ]
+      },
+      {
+        "label": "Implement hybrid data scenarios",
+        "items": [
+          "May include but is not limited to: design hybrid solution, design data replication and synchronization"
+        ]
+      },
+      {
+        "label": "Manage Azure DevOps Pipelines",
+        "items": [
+          "May include but is not limited to: use a build service, deploy using azure resource manager templates"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and Develop Data Processing (30-35%)",
+    "skills": [
+      {
+        "label": "Implement big data environments",
+        "items": [
+          "May include but is not limited to: implement hadoop clusters, implement databricks environment"
+        ]
+      },
+      {
+        "label": "Develop batch processing solutions",
+        "items": [
+          "May include but is not limited to: develop batch processing solutions using spark, develop batch processing solutions using azure databricks"
+        ]
+      },
+      {
+        "label": "Develop streaming solutions",
+        "items": [
+          "May include but is not limited to: implement event processing using azure stream analytics, query data using azure stream analytics, configure azure stream analytics to read from event hub, configure azure stream analytics to read from blob storage"
+        ]
+      },
+      {
+        "label": "Develop integration solutions",
+        "items": [
+          "May include but is not limited to: create data pipeline systems in azure, develop data integration pipelines with azure data factory, develop data integration pipelines with azure databricks"
+        ]
+      },
+      {
+        "label": "Implement data migration",
+        "items": [
+          "May include but is not limited to: transform data, bulk load data with polybase"
+        ]
+      },
+      {
+        "label": "Automate Data Factory Pipelines",
+        "items": [
+          "May include but is not limited to: deploy data factory pipelines, configure data factory"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Data Security (15-20%)",
+    "skills": [
+      {
+        "label": "Manage source data access security",
+        "items": [
+          "May include but is not limited to: connect to sources, create connection objects, install gateways"
+        ]
+      },
+      {
+        "label": "Configure authentication and authorization",
+        "items": [
+          "May include but is not limited to: set up firewall rules, integrate azure ad, design cosmos db security, design data lake security, design azure sql db security, manage access control, manage permissions on resources"
+        ]
+      },
+      {
+        "label": "Manage and enforce data policies and standards",
+        "items": [
+          "May include but is not limited to: mask data, encrypt data at rest, encrypt data in motion, encrypt data elements, configure audit"
+        ]
+      },
+      {
+        "label": "Set up notifications",
+        "items": [
+          "May include but is not limited to: set up alerts on security threats, set up alerts on unexpected resource usage"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Monitoring Data Solutions (10-15%)",
+    "skills": [
+      {
+        "label": "Monitor data storage",
+        "items": [
+          "May include but is not limited to: implement blob storage monitoring, implement data lake store monitoring, implement hdinsight monitoring"
+        ]
+      },
+      {
+        "label": "Monitor databases for a specified scenario",
+        "items": [
+          "May include but is not limited to: implement sql database monitoring, implement sql data warehouse monitoring, implement cosmos db monitoring"
+        ]
+      },
+      {
+        "label": "Monitor data processing",
+        "items": [
+          "May include but is not limited to: design and implement data factory monitoring, monitor azure databricks, monitor hdinsight processing, monitor stream analytics"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage and Troubleshoot Azure Data Solutions (10-15%)",
+    "skills": [
+      {
+        "label": "Manage Optimization",
+        "items": [
+          "May include but is not limited to: troubleshoot data partitioning bottlenecks, optimize hive processing, optimize data lake, optimize spark processing, optimize azure stream analytics, optimize data warehouse, optimize sql db, manage data life cycle"
+        ]
+      },
+      {
+        "label": "Manage business continuity",
+        "items": [
+          "May include but is not limited to: implement a disaster recovery strategy, design for high availability, import and export data, design a data retention policy"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "label": "Configure and Manage SharePoint Online (20-25%)",
+    "skills": [
+      {
+        "label": "Plan and configure site collections and hub sites",
+        "items": [
+          "May include but is not limited to: identify procedures for creating, deleting, and restoring site collections, assign users or groups as site collection administrators, plan and configure navigation, design site collection and subsites structure, configure site collection settings and features"
+        ]
+      },
+      {
+        "label": "Plan and configure customizations and apps",
+        "items": [
+          "May include but is not limited to: plan and configure app catalog, plan and deploy apps with proper permissions and licenses"
+        ]
+      },
+      {
+        "label": "Plan and configure guest access",
+        "items": [
+          "May include but is not limited to: assign guest licenses, configure restricted domains, plan and configure guest sharing and site access"
+        ]
+      },
+      {
+        "label": "Manage SharePoint Online",
+        "items": [
+          "May include but is not limited to: configure user profile properties, archive or delete unused artifacts, plan for information rights management, modify storage limits for sharepoint online"
+        ]
+      },
+      {
+        "label": "Monitor and maintain the SharePoint Online service",
+        "items": [
+          "May include but is not limited to: research, troubleshoot, and resolve reported issues, monitor service health issues, monitor sharepoint usage and usage patterns"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Manage OneDrive for Business (20-25%)",
+    "skills": [
+      {
+        "label": "Configure and manage OneDrive for Business",
+        "items": [
+          "May include but is not limited to: configure settings in the onedrive for business admin center, configure external sharing, sync, and storage settings, configure device access, notification, and compliance settings, research, troubleshoot, and resolve reported issues, plan onedrive for business silent account configuration"
+        ]
+      },
+      {
+        "label": "Manage users and groups",
+        "items": [
+          "May include but is not limited to: add and remove admins for a onedrive account, assign a default storage quota, configure a retention policy for deleted onedrive for business users."
+        ]
+      },
+      {
+        "label": "Manage sharing and security",
+        "items": [
+          "May include but is not limited to: configure data encryption in onedrive for business, control access to onedrive for business from unmanaged devices, audit sharing activities and view files shared with people outside an organization"
+        ]
+      },
+      {
+        "label": "Manage sync security",
+        "items": [
+          "May include but is not limited to: recommend group policy settings to control onedrive sync client settings, limit syncing to devices joined to specific domains, limit syncing to domain-joined or compliant devices, block syncing of specific file types"
+        ]
+      },
+      {
+        "label": "Monitor and maintain the OneDrive service",
+        "items": [
+          "May include but is not limited to: research, troubleshoot, and resolve reported issues, monitor service health issues, monitor onedrive usage and usage patterns"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Manage Teams (20-25%)",
+    "skills": [
+      {
+        "label": "Plan and Configure Team settings",
+        "items": [
+          "May include but is not limited to: configure settings in the teams admin center, configure email integration options, configure and manage apps settings, configure custom cloud storage, configure a teams meeting policy, configure content search, plan and configure the provisioning process, plan and configure teams templates"
+        ]
+      },
+      {
+        "label": "Plan identity and authentication for Teams",
+        "items": [
+          "May include but is not limited to: implement identity models and authentication, configure guest access"
+        ]
+      },
+      {
+        "label": "Manage the Teams environment",
+        "items": [
+          "May include but is not limited to: deploy teams client apps, manage visible apps, monitor the audit log for events"
+        ]
+      },
+      {
+        "label": "Monitor and maintain the Teams service",
+        "items": [
+          "May include but is not limited to: research, troubleshoot, and resolve reported issues, monitor service health issues, monitor teams usage and usage patterns"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Manage Workload Integrations (15-20%)",
+    "skills": [
+      {
+        "label": "Integrate M365 workloads",
+        "items": [
+          "May include but is not limited to: manage office 365 connectors for teams, yammer, and sharepoint, manage integration with office apps, manage user licenses for flow and powerapps, manage quotas for flow and powerapps, utilize delve for collaboration, plan for and manage office 365 groups, manage data and environment policies for m365 workloads, manage workload apps with proper permissions and licenses"
+        ]
+      },
+      {
+        "label": "Manage Yammer capabilities",
+        "items": [
+          "May include but is not limited to: enable document support for yammer, integrate yammer with sharepoint, enable the yammer webpart for sharepoint sites, enable and manage yammer and office 365 connected groups, migrate users to azure ad to enable authentication with yammer, enable yammer integration with on-premises sharepoint deployments"
+        ]
+      },
+      {
+        "label": "Manage Stream capabilities",
+        "items": [
+          "May include but is not limited to: configure stream channels to allow integration with teams, enable viewing, sharing, and embedding of microsoft stream video content in teams, sharepoint online, and yammer, deploy, configure and manage live events to publish with yammer, stream, and teams, configure company-wide channel creation"
+        ]
+      },
+      {
+        "label": "Integrate M365 workloads with external data and systems",
+        "items": [
+          "May include but is not limited to: identify data access requirements to integrate with line-of-business solutions, manage tenant settings for power bi, monitor workload usage and usage patterns, monitor license usage for workloads"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Manage Hybrid Scenarios (5-10%)",
+    "skills": [
+      {
+        "label": "Implement hybrid teamwork artifacts",
+        "items": [
+          "May include but is not limited to: plan, configure, and monitor hybrid sharepoint taxonomies and hybrid content types, plan and configure hybrid onedrive for business, plan for and add custom tiles to the hybrid app launcher, configure document rendering for web apps"
+        ]
+      },
+      {
+        "label": "Implement a data gateway",
+        "items": [
+          "May include but is not limited to: plan the implementation of on-premises data gateway, install and configure an on-premises data gateway, manage an on-premises data gateway"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Migrate to SharePoint Online (5-10%)",
+    "skills": [
+      {
+        "label": "Migrate data and content",
+        "items": [
+          "May include but is not limited to: identify and resolve blocking issues that prevent migration, determine course of action for data and content that cannot be migrated, prepare data for migration, recommend tools and strategies to migrate data"
+        ]
+      }
+    ]
+  }
+]

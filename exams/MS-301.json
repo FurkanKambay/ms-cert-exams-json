@@ -1,0 +1,89 @@
+[
+  {
+    "label": "Configure and Manage SharePoint On-Premises (55-60%)",
+    "skills": [
+      {
+        "label": "Plan a SharePoint farm",
+        "items": [
+          "May include but is not limited to: select and configure a farm topology, design for high availability, plan for disaster recovery, plan and configure backup and restore, plan for information rights management, plan localization and language packs"
+        ]
+      },
+      {
+        "label": "Manage and maintain a SharePoint farm",
+        "items": [
+          "May include but is not limited to: configure and maintain core infrastructure to support a sharepoint deployment, deploy and configure service and web applications, configure profile synchronization, monitor farm health analyzer reports and resolve issues, monitor storage usage for sharepoint, update sharepoint server and validate the installation, manage sharepoint workflows, configure content type hub, select an upgrade path for version to version upgrades in on-premises sharepoint deployments"
+        ]
+      },
+      {
+        "label": "Implement authentication",
+        "items": [
+          "May include but is not limited to: select and implement an authentication method, configure authentication, monitor and maintain authentication"
+        ]
+      },
+      {
+        "label": "Manage site collections",
+        "items": [
+          "May include but is not limited to: plan and configure the site collection architecture, create, update, and remove content types, reorganize sites based on changes in business needs, deploy customizations, update site designs and branding, create and update master pages and page layouts, activate or deactivate site collection features"
+        ]
+      },
+      {
+        "label": "Plan and configure Business Connectivity Services (BCS) and Secure Store",
+        "items": [
+          "May include but is not limited to: create bcs data sources and configure bcs permissions, create external content types, plan and configure connections to external data stores, configure secure store target applications, configure external lists"
+        ]
+      },
+      {
+        "label": "Plan and configure Managed Metadata",
+        "items": [
+          "May include but is not limited to: plan taxonomy and folksonomy, plan and create the term store structure, plan and configure term store security, maintain the term store"
+        ]
+      },
+      {
+        "label": "Manage search",
+        "items": [
+          "May include but is not limited to: configure and manage the search schema, configure and manage search queries, configure and manage search crawls, configure and manage the search topology, configure and manage the search result type"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Configure and Manage Hybrid Scenarios (30-35%)",
+    "skills": [
+      {
+        "label": "Plan a hybrid configuration and topology",
+        "items": [
+          "May include but is not limited to: evaluate available hybrid scenarios, identify core services interdependencies and prerequisites for hybrid deployments, determine which workloads will remain on-premises, which will migrate, and how they will connect"
+        ]
+      },
+      {
+        "label": "Implement hybrid teamwork artifacts",
+        "items": [
+          "May include but is not limited to: plan, configure, and monitor hybrid sharepoint taxonomies and hybrid content types, plan and configure hybrid onedrive for business, plan for and add custom tiles to the hybrid app launcher, configure document rendering for web apps"
+        ]
+      },
+      {
+        "label": "Implement a hybrid Search Service application",
+        "items": [
+          "May include but is not limited to: evaluate available hybrid search scenarios, plan the implementation for hybrid search, configure the hybrid search service application, transition to a hybrid search service application, manage the hybrid search service application"
+        ]
+      },
+      {
+        "label": "Implement a data gateway",
+        "items": [
+          "May include but is not limited to: plan the implementation of on-premises data gateway, install and configure an on-premises data gateway, manage an on-premises data gateway"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Migrate to SharePoint Online (5-10%)",
+    "skills": [
+      {
+        "label": "Migrate data and content",
+        "items": [
+          "May include but is not limited to: identify and resolve blocking issues that prevent migration, determine course of action for data and content that cannot be migrated, prepare data for migration, recommend tools and strategies to migrate data"
+        ]
+      }
+    ]
+  }
+]

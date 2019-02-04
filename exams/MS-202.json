@@ -1,0 +1,81 @@
+[
+  {
+    "label": "Manage Modern Messaging Infrastructure (20-25%)",
+    "skills": [
+      {
+        "label": "Manage databases",
+        "items": [
+          "May include but not limited to: plan mailbox database requirements, create mailbox databases, configure mailbox databases, troubleshoot mailbox databases"
+        ]
+      },
+      {
+        "label": "Manage messaging infrastructure lifecycle",
+        "items": [
+          "May include but not limited to: plan exchange server installation, prepare active directory (ad) for exchange, install and update exchange services"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Mail Flow Topology (5-10%)",
+    "skills": [
+      {
+        "label": "Plan the Transport Pipeline",
+        "items": [
+          "May include but not limited to: plan transport architecture, design for multi-site mail flow, plan a high availability mail flow solution"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Recipients and Devices (10-15%)",
+    "skills": [
+      {
+        "label": "Manage recipient resources",
+        "items": [
+          "May include but not limited to: manage archive mailboxes, manage resource mailboxes, manage groups, manage mailboxes, manage mailbox permissions, configure mailbox policies, manage shared mailboxes, evaluate license options"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Plan and Implement a Hybrid Configuration and Migration (20-25%)",
+    "skills": [
+      {
+        "label": "Plan a hybrid environment",
+        "items": [
+          "May include but not limited to: evaluate federation in hybrid coexistence, evaluate hybrid free/busy access, decide between exchange classic hybrid and exchange modern hybrid"
+        ]
+      },
+      {
+        "label": "Deploy a hybrid environment",
+        "items": [
+          "May include but not limited to: deploy and verify oauth for a hybrid deployment, install and configure edge server role, configure hybrid mail flow, configure federation in hybrid coexistence, configure organization configuration transfer (oct), deploy the exchange hybrid agent to one or more exchange servers, implement advanced hybrid functionality, including on-premises, onedrive access, and outlook for ios"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Secure the Messaging Environment (35-40%)",
+    "skills": [
+      {
+        "label": "Manage message hygiene",
+        "items": [
+          "May include but not limited to: plan for message hygiene, manage connection filters, configure malware filters, configure spam filters, monitor action center, monitor quarantined items, manage protection for phishing, plan and configure spam confidence levels (scl)"
+        ]
+      },
+      {
+        "label": "Manage Advanced Threat Protection (ATP) for messaging",
+        "items": [
+          "May include but not limited to: configure and manage atp safe attachments, configure and manage atp safe links, configure and manage atp anti-phishing, manage atp anti-spam, monitor threat protection status"
+        ]
+      },
+      {
+        "label": "Manage compliance",
+        "items": [
+          "May include but not limited to: configure retention policies, configure data loss prevention policies, review and analyze audit logs, manage journal rules, manage content search, manage litigation hold"
+        ]
+      }
+    ]
+  }
+]

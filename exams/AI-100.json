@@ -1,0 +1,112 @@
+[
+  {
+    "label": "Analyze solution requirements (20-25%)",
+    "skills": [
+      {
+        "label": "Identify storage solutions",
+        "items": [
+          "May include but is not limited to: identify the appropriate storage capacity, storage types and storage locations for a solution, determine the storage technologies that the solution should use, identify the appropriate storage architecture for the solution, identify components and technologies required to connect data"
+        ]
+      },
+      {
+        "label": "Recommend tools, technologies, and processes to meet process flow requirements",
+        "items": [
+          "May include but is not limited to: select the processing architecture for a solution, select the appropriate data processing technologies, select the appropriate ai models and services, identify components and technologies required to connect service endpoints, identify automation requirements"
+        ]
+      },
+      {
+        "label": "Map security requirements to tools, technologies, and processes",
+        "items": [
+          "May include but is not limited to: determine processes and regulations needed to conform with data privacy, protection, and regulatory requirements, determine which users and groups have access to information and interfaces, identify appropriate tools for a solution, identify auditing requirements"
+        ]
+      },
+      {
+        "label": "Select software and services required to support the solution",
+        "items": [
+          "May include but is not limited to: identify appropriate services/tools for the solution, identify integration points with other microsoft services"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Design solutions (30-35%)",
+    "skills": [
+      {
+        "label": "Design an AI solution that includes one or more pipelines",
+        "items": [
+          "May include but is not limited to: define a workflow process, design a strategy for ingesting data"
+        ]
+      },
+      {
+        "label": "Design the compute infrastructure to support a solution",
+        "items": [
+          "May include but is not limited to: define infrastructure types, determine whether to create a gpu-based or cpu-based solution"
+        ]
+      },
+      {
+        "label": "Design Intelligent Edge solutions",
+        "items": [
+          "May include but is not limited to: identify appropriate tools for a solution, design solutions that incorporate ai pipeline components on edge devices"
+        ]
+      },
+      {
+        "label": "Design data governance",
+        "items": [
+          "May include but is not limited to: design authentication architecture, design a content moderation strategy, ensure appropriate governance for data, design strategies to ensure the solution meets data privacy and industry standard regulations"
+        ]
+      },
+      {
+        "label": "Design solutions that adhere to cost constraints",
+        "items": [
+          "May include but is not limited to: choose a cost-effective data topology, configure model processing options to meet constraints, select apis that meet business constraints"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Integrate AI models into solutions (25-30%)",
+    "skills": [
+      {
+        "label": "Orchestrate an AI workflow",
+        "items": [
+          "May include but is not limited to: define and develop ai pipeline stages, manage the flow of data through solution components, implement data logging processes, define and construct interfaces for custom ai services, integrate ai models with other solution components, design solution endpoints, develop streaming solutions"
+        ]
+      },
+      {
+        "label": "Integrate AI services with solution components",
+        "items": [
+          "May include but is not limited to: set up prerequisite components and input datasets to allow consumption of cognitive services apis, configure integration with azure services, set up prerequisite components to allow connectivity with bot framework"
+        ]
+      },
+      {
+        "label": "Integrate Intelligent Edge with solutions",
+        "items": [
+          "May include but is not limited to: connect to iot data streams, design pre-processing and processing strategy for iot data, implement azure search in a solution"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Deploy and manage solutions (20-25%)",
+    "skills": [
+      {
+        "label": "Provision required cloud, on-premises, and hybrid environments",
+        "items": [
+          "May include but is not limited to: create and manage hardware and software environments, deploy components and services required to benchmark and monitor ai solutions, create and manage container environments"
+        ]
+      },
+      {
+        "label": "Validate solutions to ensure compliance with data privacy and security requirements",
+        "items": [
+          "May include but is not limited to: manage access keys, manage certificates, manage encryption keys"
+        ]
+      },
+      {
+        "label": "Monitor and evaluate the AI environment",
+        "items": [
+          "May include but is not limited to: identify differences between kpis and reported metrics and determine root causes for differences, identify differences between expected and actual workflow throughput, maintain the ai solution for continuous improvement"
+        ]
+      }
+    ]
+  }
+]

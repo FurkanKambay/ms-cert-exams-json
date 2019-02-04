@@ -1,0 +1,71 @@
+[
+  {
+    "label": "Perform configuration (40-45%)",
+    "skills": [
+      {
+        "label": "Configure sales settings",
+        "items": [
+          "May include but is not limited to: configure sales territories, configure default revenue type, configure auto number settings, configure business closures, configure fiscal year, configure currencies, configure sales team roles, configure sales security roles, configure goal management components, create and manage sales collateral, configure relationship cards"
+        ]
+      },
+      {
+        "label": "Configure processes",
+        "items": [
+          "May include but is not limited to: configure record creation rules, configure out of the box sales business process flows"
+        ]
+      },
+      {
+        "label": "Create and configure sales visualizations",
+        "items": [
+          "May include but is not limited to: configure sales content pack for power bi, configure sales dashboards, design and create sales charts, execute and analyze sales reports"
+        ]
+      },
+      {
+        "label": "Configure integration with external sales applications",
+        "items": [
+          "May include but is not limited to: implement sales insights, implement social selling assistant, implement linkedin sales navigator"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage core sales entities (20-25%)",
+    "skills": [
+      {
+        "label": "Create and manage leads",
+        "items": [
+          "May include but is not limited to: create and search for leads, convert activities to leads, perform lead qualification, configure status reasons"
+        ]
+      },
+      {
+        "label": "Create and manage opportunities",
+        "items": [
+          "May include but is not limited to: create and search for opportunities, close opportunity as won or lost, track stakeholders and sales team, add product line items to opportunity, configure status reasons"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage sales entities (35-40%)",
+    "skills": [
+      {
+        "label": "Create and manage quotes",
+        "items": [
+          "May include but is not limited to: add quotes to opportunities, edit quotes in various stages, send quotes to customers, convert quotes to orders, create a template from a quote"
+        ]
+      },
+      {
+        "label": "Create and manage sales order processing",
+        "items": [
+          "May include but is not limited to: create and manage orders, create and manage invoices, create and manage competitors"
+        ]
+      },
+      {
+        "label": "Create and manage product and product catalog",
+        "items": [
+          "May include but is not limited to: configure product families, bundles, and products, configure price lists, configure discount lists, configure unit groups, configure product lifecycle"
+        ]
+      }
+    ]
+  }
+]

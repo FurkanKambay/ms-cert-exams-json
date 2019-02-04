@@ -1,0 +1,83 @@
+[
+  {
+    "label": "Manage Modern Messaging Infrastructure (45-50%)",
+    "skills": [
+      {
+        "label": "Manage databases",
+        "items": [
+          "May include but not limited to: plan mailbox database requirements, create mailbox databases, configure mailbox databases, troubleshoot mailbox databases"
+        ]
+      },
+      {
+        "label": "Manage Database Availability Groups (DAGs)",
+        "items": [
+          "May include but not limited to: plan dag settings and members, create a dag, manage dag members, deploy and manage site resilience, test a database and datacenter failover scenario, troubleshoot dag problems, evaluate exchange services health"
+        ]
+      },
+      {
+        "label": "Manage and implement client access",
+        "items": [
+          "May include but not limited to: plan namespaces, plan high availability for client access, configure virtual directories and urls, configure client access policies, configure global outlook web app (owa) policies, configure autodiscover for exchange, troubleshoot client access connectivity problems, manage exchange certificates lifecycle"
+        ]
+      },
+      {
+        "label": "Manage disaster recovery",
+        "items": [
+          "May include but not limited to: plan backup and recovery strategy, implement and perform backups, restore servers, databases, and mailboxes"
+        ]
+      },
+      {
+        "label": "Manage messaging infrastructure lifecycle",
+        "items": [
+          "May include but not limited to: plan exchange server installation, prepare active directory (ad) for exchange, install and update exchange services"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Mail Flow Topology (35-40%)",
+    "skills": [
+      {
+        "label": "Plan the Transport Pipeline",
+        "items": [
+          "May include but not limited to: plan transport architecture, design for multi-site mail flow, plan a high availability mail flow solution"
+        ]
+      },
+      {
+        "label": "Manage Connectors",
+        "items": [
+          "May include but not limited to: plan connectors, create send and receive connectors, configure connectors"
+        ]
+      },
+      {
+        "label": "Manage Mail Flow",
+        "items": [
+          "May include but not limited to: manage transport rules, manage domains, implement a multi-site mail flow"
+        ]
+      },
+      {
+        "label": "Troubleshoot mail flow problems",
+        "items": [
+          "May include but not limited to: validate inbound and outbound mail flow, examine message trace, configure message tracking, analyze message headers with the remote connectivity analyzer, handle non-deliverable reports (ndrs), investigate transport logs, monitor mail flow"
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Manage Recipients and Devices (15-20%)",
+    "skills": [
+      {
+        "label": "Manage recipient resources",
+        "items": [
+          "May include but not limited to: manage archive mailboxes, manage resource mailboxes, manage groups, manage mailboxes, manage mailbox permissions, configure mailbox policies, manage shared mailboxes, evaluate license options"
+        ]
+      },
+      {
+        "label": "Manage mobile devices",
+        "items": [
+          "May include but not limited to: configure mobile device mailbox policies, manage mobile device access"
+        ]
+      }
+    ]
+  }
+]
